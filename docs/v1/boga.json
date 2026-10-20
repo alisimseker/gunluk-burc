@@ -1,0 +1,59 @@
+{
+ "sign": "boga",
+ "name": "Boğa",
+ "updated": "2026-10-20T22:42:29+03:00",
+ "days": [
+  {
+   "date": "2026-10-20",
+   "focus": "Kariyer ve işbirlikleri",
+   "short": "Göz önünde olduğun konularda güç mücadelelerine çekilmemeye bak.",
+   "text": "İş ortamında veya üstlerinle iletişiminde beklentiler aniden değişebilir. Ortaklıklarda geçmişten gelen çözülmemiş pürüzler, kariyer hedeflerinle çelişiyor gibi hissettirebilir. Retro Venüs ve Plüton arasındaki sert temas, kontrol etme dürtünü tetikleyebilir; bu yüzden olayları akışına bırakmayı denemelisin. Arka planda planlarını sağlamlaştırmak bugün sana daha çok alan kazandırır.",
+   "motivation": "Kontrolü bırak, netliğe odaklan.",
+   "basis": "7. evindeki retro Venüs ile 10. evindeki Plüton arasındaki kare açı.",
+   "sky_events": [
+    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 26°59'",
+    "Ay Kova'da 15°45'",
+    "Merkür Akrep'te 20°03'",
+    "Venüs Akrep'te 3°01' ℞",
+    "Mars Aslan'da 12°33'",
+    "Jüpiter Aslan'da 22°45'",
+    "Satürn Koç'ta 10°04' ℞",
+    "Uranüs İkizler'de 5°03' ℞",
+    "Neptün Koç'ta 2°21' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-10-21",
+   "focus": "Ekip dayanışması",
+   "short": "İşlerini toparlayıp dostlarınla ortak hedeflere yönelebilirsin.",
+   "text": "Mesleki sorumluluklarla başlayan günün, Ay'ın Balık burcuna ilerlemesiyle yerini geleceğe dönük umutlara bırakıyor. Güneş'in iş ortamındaki desteği sayesinde günlük işlerini erkenden toparlayabilirsin. Karşıt burcunda geri giden Venüs, ikili diyaloglarda eski konuları hatırlatsa da Ay'ın yumuşak açısı havayı yumuşatıyor. Fikirlerini arkadaşlarınla paylaşmaktan çekinme.",
+   "motivation": "Birlikte üretmek güç verir.",
+   "basis": "Ay'ın 11. eve geçişi ve Güneş ile üçgen açısı.",
+   "sky_events": [
+    "Ay bugün Balık'a geçiyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 27°59'",
+    "Ay Kova'da 28°07'",
+    "Merkür Akrep'te 20°27'",
+    "Venüs Akrep'te 2°25' ℞",
+    "Mars Aslan'da 13°06'",
+    "Jüpiter Aslan'da 22°54'",
+    "Satürn Koç'ta 10°00' ℞",
+    "Uranüs İkizler'de 5°02' ℞",
+    "Neptün Koç'ta 2°19' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T22:34:47+03:00",
+ "model": "gemini-3.7-flash",
+ "sky": {
+  "summary": [
+   "Güneş Terazi'de 26°59'",
+   "Ay Kova'da 15°45'",
+   "Merkür Akrep'te 20°03'",
+   "Venüs Akrep'te 3°01' ℞",
+   "Mars Aslan'da 12°33'",
+   "Jüpiter Aslan'da 22°45'",
+   "Satürn Koç'ta 10°04' ℞",
+   "Uranüs İkizler'de 5°03' ℞",
+   "Neptün Koç'ta 2°21' ℞",
+   "Plüton Kova'da 3°04'"
+  ],
+  "events": [
+   "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
+   "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "İlk Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Grup dengeleri",
+   "short": "Ekip çalışmalarında kendi sınırlarını net çizerek ilerleyebilirsin.",
+   "text": "Topluluklar ve arkadaş ortamlarında finansal meseleler yüzünden bazı fikir ayrılıkları gündeme gelebilir. Burcundaki Satürn'ün Ay ile kurduğu uyum, soğukkanlı kalmanı ve sorumluluk bilinciyle hareket etmeni kolaylaştırıyor. Gerilimli anlarda fevri tepkiler vermek yerine uzun vadeli hedeflerine odaklanmayı seçebilirsin. Birlikte yürüttüğün projelerde bütçe planını yazılı hale getirmek işini rahatlatır.",
+   "motivation": "Sakinlik en sağlam duruştur.",
+   "basis": "Ay 11. evinde, burcundaki Satürn ile sekstil açıda."
+  },
+  "boga": {
+   "focus": "Kariyer ve işbirlikleri",
+   "short": "Göz önünde olduğun konularda güç mücadelelerine çekilmemeye bak.",
+   "text": "İş ortamında veya üstlerinle iletişiminde beklentiler aniden değişebilir. Ortaklıklarda geçmişten gelen çözülmemiş pürüzler, kariyer hedeflerinle çelişiyor gibi hissettirebilir. Retro Venüs ve Plüton arasındaki sert temas, kontrol etme dürtünü tetikleyebilir; bu yüzden olayları akışına bırakmayı denemelisin. Arka planda planlarını sağlamlaştırmak bugün sana daha çok alan kazandırır.",
+   "motivation": "Kontrolü bırak, netliğe odaklan.",
+   "basis": "7. evindeki retro Venüs ile 10. evindeki Plüton arasındaki kare açı."
+  },
+  "ikizler": {
+   "focus": "Çalışma temposu",
+   "short": "Zihnini dağıtan detayları bir kenara bırakıp önceliklerini seç.",
+   "text": "Günlük angaryalar ve ofis içi haberleşmeler büyük planlarını aksatıyor gibi görünebilir. Ay ve Merkür arasındaki gerilim, yazışmalarda ve planlamalarda dalgınlıklara zemin hazırlayabilir. Aldığın bilgileri teyit etmeden karara varmamakta fayda var. Sosyal çevrenden gelen yapıcı bir tavsiye, zihinsel karmaşanı toparlayıp işleri sıraya koymana yardımcı olabilir.",
+   "motivation": "Adım adım sadeleş.",
+   "basis": "9. evindeki Ay ile 6. evindeki Merkür arasındaki kare açı."
+  },
+  "yengec": {
+   "focus": "Bütçe ve harcamalar",
+   "short": "Harcama kararlarında anlık hevesler yerine mantığını devreye sok.",
+   "text": "Keyif aldığın uğraşlar veya sevdiklerin için yapmayı düşündüğün harcamalar ortak bütçeni biraz zorlayabilir. Hissettiğin duygusal baskıyı alışverişle dengelemeye çalışmak yerine, planlarını gözden geçirebilirsin. Ay'ın kariyer alanındaki Satürn ile kurduğu destekleyici açı, sorumluluklarını hatırlatarak dengede kalmanı sağlıyor. Gereksiz riskler almadan, mevcut kaynaklarını korumaya yönel.",
+   "motivation": "Kaynaklarına bilinçle sahip çık.",
+   "basis": "8. evindeki Ay ile 10. evindeki Satürn arasındaki sekstil açı."
+  },
+  "aslan": {
+   "focus": "Ev ve ortaklıklar",
+   "short": "Ailevi meseleleri ikili ilişkilerine yansıtmaktan kaçınmalısın.",
+   "text": "Ev içindeki geçmiş konular ve partnerinle yürüttüğün diyaloglar arasında sıkışmış hissedebilirsin. Venüs ve Plüton karesi, bastırılmış kırgınlıkları yüzeye çıkarabilir; güç savaşlarına girmek yerine açık bir dille dinlemeyi tercih et. Kendi fikirlerini dayatmak yerine karşı tarafın alanına da saygı göstermek gerginliği azaltır. Akşam saatlerinde biraz yalnız kalarak iç sesini dinlemek iyi gelebilir.",
+   "motivation": "Anlayış köprüleri sağlam kurar.",
+   "basis": "4. evindeki retro Venüs ile 7. evindeki Plüton arasındaki kare açı."
+  },
+  "basak": {
+   "focus": "Günlük koordinasyon",
+   "short": "İletişim trafiğindeki aksaklıkları planlı hareket ederek aşabilirsin.",
+   "text": "Çalışma düzeninde beklenmedik bir haber veya değişen randevular gününü biraz karıştırabilir. Merkür ile Ay arasındaki kare açı, özellikle e-postalarda ya da konuşmalarda yanlış anlaşılmaları tetikleyebilir. Önemli kararlar almadan önce detayları iki kez kontrol etmek zaman kazandırır. Satürn desteği sayesinde krizleri pratik yöntemlerle ve soğukkanlılıkla çözebilirsin.",
+   "motivation": "Ayrıntılar dikkatle çözülür.",
+   "basis": "6. evindeki Ay ile 3. evindeki Merkür arasındaki kare açı."
+  },
+  "terazi": {
+   "focus": "Değer ve yaratıcılık",
+   "short": "Maddi konularda esnek kalırken kendi sınırlarını da korumalısın.",
+   "text": "Kişisel yeteneklerini sergilemek isterken bütçeni aşma ihtimalin bulunuyor. Retro Venüs'ün Plüton ile girdiği sert etkileşim, harcamalar ve öz değer konularında güvensizlik yaratabilir. Karşına çıkan fırsatları duygusal kaygılarla değil, gerçekçi verilerle tartmalısın. İkili ilişkilerinde güven veren insanlarla fikir alışverişi yapmak sana aradığın içsel dengeyi sunacaktır.",
+   "motivation": "Değerini dışarıda arama.",
+   "basis": "2. evindeki retro Venüs ile 5. evindeki Plüton arasındaki kare açı."
+  },
+  "akrep": {
+   "focus": "İçsel denge",
+   "short": "Sözlerinin etkisini tartarak konuşmak aile içinde huzur getirir.",
+   "text": "Burcundaki Merkür'ün Ay ile olan sert açısı, düşüncelerini aktarırken gereğinden fazla keskin olmana yol açabilir. Ev ve aile hayatında geçmişten taşınan duygusal temalar seni savunmaya geçirebilir. Haklı çıkmaktan ziyade huzuru korumaya odaklanmak bugün daha yapıcı sonuçlar doğurur. Günlük sorumluluklarını aksatmadan yerine getirmek, zihnindeki ağırlığı hafifletmene yardımcı olur.",
+   "motivation": "Yumuşak söz kapıları açar.",
+   "basis": "Burcundaki Merkür ile 4. evindeki Ay arasındaki kare açı."
+  },
+  "yay": {
+   "focus": "Zihinsel dinginlik",
+   "short": "Geri planda kalan kaygıları bir kenara bırakıp anı yönet.",
+   "text": "İç dünyanda dönüp duran düşünceler, yakın çevrenle olan diyaloglarına dalgınlık olarak yansıyabilir. İfade etmekte zorlandığın şeyleri zorla anlatmaya çalışmak yerine bir süre gözlemci kalmak iyi gelecektir. Ay'ın Satürn ile uyumu, yaratıcı çalışmalarına veya hobilerine odaklanarak zihnini sakinleştirebileceğini gösteriyor. Kısa bir yürüyüş yapmak zihnini toparlamana yardım edebilir.",
+   "motivation": "Sessizlik bazen en iyi cevaptır.",
+   "basis": "3. evindeki Ay ile 5. evindeki Satürn arasındaki sekstil açı."
+  },
+  "oglak": {
+   "focus": "Sosyal planlar",
+   "short": "Dostluklarla maddi konuları birbirinden ayrı tutmaya özen göster.",
+   "text": "Arkadaş çevrende yapılacak organizasyonlar veya ortak projeler bütçeni sarsacak talepler doğurabilir. Sosyal alandaki retro Venüs ile Plüton gerilimi, aidiyet duygun üzerinden baskı hissetmene neden olabilir. Kendi sınırlarını net çizip onaylamadığın harcamalara hayır demekten çekinmemelisin. Ailenden ya da evinden alacağın destek, ayaklarını yere daha sağlam basmanı sağlayacaktır.",
+   "motivation": "Sınırların seni güvende tutar.",
+   "basis": "11. evindeki retro Venüs ile 2. evindeki Plüton arasındaki kare açı."
+  },
+  "kova": {
+   "focus": "Kariyer hedefleri",
+   "short": "Bireysel isteklerin ile mesleki sorumluluklarını dengede tut.",
+   "text": "Burcundaki Ay, hedeflerini öne çıkarırken iş ortamındaki beklentilerle çatışma ihtimalini artırıyor. Merkür ile oluşan gergin açı, üstlerinle veya iş arkadaşlarınla konuşurken aceleci çıkışlar yapmana yol açabilir. Kendi tarzını kabul ettirmeye çalışırken stratejik düşünmek ve dinlemeyi bilmek önem taşıyor. Satürn'ün sağladığı mantıklı bakış açısıyla iletişimini somut verilere dayandırabilirsin.",
+   "motivation": "Planlı hareket güç kazandırır.",
+   "basis": "Burcundaki Ay ile 10. evindeki Merkür arasındaki kare açı."
+  },
+  "balik": {
+   "focus": "Dinlenme ve iç gözlem",
+   "short": "Yoğun düşünce akışını durdurup biraz kendi kabuğuna çekil.",
+   "text": "Zihnini meşgul eden uzak planlar veya inançlar, içsel bir huzursuzluk hissi yaratabilir. 12. evindeki Ay, dış dünyadan biraz geri çekilip dinlenmenin ve bedenine kulak vermenin vaktinin geldiğini gösteriyor. Merkür ile oluşan kare açı nedeniyle fikir tartışmalarına girmekten uzak durmanda fayda var. Maddi konularda atacağın sağlam ve temkinli bir adım günün sonunda rahatlamanı sağlar.",
+   "motivation": "Huzur içten dışa yayılır.",
+   "basis": "12. evindeki Ay ile 2. evindeki Satürn arasındaki sekstil açı."
+  }
+ }
+}

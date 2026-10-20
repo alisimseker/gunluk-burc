@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-20T22:36:51+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Terazi'de 27°59'",
+   "Ay Kova'da 28°07'",
+   "Merkür Akrep'te 20°27'",
+   "Venüs Akrep'te 2°25' ℞",
+   "Mars Aslan'da 13°06'",
+   "Jüpiter Aslan'da 22°54'",
+   "Satürn Koç'ta 10°00' ℞",
+   "Uranüs İkizler'de 5°02' ℞",
+   "Neptün Koç'ta 2°19' ℞",
+   "Plüton Kova'da 3°04'"
+  ],
+  "events": [
+   "Ay bugün Balık'a geçiyor.",
+   "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İçsel kapanışlar",
+   "short": "Günün temposu yavaşlarken zihnini dinlendirmeye alan aç.",
+   "text": "Ay gün içinde Kova'dan Balık burcuna geçerken kalabalıkların gürültüsünden uzaklaşma ihtiyacın artabilir. Terazi'deki Güneş ile Ay arasındaki uyumlu açı, ilişkilerinde uzlaşı sağlamanı kolaylaştırıyor. Ortak paylaşımlarda geçmişten gelen bir meseleyi çözmek için uygun bir andasın. Akşam saatlerinde yalnız kalıp birikmiş duygularını tartmak sana iyi gelecektir.",
+   "motivation": "Kendi ritmine güven.",
+   "basis": "Ay'ın Balık burcuna geçişi ve Güneş ile kurduğu üçgen açı."
+  },
+  "boga": {
+   "focus": "Ekip dayanışması",
+   "short": "İşlerini toparlayıp dostlarınla ortak hedeflere yönelebilirsin.",
+   "text": "Mesleki sorumluluklarla başlayan günün, Ay'ın Balık burcuna ilerlemesiyle yerini geleceğe dönük umutlara bırakıyor. Güneş'in iş ortamındaki desteği sayesinde günlük işlerini erkenden toparlayabilirsin. Karşıt burcunda geri giden Venüs, ikili diyaloglarda eski konuları hatırlatsa da Ay'ın yumuşak açısı havayı yumuşatıyor. Fikirlerini arkadaşlarınla paylaşmaktan çekinme.",
+   "motivation": "Birlikte üretmek güç verir.",
+   "basis": "Ay'ın 11. eve geçişi ve Güneş ile üçgen açısı."
+  },
+  "ikizler": {
+   "focus": "Gelecek vizyonu",
+   "short": "Kişisel hedeflerini görünür kılmak için adımlarını netleştir.",
+   "text": "Ay'ın tepe noktana, Balık burcuna geçişiyle birlikte kariyerine ve uzun vadeli amaçlarına odaklanıyorsun. Aşk ve yaratıcılık evindeki Güneş ile kurulan üçgen açı, kendini ifade ederken özgüvenini tazeliyor. Günlük koşturmacanın arasında dağılmak yerine, yeteneklerini somut bir projeye aktarmayı dene. Akşamüstü üstlerinle veya tecrübeli kişilerle konuşmak yolunu aydınlatabilir.",
+   "motivation": "Yönünü belirle, kararlı ilerle.",
+   "basis": "Ay'ın 10. eve geçişi ve 5. evdeki Güneş ile üçgen açısı."
+  },
+  "yengec": {
+   "focus": "Ufuk açan fikirler",
+   "short": "Merak ettiğin konulara odaklanmak sana yeni bakış açıları kazandırır.",
+   "text": "Zihnini yoran ortak bütçe ya da borç kaygılarını geride bırakıp derin bir nefes alıyorsun. Ay'ın Balık burcuna geçmesi ve Güneş ile oluşturduğu üçgen açı, içsel huzurunu pekiştiriyor. Yeni bir eğitime başlamak veya seyahat planları yapmak için oldukça elverişli etkiler altındasın. Yaratıcı uğraşlarına vakit ayırarak zihnini tazelemeyi ihmal etme.",
+   "motivation": "Öğrenmek ruhu tazeler.",
+   "basis": "Ay'ın 9. eve geçişi ve 4. evdeki Güneş ile üçgen açısı."
+  },
+  "aslan": {
+   "focus": "Duygusal derinlik",
+   "short": "Karşılıklı güven inşa etmek günün akışını kolaylaştıracak.",
+   "text": "Gündüz saatlerinde ikili ilişkilerde dengeyi kurduktan sonra, Ay'ın 8. evine geçişiyle içsel paylaşımların derinleşiyor. Terazi'deki Güneş'in iletişim desteği, yakın çevrenle olan diyaloglarında samimiyeti ve anlayışı artırıyor. Evdeki retro Venüs sebebiyle geçmiş kırgınlıklar yüzeye çıkarsa, açık ve şeffaf konuşmayı tercih et. Sakin kaldığında düğümler çözülecek.",
+   "motivation": "Açık yüreklilik bağları güçlendirir.",
+   "basis": "Ay'ın Balık burcuna geçişi ve 3. evdeki Güneş ile üçgen açısı."
+  },
+  "basak": {
+   "focus": "İlişkilerde uzlaşı",
+   "short": "Bire bir görüşmelerde iş birliğine açık olmak kazandırır.",
+   "text": "Günlük iş temposunun getirdiği yorgunluk, Ay'ın karşıt burcun Balık'a geçişiyle yerini ikili temaslara bırakıyor. Güneş'in 2. evinden sunduğu üçgen açı, maddi konularda ve yeteneklerini değerlendirmede netlik sağlıyor. İletişim evinde gerileyen Venüs eski bir konuyu yeniden masaya getirebilir; soğukkanlı yaklaşımın durumu lehe çevirecektir. Birlikte çalıştığın kişilerle empati kurarak ilerle.",
+   "motivation": "Dinlemek ortak yolu buldurur.",
+   "basis": "Ay'ın 7. eve geçişi ve Güneş ile üçgen açısı."
+  },
+  "terazi": {
+   "focus": "Rutinlerde denge",
+   "short": "Günlük koşturmacayı kendi tarzınla toparlama zamanı.",
+   "text": "Güneş burcunda ilerlerken kendini ifade etme gücün oldukça berrak. Gün içinde Ay’ın altıncı evine adım atması, dağılan işlerini ve ertelediğin detayları toparlamak için sana pratik bir alan açıyor. Yaratıcı fikirlerini masandaki somut işlere yansıtarak çalışma ortamını yeniden düzenleyebilirsin. Akşam saatlerinde bedenine kulak verip biriken yorgunluğu hafifletecek sakin bir mola planla.",
+   "motivation": "Kendi düzenini zarafetle inşa et.",
+   "basis": "Güneş 1. evindeyken, Ay'ın 5. evden 6. evine geçişi ve aralarındaki üçgen açı."
+  },
+  "akrep": {
+   "focus": "Yaratıcı hevesler",
+   "short": "Kendine keyif alacağın özel bir zaman dilimi ayır.",
+   "text": "Güne ev ve aile odaklı başlasan da Ay'ın Balık burcuna geçişiyle ruh halin hafifliyor ve keyif veren konulara kayıyor. 12. evdeki Güneş'in destekleyici açısı, sezgilerini ve sanatsal yönünü görünür kılıyor. Burcundaki retro Venüs derin duyguları tetiklese de yaratıcılığını bir hobiye ya da sevdiğin bir projeye akıtmak gününü oldukça verimli kılacaktır.",
+   "motivation": "İçindeki ilhamı serbest bırak.",
+   "basis": "Ay'ın 5. eve geçişi ve burcundaki Venüs ile üçgen açısı."
+  },
+  "yay": {
+   "focus": "Evde huzur",
+   "short": "Kendi alanına çekilip sevdiklerinle bağlarını tazeleyebilirsin.",
+   "text": "İletişim trafiğinin ardından Ay'ın Balık burcuna geçişi, odağını evine ve kişisel sığınağına çeviriyor. Sosyal alandaki Güneş ile kurulan üçgen açı, arkadaşlarından aldığın manevi desteğin değerini hissettiriyor. İç dünyanda çözümlenmemiş duygular varsa, dinlenmeye vakit ayırıp zihnini arındırabilirsin. Yaşam alanında yapacağın ufak bir düzenleme enerjini yenileyecektir.",
+   "motivation": "Köklerine dönmek güven verir.",
+   "basis": "Ay'ın 4. eve geçişi ve Güneş ile üçgen açısı."
+  },
+  "oglak": {
+   "focus": "Fikir alışverişi",
+   "short": "Yakın çevrenle kuracağın temaslar yeni kapılar aralayabilir.",
+   "text": "Maddi konulara odaklandığın saatlerin ardından Ay'ın Balık burcuna geçmesi, iletişim trafiğini ve kısa yolculukları hareketlendiriyor. Kariyer evindeki Güneş ile oluşan üçgen açı, hedeflerini başkalarına doğru aktarman için fırsat yaratıyor. Sosyal çevrende geri giden Venüs eski dostlarla karşılaşma ihtimali doğurabilir. Önemli bir fikrini not almayı unutma.",
+   "motivation": "Düşünceler paylaşıldıkça netleşir.",
+   "basis": "Ay'ın 3. eve geçişi ve 10. evdeki Güneş ile üçgen açısı."
+  },
+  "kova": {
+   "focus": "Öz değer ve kaynaklar",
+   "short": "Becerilerini pratik kazançlara dönüştürmeye odaklan.",
+   "text": "Burcundan ayrılıp Balık'a geçen Ay, dikkatini sahip olduğun kaynaklara ve bütçene yönlendiriyor. 9. evdeki Güneş ile kurulan uyumlu üçgen açı, geleceğe yönelik inancını ve vizyonunu tazeliyor. Kariyer evinde gerileyen Venüs üstlerinle olan geçmiş görüşmeleri gündeme getirebilir; sakin ve net bir duruş sergile. Emeklerinin karşılığını almak için planlarını sağlamlaştır.",
+   "motivation": "Emeğine gereken değeri ver.",
+   "basis": "Ay'ın Kova'dan 2. evine geçişi ve Güneş ile üçgen açısı."
+  },
+  "balik": {
+   "focus": "Bireysel uyanış",
+   "short": "Sezgilerine kulak verip kendi isteklerini merkeze al.",
+   "text": "Ay'ın burcuna geçmesiyle birlikte kendini çok daha canlı ve duygusal olarak merkezinde hissedebilirsin. Terazi'deki Güneş'in derin açısı ve 9. evdeki Venüs ile kurulan üçgen, içgüdülerinin doğruluğunu kanıtlıyor. Kendine olan inancını tazelemek ve ertelediğin kişisel bir adıma başlamak için harika bir gün. İç sesine güvenerek adım at, karşılığını alacaksın.",
+   "motivation": "Özgünlüğün en büyük gücün.",
+   "basis": "Ay'ın 1. evine geçişi ve Venüs ile tam üçgen açısı."
+  }
+ }
+}

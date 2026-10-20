@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-20T22:42:29+03:00",
+ "available_dates": [
+  "2026-10-20",
+  "2026-10-21"
+ ],
+ "signs": [
+  {
+   "id": "koc",
+   "name": "Koç"
+  },
+  {
+   "id": "boga",
+   "name": "Boğa"
+  },
+  {
+   "id": "ikizler",
+   "name": "İkizler"
+  },
+  {
+   "id": "yengec",
+   "name": "Yengeç"
+  },
+  {
+   "id": "aslan",
+   "name": "Aslan"
+  },
+  {
+   "id": "basak",
+   "name": "Başak"
+  },
+  {
+   "id": "terazi",
+   "name": "Terazi"
+  },
+  {
+   "id": "akrep",
+   "name": "Akrep"
+  },
+  {
+   "id": "yay",
+   "name": "Yay"
+  },
+  {
+   "id": "oglak",
+   "name": "Oğlak"
+  },
+  {
+   "id": "kova",
+   "name": "Kova"
+  },
+  {
+   "id": "balik",
+   "name": "Balık"
+  }
+ ]
+}
