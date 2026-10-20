@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.tmp
+app/gunluk_burc/

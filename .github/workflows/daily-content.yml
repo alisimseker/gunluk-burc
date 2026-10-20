@@ -1,0 +1,47 @@
+name: Günlük burç içeriği
+
+on:
+  schedule:
+    - cron: "17 21 * * *"   # Türkiye saatiyle 00:17
+    - cron: "17 9 * * *"    # Türkiye saatiyle 12:17 (eksik kalan olursa tamamlar)
+  workflow_dispatch:         # GitHub'da "Run workflow" ile elle çalıştırma
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Paketleri kur
+        run: pip install -r content-engine/requirements.txt
+
+      - name: İçerik üret
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python content-engine/generate.py
+
+      - name: Kaydet ve yayınla
+        if: always()
+        run: |
+          git config user.name "burc-bot"
+          git config user.email "burc-bot@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+          else
+            git commit -m "İçerik: $(TZ=Europe/Istanbul date +%F)"
+            git push
+          fi

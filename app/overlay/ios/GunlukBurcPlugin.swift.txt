@@ -1,0 +1,124 @@
+
+// ============================================================================
+// Günlük Burç - iOS yerel kısmı (kurulum betiği bunu AppDelegate.swift sonuna ekler)
+//  - Seçilen burcu ve indirilen yorumları App Group'a yazar (widget oradan okur)
+//  - Kilit ekranı widget'ını yeniler
+//  - Önümüzdeki günlerin sabah 08:00 bildirimlerini planlar
+// ============================================================================
+import UserNotifications
+import WidgetKit
+
+let kAppGroup = "group.com.alisimseker.gunlukburc"
+
+class GunlukBurcPlugin: NSObject, FlutterPlugin {
+  static func register(with registrar: FlutterPluginRegistrar) {
+    let channel = FlutterMethodChannel(name: "gunlukburc/native", binaryMessenger: registrar.messenger())
+    registrar.addMethodCallDelegate(GunlukBurcPlugin(), channel: channel)
+  }
+
+  private var shared: UserDefaults { UserDefaults(suiteName: kAppGroup) ?? .standard }
+
+  func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
+    switch call.method {
+    case "setSign":
+      if let args = call.arguments as? [String: Any],
+         let sign = args["sign"] as? String, let base = args["baseUrl"] as? String {
+        shared.set(sign, forKey: "sign")
+        shared.set(base.hasSuffix("/") ? String(base.dropLast()) : base, forKey: "baseUrl")
+        shared.removeObject(forKey: "cache")
+      }
+      sync()
+      result(nil)
+    case "sync":
+      sync()
+      result(nil)
+    case "requestNotificationPermission":
+      UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge]) { granted, _ in
+        DispatchQueue.main.async {
+          result(granted)
+          if granted { self.sync() }
+        }
+      }
+    case "notificationsEnabled":
+      UNUserNotificationCenter.current().getNotificationSettings { s in
+        DispatchQueue.main.async {
+          result(s.authorizationStatus == .authorized || s.authorizationStatus == .provisional)
+        }
+      }
+    case "openNotificationSettings":
+      if let url = URL(string: UIApplication.openSettingsURLString) {
+        UIApplication.shared.open(url)
+      }
+      result(nil)
+    default:
+      result(FlutterMethodNotImplemented)
+    }
+  }
+
+  private func sync() {
+    guard let sign = shared.string(forKey: "sign"), let base = shared.string(forKey: "baseUrl"),
+          let url = URL(string: "\(base)/v1/\(sign).json?t=\(Int(Date().timeIntervalSince1970) / 600)")
+    else { return }
+    var req = URLRequest(url: url)
+    req.cachePolicy = .reloadIgnoringLocalCacheData
+    req.timeoutInterval = 15
+    URLSession.shared.dataTask(with: req) { data, resp, _ in
+      if let data = data, (resp as? HTTPURLResponse)?.statusCode == 200,
+         (try? JSONSerialization.jsonObject(with: data)) != nil {
+        self.shared.set(data, forKey: "cache")
+      }
+      DispatchQueue.main.async {
+        if #available(iOS 14.0, *) { WidgetCenter.shared.reloadAllTimelines() }
+        self.scheduleNotifications()
+      }
+    }.resume()
+  }
+
+  /// Önbellekteki her gelecek gün için 08:00 bildirimi; içerik bitince "uygulamayı aç" hatırlatması.
+  private func scheduleNotifications() {
+    guard let data = shared.data(forKey: "cache"),
+          let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+          let days = json["days"] as? [[String: Any]] else { return }
+    let name = json["name"] as? String ?? ""
+    let center = UNUserNotificationCenter.current()
+    center.getNotificationSettings { settings in
+      guard settings.authorizationStatus == .authorized || settings.authorizationStatus == .provisional
+      else { return }
+      center.removeAllPendingNotificationRequests()
+
+      let fmt = DateFormatter()
+      fmt.calendar = Calendar(identifier: .gregorian)
+      fmt.locale = Locale(identifier: "en_US_POSIX")
+      fmt.dateFormat = "yyyy-MM-dd"
+      let now = Date()
+      var lastDay: Date?
+
+      for d in days {
+        guard let iso = d["date"] as? String, let day = fmt.date(from: iso) else { continue }
+        var comps = Calendar.current.dateComponents([.year, .month, .day], from: day)
+        comps.hour = 8
+        comps.minute = 0
+        guard let fire = Calendar.current.date(from: comps), fire > now else { continue }
+        let c = UNMutableNotificationContent()
+        c.title = "\(name) · ✨ \(d["motivation"] as? String ?? "")"
+        c.body = d["text"] as? String ?? (d["short"] as? String ?? "")
+        c.sound = nil
+        if #available(iOS 15.0, *) { c.interruptionLevel = .passive }
+        let trig = UNCalendarNotificationTrigger(dateMatching: comps, repeats: false)
+        center.add(UNNotificationRequest(identifier: "day-\(iso)", content: c, trigger: trig))
+        lastDay = day
+      }
+
+      if let last = lastDay, let next = Calendar.current.date(byAdding: .day, value: 1, to: last) {
+        var comps = Calendar.current.dateComponents([.year, .month, .day], from: next)
+        comps.hour = 8
+        let c = UNMutableNotificationContent()
+        c.title = "Günlük burç yorumun hazır ✨"
+        c.body = "Bugünkü yorumunu ve motivasyon cümleni görmek için dokun."
+        center.add(UNNotificationRequest(identifier: "reminder",
+                                         content: c,
+                                         trigger: UNCalendarNotificationTrigger(dateMatching: comps, repeats: false)))
+      }
+    }
+  }
+}
