@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-21T03:11:28+03:00",
+ "model": "gemini-3.5-flash-lite",
+ "sky": {
+  "summary": [
+   "Güneş Terazi'de 29°58'",
+   "Ay Balık'ta 23°55'",
+   "Merkür Akrep'te 20°55'",
+   "Venüs Akrep'te 1°13' ℞",
+   "Mars Aslan'da 14°09'",
+   "Jüpiter Aslan'da 23°11'",
+   "Satürn Koç'ta 9°51' ℞",
+   "Uranüs İkizler'de 4°58' ℞",
+   "Neptün Koç'ta 2°16' ℞",
+   "Plüton Kova'da 3°04'"
+  ],
+  "events": [
+   "Güneş bugün Akrep'e geçiyor.",
+   "Ay bugün Koç'a geçiyor.",
+   "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Kişisel Atılımlar",
+   "short": "Öğleden sonra adımlarını hızlandırıp kendi isteklerine odaklanabilirsin.",
+   "text": "Günün ilk saatlerindeki durgunluğu geride bırakıp canlı bir havaya bürünüyorsun. Akşamüstüne doğru Ay'ın senin burcuna geçişiyle beraber ertelediğin işleri ele almak için güçlü bir heves bulabilirsin. Güneş'in Akrep geçişi ise ortak paylaşımlar ve bütçe planlarında daha derinlikli düşünmeni gerektiriyor. Kendine zaman ayırıp hedeflerini netleştirmen kararlarını kolaylaştırır.",
+   "motivation": "Harekete geçmek cesaret ister.",
+   "basis": "Ay bugün Koç burcuna geçiyor."
+  },
+  "boga": {
+   "focus": "İlişkilerde Derinlik",
+   "short": "İkili ilişkilerde daha yoğun ve dönüştürücü konuşmalar gündeme gelebilir.",
+   "text": "Karşıt burcuna geçen Güneş, birlikteliklerini ve ortak projelerini ön plana taşımaya başlıyor. Biriyle arandaki bağı güçlendirmek veya ortak hedefleri netleştirmek için açık davranmak sana kazandırır. Günün ilerleyen vakitlerinde kendi kabuğuna çekilip zihnini dinlendirmek iyi gelecektir. Karşı tarafla kurduğun diyaloglarda sezgilerine kulak vererek hareket et.",
+   "motivation": "Bağlarını samimiyetle güçlendir.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor."
+  },
+  "ikizler": {
+   "focus": "Sosyal Çevre",
+   "short": "Arkadaşlarınla bir araya gelmek sana yepyeni bakış açıları sunabilir.",
+   "text": "Öğleden sonra Koç burcuna geçen Ay, sosyal hayatına hareket ve canlılık getiriyor. Ekip çalışmalarında söz sahibi olabilir, fikirlerini çevrendekilere hevesle aktarabilirsin. Güneş'in Akrep geçişi ise günlük rutinlerini ve çalışma alanını düzenlemen için seni disipline davet ediyor. Çevrenle olan paylaşımlarını üretkenliğe dönüştürecek bir adım atabilirsin.",
+   "motivation": "Birlikte düşünmek ufuk açar.",
+   "basis": "Ay bugün Koç burcuna geçiyor."
+  },
+  "yengec": {
+   "focus": "Yaratıcı İlhamlar",
+   "short": "Bugün hissettiklerini yazıya veya sanata dökmek zihnini çok rahatlatır.",
+   "text": "Ay ile Merkür arasındaki uyumlu üçgen açı, duygularını anlaşılır bir dille ifade etmeni kolaylaştırıyor. Özellikle hobilerine ve kendini mutlu eden uğraşlara vakit ayırmak içindeki yaratıcılığı besleyecektir. Güneş'in Akrep'e adım atmasıyla birlikte yaşama duyduğun tutku belirginleşebilir. Akşam saatlerinde sorumluluklarını göz ardı etmeden keyif aldığın şeylere odaklan.",
+   "motivation": "Yüreğinden geçenleri açıkça paylaş.",
+   "basis": "Ay ile Merkür arasında üçgen açı tam gerçekleşiyor."
+  },
+  "aslan": {
+   "focus": "Yaşam alanı",
+   "short": "Ev içinde köklü değişiklikler ve yenilikler gündeminde.",
+   "text": "Güneş'in dördüncü evine geçişi, yaşam alanını ve hane içindeki dengeleri ön plana taşıyor. Akraba ilişkileri veya evle ilgili konularda zihnindeki fikirleri masaya yatırabilir, uzun vadeli kararlar alabilirsin. Yakın çevrenden gelen haberler iç dünyanı etkileyebilir. Yaşam alanını daha konforlu kılmak için ufak adımlar atmaktan çekinme.",
+   "motivation": "Köklerini sağlamlaştırarak geleceğe yürü.",
+   "basis": "Güneş 4. evine geçerken Ay ile Merkür üçgen açısı tam oluyor."
+  },
+  "basak": {
+   "focus": "Zihinsel Netlik",
+   "short": "Aklındaki fikirleri düzenleyip kâğıda dökmek sana büyük ferahlık sağlar.",
+   "text": "Güneş'in Akrep burcuna geçişiyle zihinsel odaklanma yeteneğin güçleniyor. Kardeşler, komşular veya yakın çevrenle olan ilişkilerinde daha derin bağlar kurabilirsin. Ay'ın Koç burcuna geçişi ise ortak paylaşımlar ve harcamalar konusunda daha atik davranmanı sağlayabilir. Bugün konuşmalarında net olmaya özen gösterirsen yanlış anlaşılmaların önüne rahatça geçersin.",
+   "motivation": "Açık sözlülük ferahlık getirir.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor."
+  },
+  "terazi": {
+   "focus": "Maddi Değerler",
+   "short": "Bütçeni gözden geçirmek ve kaynaklarını düzenlemek için ideal bir gün.",
+   "text": "Güneş bugün Akrep burcuna geçerek finansal meseleleri ve kişisel yeteneklerini ön plana alıyor. Kendi emeğinin karşılığını aramak ve harcamalarını bilinçli yönetmek konusunda daha kararlı hissedebilirsin. Öğleden sonra karşıt burcuna geçen Ay ile birlikte partnerinle ya da ortağınla hızlı kararlar almaktan kaçınmalı, uzlaşmacı tavrını korumalısın.",
+   "motivation": "Emeğinin arkasında dimdik dur.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor."
+  },
+  "akrep": {
+   "focus": "Yenilenme Vakti",
+   "short": "Güneş burcuna geçerken canlılığını ve kararlılığını açıkça hissedebilirsin.",
+   "text": "Bugün burcuna geçen Güneş, yaşamına taze bir nefes ve güçlü bir canlanma getiriyor. Burcundaki Merkür ile Ay'ın kurduğu üçgen açı sayesinde hissettiklerini muhatabına aktarırken hiç zorlanmayacaksın. Öğleden sonra günlük işlerin hız kazanabilir, ertelediğin detayları toparlamak için güzel bir enerji bulabilirsin. Bedenine ve zihnine iyi bakmayı unutma.",
+   "motivation": "Işığını güvenle yansıt.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor."
+  },
+  "yay": {
+   "focus": "Yaşama Sevinci",
+   "short": "Günün ikinci yarısında keyifli uğraşlara yönelmek modunu yükseltir.",
+   "text": "Ay'ın Koç burcuna adım atmasıyla birlikte neşen ve üretkenliğin belirgin şekilde artıyor. Kendini ifade etmek, eğlenmek ve sevdiklerinle vakit geçirmek isteyebilirsin. Güneş'in Akrep geçişi ise arka planda kalan meseleleri gözden geçirip sadeleşmen gerektiğine işaret ediyor. Günün getirdiği dinamizmi sanatsal veya yaratıcı bir işle birleştirmek sana çok iyi gelecektir.",
+   "motivation": "Coşkunu üretkenliğe dönüştür.",
+   "basis": "Ay bugün Koç burcuna geçiyor."
+  },
+  "oglak": {
+   "focus": "Gelecek Hedefleri",
+   "short": "Topluluklar içinde varlık göstermek ve vizyonunu paylaşmak öne çıkıyor.",
+   "text": "Akrep burcuna adım atan Güneş, umutlarını ve uzun vadeli amaçlarını canlandırıyor. Ay'ın Koç burcuna geçmesiyle ise ev ve aile hayatında halledilmesi gereken konular birdenbire hız kazanabilir. Gün boyunca hem özel alanını düzenleyip hem de dostlarınla ortak idealler üzerinde konuşabilirsin. Önceliklerini sıraya koyarak adım atman gerginliği engeller.",
+   "motivation": "Hedeflerine sağlam adımlarla yürü.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor."
+  },
+  "kova": {
+   "focus": "Kariyer adımları",
+   "short": "İş hayatında sorumlulukların artıyor, yeni kararlar kapıda.",
+   "text": "Onuncu evindeki Güneş, mesleki hedeflerine odaklanman için sana güçlü bir ivme kazandırıyor. Kariyerinle ilgili konularda geçmişte yarım kalmış detayları gözden geçirebilir, yöneticilerle yapacağın görüşmelerde net bir duruş sergileyebilirsin. Maddi kaynaklarını planlarken sezgilerine kulak vermen faydalı olacaktır.",
+   "motivation": "Hedeflerine odaklanarak fark yarat.",
+   "basis": "Güneş 10. evine geçiş yaparken Ay ile Merkür üçgen açı yapıyor."
+  },
+  "balik": {
+   "focus": "Anlayış ve İfade",
+   "short": "Duygularınla aklın dengelenirken kendini ifade etmek son derece akıcı.",
+   "text": "Burcundaki Ay ile Merkür arasındaki üçgen açı, içsel sezgilerini mantıklı bir zemine oturtmana yardım ediyor. Güneş'in Akrep burcuna geçmesi vizyonunu genişletirken yeni felsefeler veya eğitim konularına ilgini artırabilir. Günün ikinci yarısında Ay'ın Koç burcuna geçişiyle harcamalarına dikkat etmen gerekebilir. İç sesini mantık süzgecinden geçirerek önemli kararlar alabilirsin.",
+   "motivation": "Sezgilerinle aklını buluştur.",
+   "basis": "Ay ile Merkür arasında üçgen açı tam gerçekleşiyor."
+  }
+ }
+}
