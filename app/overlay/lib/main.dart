@@ -38,6 +38,14 @@ class GunlukBurcApp extends StatelessWidget {
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
+      // Çok büyük sistem yazı boyutlarında düzen bozulmasın (erişilebilirlik için yine de büyütmeye izin ver)
+      builder: (context, child) {
+        final mq = MediaQuery.of(context);
+        return MediaQuery(
+          data: mq.copyWith(textScaler: mq.textScaler.clamp(minScaleFactor: 0.9, maxScaleFactor: 1.15)),
+          child: child!,
+        );
+      },
       home: const _Root(),
     );
   }

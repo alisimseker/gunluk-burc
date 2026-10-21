@@ -87,6 +87,16 @@ class DailyWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) 
             val r = Store.today(ctx) ?: return
             createChannel(ctx)
 
+            // Bugün zaten gösterildiyse ve kullanıcı kaydırıp kapattıysa tekrar gösterme (ertesi gün yenisi gelir)
+            val prefs = ctx.getSharedPreferences("gunlukburc_native", Context.MODE_PRIVATE)
+            val nm = ctx.getSystemService(NotificationManager::class.java)
+            val active = try {
+                nm.activeNotifications.any { it.id == NOTIF_ID }
+            } catch (_: Exception) {
+                false
+            }
+            if (prefs.getString("posted_date", null) == r.date && !active) return
+
             val open = PendingIntent.getActivity(
                 ctx, 0,
                 Intent(ctx, MainActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP),
@@ -100,9 +110,9 @@ class DailyWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) 
                     .setBigContentTitle("${r.signName} · ✨ ${r.motivation}")
                     .bigText(r.text))
                 .setSubText(r.signName)
-                .setOngoing(true)
+                .setOngoing(false)
+                .setAutoCancel(false)
                 .setOnlyAlertOnce(true)
-                .setSilent(false)
                 .setShowWhen(false)
                 .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT)
@@ -111,6 +121,7 @@ class DailyWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) 
                 .build()
             try {
                 NotificationManagerCompat.from(ctx).notify(NOTIF_ID, n)
+                prefs.edit().putString("posted_date", r.date).apply()
             } catch (_: SecurityException) {
             }
         }

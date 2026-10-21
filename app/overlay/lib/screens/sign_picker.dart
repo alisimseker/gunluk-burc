@@ -76,7 +76,7 @@ class _SignPickerState extends State<SignPicker> {
                   padding: const EdgeInsets.fromLTRB(16, 4, 16, 16),
                   itemCount: kZodiacs.length,
                   gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: 3, mainAxisSpacing: 12, crossAxisSpacing: 12, childAspectRatio: 0.78),
+                      crossAxisCount: 3, mainAxisSpacing: 12, crossAxisSpacing: 12, childAspectRatio: 0.74),
                   itemBuilder: (_, i) => _SignTile(
                     z: kZodiacs[i],
                     selected: kZodiacs[i].id == selected,
@@ -150,30 +150,38 @@ class _SignTile extends StatelessWidget {
               decoration: BoxDecoration(color: el, shape: BoxShape.circle),
             ),
           ),
-          Center(
-            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
-              Container(
-                width: 58,
-                height: 58,
-                alignment: Alignment.center,
-                decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  gradient: RadialGradient(colors: [
-                    AppColors.gold.withValues(alpha: selected ? 0.22 : 0.10),
-                    Colors.transparent,
+          Positioned.fill(
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(6, 10, 6, 10),
+              child: FittedBox(
+                fit: BoxFit.scaleDown,
+                child: SizedBox(
+                  width: 104,
+                  child: Column(mainAxisSize: MainAxisSize.min, children: [
+                    Container(
+                      width: 58,
+                      height: 58,
+                      alignment: Alignment.center,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        gradient: RadialGradient(colors: [
+                          AppColors.gold.withValues(alpha: selected ? 0.22 : 0.10),
+                          Colors.transparent,
+                        ]),
+                      ),
+                      child: Glyph(z.id, size: 40, color: selected ? AppColors.goldSoft : AppColors.gold, stroke: 6.5),
+                    ),
+                    const SizedBox(height: 8),
+                    Text(z.name, maxLines: 1, style: AppText.display(21, w: FontWeight.w700)),
+                    const SizedBox(height: 3),
+                    Text(z.range.replaceAll(' – ', '\n'),
+                        textAlign: TextAlign.center,
+                        maxLines: 2,
+                        style: AppText.body(10.5, color: AppColors.muted, height: 1.3)),
                   ]),
                 ),
-                child: Glyph(z.id, size: 40, color: selected ? AppColors.goldSoft : AppColors.gold, stroke: 6.5),
               ),
-              const SizedBox(height: 10),
-              Text(z.name, style: AppText.display(21, w: FontWeight.w700)),
-              const SizedBox(height: 4),
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 6),
-                child: Text(z.range,
-                    textAlign: TextAlign.center, style: AppText.body(10.5, color: AppColors.muted, height: 1.3)),
-              ),
-            ]),
+            ),
           ),
         ]),
       ),
