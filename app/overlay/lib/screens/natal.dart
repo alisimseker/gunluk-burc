@@ -418,23 +418,34 @@ class _WheelPainter extends CustomPainter {
       }
     }
 
-    // gezegenler: çakışmaları aç
+    // gezegenler: yakın olanları aç ve iç/dış halkaya dağıt
     final keys = AstroEngine.planetKeys.toList()..sort((a, b) => r.planets[a]!.compareTo(r.planets[b]!));
+    const minGap = 9.0;
     final placed = <String, double>{};
+    final ring = <String, int>{};
     double? last;
+    var lastRing = 0;
     for (final k in keys) {
       var l = r.planets[k]!;
-      if (last != null && norm360(l - last) < 8) l = last + 8;
+      var rr = 0;
+      if (last != null && norm360(l - last) < minGap) {
+        rr = lastRing == 0 ? 1 : 0; // kalabalıkta dönüşümlü halka
+        if (rr == 0) l = last + minGap;
+      }
       placed[k] = l;
-      last = l;
+      ring[k] = rr;
+      if (rr == 0) last = l;
+      last ??= l;
+      lastRing = rr;
     }
-    final pr = (ringIn + houseIn) / 2 + 12;
-    final gsz = R * 0.11;
+    final gsz = R * 0.095;
+    final prOuter = ringIn - gsz * 0.95;
+    final prInner = prOuter - gsz * 1.6;
     for (final k in keys) {
       final real = r.planets[k]!;
       canvas.drawLine(pt(real, ringIn), pt(real, ringIn - 6), gold);
-      final p = pt(placed[k]!, pr);
-      canvas.drawCircle(p, gsz * 0.72, Paint()..color = const Color(0xFF221B3F));
+      final p = pt(placed[k]!, ring[k] == 0 ? prOuter : prInner);
+      canvas.drawCircle(p, gsz * 0.68, Paint()..color = const Color(0xFF221B3F));
       canvas.save();
       canvas.translate(p.dx - gsz / 2, p.dy - gsz / 2);
       canvas.scale(gsz / 100);
