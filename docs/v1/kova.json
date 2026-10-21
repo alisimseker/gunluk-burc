@@ -1,7 +1,7 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-10-20T22:42:29+03:00",
+ "updated": "2026-10-21T17:34:12+03:00",
  "days": [
   {
    "date": "2026-10-20",
@@ -54,6 +54,107 @@
     "Plüton Kova'da 3°04'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-22",
+   "focus": "Bütçe kontrolü",
+   "short": "Keyfi harcamalardan gelen ani faturalara karşı cüzdanını dengele.",
+   "text": "Eğlence veya kişisel hobiler için aniden ortaya çıkan bir harcama, temel bütçe dengeni sarsabilir. Kendini ödüllendirmek istemen çok doğal ancak gereksiz masrafları birkaç gün ertelemek seni rahatlatır. Kariyerinde ise üstlerinle olan iletişiminde otorite savaşlarına girmemeye dikkat etmelisin. Günün sonunda harcamalarını listeleyerek net bir durum tablosu çıkar.",
+   "motivation": "Kaynaklarını akılla yönlendir.",
+   "basis": "Ay 2. evinde seyrederken 5. evindeki retro Uranüs ile kare açı yapıyor.",
+   "sky_events": [
+    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 28°58'",
+    "Ay Balık'ta 10°49'",
+    "Merkür Akrep'te 20°44'",
+    "Venüs Akrep'te 1°49' ℞",
+    "Mars Aslan'da 13°38'",
+    "Jüpiter Aslan'da 23°03'",
+    "Satürn Koç'ta 9°56' ℞",
+    "Uranüs İkizler'de 5°00' ℞",
+    "Neptün Koç'ta 2°18' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-23",
+   "focus": "Kariyer adımları",
+   "short": "İş hayatında sorumlulukların artıyor, yeni kararlar kapıda.",
+   "text": "Onuncu evindeki Güneş, mesleki hedeflerine odaklanman için sana güçlü bir ivme kazandırıyor. Kariyerinle ilgili konularda geçmişte yarım kalmış detayları gözden geçirebilir, yöneticilerle yapacağın görüşmelerde net bir duruş sergileyebilirsin. Maddi kaynaklarını planlarken sezgilerine kulak vermen faydalı olacaktır.",
+   "motivation": "Hedeflerine odaklanarak fark yarat.",
+   "basis": "Güneş 10. evine geçiş yaparken Ay ile Merkür üçgen açı yapıyor.",
+   "sky_events": [
+    "Güneş bugün Akrep'e geçiyor.",
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 29°58'",
+    "Ay Balık'ta 23°55'",
+    "Merkür Akrep'te 20°55'",
+    "Venüs Akrep'te 1°13' ℞",
+    "Mars Aslan'da 14°09'",
+    "Jüpiter Aslan'da 23°11'",
+    "Satürn Koç'ta 9°51' ℞",
+    "Uranüs İkizler'de 4°58' ℞",
+    "Neptün Koç'ta 2°16' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-24",
+   "focus": "Fikir Alışverişi",
+   "short": "Çevrenle kurduğun yapıcı temaslar zihnindeki soruları yanıtlayabilir.",
+   "text": "Üçüncü evinde ilerleyen Ay, burcundaki Plüton ve beşinci evindeki Uranüs ile sekstil açı yaparak düşüncelerine özgün ve dönüştürücü bir derinlik katıyor. Kariyer evinde geri hareketine başlayan Merkür nedeniyle mesleki konularda geçmişte konuşulmuş projeler yeniden gündeme gelebilir. Üstlerinle veya iş yaptığın kişilerle iletişim kurarken detayları yazılı olarak teyit etmekte fayda var. Zihnini tazeleyecek kısa yürüyüşler yapmak veya eski bir dostla sohbet etmek gününü verimli kılacaktır.",
+   "motivation": "Düşüncelerine zaman tanı, netleş.",
+   "basis": "Ay 3. evinde burcundaki Plüton ile altmışlık açı kuruyor ve Merkür 10. evinde retroya başlıyor.",
+   "sky_events": [
+    "Merkür bugün retro hareketine başlıyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 0°58'",
+    "Ay Koç'ta 7°26'",
+    "Merkür Akrep'te 20°58' ℞",
+    "Venüs Akrep'te 0°36' ℞",
+    "Mars Aslan'da 14°41'",
+    "Jüpiter Aslan'da 23°19'",
+    "Satürn Koç'ta 9°47' ℞",
+    "Uranüs İkizler'de 4°56' ℞",
+    "Neptün Koç'ta 2°15' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-25",
+   "focus": "Yakın bağlar",
+   "short": "Samimi sohbetler ikili ilişkilerinde güven tazeleyecek.",
+   "text": "Üçüncü evindeki Ay'ın ilişkiler alanındaki Jüpiter ile oluşturduğu akıcı açı, partnerinle veya yakın çevrenle olan diyaloğunu canlandırıyor. Venüs'ün inançlar ve eğitim evine geçmesi, yarım kalmış bir öğrenim konusunu veya seyahat planını masaya getirebilir. Fikirlerini netlikle paylaşırken karşı tarafın da hislerine alan tanımayı ihmal etme.",
+   "motivation": "Sözlerine içtenlik kat.",
+   "basis": "3. evdeki Ay'ın 7. evdeki Jüpiter ile üçgen açısı.",
+   "sky_events": [
+    "Venüs bugün Terazi'ye geçiyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 1°57'",
+    "Ay Koç'ta 21°21'",
+    "Merkür Akrep'te 20°54' ℞",
+    "Venüs Terazi'de 29°59' ℞",
+    "Mars Aslan'da 15°13'",
+    "Jüpiter Aslan'da 23°28'",
+    "Satürn Koç'ta 9°43' ℞",
+    "Uranüs İkizler'de 4°54' ℞",
+    "Neptün Koç'ta 2°14' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

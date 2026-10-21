@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-21T17:29:24+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Terazi'de 28°58'",
+   "Ay Balık'ta 10°49'",
+   "Merkür Akrep'te 20°44'",
+   "Venüs Akrep'te 1°49' ℞",
+   "Mars Aslan'da 13°38'",
+   "Jüpiter Aslan'da 23°03'",
+   "Satürn Koç'ta 9°56' ℞",
+   "Uranüs İkizler'de 5°00' ℞",
+   "Neptün Koç'ta 2°18' ℞",
+   "Plüton Kova'da 3°04'"
+  ],
+  "events": [
+   "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Zihinsel dinginlik",
+   "short": "Beklenmedik haberler karşısında sakinliğini koruyup iç sesine kulak ver.",
+   "text": "Bugün yakın çevrenden gelen ani mesajlar veya plansız haberler zihnini biraz dağıtabilir. Bilinçaltında biriken kaygıları büyütmek yerine, bir anlığına durup derin bir nefes almayı dene. Kalabalık diyaloglardan uzaklaşıp yalnız başına kalmak, olup biteni çok daha berrak görmeni sağlayacaktır. Tepki vermeden önce düşüncelerinin durulmasına izin ver.",
+   "motivation": "Yavaşla ve zihnini ferahlat.",
+   "basis": "Ay 12. evinde yer alırken 3. evindeki retro Uranüs ile kare açı yapıyor."
+  },
+  "boga": {
+   "focus": "Grup harcamaları",
+   "short": "Sosyal ortamlarda aniden gelişen masraflara karşı hazırlıklı ol.",
+   "text": "Arkadaş çevrende veya bir topluluk organizasyonunda bütçeni aşabilecek beklenmedik harcama kalemleri gündeme gelebilir. Bir gruba ayak uydurmak adına kendi sınırlarını zorlamak zorunda değilsin; nazikçe sınır çizmek seni rahatlatır. İkili ilişkilerinde ise güç savaşlarına girmeden net bir duruş sergilemek faydalı olur. Parasal konularda gerçekçi bir döküm yap.",
+   "motivation": "Sınırlarını samimiyetle ifade et.",
+   "basis": "Ay 11. evinde ilerlerken 2. evindeki Uranüs ile kare açı oluşturuyor."
+  },
+  "ikizler": {
+   "focus": "Hedefler ve esneklik",
+   "short": "Kariyerinde aniden değişen durumlara esnek yaklaşarak dengeyi kur.",
+   "text": "İş hayatında ya da üstlerinle olan temaslarında plan dışı gelişmelerle karşılaşabilirsin. Kendi bildiğin yolda ısrar etmek yerine, anın getirdiği değişken şartlara uyum sağlamak üzerindeki baskıyı hafifletir. Ani kararlarla köprüleri atmaktan kaçınmalı, profesyonel hedeflerini sağduyuyla ele almalısın. Masandaki işleri sırayla bitirerek günü toparla.",
+   "motivation": "Değişime uyumla karşılık ver.",
+   "basis": "Ay 10. evindeyken burcundaki retro Uranüs ile kare açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Görüş açısı",
+   "short": "Uzak hedeflerine odaklanırken ani içsel şüphelerin seni yavaşlatmasına izin verme.",
+   "text": "Eğitim, seyahat veya resmi süreçlerle ilgili hedeflerinde beklenmedik bir erteleme ya da fikir ayrılığı yaşanabilir. Arka planda kontrolün dışında gelişen durumlar hevesini kırmasın; büyük resmi görmeye devam et. İnançlarını ve temel prensiplerini sorgulamak yerine pratik adımlara odaklanmalısın. Bir yürüyüşe çıkmak zihnindeki sis perdesini dağıtacaktır.",
+   "motivation": "Geniş düşün, sabırla ilerle.",
+   "basis": "Ay 9. evindeyken 12. evindeki retro Uranüs ile kare açıda bulunuyor."
+  },
+  "aslan": {
+   "focus": "Finansal denge",
+   "short": "Ortak bütçelerde sürpriz harcamaları soğukkanlılıkla yönet.",
+   "text": "Ortaklaşa yürütülen bir para konusunda veya bir arkadaşının önerisiyle aniden ortaya çıkan masraflar dikkatini çekebilir. Geleceğe dair maddi planlarını yaparken ani heveslerle hareket etmemen gereken bir gündesin. Aile içinde geçmişten gelen konular konuşulurken kırıcı olmamaya özen göster. Paylaşımlarını şeffaf tutarak karmaşanın önüne geçebilirsin.",
+   "motivation": "Adımlarını ölçerek güven sağla.",
+   "basis": "Ay 8. evinde bulunurken 11. evindeki Uranüs ile kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "İlişkilerde esneklik",
+   "short": "Ortaklıklarda gelişen ani durumları yapıcı bir dille karşıla.",
+   "text": "Partnerinle veya iş birliği yaptığın kişilerle ilişkilerinde kariyer kaynaklı ani gerginlikler baş gösterebilir. Beklenmedik bir yön değişikliği karşısında katı kurallar koymak yerine dinlemeyi seçmelisin. İletişimde sözcüklerini özenle seçmen, olası bir güç çekişmesini hemen yumuşatır. Birlikte çalıştığın insanlarla görev dağılımını yeniden netleştirmelisin.",
+   "motivation": "Esneklik en sağlam çözümdür.",
+   "basis": "Ay 7. evinde ilerlerken 10. evindeki retro Uranüs ile kare açı oluşturuyor."
+  },
+  "terazi": {
+   "focus": "Çalışma ritmi",
+   "short": "Günlük işlerinde çıkabilecek aksaklıklara pratik çözümler üret.",
+   "text": "Ofis ortamında veya günlük rutinlerinde uzaklardan gelen bir haber sebebiyle planların aniden değişebilir. Rutinlerin bozulması seni kaygılandırmasın; öncelik sıranı hızlıca güncelleyerek kontrolü geri alabilirsin. Bedenini yoran yoğunluklara karşı küçük dinlenme aralıkları vermeyi ihmal etme. Maddi konularda acele harcama kararları almaktan uzak dur.",
+   "motivation": "Sadeliğe sığın, düzenini koru.",
+   "basis": "Ay 6. evindeyken 9. evindeki retro Uranüs ile kare açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Duygusal beklentiler",
+   "short": "Beklenmedik harcamalar veya duygusal çıkışlar karşısında dengeni gözet.",
+   "text": "Sevdiğin kişiyle veya hobilerinle ilgilenirken aniden gelişen masraflar planlarını değiştirebilir. Kendi isteklerin ile şartların getirdiği sınırlar arasında kalırsan tepkisel davranmak yerine durumu izlemeyi dene. Burcundaki retro Venüs, geçmiş ilişkileri aklına getirebilir ancak bugünün gerçekliğinden kopmamalısın. Kendine yaratıcı bir meşgale bularak içindeki gerilimi dağıt.",
+   "motivation": "Netliğini koru, anı yönet.",
+   "basis": "Ay 5. evindeyken 8. evindeki retro Uranüs ile kare açı yapıyor."
+  },
+  "yay": {
+   "focus": "Ev ve ikili ilişkiler",
+   "short": "Ev ortamında partnerinle oluşabilecek ani gerilimleri sağduyuyla yatıştır.",
+   "text": "Hane içinde huzuru korumak isterken karşı tarafın beklenmedik bir tavrı veya talebiyle karşılaşabilirsin. Ani tepkiler vermek yerine karşına çıkan konuyu sakince masaya yatırmak ortamı rahatlatacaktır. Kendi içine çekilip her şeyi büyütmek yerine hislerini dürüstçe ama yumuşakça paylaşmalısın. Yaşam alanında yapacağın küçük bir düzenleme sana ferahlık verir.",
+   "motivation": "Yumuşak tavır düğümleri çözer.",
+   "basis": "Ay 4. evinde yer alırken 7. evindeki retro Uranüs ile kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Haberleşme trafiği",
+   "short": "İletişim kazalarına karşı dikkatli ol, önemli yazışmaları iki kez kontrol et.",
+   "text": "Günlük akışında veya iş arkadaşlarınla yazışmalarında beklenmedik aksamalar ya da yanlış anlaşılmalar oluşabilir. Bir cihaz arızası veya randevu iptali gündeme gelirse sinirlenmek yerine alternatif yolları devreye sok. Yakın çevrenden duyduğun her bilginin doğruluğunu araştırmadan karar vermemelisin. Önemli bir evrakı göndermeden önce detaylarını dikkatle gözden geçir.",
+   "motivation": "Aklını kullan, sakin ilerle.",
+   "basis": "Ay 3. evinde ilerlerken 6. evindeki retro Uranüs ile kare açıda bulunuyor."
+  },
+  "kova": {
+   "focus": "Bütçe kontrolü",
+   "short": "Keyfi harcamalardan gelen ani faturalara karşı cüzdanını dengele.",
+   "text": "Eğlence veya kişisel hobiler için aniden ortaya çıkan bir harcama, temel bütçe dengeni sarsabilir. Kendini ödüllendirmek istemen çok doğal ancak gereksiz masrafları birkaç gün ertelemek seni rahatlatır. Kariyerinde ise üstlerinle olan iletişiminde otorite savaşlarına girmemeye dikkat etmelisin. Günün sonunda harcamalarını listeleyerek net bir durum tablosu çıkar.",
+   "motivation": "Kaynaklarını akılla yönlendir.",
+   "basis": "Ay 2. evinde seyrederken 5. evindeki retro Uranüs ile kare açı yapıyor."
+  },
+  "balik": {
+   "focus": "Kişisel alan",
+   "short": "Ev içindeki beklenmedik sürprizlere karşı kendi merkezinde kal.",
+   "text": "Kendini duygusal olarak ifade etmek isterken ev ve aile cephesinden gelen plansız bir gelişme planlarını aksatabilir. Ani değişimlere karşı kırılganlaşmak yerine, sana ait özel sınırlara sahip çıkmayı denemelisin. İnançlarını ya da fikirlerini savunurken karşı tarafı ikna etmeye çalışmak seni yorabilir. Bugün sadece kendi iyi oluşuna ve fiziksel rahatlığına odaklan.",
+   "motivation": "Kendi alanına özenle sahip çık.",
+   "basis": "Ay burcunda seyrederken 4. evindeki retro Uranüs ile kare açı yapıyor."
+  }
+ }
+}

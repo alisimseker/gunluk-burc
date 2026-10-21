@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-21T17:33:20+03:00",
+ "model": "gemini-3.7-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 0°58'",
+   "Ay Koç'ta 7°26'",
+   "Merkür Akrep'te 20°58' ℞",
+   "Venüs Akrep'te 0°36' ℞",
+   "Mars Aslan'da 14°41'",
+   "Jüpiter Aslan'da 23°19'",
+   "Satürn Koç'ta 9°47' ℞",
+   "Uranüs İkizler'de 4°56' ℞",
+   "Neptün Koç'ta 2°15' ℞",
+   "Plüton Kova'da 3°05'"
+  ],
+  "events": [
+   "Merkür bugün retro hareketine başlıyor.",
+   "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Ortak Kaynaklar",
+   "short": "Bütçe ve ödemelerle ilgili geçmiş detayları gözden geçirebilirsin.",
+   "text": "Sekizinci evinde retro hareketine başlayan Merkür, ortak harcamalar veya borçlar konusunda eski dosyaları yeniden masaya yatırabileceğini fısıldıyor. Birinci evindeki Ay'ın Plüton ile kurduğu altmışlık açı ise kendi kararlarını savunurken sana derin bir irade sunuyor. Aceleyle yeni bir finansal anlaşmaya imza atmak yerine, var olan hesapları ve banka hareketlerini dikkatlice incele. Gün içindeki ani harcama dürtülerini dizginlemek sana rahat bir nefes aldıracaktır.",
+   "motivation": "Geçmiş hesapları incelikle çözümle.",
+   "basis": "Merkür 8. evinde retro hareketine başlıyor ve Ay 1. evinde Plüton ile altmışlık açıda."
+  },
+  "boga": {
+   "focus": "İlişkilerde geçmiş muhasebesi",
+   "short": "Ortaklıklarda yarım kalmış konuşmalar yeniden gündeme gelebilir.",
+   "text": "Karşıt burcunda geri hareketine başlayan Merkür, ikili ilişkilerinde veya ortaklıklarda eskiden konuşulmamış konuları su yüzüne çıkarabilir. On ikinci evindeki Ay'ın Uranüs ile uyumlu kontağı, geri planda kalarak olayları tartmanın sana çok daha iyi geleceğini gösteriyor. Karşındaki kişinin söylediklerini önyargısızca dinlemeli, ani tepkiler vermekten kaçınmalısın. Güneş ile geri hareketteki Venüs'ün teması, bağlarını tazelemek için dürüstçe yüzleşmeyi gerektiriyor. Akşamı kendine ayırıp zihnini dinlendir.",
+   "basis": "Merkür yedinci evinde retro hareketine başlarken Ay on ikinci evinde yer alıyor.",
+   "motivation": "Yüzleşmeler anlayışla derinleşir."
+  },
+  "ikizler": {
+   "focus": "Çalışma düzeni",
+   "short": "Gündelik işlerde eski yöntemleri yenileme zamanı.",
+   "text": "Yönetici gezegenin Merkür'ün çalışma hayatını anlatan alanda geri hareketine başlaması, günlük rutinlerini baştan sona gözden geçirmeni gerektiriyor. Ofisteki evrakları, dijital dosyaları veya aksayan düzeni toparlamak için oldukça elverişli bir zemin var. Koç burcundaki Ay'ın burcundaki Uranüs ile oluşturduğu sekstil açı, arkadaş çevrenden beklemediğin pratik destekler bulmanı sağlayacak. İş arkadaşlarınla iletişimde çift kontrol mekanizması kurmayı ihmal etme. Bugün ertelediğin angaryaları tek tek bitir.",
+   "basis": "Yönetici gezegen Merkür altıncı evinde geri harekete başlarken Ay, burcundaki Uranüs ile sekstil açı yapıyor.",
+   "motivation": "Düzen küçük adımlarla kurulur."
+  },
+  "yengec": {
+   "focus": "Kariyer Rotaları",
+   "short": "İş ortamında beklenmedik adımlar atmak yerine netliğe odaklan.",
+   "text": "Onuncu evinde ilerleyen Ay, gözleri iş hayatındaki ve hedeflerindeki duruşuna çeviriyor. Uranüs ile kurulan olumlu sekstil açı, görevlerini yürütürken gizli kalmış pratik yöntemleri keşfetmene alan açabilir. Aynı zamanda aşk ve hobiler evinde retroya başlayan Merkür, yaratıcı projelerde eski yöntemleri tekrar değerlendirmen gerektiğini hatırlatıyor. Bugün üstlerinle veya ortaklarınla konuşurken sözlerini tartarak ifade etmeye özen göster.",
+   "motivation": "Emek verdiğin yolu sabırla parla.",
+   "basis": "Ay 10. evinde Uranüs ile altmışlık açı kuruyor ve Merkür 5. evinde retroya başlıyor."
+  },
+  "aslan": {
+   "focus": "Ufuk turu",
+   "short": "Yeni perspektifler keşfederken aile bağlarını sağlam tut.",
+   "text": "Dokuzuncu evindeki Koç Ay'ının Uranüs ile yaptığı sekstil açı, sana sınırlarını aşma ve yeni şeyler öğrenme arzusu veriyor. Ancak dördüncü evinde retroya geçen Merkür, aile içindeki eski bir konunun veya evle ilgili tamamlanmamış bir meselenin dikkatini isteyeceğini söylüyor. Evinde geçmişe dair düzenlemeler yapmak, taşınma ya da tadilat kararlarında aceleci olmamak fayda sağlar. Güneş ile Venüs'ün kavuşumu içsel huzuru köklerinde aramanı fısıldıyor. Bugün geniş düşünürken evdeki sorumluluklarını da unutma.",
+   "basis": "Ay dokuzuncu evinde yer alırken Merkür dördüncü evinde retroya başlıyor.",
+   "motivation": "Keşif cesareti köklerden beslenir."
+  },
+  "basak": {
+   "focus": "Maddi paylaşımlar",
+   "short": "Ortak harcamaları düzenlerken eski kayıtları kontrol etmek fayda sağlar.",
+   "text": "Mesleki hedeflerine bağlı harcamaları gözden geçirmek adına verimli bir akış var. Çalışma ortamında karşılaştığın pürüzleri derinlemesine inceleyerek ortak bir bütçeyi toparlayabilirsin. Merkür’ün iletişim alanında geri harekete geçmesi nedeniyle eski yazışmaları veya imzalanmış evrakları çift kontrol etmek işini sağlama alır. Ani kararlar yerine elindeki kayıtları düzenlemeye odaklan.",
+   "motivation": "Detayları ayıklayarak zeminini sağlamlaştır.",
+   "basis": "Ay 8. evinde; Uranüs ve Plüton ile kurduğu sekstil açılar iş ve bütçe dengesini destekliyor."
+  },
+  "terazi": {
+   "focus": "Ortaklıklar ve denge",
+   "short": "İlişkilerinde beklenmedik jestler ve taze fikirler öne çıkıyor.",
+   "text": "Karşıt burcunda ilerleyen Ay'ın Uranüs ve Plüton ile kurduğu uyumlu açılar, karşındaki insanlarla dinamik ve canlı bir bağ yakalamanı sağlıyor. Maddi konuları simgeleyen alanda retroya başlayan Merkür ise kişisel bütçende dikkatli adımlar atman gerektiğine işaret ediyor. Güneş ile yönetici gezegenin Venüs'ün Akrep burcundaki kavuşumu, kendine verdiğin değeri ve sahip olduğun yetenekleri yeniden tartmanı istiyor. Ortak bir harcama yapmadan önce şartları açıkça konuş. Bugün sevdiğin insanla planlarını güncelle.",
+   "basis": "Ay yedinci evinde sekstil açılar kurarken Merkür ikinci evinde retroya başlıyor.",
+   "motivation": "Paylaştıkça değerini daha iyi anlarsın."
+  },
+  "akrep": {
+   "focus": "Çalışma Temposu",
+   "short": "Günlük işlerini sıraya koyarak zihnindeki karmaşayı azaltabilirsin.",
+   "text": "Altıncı evindeki Ay, mesai düzenine, sağlığına ve ertelediğin detaylara eğilmen için seni destekliyor. Burcunda geri hareketine başlayan Merkür ise kendini ifade ederken bir adım geride durup sözlerini tartmanın önemini vurguluyor. Ay'ın dördüncü evdeki Plüton ile kurduğu altmışlık açı, hem evdeki hem de çalışma alanındaki dağınıklığı toparlamak için sana güçlü bir irade kazandırıyor. Bugün bedenini fazla yormadan, görev listeni sadeleştirerek ilerlemelisin.",
+   "motivation": "Rutinlerini düzenle, yüklerini hafiflet.",
+   "basis": "Merkür burcunda retro hareketine başlıyor ve Ay 6. evinde Plüton ile altmışlık açıda."
+  },
+  "yay": {
+   "focus": "İlham ve yaratıcılık",
+   "short": "Hobilerine alan aç, bilinçaltındaki fazlalıkları ayıkla.",
+   "text": "Beşinci evindeki Ay'ın Uranüs ve Plüton ile sekstili, kendini neşeyle ve özgünce ortaya koyman için harika bir akış sağlıyor. Fakat on ikinci evinde geri gitmeye başlayan Merkür, perde arkasında dönen konuşmalara ve sezgilerine dikkat etmen gerektiğini vurguluyor. Geçmişte yarım bıraktığın sanatsal bir uğraşı ya da projeyi raftan indirmek için kusursuz bir zamanlama. Güneş ile Venüs'ün kavuşumu, yalnız kaldığında derin bir dinginlik yakalayabileceğini gösteriyor. Bugün seni mutlu eden yaratıcı bir faaliyete vakit ayır.",
+   "basis": "Ay beşinci evinde Uranüs ile sekstil açı yaparken Merkür on ikinci evinde retro hareketine başlıyor.",
+   "motivation": "Yaratıcı kıvılcımını sessizce parlat."
+  },
+  "oglak": {
+   "focus": "İç huzur ve düzen",
+   "short": "Yuvandaki sakinliği koru, eski dostlukları tazele.",
+   "text": "Dördüncü evinde bulunan Ay'ın Uranüs ve Plüton ile kurduğu tatlı sekstil, yaşam alanında pratik ve konforlu yenilikler yapmanı kolaylaştırıyor. Sosyal çevrende retroya başlayan Merkür ise eski arkadaş gruplarından haberler alabileceğini veya yarım kalan bir ekip projesinin tekrar gündeme geleceğini gösteriyor. Topluluklar içinde yanlış anlamaları önlemek için net konuşmayı seçmelisin. Güneş ile geri hareketteki Venüs'ün teması, geleceğe dair ideallerini gözden geçirmene zemin hazırlıyor. Bugün ailene ve evine zaman tanı.",
+   "basis": "Ay dördüncü evinde yer alırken Merkür on birinci evinde retroya adım atıyor.",
+   "motivation": "Kendi alanını sevgiyle koru."
+  },
+  "kova": {
+   "focus": "Fikir Alışverişi",
+   "short": "Çevrenle kurduğun yapıcı temaslar zihnindeki soruları yanıtlayabilir.",
+   "text": "Üçüncü evinde ilerleyen Ay, burcundaki Plüton ve beşinci evindeki Uranüs ile sekstil açı yaparak düşüncelerine özgün ve dönüştürücü bir derinlik katıyor. Kariyer evinde geri hareketine başlayan Merkür nedeniyle mesleki konularda geçmişte konuşulmuş projeler yeniden gündeme gelebilir. Üstlerinle veya iş yaptığın kişilerle iletişim kurarken detayları yazılı olarak teyit etmekte fayda var. Zihnini tazeleyecek kısa yürüyüşler yapmak veya eski bir dostla sohbet etmek gününü verimli kılacaktır.",
+   "motivation": "Düşüncelerine zaman tanı, netleş.",
+   "basis": "Ay 3. evinde burcundaki Plüton ile altmışlık açı kuruyor ve Merkür 10. evinde retroya başlıyor."
+  },
+  "balik": {
+   "focus": "Eğitim ve inançlar",
+   "short": "Yolculuk ve öğrenim planlarını dikkatle kontrol et.",
+   "text": "Dokuzuncu evinde retroya geçen Merkür, seyahat organizasyonlarında veya akademik konularda bazı gecikmelere sebep olabilir, bilet ve randevularını şimdiden doğrula. İkinci evindeki Ay'ın Uranüs ve Plüton ile sekstili ise bütçeni toparlaman ve kendi kaynaklarına güvenmen adına sürpriz çözümler getiriyor. Güneş ile Venüs kavuşumu, vizyonunu zenginleştirecek eski bir felsefi konuyu veya kitabı yeniden gündemine taşıyabilir. Kararlarında aceleci olmadan, geniş resme bakarak hareket etmelisin. Bugün birikimlerini ve kişisel harcamalarını planla.",
+   "basis": "Merkür dokuzuncu evinde retro hareketine başlarken Ay ikinci evinde sekstil açılar yapıyor.",
+   "motivation": "Yolculuk önce zihinde başlar."
+  }
+ }
+}

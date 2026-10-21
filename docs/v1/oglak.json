@@ -1,7 +1,7 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-20T22:42:29+03:00",
+ "updated": "2026-10-21T17:34:12+03:00",
  "days": [
   {
    "date": "2026-10-20",
@@ -54,6 +54,107 @@
     "Plüton Kova'da 3°04'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-22",
+   "focus": "Haberleşme trafiği",
+   "short": "İletişim kazalarına karşı dikkatli ol, önemli yazışmaları iki kez kontrol et.",
+   "text": "Günlük akışında veya iş arkadaşlarınla yazışmalarında beklenmedik aksamalar ya da yanlış anlaşılmalar oluşabilir. Bir cihaz arızası veya randevu iptali gündeme gelirse sinirlenmek yerine alternatif yolları devreye sok. Yakın çevrenden duyduğun her bilginin doğruluğunu araştırmadan karar vermemelisin. Önemli bir evrakı göndermeden önce detaylarını dikkatle gözden geçir.",
+   "motivation": "Aklını kullan, sakin ilerle.",
+   "basis": "Ay 3. evinde ilerlerken 6. evindeki retro Uranüs ile kare açıda bulunuyor.",
+   "sky_events": [
+    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 28°58'",
+    "Ay Balık'ta 10°49'",
+    "Merkür Akrep'te 20°44'",
+    "Venüs Akrep'te 1°49' ℞",
+    "Mars Aslan'da 13°38'",
+    "Jüpiter Aslan'da 23°03'",
+    "Satürn Koç'ta 9°56' ℞",
+    "Uranüs İkizler'de 5°00' ℞",
+    "Neptün Koç'ta 2°18' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-23",
+   "focus": "Gelecek Hedefleri",
+   "short": "Topluluklar içinde varlık göstermek ve vizyonunu paylaşmak öne çıkıyor.",
+   "text": "Akrep burcuna adım atan Güneş, umutlarını ve uzun vadeli amaçlarını canlandırıyor. Ay'ın Koç burcuna geçmesiyle ise ev ve aile hayatında halledilmesi gereken konular birdenbire hız kazanabilir. Gün boyunca hem özel alanını düzenleyip hem de dostlarınla ortak idealler üzerinde konuşabilirsin. Önceliklerini sıraya koyarak adım atman gerginliği engeller.",
+   "motivation": "Hedeflerine sağlam adımlarla yürü.",
+   "basis": "Güneş bugün Akrep burcuna geçiyor.",
+   "sky_events": [
+    "Güneş bugün Akrep'e geçiyor.",
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Terazi'de 29°58'",
+    "Ay Balık'ta 23°55'",
+    "Merkür Akrep'te 20°55'",
+    "Venüs Akrep'te 1°13' ℞",
+    "Mars Aslan'da 14°09'",
+    "Jüpiter Aslan'da 23°11'",
+    "Satürn Koç'ta 9°51' ℞",
+    "Uranüs İkizler'de 4°58' ℞",
+    "Neptün Koç'ta 2°16' ℞",
+    "Plüton Kova'da 3°04'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-24",
+   "focus": "İç huzur ve düzen",
+   "short": "Yuvandaki sakinliği koru, eski dostlukları tazele.",
+   "text": "Dördüncü evinde bulunan Ay'ın Uranüs ve Plüton ile kurduğu tatlı sekstil, yaşam alanında pratik ve konforlu yenilikler yapmanı kolaylaştırıyor. Sosyal çevrende retroya başlayan Merkür ise eski arkadaş gruplarından haberler alabileceğini veya yarım kalan bir ekip projesinin tekrar gündeme geleceğini gösteriyor. Topluluklar içinde yanlış anlamaları önlemek için net konuşmayı seçmelisin. Güneş ile geri hareketteki Venüs'ün teması, geleceğe dair ideallerini gözden geçirmene zemin hazırlıyor. Bugün ailene ve evine zaman tanı.",
+   "basis": "Ay dördüncü evinde yer alırken Merkür on birinci evinde retroya adım atıyor.",
+   "motivation": "Kendi alanını sevgiyle koru.",
+   "sky_events": [
+    "Merkür bugün retro hareketine başlıyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 0°58'",
+    "Ay Koç'ta 7°26'",
+    "Merkür Akrep'te 20°58' ℞",
+    "Venüs Akrep'te 0°36' ℞",
+    "Mars Aslan'da 14°41'",
+    "Jüpiter Aslan'da 23°19'",
+    "Satürn Koç'ta 9°47' ℞",
+    "Uranüs İkizler'de 4°56' ℞",
+    "Neptün Koç'ta 2°15' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-10-25",
+   "focus": "Aile ve statü",
+   "short": "Evindeki sükunet kariyer hedeflerine güç katıyor.",
+   "text": "Dördüncü evindeki Ay'ın Jüpiter ile kurduğu üçgen açı, hane içindeki meselelerde destekleyici ve ferahlatıcı çözümler getiriyor. Venüs'ün kariyer evine geri dönmesiyle profesyonel ilişkilerinde eski iş birliklerini yeniden ele alman gerekebilir. Hem ailene hem işine yetmeye çalışırken dengeli bir tempo kurmalısın. Adımlarını sağlam atarak iç dengeni koru.",
+   "motivation": "Sağlam zemin huzur verir.",
+   "basis": "4. evdeki Ay'ın 8. evdeki Jüpiter ile üçgen açısı.",
+   "sky_events": [
+    "Venüs bugün Terazi'ye geçiyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 1°57'",
+    "Ay Koç'ta 21°21'",
+    "Merkür Akrep'te 20°54' ℞",
+    "Venüs Terazi'de 29°59' ℞",
+    "Mars Aslan'da 15°13'",
+    "Jüpiter Aslan'da 23°28'",
+    "Satürn Koç'ta 9°43' ℞",
+    "Uranüs İkizler'de 4°54' ℞",
+    "Neptün Koç'ta 2°14' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

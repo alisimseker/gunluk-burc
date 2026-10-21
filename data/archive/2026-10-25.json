@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-21T17:34:12+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 1°57'",
+   "Ay Koç'ta 21°21'",
+   "Merkür Akrep'te 20°54' ℞",
+   "Venüs Terazi'de 29°59' ℞",
+   "Mars Aslan'da 15°13'",
+   "Jüpiter Aslan'da 23°28'",
+   "Satürn Koç'ta 9°43' ℞",
+   "Uranüs İkizler'de 4°54' ℞",
+   "Neptün Koç'ta 2°14' ℞",
+   "Plüton Kova'da 3°05'"
+  ],
+  "events": [
+   "Venüs bugün Terazi'ye geçiyor.",
+   "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İlişki Dengeleri",
+   "short": "İlişkilerinde yapıcı diyaloglar kurabilir, yaratıcı fikirlerini sergileyebilirsin.",
+   "text": "Venüs'ün karşıt burcun Terazi'ye dönüşü, ikili diyaloglarda geçmişte kalan pürüzleri diplomasiyle ele alma fırsatı getiriyor. Aynı zamanda kendi burcunda ilerleyen Ay ile Jüpiter arasındaki uyumlu akış, hissettiğin coşkuyu somut adımlara dönüştürmeni kolaylaştırıyor. Sevdiklerinle bir araya gelmek ya da bireysel heveslerini paylaşmak adına destekleyici bir zemin var. Haklı çıkmaya odaklanmak yerine ortak bir paydada buluşmaya özen göster.",
+   "motivation": "Dengeyi nezaketle inşa et.",
+   "basis": "Ay 1. evinde yer alırken, 5. evindeki Jüpiter ile üçgen açı yapıyor."
+  },
+  "boga": {
+   "focus": "İçsel huzur",
+   "short": "Kendi içine çekilip zihnini dinlendirmek sana çok iyi gelecek.",
+   "text": "On ikinci evindeki Ay, Jüpiter ile uyumlu bağ kurarak ruhuna iyi gelecek bir sessizlik sunuyor. Venüs'ün günlük rutinler ve düzen evine gerilemesi ise çalışma alanındaki eksikleri toparlaman için fırsat yaratıyor. Aile içindeki geçmiş konuları deşmek yerine evinde huzur verici bir köşe oluşturabilirsin. Bugün acele kararlar almak yerine yavaşça toparlanmayı seç.",
+   "motivation": "Sessizlik ruhunu besler.",
+   "basis": "Ay'ın 12. evde Jüpiter ile üçgen açısı ve Venüs'ün 6. eve geçişi."
+  },
+  "ikizler": {
+   "focus": "Yaratıcı bağlar",
+   "short": "Sosyal çevrenden gelen destekle keyifli projelere odaklanabilirsin.",
+   "text": "On birinci evindeki Ay'ın Jüpiter ile kurduğu üçgen, arkadaş ortamlarında neşeni ve motivasyonunu artırıyor. Venüs'ün aşk ve hobi alanına geçmesiyle eski bir yaratıcı hevesin veya yarım kalan bir uğraşın yeniden gündeme gelebilir. Zihnindeki fikirleri hemen uygulamak yerine önce güvendiğin dostlarınla paylaş. Sezgilerine kulak verirken günlük detayları da göz ardı etme.",
+   "motivation": "Fikirlerin neşeyle çoğalsın.",
+   "basis": "11. evdeki Ay'ın Jüpiter ile üçgen açısı ve Venüs'ün 5. eve geçişi."
+  },
+  "yengec": {
+   "focus": "Maddi hedefler",
+   "short": "Kariyerinde attığın adımlar kişisel kaynaklarını destekliyor.",
+   "text": "Kariyer alanındaki Ay ile finans evindeki Jüpiter arasındaki uyumlu açı, yeteneklerinin karşılığını alma konusunda sana güven veriyor. Venüs'ün ev ve yuva alanına geri dönüşü ise aile içi konularda geçmişte konuşulmamış dengeleri ele almayı gerektirebilir. Hedeflerine doğru ilerlerken sevdiklerinin desteğini yanında hissedeceksin. Bütçeni planlarken fevri adımlardan kaçın.",
+   "motivation": "Emeğine güvenle tutun.",
+   "basis": "Ay'ın 10. evde 2. evdeki Jüpiter ile üçgen açısı."
+  },
+  "aslan": {
+   "focus": "Yeni bakış",
+   "short": "Vizyonunu genişleten fikirler özgüvenini tazeliyor.",
+   "text": "Burcundaki Jüpiter ile Ay arasındaki akıcı üçgen açı, kendine olan inancını güçlendirip ufkunu ferahlatıyor. Venüs'ün iletişim alanına geçişiyle eski dostlardan haberler alabilir, ertelediğin yazışmaları toparlayabilirsin. Kendi doğrularını savunurken karşındakilerin düşüncelerine de alan tanımayı unutma. Bir eğitime başlamak veya seyahat planı gözden geçirmek için elverişli bir gündesin.",
+   "motivation": "Ufkunu ferah tut.",
+   "basis": "1. evdeki Jüpiter'in 9. evdeki Ay ile üçgen açısı."
+  },
+  "basak": {
+   "focus": "Ortak bütçe",
+   "short": "Gizli kalmış pürüzleri çözmek içsel ferahlık getirecek.",
+   "text": "Sekizinci evindeki Ay, iç dünyandaki Jüpiter'den aldığı destekle derin bir rahatlama sağlıyor. Venüs'ün para evine gerileyişi, kişisel harcamalarını ve bütçeni tekrar yapılandırman için seni uyarıyor. Paylaşımlı paralarda veya borç-alacak dengesinde açık iletişim kurarak süreci yönetebilirsin. Kendi değerini dış koşullara bağlamadan, sessizce hedefine odaklan.",
+   "motivation": "Bütçeni özenle dengele.",
+   "basis": "Ay'ın 8. evde 12. evdeki Jüpiter ile üçgen açısı."
+  },
+  "terazi": {
+   "focus": "Kişisel duruş",
+   "short": "Karşılaşmalar sana kendini yeniden hatırlatabilir.",
+   "text": "Yönetici gezegenin Venüs burcuna geri adım atarken, ilişkiler evindeki Ay ile Jüpiter'in uyumu sosyal destekleri artırıyor. Karşındaki insanlarla olan bağlarını gözden geçirirken kendi ihtiyaçlarını feda etmemeye dikkat etmelisin. Geçmişten gelen bir ortaklık veya ilişki konusu masaya yatırılabilir. Samimi ve adil tavrınla dengeyi kolaylıkla sağlayacaksın.",
+   "motivation": "Kendi merkezinde kal.",
+   "basis": "Venüs'ün 1. eve gerilemesi ve 7. evdeki Ay'ın Jüpiter ile üçgeni."
+  },
+  "akrep": {
+   "focus": "Kariyer ve Düzen",
+   "short": "İş ortamındaki işleyişi toparlayıp üstlerinin takdirini rahatça kazanabilirsin.",
+   "text": "Gündelik işlerini toparlama gayretin, kariyer alanındaki Jüpiter desteğiyle görünür bir karşılık buluyor. Masandaki ertelenmiş görevleri sıraya koymak ve sorumluluklarını eksiksiz yürütmek sana mesleki anlamda takdir kazandırabilir. Venüs'ün geri plandaki alana çekilmesi ise arka planda kalmış konuları sakince değerlendirmeni gerektiriyor. Fazla acele etmeden, sistemli şekilde ilerlemeye özen göstermelisin.",
+   "motivation": "Sorumluluğunu ustalığa dönüştür.",
+   "basis": "6. evindeki Ay, 10. evinde bulunan Jüpiter ile üçgen açı kuruyor."
+  },
+  "yay": {
+   "focus": "Ufuk Açan Planlar",
+   "short": "Geleceğe dair vizyonunu genişletecek ilham verici projelere odaklanabilirsin.",
+   "text": "Gezegenin Jüpiter ile kurulan parlak etkileşim, uzak planlarını ve kültürel hedeflerini neşeyle şekillendirmen için elverişli bir zemin sunuyor. Keyif aldığın konulara vakit ayırabilir, eğitim veya seyahat bağlantılı fikirlerini geliştirebilirsin. Venüs'ün arkadaş çevreni aydınlatan geçişi de eski dostlarla bağları tazelemeye davet ediyor. Bugün kendi tecrübelerini çevrendekilerle paylaşarak ortak bir hedefe yönelmek sana iyi gelecektir.",
+   "motivation": "Vizyonunu cesurca genişlet.",
+   "basis": "5. evindeki Ay, 9. evindeki yönetici gezegenin Jüpiter ile üçgen açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Aile ve statü",
+   "short": "Evindeki sükunet kariyer hedeflerine güç katıyor.",
+   "text": "Dördüncü evindeki Ay'ın Jüpiter ile kurduğu üçgen açı, hane içindeki meselelerde destekleyici ve ferahlatıcı çözümler getiriyor. Venüs'ün kariyer evine geri dönmesiyle profesyonel ilişkilerinde eski iş birliklerini yeniden ele alman gerekebilir. Hem ailene hem işine yetmeye çalışırken dengeli bir tempo kurmalısın. Adımlarını sağlam atarak iç dengeni koru.",
+   "motivation": "Sağlam zemin huzur verir.",
+   "basis": "4. evdeki Ay'ın 8. evdeki Jüpiter ile üçgen açısı."
+  },
+  "kova": {
+   "focus": "Yakın bağlar",
+   "short": "Samimi sohbetler ikili ilişkilerinde güven tazeleyecek.",
+   "text": "Üçüncü evindeki Ay'ın ilişkiler alanındaki Jüpiter ile oluşturduğu akıcı açı, partnerinle veya yakın çevrenle olan diyaloğunu canlandırıyor. Venüs'ün inançlar ve eğitim evine geçmesi, yarım kalmış bir öğrenim konusunu veya seyahat planını masaya getirebilir. Fikirlerini netlikle paylaşırken karşı tarafın da hislerine alan tanımayı ihmal etme.",
+   "motivation": "Sözlerine içtenlik kat.",
+   "basis": "3. evdeki Ay'ın 7. evdeki Jüpiter ile üçgen açısı."
+  },
+  "balik": {
+   "focus": "Maddi denge",
+   "short": "Yeteneklerini günlük işlerine aktararak rahatlayabilirsin.",
+   "text": "İkinci evindeki Ay'ın çalışma evindeki Jüpiter ile kurduğu üçgen açı, üretkenliğini artırarak emeklerinin değerini fark ettiriyor. Venüs'ün ortak kaynaklar evine gerilemesi, paylaşılan bütçelerde veya borçlarda geçmişe dönük bir inceleme gerektirebilir. Detayları dikkatle planlayarak maddi güvenliğini pekiştir. Kendi öz değerini bilerek işlerine yön ver.",
+   "motivation": "Yeteneğine değer ver.",
+   "basis": "2. evdeki Ay'ın 6. evdeki Jüpiter ile üçgen açısı."
+  }
+ }
+}
