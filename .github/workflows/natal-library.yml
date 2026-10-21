@@ -1,0 +1,36 @@
+name: Doğum haritası yorum kütüphanesi
+
+on:
+  schedule:
+    - cron: "41 3 * * *"   # Türkiye saatiyle 06:41 (kütüphane tamamlanana kadar eksikleri doldurur)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content-commit
+  cancel-in-progress: false
+
+jobs:
+  library:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r content-engine/requirements.txt
+      - name: Eksik yorumları üret
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NATAL_MAX_REQUESTS: "25"
+        run: python content-engine/natal_library.py
+      - name: Kaydet
+        if: always()
+        run: |
+          git config user.name "burc-bot"
+          git config user.email "burc-bot@users.noreply.github.com"
+          git add docs/v1/natal
+          git diff --cached --quiet || (git commit -m "Doğum haritası yorumları" && git pull --rebase && git push)

@@ -262,8 +262,9 @@ def build_prompt(day: date, sky: Sky, history: list[dict], signs: list[str],
 class Gemini:
     BASE = "https://generativelanguage.googleapis.com/v1beta"
 
-    def __init__(self, key: str):
+    def __init__(self, key: str, prefer_lite: bool = False):
         self.key = key
+        self.prefer_lite = prefer_lite
         self.models = self._pick_models()
         self.requests = 0
 
@@ -295,7 +296,7 @@ class Gemini:
                       key=lambda n: (version(n), "preview" not in n, "latest" in n), reverse=True)
         lite = sorted([n for n in flash if "lite" in n],
                       key=lambda n: (version(n), "preview" not in n), reverse=True)
-        order = ([forced] if forced else []) + full[:3] + lite[:2]
+        order = ([forced] if forced else []) + ((lite[:2] + full[:3]) if self.prefer_lite else (full[:3] + lite[:2]))
         if not order:
             order = ["gemini-flash-latest", "gemini-flash-lite-latest"]
         seen, out = set(), []
@@ -306,9 +307,9 @@ class Gemini:
         print("Kullanılacak modeller (sırayla):", out)
         return out
 
-    def generate(self, prompt: str) -> tuple[dict, str]:
+    def generate(self, prompt: str, system: str | None = None) -> tuple[dict, str]:
         body = {
-            "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+            "systemInstruction": {"parts": [{"text": system or SYSTEM_PROMPT}]},
             "contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json"},
         }

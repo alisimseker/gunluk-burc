@@ -56,6 +56,8 @@ Future<void> main() async {
 
   // --- Dart kodu ve pubspec
   copyDir(Directory('overlay/lib'), Directory('$project/lib'));
+  copyDir(Directory('overlay/assets'), Directory('$project/assets'));
+  copyDir(Directory('overlay/tool'), Directory('$project/tool'));
   File('overlay/pubspec.yaml').copySync('$project/pubspec.yaml');
   final t = File('$project/test/widget_test.dart');
   if (t.existsSync()) t.deleteSync();

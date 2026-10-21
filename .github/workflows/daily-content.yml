@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-content
+  group: content-commit
   cancel-in-progress: false
 
 jobs:
@@ -43,5 +43,5 @@ jobs:
             echo "Değişiklik yok."
           else
             git commit -m "İçerik: $(TZ=Europe/Istanbul date +%F)"
-            git push
+            git pull --rebase && git push
           fi

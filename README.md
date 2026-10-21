@@ -81,6 +81,22 @@ Apple, iOS uygulamalarının yalnızca Mac'teki Xcode ile derlenmesine izin veri
    *Signing & Capabilities › + Capability › App Groups* › `group.com.alisimseker.gunlukburc` ekle.
 4. `flutter run` ile iPhone'da dene. Kilit ekranına basılı tut › Özelleştir › saatin altına "Günlük Burç".
 
+## Premium (aylık üyelik, 299 TL)
+
+Ücretsiz: yalnızca bugünün yorumu ve günün cümlesi (kilit ekranı dahil).
+Premium: dün ve yarın, doğum haritası, yükselen burç, Ay burcu.
+
+- Doğum haritası telefonda **hesaplanır** (`app/overlay/lib/astro/engine.dart`): Meeus algoritmaları (Güneş, Ay,
+  yükselen, Placidus evleri) + Mars–Plüton için Swiss Ephemeris'ten üretilmiş 1920–2040 tablosu.
+  `dart run tool/astro_check.dart` 60 haritayı Swiss Ephemeris'e karşı doğrular (sapma < 2 yay dakikası).
+- Yorumlar yapay zekâ ile bir kez yazılır (`content-engine/natal_library.py`, 300 yerleşim),
+  `docs/v1/natal/tr.json` olarak yayınlanır. "Doğum haritası yorum kütüphanesi" iş akışı her gün eksikleri tamamlar.
+- Abonelik: Google Play Console › Para kazanma › Abonelikler › ürün kimliği **`aylik_premium`**,
+  1 aylık temel plan, fiyat 299 TL. (iOS: App Store Connect'te aynı kimlikle otomatik yenilenen abonelik.)
+  Uygulama her açılışta mağazaya sorar; süresi biten üyelikte özellikler kapanır, yenilenince açılır.
+- Satın alma yalnızca uygulama Google Play üzerinden (en az "Dahili test" kanalından) yüklendiğinde çalışır.
+  Deneme sürümünde (debug) Ayarlar menüsündeki "Test: Premium açık" anahtarıyla özellikler denenebilir.
+
 ## Dosyalar
 
 | Yol | Ne işe yarar |
