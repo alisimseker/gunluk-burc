@@ -2,7 +2,7 @@ name: Doğum haritası yorum kütüphanesi
 
 on:
   schedule:
-    - cron: "41 3 * * *"   # Türkiye saatiyle 06:41 (kütüphane tamamlanana kadar eksikleri doldurur)
+    - cron: "41 3,11,19 * * *"   # Türkiye saatiyle 06:41, 14:41, 22:41 (tamamlanınca hiçbir şey yapmaz)
   workflow_dispatch:
 
 permissions:
