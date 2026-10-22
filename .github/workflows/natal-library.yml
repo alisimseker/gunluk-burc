@@ -26,11 +26,14 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NATAL_MAX_REQUESTS: "30"
-        run: python content-engine/library.py
+        run: |
+          mkdir -p data/logs
+          set -o pipefail
+          python content-engine/library.py 2>&1 | tee data/logs/library-last.log
       - name: Kaydet
         if: always()
         run: |
           git config user.name "burc-bot"
           git config user.email "burc-bot@users.noreply.github.com"
-          git add docs/v1
+          git add docs/v1 data/logs
           git diff --cached --quiet || (git commit -m "Yorum kütüphaneleri" && git pull --rebase && git push)
