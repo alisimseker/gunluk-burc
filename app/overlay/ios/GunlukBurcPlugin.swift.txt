@@ -45,6 +45,13 @@ class GunlukBurcPlugin: NSObject, FlutterPlugin {
           result(s.authorizationStatus == .authorized || s.authorizationStatus == .provisional)
         }
       }
+    case "scheduleSkyEvents":
+      let events = ((call.arguments as? [String: Any])?["events"] as? [[String: Any]]) ?? []
+      scheduleSkyEvents(events)
+      result(nil)
+    case "cancelSkyEvents":
+      removePending(prefix: "sky-")
+      result(nil)
     case "openNotificationSettings":
       if let url = URL(string: UIApplication.openSettingsURLString) {
         UIApplication.shared.open(url)
@@ -84,7 +91,9 @@ class GunlukBurcPlugin: NSObject, FlutterPlugin {
     center.getNotificationSettings { settings in
       guard settings.authorizationStatus == .authorized || settings.authorizationStatus == .provisional
       else { return }
-      center.removeAllPendingNotificationRequests()
+      center.getPendingNotificationRequests { reqs in
+      // Aynı kimlikle eklenen bildirim eskisinin yerine geçer; yalnızca artık listede olmayanlar silinir.
+      var keep = Set<String>()
 
       let fmt = DateFormatter()
       fmt.calendar = Calendar(identifier: .gregorian)
@@ -106,6 +115,7 @@ class GunlukBurcPlugin: NSObject, FlutterPlugin {
         if #available(iOS 15.0, *) { c.interruptionLevel = .passive }
         let trig = UNCalendarNotificationTrigger(dateMatching: comps, repeats: false)
         center.add(UNNotificationRequest(identifier: "day-\(iso)", content: c, trigger: trig))
+        keep.insert("day-\(iso)")
         lastDay = day
       }
 
@@ -118,7 +128,43 @@ class GunlukBurcPlugin: NSObject, FlutterPlugin {
         center.add(UNNotificationRequest(identifier: "reminder",
                                          content: c,
                                          trigger: UNCalendarNotificationTrigger(dateMatching: comps, repeats: false)))
+        keep.insert("reminder")
+      }
+      let stale = reqs.map { $0.identifier }
+        .filter { ($0.hasPrefix("day-") || $0 == "reminder") && !keep.contains($0) }
+      center.removePendingNotificationRequests(withIdentifiers: stale)
       }
     }
   }
+
+  private func removePending(prefix: String) {
+    let center = UNUserNotificationCenter.current()
+    center.getPendingNotificationRequests { reqs in
+      center.removePendingNotificationRequests(withIdentifiers:
+        reqs.map { $0.identifier }.filter { $0.hasPrefix(prefix) })
+    }
+  }
+
+  private func scheduleSkyEvents(_ events: [[String: Any]]) {
+    let center = UNUserNotificationCenter.current()
+    var keep = Set<String>()
+    for e in events.prefix(20) {
+      guard let id = e["id"] as? String, let at = e["at"] as? NSNumber,
+            let title = e["title"] as? String else { continue }
+      let date = Date(timeIntervalSince1970: at.doubleValue / 1000)
+      if date <= Date() { continue }
+      let c = UNMutableNotificationContent()
+      c.title = title
+      c.body = e["body"] as? String ?? ""
+      let comps = Calendar.current.dateComponents([.year, .month, .day, .hour, .minute], from: date)
+      center.add(UNNotificationRequest(identifier: "sky-\(id)", content: c,
+                                       trigger: UNCalendarNotificationTrigger(dateMatching: comps, repeats: false)))
+      keep.insert("sky-\(id)")
+    }
+    center.getPendingNotificationRequests { reqs in
+      center.removePendingNotificationRequests(withIdentifiers:
+        reqs.map { $0.identifier }.filter { $0.hasPrefix("sky-") && !keep.contains($0) })
+    }
+  }
+
 }

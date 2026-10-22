@@ -10,10 +10,14 @@ import '../zodiac.dart';
 /// Doğum tarihi, saati ve yeri. Kaydedilince BirthData ile kapanır.
 class BirthFormScreen extends StatefulWidget {
   final BirthData? initial;
-  const BirthFormScreen({super.key, this.initial});
+  final String title;
+  final bool partner;
+  const BirthFormScreen({super.key, this.initial, this.title = 'Doğum bilgilerin', this.partner = false});
 
-  static Future<BirthData?> open(BuildContext context, {BirthData? initial}) =>
-      Navigator.of(context).push<BirthData>(MaterialPageRoute(builder: (_) => BirthFormScreen(initial: initial)));
+  static Future<BirthData?> open(BuildContext context,
+          {BirthData? initial, String title = 'Doğum bilgilerin', bool partner = false}) =>
+      Navigator.of(context).push<BirthData>(MaterialPageRoute(
+          builder: (_) => BirthFormScreen(initial: initial, title: title, partner: partner)));
 
   @override
   State<BirthFormScreen> createState() => _BirthFormScreenState();
@@ -79,12 +83,13 @@ class _BirthFormScreenState extends State<BirthFormScreen> {
     if (p != null) setState(() => place = p);
   }
 
-  bool get valid => date != null && place != null && (timeUnknown || time != null);
+  bool get valid =>
+      date != null && place != null && (timeUnknown || time != null) && (!widget.partner || name.text.trim().isNotEmpty);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Doğum bilgilerin')),
+      appBar: AppBar(title: Text(widget.title)),
       body: StarfieldBackground(
         child: SafeArea(
           top: false,
@@ -97,8 +102,9 @@ class _BirthFormScreenState extends State<BirthFormScreen> {
             TextField(
               controller: name,
               textCapitalization: TextCapitalization.words,
+              onChanged: (_) => setState(() {}),
               style: AppText.body(16),
-              decoration: const InputDecoration(labelText: 'Adın (isteğe bağlı)'),
+              decoration: InputDecoration(labelText: widget.partner ? 'Adı' : 'Adın (isteğe bağlı)'),
             ),
             const SizedBox(height: 14),
             _Field(
@@ -135,7 +141,7 @@ class _BirthFormScreenState extends State<BirthFormScreen> {
             _Field(icon: Icons.place_outlined, label: 'Doğum yeri', value: place?.label, onTap: _pickPlace),
             const SizedBox(height: 28),
             GoldButton(
-              text: 'Haritamı hesapla',
+              text: widget.partner ? 'Kaydet' : 'Haritamı hesapla',
               onPressed: !valid
                   ? null
                   : () {

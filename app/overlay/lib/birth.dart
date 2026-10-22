@@ -61,7 +61,6 @@ class Astro {
 
   AstroEngine? _engine;
   List<Place>? _places;
-  Map<String, String> natalTexts = {};
 
   Future<AstroEngine> engine() async {
     if (_engine != null) return _engine!;
@@ -125,30 +124,63 @@ class Astro {
   Future<void> saveBirth(BirthData b) async =>
       (await SharedPreferences.getInstance()).setString(_kBirth, jsonEncode(b.toJson()));
 
-  // ---------------------------------------------------------------- yapay zekâ yorumları
-  static const _kNatal = 'natal_texts_cache';
+  // ---------------------------------------------------------------- partnerler (uyum)
+  static const _kPartners = 'partners';
 
-  Future<void> loadNatalTexts() async {
+  Future<List<BirthData>> loadPartners() async {
+    final s = (await SharedPreferences.getInstance()).getString(_kPartners);
+    if (s == null) return [];
+    try {
+      return (jsonDecode(s) as List).map((e) => BirthData.fromJson((e as Map).cast<String, dynamic>())).toList();
+    } catch (_) {
+      return [];
+    }
+  }
+
+  Future<void> savePartners(List<BirthData> list) async => (await SharedPreferences.getInstance())
+      .setString(_kPartners, jsonEncode(list.map((e) => e.toJson()).toList()));
+
+  // ---------------------------------------------------------------- yapay zekâ yorumları
+  static const libraries = ['natal', 'events', 'transits', 'synastry', 'solar'];
+  final Map<String, Map<String, String>> _libs = {};
+  final Map<String, DateTime> _loadedAt = {};
+
+  /// Bir yorum kütüphanesini indirir (internet yoksa telefondaki kopyayı kullanır). Saatte bir tazelenir.
+  Future<void> loadLibrary(String name) async {
+    if (_libs.containsKey(name) &&
+        DateTime.now().difference(_loadedAt[name]!) < const Duration(hours: 1)) {
+      return;
+    }
     final prefs = await SharedPreferences.getInstance();
+    final cacheKey = 'lib_cache_$name';
     String? body;
     try {
       final r = await http
-          .get(Uri.parse('$kContentBaseUrl/v1/natal/tr.json?t=${DateTime.now().millisecondsSinceEpoch ~/ 3600000}'))
+          .get(Uri.parse('$kContentBaseUrl/v1/$name/tr.json?t=${DateTime.now().millisecondsSinceEpoch ~/ 3600000}'))
           .timeout(const Duration(seconds: 15));
       if (r.statusCode == 200) {
         body = utf8.decode(r.bodyBytes);
-        await prefs.setString(_kNatal, body);
+        await prefs.setString(cacheKey, body);
       }
     } catch (_) {}
-    body ??= prefs.getString(_kNatal);
+    body ??= prefs.getString(cacheKey) ?? (name == 'natal' ? prefs.getString('natal_texts_cache') : null);
     if (body == null) return;
     try {
       final j = jsonDecode(body) as Map<String, dynamic>;
-      natalTexts = (j['texts'] as Map).cast<String, String>();
+      _libs[name] = (j['texts'] as Map).cast<String, String>();
+      _loadedAt[name] = DateTime.now();
     } catch (_) {}
   }
 
-  String? text(String key) => natalTexts[key];
+  Future<void> loadNatalTexts() => loadLibrary('natal');
+
+  String? text(String key) {
+    for (final l in _libs.values) {
+      final t = l[key];
+      if (t != null) return t;
+    }
+    return null;
+  }
 }
 
 /// Hesaplanmış kişisel harita

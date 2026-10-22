@@ -42,4 +42,17 @@ class NativeBridge {
       await _ch.invokeMethod('openNotificationSettings');
     } catch (_) {}
   }
+
+  /// Gökyüzü takvimi bildirimleri: [{id, at (ms), title, body}]
+  static Future<void> scheduleSkyEvents(List<Map<String, Object>> events) async {
+    try {
+      await _ch.invokeMethod('scheduleSkyEvents', {'events': events});
+    } catch (_) {}
+  }
+
+  static Future<void> cancelSkyEvents() async {
+    try {
+      await _ch.invokeMethod('cancelSkyEvents');
+    } catch (_) {}
+  }
 }

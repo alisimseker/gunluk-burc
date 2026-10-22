@@ -15,6 +15,9 @@ import 'dart:io';
 
 const project = 'gunluk_burc';
 const org = 'com.alisimseker';
+// AdMob uygulama kimlikleri: ŞU AN GOOGLE'IN TEST KİMLİKLERİ. Gerçek kimliği AdMob > Uygulamalar'dan al.
+const admobAndroidAppId = 'ca-app-pub-3940256099942544~3347511713';
+const admobIosAppId = 'ca-app-pub-3940256099942544~1458002511';
 const kotlinDir = 'android/app/src/main/kotlin/com/alisimseker/gunluk_burc';
 
 void log(String s) => stdout.writeln('• $s');
@@ -91,6 +94,25 @@ Future<void> main() async {
         </receiver>
     </application>''');
   }
+  // AdMob uygulama kimliği (ŞU AN GOOGLE TEST KİMLİĞİ; AdMob hesabı açınca değiştir: bkz. README)
+  if (!m.contains('com.google.android.gms.ads.APPLICATION_ID')) {
+    m = m.replaceFirst('</application>', '''    <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="$admobAndroidAppId"/>
+    </application>''');
+  } else {
+    m = m.replaceFirstMapped(RegExp(r'(com\.google\.android\.gms\.ads\.APPLICATION_ID"\s*android:value=")[^"]*'),
+        (x) => '${x.group(1)}$admobAndroidAppId');
+  }
+  // Reklam bağlantılarını tarayıcıda açabilmek için (url_launcher)
+  if (!m.contains('android.intent.action.VIEW')) {
+    m = m.replaceFirst('</manifest>', '''    <queries>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <data android:scheme="https"/>
+        </intent>
+    </queries>
+</manifest>''');
+  }
   m = m.replaceFirst(RegExp(r'android:label="[^"]*"'), 'android:label="Günlük Burç"');
   write(manifestPath, m);
   log('AndroidManifest güncellendi.');
@@ -147,6 +169,16 @@ dependencies {
     write(appDelegate, ad);
   }
   copyDir(Directory('overlay/ios/BurcWidget'), Directory('$project/ios/BurcWidget'));
+  final plistPath = '$project/ios/Runner/Info.plist';
+  var pl = read(plistPath);
+  if (!pl.contains('GADApplicationIdentifier')) {
+    final i = pl.lastIndexOf('</dict>');
+    pl = '${pl.substring(0, i)}\t<key>GADApplicationIdentifier</key>\n\t<string>$admobIosAppId</string>\n'
+        '\t<key>NSUserTrackingUsageDescription</key>\n'
+        '\t<string>Reklamların sana daha uygun olması için kullanılır. İzin vermesen de uygulama aynı çalışır.</string>\n'
+        '${pl.substring(i)}';
+    write(plistPath, pl);
+  }
   log('iOS kodu eklendi (widget hedefi Mac\'te Xcode ile bir kez eklenmeli, rehbere bak).');
 
   await run('flutter', ['pub', 'get'], cwd: project);

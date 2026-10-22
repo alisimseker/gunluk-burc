@@ -1,6 +1,10 @@
+import 'dart:async';
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+import '../ads.dart';
+import '../config.dart';
 import '../native_bridge.dart';
 import '../premium.dart';
 import '../repository.dart';
@@ -8,7 +12,11 @@ import '../theme.dart';
 import '../ui/glyph.dart';
 import '../zodiac.dart';
 import 'birth_form.dart';
+import 'calendar.dart';
+import 'compat.dart';
 import 'natal.dart';
+import 'personal_today.dart';
+import 'yearly.dart';
 import 'paywall.dart';
 import '../birth.dart';
 
@@ -25,8 +33,9 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
   final premium = PremiumService.instance;
   Map<String, DayReading> days = {};
-  bool offline = false, loading = true, notifOk = true;
+  bool offline = false, loading = true, notifOk = true, privacyOpt = false;
   int offset = 0;
+  Timer? _adTimer;
 
   @override
   void initState() {
@@ -34,10 +43,26 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     WidgetsBinding.instance.addObserver(this);
     premium.addListener(_onPremium);
     _load();
+    _scheduleAd();
+    AdService.instance.privacyOptionsRequired().then((v) {
+      if (mounted) setState(() => privacyOpt = v);
+    });
+  }
+
+  /// Ücretsiz kullanıcıya, yorumu okuması için bir süre geçtikten sonra (günde en fazla kAdsPerDay) reklam
+  void _scheduleAd() {
+    _adTimer?.cancel();
+    if (premium.isPremium) return;
+    _adTimer = Timer(kAdDelay, () {
+      if (!mounted || premium.isPremium) return;
+      if (ModalRoute.of(context)?.isCurrent != true) return; // başka ekrandaysa araya girme
+      AdService.instance.maybeShow(context, sign: widget.sign);
+    });
   }
 
   @override
   void dispose() {
+    _adTimer?.cancel();
     WidgetsBinding.instance.removeObserver(this);
     premium.removeListener(_onPremium);
     super.dispose();
@@ -48,6 +73,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     setState(() {
       if (!premium.isPremium) offset = 0;
     });
+    if (premium.isPremium) _adTimer?.cancel();
   }
 
   @override
@@ -56,6 +82,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       _load();
       NativeBridge.sync();
       premium.refresh();
+      _scheduleAd();
+    } else if (state == AppLifecycleState.paused) {
+      _adTimer?.cancel();
     }
   }
 
@@ -123,8 +152,10 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
             ),
             ListTile(
               leading: Icon(premium.isPremium ? Icons.verified : Icons.workspace_premium_outlined, color: AppColors.gold),
-              title: Text(premium.isPremium ? 'Premium üyeliğin aktif' : "Premium'a geç (${premium.priceText}/ay)"),
-              subtitle: premium.isPremium ? const Text('İptal: Google Play › Abonelikler') : null,
+              title: Text(premium.isPremium ? 'Premium üyeliğin aktif' : "Premium'a geç"),
+              subtitle: Text(premium.isPremium
+                  ? 'İptal: ${Theme.of(ctx).platform == TargetPlatform.iOS ? 'App Store' : 'Google Play'} › Abonelikler'
+                  : 'Yıllık ${premium.price(kYearlyProductId)} veya aylık ${premium.price(kMonthlyProductId)}'),
               onTap: () async {
                 Navigator.pop(ctx);
                 if (!premium.isPremium) await PaywallScreen.open(context);
@@ -138,6 +169,15 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                 NativeBridge.openNotificationSettings();
               },
             ),
+            if (privacyOpt && !premium.isPremium)
+              ListTile(
+                leading: const Icon(Icons.privacy_tip_outlined, color: AppColors.gold),
+                title: const Text('Reklam gizlilik seçenekleri'),
+                onTap: () {
+                  Navigator.pop(ctx);
+                  AdService.instance.showPrivacyOptions();
+                },
+              ),
             if (kDebugMode)
               SwitchListTile(
                 secondary: const Icon(Icons.bug_report_outlined, color: AppColors.muted),
@@ -257,6 +297,43 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                   if (!isPremium) Text('Premium', style: AppText.body(13, color: AppColors.muted)),
                 ]),
                 const SizedBox(height: 12),
+                _HighlightTile(
+                  locked: !isPremium,
+                  onTap: () => _openPremium(() => const PersonalTodayScreen()),
+                ),
+                const SizedBox(height: 10),
+                Row(children: [
+                  Expanded(
+                    child: _FeatureTile(
+                      glyph: 'venus',
+                      title: 'Burç uyumu',
+                      text: 'İki harita, gerçek açılar',
+                      compact: true,
+                      locked: !isPremium,
+                      onTap: () => _openPremium(() => const CompatScreen()),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: _FeatureTile(
+                      glyph: 'moon',
+                      title: 'Gökyüzü takvimi',
+                      text: 'Retro, Dolunay, tutulma',
+                      compact: true,
+                      locked: !isPremium,
+                      onTap: () => _openPremium(() => const CalendarScreen()),
+                    ),
+                  ),
+                ]),
+                const SizedBox(height: 10),
+                _FeatureTile(
+                  glyph: 'jupiter',
+                  title: 'Yıllık öngörü',
+                  text: 'Doğum gününden doğum gününe senin yılın',
+                  locked: !isPremium,
+                  onTap: () => _openPremium(() => const YearlyScreen()),
+                ),
+                const SizedBox(height: 10),
                 _FeatureTile(
                   glyph: 'sun',
                   title: 'Doğum haritan',
@@ -301,7 +378,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                           Text('Premium ile hepsi açık', style: AppText.display(22, w: FontWeight.w700)),
                           const SizedBox(height: 4),
-                          Text('Dün ve yarın, doğum haritan, yükselen ve Ay burcun · ${premium.priceText}/ay',
+                          Text('Reklamsız · yıllık ${premium.price(kYearlyProductId)} veya aylık ${premium.price(kMonthlyProductId)}',
                               style: AppText.body(13, color: AppColors.muted)),
                         ]),
                       ),
@@ -462,6 +539,43 @@ class _FeatureTile extends StatelessWidget {
           ),
           Icon(locked ? Icons.lock_outline : Icons.chevron_right, size: 18, color: locked ? AppColors.muted : AppColors.gold),
         ]),
+      );
+}
+
+/// "Bugün sana özel": günün gökyüzünün kendi haritanla buluştuğu yer (öne çıkan kart)
+class _HighlightTile extends StatelessWidget {
+  final bool locked;
+  final VoidCallback onTap;
+  const _HighlightTile({required this.locked, required this.onTap});
+
+  @override
+  Widget build(BuildContext context) => GestureDetector(
+        onTap: onTap,
+        child: Container(
+          padding: const EdgeInsets.fromLTRB(20, 18, 18, 18),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(22),
+            border: Border.all(color: AppColors.gold.withValues(alpha: 0.45)),
+            gradient: const LinearGradient(
+                colors: [Color(0xFF3A2C6C), Color(0xFF231B44)], begin: Alignment.topLeft, end: Alignment.bottomRight),
+          ),
+          child: Row(children: [
+            Expanded(
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Text('BUGÜN SANA ÖZEL', style: AppText.label(11)),
+                const SizedBox(height: 8),
+                Text('Gökyüzü bugün senin haritana ne söylüyor?',
+                    style: AppText.display(22, color: AppColors.goldSoft, w: FontWeight.w700)),
+                const SizedBox(height: 6),
+                Text('Günün gezegenleri doğum haritanla gerçek açılarla karşılaştırılır.',
+                    style: AppText.body(12.5, color: AppColors.muted, height: 1.35)),
+              ]),
+            ),
+            const SizedBox(width: 12),
+            Icon(locked ? Icons.lock_outline : Icons.arrow_forward_ios,
+                size: 18, color: locked ? AppColors.muted : AppColors.gold),
+          ]),
+        ),
       );
 }
 

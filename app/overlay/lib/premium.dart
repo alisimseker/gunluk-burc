@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'config.dart';
 
-/// Aylık üyelik durumu.
+/// Premium üyelik (aylık 299 ₺, yıllık 2.499 ₺).
 ///
 /// Google Play / App Store yalnızca SÜRESİ DOLMAMIŞ abonelikleri geri yükler. Bu yüzden uygulama her
 /// açılışta mağazaya sorar: üyelik aktifse özellikler açılır, iptal edilip süresi bittiyse kapanır,
@@ -15,6 +15,7 @@ class PremiumService extends ChangeNotifier {
   PremiumService._();
   static final PremiumService instance = PremiumService._();
 
+  static const productIds = {kMonthlyProductId, kYearlyProductId};
   static const _kVerifiedAt = 'premium_verified_at';
   static const _kDebugOverride = 'premium_debug_override';
   static const _offlineGrace = Duration(days: 3);
@@ -26,16 +27,19 @@ class PremiumService extends ChangeNotifier {
   bool _storeAvailable = false;
   bool _busy = false;
   bool? _debugOverride;
-  ProductDetails? product;
+  final Map<String, ProductDetails> products = {};
+  String? activePlan;
   String? lastError;
 
   bool get isPremium => _debugOverride ?? _active;
   bool get storeAvailable => _storeAvailable;
   bool get busy => _busy;
-  bool? get debugOverride => _debugOverride;
 
-  /// Mağazadaki fiyat (yoksa varsayılan)
-  String get priceText => product?.price ?? kPremiumFallbackPrice;
+  String price(String id) =>
+      products[id]?.price ?? (id == kYearlyProductId ? kYearlyFallbackPrice : kMonthlyFallbackPrice);
+
+  /// Geriye dönük uyumluluk (aylık fiyat)
+  String get priceText => price(kMonthlyProductId);
 
   Future<void> init() async {
     final prefs = await SharedPreferences.getInstance();
@@ -60,25 +64,33 @@ class PremiumService extends ChangeNotifier {
       lastError = '$e';
       notifyListeners();
     });
-    try {
-      final res = await _iap.queryProductDetails({kPremiumProductId});
-      if (res.productDetails.isNotEmpty) product = res.productDetails.first;
-    } catch (_) {}
+    await _loadProducts();
     await refresh();
+  }
+
+  Future<void> _loadProducts() async {
+    try {
+      final res = await _iap.queryProductDetails(productIds);
+      for (final p in res.productDetails) {
+        products[p.id] = p;
+      }
+      notifyListeners();
+    } catch (_) {}
   }
 
   /// Mağazadan güncel abonelik durumunu sorar.
   Future<void> refresh() async {
     if (!_storeAvailable) return;
-    var found = false;
+    String? found;
     final c = Completer<void>();
     late StreamSubscription<List<PurchaseDetails>> probe;
     probe = _iap.purchaseStream.listen((list) {
-      if (list.any((p) =>
-          p.productID == kPremiumProductId &&
-          (p.status == PurchaseStatus.restored || p.status == PurchaseStatus.purchased))) {
-        found = true;
-        if (!c.isCompleted) c.complete();
+      for (final p in list) {
+        if (productIds.contains(p.productID) &&
+            (p.status == PurchaseStatus.restored || p.status == PurchaseStatus.purchased)) {
+          found = p.productID;
+          if (!c.isCompleted) c.complete();
+        }
       }
     });
     try {
@@ -91,10 +103,11 @@ class PremiumService extends ChangeNotifier {
     await _setActive(found);
   }
 
-  Future<void> _setActive(bool v) async {
-    _active = v;
+  Future<void> _setActive(String? plan) async {
+    _active = plan != null;
+    activePlan = plan;
     final prefs = await SharedPreferences.getInstance();
-    if (v) {
+    if (_active) {
       await prefs.setInt(_kVerifiedAt, DateTime.now().millisecondsSinceEpoch);
     } else {
       await prefs.remove(_kVerifiedAt);
@@ -104,11 +117,11 @@ class PremiumService extends ChangeNotifier {
 
   Future<void> _onPurchases(List<PurchaseDetails> list) async {
     for (final p in list) {
-      if (p.productID != kPremiumProductId) continue;
+      if (!productIds.contains(p.productID)) continue;
       switch (p.status) {
         case PurchaseStatus.purchased:
         case PurchaseStatus.restored:
-          await _setActive(true);
+          await _setActive(p.productID);
           _busy = false;
         case PurchaseStatus.error:
           lastError = p.error?.message ?? 'Satın alma tamamlanamadı.';
@@ -127,20 +140,16 @@ class PremiumService extends ChangeNotifier {
     notifyListeners();
   }
 
-  Future<bool> buy() async {
+  Future<bool> buy(String productId) async {
     lastError = null;
     if (!_storeAvailable) {
       lastError = 'Mağaza şu anda kullanılamıyor. İnternet bağlantını kontrol et.';
       notifyListeners();
       return false;
     }
-    if (product == null) {
-      try {
-        final res = await _iap.queryProductDetails({kPremiumProductId});
-        if (res.productDetails.isNotEmpty) product = res.productDetails.first;
-      } catch (_) {}
-    }
-    if (product == null) {
+    if (!products.containsKey(productId)) await _loadProducts();
+    final prod = products[productId];
+    if (prod == null) {
       lastError = 'Üyelik paketi mağazada bulunamadı. (Uygulama Google Play üzerinden yüklenmiş olmalı.)';
       notifyListeners();
       return false;
@@ -148,7 +157,7 @@ class PremiumService extends ChangeNotifier {
     _busy = true;
     notifyListeners();
     try {
-      return await _iap.buyNonConsumable(purchaseParam: PurchaseParam(productDetails: product!));
+      return await _iap.buyNonConsumable(purchaseParam: PurchaseParam(productDetails: prod));
     } catch (e) {
       _busy = false;
       lastError = '$e';

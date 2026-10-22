@@ -81,21 +81,80 @@ Apple, iOS uygulamalarının yalnızca Mac'teki Xcode ile derlenmesine izin veri
    *Signing & Capabilities › + Capability › App Groups* › `group.com.alisimseker.gunlukburc` ekle.
 4. `flutter run` ile iPhone'da dene. Kilit ekranına basılı tut › Özelleştir › saatin altına "Günlük Burç".
 
-## Premium (aylık üyelik, 299 TL)
+## Premium (aylık 299 TL · yıllık 2.499 TL)
 
-Ücretsiz: yalnızca bugünün yorumu ve günün cümlesi (kilit ekranı dahil).
-Premium: dün ve yarın, doğum haritası, yükselen burç, Ay burcu.
+Ücretsiz: bugünün yorumu ve günün cümlesi (kilit ekranı dahil), günde en fazla 1 reklam (kurulum günü hiç yok).
+Premium: reklamsız; dün ve yarın, **bugün sana özel** (günün gezegenleri × doğum haritan), **burç uyumu**
+(iki harita), **gökyüzü takvimi** (retro, Yeniay, Dolunay, tutulma; 1 gün önceden bildirim),
+**yıllık öngörü** (güneş dönüşü), doğum haritası, yükselen ve Ay burcu.
 
-- Doğum haritası telefonda **hesaplanır** (`app/overlay/lib/astro/engine.dart`): Meeus algoritmaları (Güneş, Ay,
-  yükselen, Placidus evleri) + Mars–Plüton için Swiss Ephemeris'ten üretilmiş 1920–2040 tablosu.
-  `dart run tool/astro_check.dart` 60 haritayı Swiss Ephemeris'e karşı doğrular (sapma < 2 yay dakikası).
-- Yorumlar yapay zekâ ile bir kez yazılır (`content-engine/natal_library.py`, 300 yerleşim),
-  `docs/v1/natal/tr.json` olarak yayınlanır. "Doğum haritası yorum kütüphanesi" iş akışı her gün eksikleri tamamlar.
-- Abonelik: Google Play Console › Para kazanma › Abonelikler › ürün kimliği **`aylik_premium`**,
-  1 aylık temel plan, fiyat 299 TL. (iOS: App Store Connect'te aynı kimlikle otomatik yenilenen abonelik.)
+- Tüm hesaplar telefonda yapılır (`app/overlay/lib/astro/`): Meeus algoritmaları (Ay, yükselen, Placidus evleri)
+  + Güneş–Plüton için Swiss Ephemeris'ten üretilmiş 1920–2050 tablosu.
+  `dart run tool/astro_check.dart` 60 haritayı Swiss Ephemeris'e karşı doğrular.
+- Yorumlar yapay zekâ ile **bir kez** yazılır ve yayınlanır (`content-engine/library.py`):
+  `docs/v1/{natal,transits,synastry,events,solar}/tr.json`. "Yapay zekâ yorum kütüphaneleri" iş akışı
+  günde 3 kez eksikleri tamamlar; bitince Gemini'ye hiç istek gitmez. Kullanıcının doğum bilgisi Gemini'ye
+  gönderilmez: telefon haritayı hesaplar ve hazır yorumlardan uygun olanları seçer.
+- Abonelikler: Google Play Console › Para kazanma › Abonelikler:
+  - **`aylik_premium`**: 1 aylık temel plan, 299 TL
+  - **`yillik_premium`**: 1 yıllık temel plan, 2.499 TL
+  (iOS: App Store Connect'te aynı kimliklerle, aynı abonelik grubunda iki otomatik yenilenen abonelik.)
   Uygulama her açılışta mağazaya sorar; süresi biten üyelikte özellikler kapanır, yenilenince açılır.
 - Satın alma yalnızca uygulama Google Play üzerinden (en az "Dahili test" kanalından) yüklendiğinde çalışır.
   Deneme sürümünde (debug) Ayarlar menüsündeki "Test: Premium açık" anahtarıyla özellikler denenebilir.
+
+## Reklamlar
+
+Yalnızca ücretsiz kullanıcılara, ana sayfada 12 saniye geçtikten sonra, günde en fazla 1 tam ekran reklam.
+Önce **marka kampanyası** varsa o gösterilir; yoksa **AdMob** reklamı (Google satar, sen kazanırsın).
+
+### Marka kampanyası ekleme / kaldırma
+
+`docs/v1/ads.json` dosyasını GitHub'da düzenle (kalem simgesi › Commit). Telefonlar 10 dakika içinde görür;
+uygulama güncellemesi gerekmez. Görsel/video dosyalarını `docs/ads/` klasörüne yükleyebilirsin.
+
+```json
+{
+  "campaigns": [
+    {
+      "id": "kahve-kasim",
+      "brand": "Örnek Kahve",
+      "title": "Yeni sezon kahveleri",
+      "subtitle": "Uygulamaya özel %20 indirim",
+      "cta": "Hemen incele",
+      "url": "https://ornek.com/kampanya",
+      "image": "https://alisimseker.github.io/gunluk-burc/ads/kahve.jpg",
+      "video": "",
+      "logo": "",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "skip_after": 5,
+      "weight": 1,
+      "signs": []
+    }
+  ]
+}
+```
+
+| Alan | Anlamı |
+|---|---|
+| `image` / `video` | Gösterilecek görsel (jpg/png) ya da kısa video (mp4). Video varsa o oynar. |
+| `start`, `end` | Kampanyanın yayında olduğu günler (bu günler dahil). Süre bitince kendiliğinden kalkar. |
+| `skip_after` | Kaç saniye sonra "Geç" düğmesi çıksın. |
+| `weight` | Aynı anda birden fazla kampanya varsa gösterilme payı (2 = diğerinin 2 katı). |
+| `signs` | Boş = herkese. `["koc","aslan"]` = yalnızca bu burçlara. |
+
+Kaldırmak için kampanyayı listeden sil (ya da `end` tarihini geçmişe çek). Liste boşsa AdMob devreye girer.
+
+### AdMob'u gerçek hesaba bağlama (para kazanmak için)
+
+Şu an Google'ın **test** kimlikleri kullanılıyor (ekranda "Test Ad" yazar, para kazandırmaz).
+1. [admob.google.com](https://admob.google.com) hesabı aç, Android ve iOS uygulamasını ekle.
+2. Her uygulamada **Geçiş reklamı (Interstitial)** birimi oluştur.
+3. Uygulama kimliklerini (`ca-app-pub-…~…`) `app/setup.dart` başındaki `admobAndroidAppId` / `admobIosAppId`'ye,
+   birim kimliklerini (`ca-app-pub-…/…`) `app/overlay/lib/config.dart`'taki `kAdmobInterstitial…`'a yaz.
+4. AdMob › Gizlilik ve mesajlaşma › **GDPR mesajı** oluştur (Avrupa'daki kullanıcılar için izin ekranı).
+5. Play Console › Uygulama içeriği › **Reklamlar: Evet** olarak işaretle.
 
 ## Dosyalar
 
@@ -104,6 +163,8 @@ Premium: dün ve yarın, doğum haritası, yükselen burç, Ay burcu.
 | `content-engine/sky.py` | Gerçek gökyüzü hesaplaması (`python sky.py 2026-10-20` ile deneyebilirsin) |
 | `content-engine/generate.py` | Yapay zekâya yazdırma, uydurma ve tekrar kontrolleri, yayınlama |
 | `content-engine/similarity.py` | Tekrar ölçümü |
+| `content-engine/library.py` | Premium yorum kütüphaneleri (harita, transit, uyum, takvim, yıllık) |
+| `docs/v1/ads.json` | Marka reklam kampanyaları |
 | `.github/workflows/daily-content.yml` | Her gece otomatik çalıştırma |
 | `data/archive/` | Üretilen tüm günlerin arşivi (tekrar kontrolü bunu kullanır) |
 | `docs/` | Uygulamanın indirdiği yayın dosyaları + gizlilik sayfası |

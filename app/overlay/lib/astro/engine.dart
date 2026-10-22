@@ -1,9 +1,9 @@
 // Doğum haritası hesaplama motoru.
 // Kaynaklar: Meeus "Astronomical Algorithms" (Ay: bölüm 47, yıldız zamanı: 12, eğiklik ve nütasyon: 22),
 // JPL "Approximate Positions of the Planets" (Standish, Tablo 1).
-// Mars–Plüton için 1920–2040 arası Swiss Ephemeris'ten üretilmiş 2 günlük tablo (assets/ephem.bin)
-// 4 noktalı Lagrange ile ara değerlenir.
-// Python referans sürümü 3000 rastgele haritada Swiss Ephemeris'ten en fazla ~2 yay dakikası sapmıştır.
+// Güneş–Plüton için 1920–2050 arası Swiss Ephemeris'ten üretilmiş günlük tablo (assets/ephem.bin)
+// 4 noktalı Lagrange ile ara değerlenir; tablo dışı tarihlerde Meeus/JPL formülleri kullanılır.
+// Python referans sürümü 3000 rastgele haritada Swiss Ephemeris'ten en fazla 0,3 yay dakikası sapmıştır (Ay).
 import 'dart:math' as m;
 import 'dart:typed_data';
 
@@ -213,34 +213,41 @@ double siderealDeg(double jdUT) {
   return norm360(g + nutation(T)[0] * m.cos(_rad(obliquity(T))));
 }
 
-/// Yavaş gezegen tablosu
+/// Gezegen tablosu (Swiss Ephemeris'ten üretilmiş).
+/// EPH1: Mars–Plüton, 2 gün, uint16.  EPH2: Güneş–Plüton, 1 gün, uint32 (≈0.0001″ çözünürlük).
 class SlowTable {
-  static const order = ['mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
+  static const order1 = ['mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
+  static const order2 = ['sun', 'mercury', 'venus', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
   final double start, step;
   final int n;
-  final Map<String, Uint16List> data;
-  SlowTable._(this.start, this.step, this.n, this.data);
+  final Map<String, List<int>> data;
+  final double scale;
+  SlowTable._(this.start, this.step, this.n, this.data, this.scale);
+
+  bool has(String name) => data.containsKey(name);
 
   static SlowTable? parse(ByteData b) {
-    if (b.lengthInBytes < 28 ||
-        String.fromCharCodes([b.getUint8(0), b.getUint8(1), b.getUint8(2), b.getUint8(3)]) != 'EPH1') {
-      return null;
-    }
+    if (b.lengthInBytes < 28) return null;
+    final magic = String.fromCharCodes([b.getUint8(0), b.getUint8(1), b.getUint8(2), b.getUint8(3)]);
+    if (magic != 'EPH1' && magic != 'EPH2') return null;
+    final v2 = magic == 'EPH2';
     final start = b.getFloat64(4, Endian.little);
     final step = b.getFloat64(12, Endian.little);
     final n = b.getInt32(20, Endian.little);
     final np = b.getUint32(24, Endian.little);
-    final data = <String, Uint16List>{};
+    final order = v2 ? order2 : order1;
+    final width = v2 ? 4 : 2;
+    final data = <String, List<int>>{};
     var off = 28;
     for (var k = 0; k < np && k < order.length; k++) {
-      final arr = Uint16List(n);
+      final List<int> arr = v2 ? Uint32List(n) : Uint16List(n);
       for (var i = 0; i < n; i++) {
-        arr[i] = b.getUint16(off + i * 2, Endian.little);
+        arr[i] = v2 ? b.getUint32(off + i * 4, Endian.little) : b.getUint16(off + i * 2, Endian.little);
       }
       data[order[k]] = arr;
-      off += n * 2;
+      off += n * width;
     }
-    return SlowTable._(start, step, n, data);
+    return SlowTable._(start, step, n, data, v2 ? 360.0 / 4294967296.0 : 360.0 / 65536.0);
   }
 
   double? lon(String name, double jdTT) {
@@ -249,7 +256,7 @@ class SlowTable {
     final x = (jdTT - start) / step;
     final i = x.floor() - 1;
     if (i < 0 || i + 3 >= n) return null;
-    final v = List<double>.generate(4, (k) => arr[i + k] * 360.0 / 65536);
+    final v = List<double>.generate(4, (k) => arr[i + k] * scale);
     for (var k = 1; k < 4; k++) {
       while (v[k] - v[k - 1] > 180) {
         v[k] -= 360;
@@ -298,10 +305,8 @@ class AstroEngine {
   double planetLon(String name, double jdTT) {
     if (name == 'moon') return moonLon(jdTT);
     if (name == 'node') return meanNode(jdTT);
-    if (SlowTable.order.contains(name)) {
-      final r = table?.lon(name, jdTT);
-      if (r != null) return r;
-    }
+    final r = table?.lon(name, jdTT);
+    if (r != null) return r;
     return _analyticPlanet(name, jdTT);
   }
 

@@ -2,11 +2,12 @@ import 'dart:io' show Platform;
 
 import 'package:flutter/material.dart';
 
+import '../config.dart';
 import '../premium.dart';
 import '../theme.dart';
 import '../ui/glyph.dart';
 
-/// Aylık üyelik satın alma ekranı. Satın alma başarılı olursa true ile kapanır.
+/// Premium satın alma ekranı (yıllık / aylık). Satın alma başarılı olursa true ile kapanır.
 class PaywallScreen extends StatefulWidget {
   const PaywallScreen({super.key});
 
@@ -19,6 +20,7 @@ class PaywallScreen extends StatefulWidget {
 
 class _PaywallScreenState extends State<PaywallScreen> {
   final p = PremiumService.instance;
+  String plan = kYearlyProductId;
 
   @override
   void initState() {
@@ -41,73 +43,94 @@ class _PaywallScreenState extends State<PaywallScreen> {
     setState(() {});
   }
 
+  static const _features = [
+    ('Bugün sana özel', 'Günün gökyüzü kendi doğum haritanla karşılaştırılır'),
+    ('Burç uyumu', 'İki doğum haritası: aşk, iletişim, uzun vade'),
+    ('Doğum haritan', 'Gerçek gezegen konumları, 12 ev, açılar ve yorumlar'),
+    ('Yükselen ve Ay burcun', 'Doğum saatin ve yerine göre hesaplanır'),
+    ('Gökyüzü takvimi', 'Retro, Yeniay, Dolunay ve tutulmalar; önceden bildirim'),
+    ('Yıllık öngörü', 'Doğum gününden doğum gününe senin yılın'),
+    ('Dün ve yarın', 'Kaçırdığın günü oku, yarını önceden gör'),
+    ('Reklamsız', 'Premium üyelerine hiç reklam gösterilmez'),
+  ];
+
   @override
   Widget build(BuildContext context) {
     final store = Platform.isIOS ? 'App Store' : 'Google Play';
+    final yearly = plan == kYearlyProductId;
     return Scaffold(
       body: StarfieldBackground(
         child: SafeArea(
           child: Column(children: [
             Align(
               alignment: Alignment.centerRight,
-              child: IconButton(onPressed: () => Navigator.of(context).pop(false), icon: const Icon(Icons.close)),
+              child: IconButton(
+                  tooltip: 'Kapat', onPressed: () => Navigator.of(context).pop(false), icon: const Icon(Icons.close)),
             ),
             Expanded(
-              child: ListView(padding: const EdgeInsets.fromLTRB(24, 0, 24, 16), children: [
-                Center(
-                  child: Container(
-                    width: 96,
-                    height: 96,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                      gradient: RadialGradient(colors: [AppColors.gold.withValues(alpha: 0.28), Colors.transparent]),
-                    ),
-                    child: const Glyph('sun', size: 56, color: AppColors.goldSoft, stroke: 5),
+              child: ListView(padding: const EdgeInsets.fromLTRB(22, 0, 22, 12), children: [
+                const Center(child: Glyph('sun', size: 54, color: AppColors.goldSoft, stroke: 5)),
+                const SizedBox(height: 10),
+                Text('Günlük Burç Premium', textAlign: TextAlign.center, style: AppText.display(32)),
+                const SizedBox(height: 4),
+                Text('Gökyüzünün sana özel haritası, reklamsız.',
+                    textAlign: TextAlign.center, style: AppText.body(14, color: AppColors.muted)),
+                const SizedBox(height: 18),
+                for (final f in _features)
+                  Padding(
+                    padding: const EdgeInsets.only(bottom: 9),
+                    child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      Container(
+                        width: 22,
+                        height: 22,
+                        alignment: Alignment.center,
+                        decoration: BoxDecoration(color: const Color(0xFF2A2150), borderRadius: BorderRadius.circular(11)),
+                        child: const Icon(Icons.check, size: 14, color: AppColors.gold),
+                      ),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                          Text(f.$1, style: AppText.body(14.5, w: FontWeight.w700, height: 1.3)),
+                          Text(f.$2, style: AppText.body(12.5, color: AppColors.muted, height: 1.35)),
+                        ]),
+                      ),
+                    ]),
                   ),
-                ),
-                const SizedBox(height: 12),
-                Text('Günlük Burç Premium', textAlign: TextAlign.center, style: AppText.display(34)),
-                const SizedBox(height: 8),
-                Text('Gökyüzünün sana özel haritasını aç.',
-                    textAlign: TextAlign.center, style: AppText.body(15, color: AppColors.muted)),
-                const SizedBox(height: 28),
-                const _Feature(
-                    glyph: 'sun',
-                    title: 'Doğum haritan',
-                    text: 'Doğduğun anın gerçek gezegen konumları, 12 ev ve açılar; her yerleşim için ayrıntılı yorum.'),
-                const _Feature(
-                    glyph: 'koc',
-                    title: 'Yükselen burcun',
-                    text: 'Doğum saatin ve yerine göre hesaplanır: ilk izlenimin ve hayata yaklaşımın.'),
-                const _Feature(
-                    glyph: 'moon',
-                    title: 'Ay burcun',
-                    text: 'Duygusal doğan, iç ihtiyaçların ve kendini güvende hissetme biçimin.'),
-                const _Feature(
-                    glyph: 'mercury',
-                    title: 'Dün ve yarın',
-                    text: 'Kaçırdığın günü oku, yarının yorumunu bir gün önceden gör.'),
               ]),
             ),
             Padding(
-              padding: const EdgeInsets.fromLTRB(24, 0, 24, 16),
+              padding: const EdgeInsets.fromLTRB(20, 4, 20, 14),
               child: Column(children: [
                 if (p.lastError != null)
                   Padding(
-                    padding: const EdgeInsets.only(bottom: 10),
+                    padding: const EdgeInsets.only(bottom: 8),
                     child: Text(p.lastError!,
-                        textAlign: TextAlign.center, style: AppText.body(13, color: const Color(0xFFF2A3A3))),
+                        textAlign: TextAlign.center, style: AppText.body(12.5, color: const Color(0xFFF2A3A3))),
                   ),
-                RichText(
-                  text: TextSpan(children: [
-                    TextSpan(text: p.priceText, style: AppText.display(32, color: AppColors.goldSoft)),
-                    TextSpan(text: '  / ay', style: AppText.body(15, color: AppColors.muted)),
-                  ]),
+                _PlanCard(
+                  selected: yearly,
+                  badge: 'EN AVANTAJLI · %30 İNDİRİM',
+                  title: 'YILLIK ÜYELİK',
+                  subtitle: 'Ayda yalnızca ₺208',
+                  price: p.price(kYearlyProductId),
+                  period: '/ yıl',
+                  onTap: () => setState(() => plan = kYearlyProductId),
                 ),
-                const SizedBox(height: 14),
-                GoldButton(text: 'Aylık üyeliği başlat', loading: p.busy, onPressed: () => p.buy()),
-                const SizedBox(height: 6),
+                const SizedBox(height: 10),
+                _PlanCard(
+                  selected: !yearly,
+                  title: 'AYLIK ÜYELİK',
+                  subtitle: 'İstediğin zaman iptal',
+                  price: p.price(kMonthlyProductId),
+                  period: '/ ay',
+                  onTap: () => setState(() => plan = kMonthlyProductId),
+                ),
+                const SizedBox(height: 12),
+                GoldButton(
+                  text: yearly ? 'Yıllık üyeliği başlat' : 'Aylık üyeliği başlat',
+                  loading: p.busy,
+                  onPressed: () => p.buy(plan),
+                ),
                 TextButton(
                   onPressed: () async {
                     await p.refresh();
@@ -120,10 +143,10 @@ class _PaywallScreenState extends State<PaywallScreen> {
                   child: Text('Satın alımları geri yükle', style: AppText.body(13, color: AppColors.muted)),
                 ),
                 Text(
-                  'Üyelik her ay otomatik yenilenir. İstediğin zaman $store › Abonelikler bölümünden iptal '
-                  'edebilirsin; iptal edersen dönem sonuna kadar kullanmaya devam edersin.',
+                  'Seçtiğin dönem sonunda otomatik yenilenir. $store › Abonelikler bölümünden istediğin zaman iptal '
+                  'edebilirsin; dönem sonuna kadar kullanmaya devam edersin.',
                   textAlign: TextAlign.center,
-                  style: AppText.body(11.5, color: AppColors.muted, height: 1.4),
+                  style: AppText.body(11, color: AppColors.muted, height: 1.4),
                 ),
               ]),
             ),
@@ -134,33 +157,65 @@ class _PaywallScreenState extends State<PaywallScreen> {
   }
 }
 
-class _Feature extends StatelessWidget {
-  final String glyph, title, text;
-  const _Feature({required this.glyph, required this.title, required this.text});
+class _PlanCard extends StatelessWidget {
+  final bool selected;
+  final String? badge;
+  final String title, subtitle, price, period;
+  final VoidCallback onTap;
+  const _PlanCard(
+      {required this.selected,
+      this.badge,
+      required this.title,
+      required this.subtitle,
+      required this.price,
+      required this.period,
+      required this.onTap});
 
   @override
-  Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.only(bottom: 18),
-        child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          Container(
-            width: 46,
-            height: 46,
-            alignment: Alignment.center,
+  Widget build(BuildContext context) {
+    return Semantics(
+      button: true,
+      selected: selected,
+      child: GestureDetector(
+        onTap: onTap,
+        child: Stack(clipBehavior: Clip.none, children: [
+          AnimatedContainer(
+            duration: const Duration(milliseconds: 180),
+            padding: const EdgeInsets.fromLTRB(16, 14, 16, 12),
             decoration: BoxDecoration(
               color: AppColors.card,
-              borderRadius: BorderRadius.circular(14),
-              border: Border.all(color: AppColors.line),
+              borderRadius: BorderRadius.circular(18),
+              border: Border.all(color: selected ? AppColors.gold : AppColors.line, width: selected ? 1.6 : 1),
             ),
-            child: Glyph(glyph, size: 26, stroke: 7),
-          ),
-          const SizedBox(width: 14),
-          Expanded(
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Text(title, style: AppText.body(16, w: FontWeight.w700)),
-              const SizedBox(height: 3),
-              Text(text, style: AppText.body(14, color: AppColors.muted, height: 1.45)),
+            child: Row(children: [
+              Icon(selected ? Icons.radio_button_checked : Icons.radio_button_unchecked,
+                  color: selected ? AppColors.gold : AppColors.muted, size: 20),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Text(title, style: AppText.label(11.5)),
+                  const SizedBox(height: 2),
+                  Text(subtitle, style: AppText.body(12.5, color: AppColors.muted)),
+                ]),
+              ),
+              Text(price, style: AppText.display(28, color: AppColors.goldSoft, w: FontWeight.w700)),
+              const SizedBox(width: 4),
+              Text(period, style: AppText.body(12.5, color: AppColors.muted)),
             ]),
           ),
+          if (badge != null)
+            Positioned(
+              top: -9,
+              left: 14,
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                decoration: BoxDecoration(color: AppColors.gold, borderRadius: BorderRadius.circular(8)),
+                child: Text(badge!,
+                    style: AppText.body(9.5, color: AppColors.bg, w: FontWeight.w800, spacing: 0.8, height: 1.2)),
+              ),
+            ),
         ]),
-      );
+      ),
+    );
+  }
 }

@@ -49,6 +49,16 @@ class MainActivity : FlutterActivity() {
                         }
                         result.success(null)
                     }
+                    "scheduleSkyEvents" -> {
+                        @Suppress("UNCHECKED_CAST")
+                        val list = (call.argument<List<Map<String, Any?>>>("events")) ?: emptyList()
+                        SkyEventWorker.scheduleAll(this, list)
+                        result.success(null)
+                    }
+                    "cancelSkyEvents" -> {
+                        SkyEventWorker.cancelAll(this)
+                        result.success(null)
+                    }
                     else -> result.notImplemented()
                 }
             }

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
+import 'ads.dart';
 import 'native_bridge.dart';
 import 'premium.dart';
 import 'repository.dart';
@@ -18,7 +19,8 @@ void main() {
     statusBarIconBrightness: Brightness.light,
     systemNavigationBarColor: AppColors.bg,
   ));
-  PremiumService.instance.init();
+  // Önce üyelik durumu; Premium değilse reklam izni ve kampanyalar hazırlanır
+  PremiumService.instance.init().whenComplete(AdService.instance.init);
   runApp(const GunlukBurcApp());
 }
 
