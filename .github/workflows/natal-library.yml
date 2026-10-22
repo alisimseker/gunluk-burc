@@ -2,7 +2,7 @@ name: Yapay zekâ yorum kütüphaneleri
 
 on:
   schedule:
-    - cron: "41 3,11,19 * * *"   # Türkiye saatiyle 06:41, 14:41, 22:41 (tamamlanınca hiçbir şey yapmaz)
+    - cron: "41 * * * *"   # her saat (kütüphaneler tamamlanınca saniyeler içinde biter, hiçbir şey yapmaz)
   workflow_dispatch:
   push:
     branches: [main]
