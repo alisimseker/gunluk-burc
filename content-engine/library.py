@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import time
 import re
 import sys
 from pathlib import Path
@@ -28,6 +29,9 @@ from generate import Gemini, load_json, save_json
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs" / "v1"
 MAX_REQUESTS = int(os.environ.get("NATAL_MAX_REQUESTS", "12"))
+# İş akışı süre sınırına takılmadan kaydedebilsin diye üretim bu kadar dakika sonra durur
+TIME_LIMIT_MIN = float(os.environ.get("LIBRARY_TIME_LIMIT_MIN", "35"))
+_START = time.time()
 
 SIGNS = ["Koç", "Boğa", "İkizler", "Yengeç", "Aslan", "Başak", "Terazi", "Akrep", "Yay", "Oğlak", "Kova", "Balık"]
 SIGN_LOC = ["Koç'ta", "Boğa'da", "İkizler'de", "Yengeç'te", "Aslan'da", "Başak'ta", "Terazi'de", "Akrep'te",
@@ -264,6 +268,10 @@ def run_library(name: str, items_fn, writer, budget: int, mock: bool) -> int:
     tries: dict[str, int] = {}
     used = 0
     while todo and used < budget:
+        if time.time() - _START > TIME_LIMIT_MIN * 60:
+            print(f"[{name}] süre sınırı ({TIME_LIMIT_MIN:.0f} dk) doldu, kalanlar sonraki çalışmada.")
+            used = budget + 1
+            break
         size = 16 if todo[0][2] <= 300 else 12
         batch = todo[:size]
         lines = ["Aşağıdaki her madde için Türkçe metin yaz. JSON: {\"anahtar\": \"metin\", ...}", ""]
@@ -278,7 +286,9 @@ def run_library(name: str, items_fn, writer, budget: int, mock: bool) -> int:
             if mock:
                 res = {k: (f"Deneme {k} " * 40)[:t] for k, _, t, _ in batch}
             else:
-                res, _ = writer.generate("\n".join(lines), system=system)
+                t0 = time.time()
+                res, model_used = writer.generate("\n".join(lines), system=system)
+                print(f"[{name}] {model_used} {time.time() - t0:.0f} sn")
         except RuntimeError as e:
             print("Üretim durdu:", e, file=sys.stderr)
             used = budget + 1

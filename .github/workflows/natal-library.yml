@@ -30,11 +30,12 @@ jobs:
       - name: Eksik yorumları üret
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NATAL_MAX_REQUESTS: "45"
+          NATAL_MAX_REQUESTS: "60"
+          LIBRARY_TIME_LIMIT_MIN: "35"
         run: |
           mkdir -p data/logs
           set -o pipefail
-          python content-engine/library.py 2>&1 | tee data/logs/library-last.log
+          python -u content-engine/library.py 2>&1 | tee data/logs/library-last.log
       - name: Kaydet
         if: always()
         run: |
