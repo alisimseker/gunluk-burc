@@ -45,6 +45,7 @@ class Campaign {
 ///  - Ücretsiz kullanıcı günde en fazla [kAdsPerDay] tam ekran reklam görür; uygulamayı ilk kurduğu gün hiç görmez.
 ///  - Reklam, kullanıcı ana sayfada yorumu okuyacak kadar kaldıktan sonra ([kAdDelay]) gösterilir, açılışta değil.
 ///  - Aktif bir marka kampanyası varsa o gösterilir; yoksa AdMob reklamı.
+///  - Ana sayfanın en altında, içerikten ve düğmelerden ayrı, sabit bir AdMob banner'ı (ilk gün yok).
 class AdService {
   AdService._();
   static final AdService instance = AdService._();
@@ -55,6 +56,13 @@ class AdService {
 
   bool _sdkReady = false;
   bool _consentDone = false;
+
+  /// AdMob hazır olduğunda true olur (alt banner bunu dinler)
+  final ValueNotifier<bool> sdkReady = ValueNotifier(false);
+
+  /// Uygulamanın kurulduğu gün mü? (ilk gün hiç reklam yok)
+  Future<bool> isFirstDay() async =>
+      (await SharedPreferences.getInstance()).getString(_kFirstOpen) == isoDate(DateTime.now());
   InterstitialAd? _interstitial;
   bool _loading = false;
   List<Campaign> _campaigns = [];
@@ -95,6 +103,7 @@ class AdService {
       if (!await ConsentInformation.instance.canRequestAds()) return;
       await MobileAds.instance.initialize();
       _sdkReady = true;
+      sdkReady.value = true;
       _preload();
     } catch (_) {}
   }

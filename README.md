@@ -105,7 +105,8 @@ Premium: reklamsız; dün ve yarın, **bugün sana özel** (günün gezegenleri 
 
 ## Reklamlar
 
-Yalnızca ücretsiz kullanıcılara, ana sayfada 12 saniye geçtikten sonra, günde en fazla 1 tam ekran reklam.
+Yalnızca ücretsiz kullanıcılara: ana sayfada 12 saniye geçtikten sonra günde en fazla 1 tam ekran reklam,
+ayrıca ana sayfanın en altında, içerikten ayrılmış sabit bir banner (kurulum günü ikisi de yok).
 Önce **marka kampanyası** varsa o gösterilir; yoksa **AdMob** reklamı (Google satar, sen kazanırsın).
 
 ### Marka kampanyası ekleme / kaldırma
@@ -150,9 +151,9 @@ Kaldırmak için kampanyayı listeden sil (ya da `end` tarihini geçmişe çek).
 
 Şu an Google'ın **test** kimlikleri kullanılıyor (ekranda "Test Ad" yazar, para kazandırmaz).
 1. [admob.google.com](https://admob.google.com) hesabı aç, Android ve iOS uygulamasını ekle.
-2. Her uygulamada **Geçiş reklamı (Interstitial)** birimi oluştur.
+2. Her uygulamada bir **Geçiş reklamı (Interstitial)** ve bir **Banner** birimi oluştur.
 3. Uygulama kimliklerini (`ca-app-pub-…~…`) `app/setup.dart` başındaki `admobAndroidAppId` / `admobIosAppId`'ye,
-   birim kimliklerini (`ca-app-pub-…/…`) `app/overlay/lib/config.dart`'taki `kAdmobInterstitial…`'a yaz.
+   birim kimliklerini (`ca-app-pub-…/…`) `app/overlay/lib/config.dart`'taki `kAdmobInterstitial…` ve `kAdmobBanner…`'a yaz.
 4. AdMob › Gizlilik ve mesajlaşma › **GDPR mesajı** oluştur (Avrupa'daki kullanıcılar için izin ekranı).
 5. Play Console › Uygulama içeriği › **Reklamlar: Evet** olarak işaretle.
 

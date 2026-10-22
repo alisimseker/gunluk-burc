@@ -9,6 +9,7 @@ import '../native_bridge.dart';
 import '../premium.dart';
 import '../repository.dart';
 import '../theme.dart';
+import '../ui/banner_ad.dart';
 import '../ui/glyph.dart';
 import '../zodiac.dart';
 import 'birth_form.dart';
@@ -204,6 +205,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     final isPremium = premium.isPremium;
 
     return Scaffold(
+      bottomNavigationBar: isPremium ? null : const BottomBannerAd(),
       body: StarfieldBackground(
         child: SafeArea(
           bottom: false,

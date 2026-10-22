@@ -16,6 +16,10 @@ const String kYearlyFallbackPrice = '₺2.499';
 const String kAdmobInterstitialAndroid = 'ca-app-pub-3940256099942544/1033173712';
 const String kAdmobInterstitialIos = 'ca-app-pub-3940256099942544/4411468910';
 
+/// Ana sayfanın altındaki sabit banner (uyarlanabilir banner test kimlikleri)
+const String kAdmobBannerAndroid = 'ca-app-pub-3940256099942544/9214589741';
+const String kAdmobBannerIos = 'ca-app-pub-3940256099942544/2435281174';
+
 /// Ücretsiz kullanıcıya günde en fazla kaç tam ekran reklam gösterilir
 const int kAdsPerDay = 1;
 
