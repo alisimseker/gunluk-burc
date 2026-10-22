@@ -1,7 +1,7 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-22T03:20:42+03:00",
+ "updated": "2026-10-22T17:33:08+03:00",
  "days": [
   {
    "date": "2026-10-21",
@@ -205,6 +205,31 @@
     "Satürn Koç'ta 9°31' ℞",
     "Uranüs İkizler'de 4°48' ℞",
     "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-29",
+   "focus": "Merak ve Neşe",
+   "short": "Zihnini canlandıran fikirler yaratıcılığını ateşliyor.",
+   "text": "Merak ettiğin konulara yönelmek ve yeni şeyler öğrenmek bugün sana bambaşka bir canlılık kazandırabilir. Hobilerine vakit ayırırken veya seni neşelendiren projelere odaklanırken kendini çok daha hevesli hissedeceksin. Aklından geçen projeleri somutlaştırmak için cesur bir adım atabilirsin; ancak sözlerini seçerken gereksiz tartışmalardan uzak kalmaya özen göster. Sevdiğin şeylerle ilgilenmek gün boyu içindeki kıpırtıyı canlı tutacaktır.",
+   "motivation": "Merakın peşinden cesaretle git.",
+   "basis": "Ay'ın İkizler burcundaki konumu, beşinci evindeki Mars ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 5°57'",
+    "Ay İkizler'de 19°35'",
+    "Merkür Akrep'te 19°07' ℞",
+    "Venüs Terazi'de 27°38' ℞",
+    "Mars Aslan'da 17°17'",
+    "Jüpiter Aslan'da 23°59'",
+    "Satürn Koç'ta 9°27' ℞",
+    "Uranüs İkizler'de 4°46' ℞",
+    "Neptün Koç'ta 2°08' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

@@ -1,7 +1,7 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-22T03:20:42+03:00",
+ "updated": "2026-10-22T17:33:08+03:00",
  "days": [
   {
    "date": "2026-10-21",
@@ -205,6 +205,31 @@
     "Satürn Koç'ta 9°31' ℞",
     "Uranüs İkizler'de 4°48' ℞",
     "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-29",
+   "focus": "Günlük Verimlilik",
+   "short": "İşlerini sıraya koyarak verimli sonuçlar alabilirsin.",
+   "text": "Günlük akışını toparlamak ve birikmiş sorumlulukları eritmek için harika bir dinamizm yakalayabilirsin. Ortak çalışmalar veya paylaşılan bütçeler konusunda pratik kararlar almak işlerini hafifletecektir. Sosyal ortamların getirdiği kafa karışıklıklarına takılmadan, doğrudan yapılması gereken görevlere odaklanmalısın. Bedenini dinç tutacak ufak düzenlemeler yapmak da günün temposunu rahatça kaldırmanı sağlar.",
+   "motivation": "Küçük çabalar büyük fark yaratır.",
+   "basis": "Altıncı evindeki Ay, sekizinci evindeki Mars ile sekstil açı kuruyor.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 5°57'",
+    "Ay İkizler'de 19°35'",
+    "Merkür Akrep'te 19°07' ℞",
+    "Venüs Terazi'de 27°38' ℞",
+    "Mars Aslan'da 17°17'",
+    "Jüpiter Aslan'da 23°59'",
+    "Satürn Koç'ta 9°27' ℞",
+    "Uranüs İkizler'de 4°46' ℞",
+    "Neptün Koç'ta 2°08' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

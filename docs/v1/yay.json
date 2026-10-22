@@ -1,7 +1,7 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-22T03:20:42+03:00",
+ "updated": "2026-10-22T17:33:08+03:00",
  "days": [
   {
    "date": "2026-10-21",
@@ -205,6 +205,31 @@
     "Satürn Koç'ta 9°31' ℞",
     "Uranüs İkizler'de 4°48' ℞",
     "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-29",
+   "focus": "Karşılıklı Güven",
+   "short": "İlişkilerinde samimi adımlar iş birliklerini güçlendiriyor.",
+   "text": "Partnerinle ya da yakın temas halinde olduğun kişilerle ortak hedeflerde buluşmak bugün oldukça kolaylaşabilir. Vizyonunu genişletecek planlar yaparken karşındakinin fikirlerini cömertçe dinlemek aranızdaki bağı pekiştirir. Zihninde dönüp duran kaygıları bir kenara bırakıp açık ve dürüst bir temas kurmayı denemelisin. Beraber çıktığınız yolda atılan küçük bir uzlaşma adımı büyük kazanımlar doğurabilir.",
+   "motivation": "Birlikte yürümek mesafeleri kısaltır.",
+   "basis": "Yedinci evindeki Ay, dokuzuncu evindeki Jüpiter ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 5°57'",
+    "Ay İkizler'de 19°35'",
+    "Merkür Akrep'te 19°07' ℞",
+    "Venüs Terazi'de 27°38' ℞",
+    "Mars Aslan'da 17°17'",
+    "Jüpiter Aslan'da 23°59'",
+    "Satürn Koç'ta 9°27' ℞",
+    "Uranüs İkizler'de 4°46' ℞",
+    "Neptün Koç'ta 2°08' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

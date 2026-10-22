@@ -1,7 +1,7 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-22T03:20:42+03:00",
+ "updated": "2026-10-22T17:33:08+03:00",
  "days": [
   {
    "date": "2026-10-21",
@@ -205,6 +205,31 @@
     "Satürn Koç'ta 9°31' ℞",
     "Uranüs İkizler'de 4°48' ℞",
     "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-29",
+   "focus": "Ev Bütçesi",
+   "short": "Hane içindeki ihtiyaçları pratik çözümlerle düzenleyebilirsin.",
+   "text": "Yaşam alanındaki konforunu artırmak ve ev ortamını güzelleştirmek için elindeki imkanları değerlendirmek isteyebilirsin. Masraflarını gözden geçirirken aile bireyleriyle yapıcı bir dil kullanmak işleri kolaylaştırır. Fazlalıklardan kurtulmak ve sadeleşmek zihnini fazlasıyla rahatlatacaktır. Maddi kaynaklarını ailene veya yaşam alanına harcarken aşırıya kaçmadan, ihtiyaca yönelik net kararlar almaya çalış.",
+   "motivation": "Sade adımlarla bereketini çoğalt.",
+   "basis": "İkinci evindeki Ay, dördüncü evindeki Jüpiter ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 5°57'",
+    "Ay İkizler'de 19°35'",
+    "Merkür Akrep'te 19°07' ℞",
+    "Venüs Terazi'de 27°38' ℞",
+    "Mars Aslan'da 17°17'",
+    "Jüpiter Aslan'da 23°59'",
+    "Satürn Koç'ta 9°27' ℞",
+    "Uranüs İkizler'de 4°46' ℞",
+    "Neptün Koç'ta 2°08' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

@@ -1,7 +1,7 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-10-22T03:20:42+03:00",
+ "updated": "2026-10-22T17:33:08+03:00",
  "days": [
   {
    "date": "2026-10-21",
@@ -205,6 +205,31 @@
     "Satürn Koç'ta 9°31' ℞",
     "Uranüs İkizler'de 4°48' ℞",
     "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-29",
+   "focus": "Takım Ruhu",
+   "short": "Sosyal çevrendeki dayanışma hevesini ikiye katlıyor.",
+   "text": "Geleceğe dönük planlarını dostlarınla paylaşmak veya bir ekibin içinde yer almak motivasyonunu yükseltecektir. Kendi liderlik meziyetlerini sergilerken başkalarının görüşlerini de dikkate almak sana değer katar. Aile içinden gelebilecek eleştirilere karşı savunmaya geçmek yerine, yapıcı hedeflerine odaklanmayı seçmelisin. Birlikte hareket ettiğinde işlerin ne kadar hızlı yoluna girdiğini göreceksin.",
+   "motivation": "Ortak heyecan yolu aydınlatır.",
+   "basis": "On birinci evindeki Ay, burcundaki Mars ile sekstil açı kuruyor.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 5°57'",
+    "Ay İkizler'de 19°35'",
+    "Merkür Akrep'te 19°07' ℞",
+    "Venüs Terazi'de 27°38' ℞",
+    "Mars Aslan'da 17°17'",
+    "Jüpiter Aslan'da 23°59'",
+    "Satürn Koç'ta 9°27' ℞",
+    "Uranüs İkizler'de 4°46' ℞",
+    "Neptün Koç'ta 2°08' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
