@@ -1,34 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Değer ve yaratıcılık",
-   "short": "Maddi konularda esnek kalırken kendi sınırlarını da korumalısın.",
-   "text": "Kişisel yeteneklerini sergilemek isterken bütçeni aşma ihtimalin bulunuyor. Retro Venüs'ün Plüton ile girdiği sert etkileşim, harcamalar ve öz değer konularında güvensizlik yaratabilir. Karşına çıkan fırsatları duygusal kaygılarla değil, gerçekçi verilerle tartmalısın. İkili ilişkilerinde güven veren insanlarla fikir alışverişi yapmak sana aradığın içsel dengeyi sunacaktır.",
-   "motivation": "Değerini dışarıda arama.",
-   "basis": "2. evindeki retro Venüs ile 5. evindeki Plüton arasındaki kare açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Rutinlerde denge",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Finansal paylaşımlar",
+   "short": "Ortak bütçe ve borç dengesinde şeffaflık rahatlık getirir.",
+   "text": "Ortaklaşa yürütülen gelirler, yatırımlar ya da paylaşımlı harcamalar Boğa Dolunayı ile kesin bir noktaya ulaşıyor. Kendi bireysel arzuların ile karşı tarafın beklentileri arasında güç çekişmeleri yaşanabilir. Maddi konularda net rakamlar üzerinden konuşmak ve gizli saklı detay bırakmamak seni güvende hissettirecektir. Aşırı risk almaktan kaçınarak mevcut kaynaklarını korumaya çalış.",
+   "motivation": "Dengen şeffaflıkla perçinlenir.",
+   "basis": "8. evinde meydana gelen Boğa Dolunayı, Plüton ile kare açı oluşturuyor.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Derin paylaşımlar",
+   "short": "Sosyal çevrenle para veya güven ilişkilerini birbirine karıştırma.",
+   "text": "Maddi paylaşımlar, borçlar veya ortak yatırımlar konusunda beklenmedik pürüzler ortaya çıkabilir. On birinci evindeki Mars ve Jüpiter, arkadaş ortamında finansal konularda gereksiz cesur vaatlerde bulunmana yol açabilir. Başkalarının sorumluluğunu üstlenmek yerine kendi kaynaklarının kontrolünü elinde tutmalısın. Şüphe duyduğun anlaşmalarda hemen imza atmak yerine zamana yaymayı seç.",
+   "motivation": "Şeffaflık kuşkuları dağıtır.",
+   "basis": "8. evindeki Ay'ın 11. evdeki Jüpiter ile yaptığı tam kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "Yeni perspektifler",
+   "short": "Farklı bakış açılarına açık olmak ufkunu beklenmedik şekilde genişletebilir.",
+   "text": "Yeni şeyler öğrenme ve kalıpların dışına çıkma arzun oldukça belirgin. Yaratıcı projelerine veya hobilerine derinlik katacak taze bir fikir bulabilirsin. Olaylara daha geniş bir pencereden bakmak, sıkıştığını hissettiğin alanlarda rahatlamanı sağlayacak. Bugün okumaya, araştırmaya ve ufkunu besleyen sohbetlere zaman ayır.",
+   "motivation": "Ufkunu dönüştüren fikirlere açıl.",
+   "basis": "Dokuzuncu evdeki Ay'ın Plüton ile kurduğu üçgen açı.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

@@ -1,34 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Kariyer hedefleri",
-   "short": "Bireysel isteklerin ile mesleki sorumluluklarını dengede tut.",
-   "text": "Burcundaki Ay, hedeflerini öne çıkarırken iş ortamındaki beklentilerle çatışma ihtimalini artırıyor. Merkür ile oluşan gergin açı, üstlerinle veya iş arkadaşlarınla konuşurken aceleci çıkışlar yapmana yol açabilir. Kendi tarzını kabul ettirmeye çalışırken stratejik düşünmek ve dinlemeyi bilmek önem taşıyor. Satürn'ün sağladığı mantıklı bakış açısıyla iletişimini somut verilere dayandırabilirsin.",
-   "motivation": "Planlı hareket güç kazandırır.",
-   "basis": "Burcundaki Ay ile 10. evindeki Merkür arasındaki kare açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Öz değer ve kaynaklar",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Yuva ve kökler",
+   "short": "Hane içindeki düzeni sağlamlaştırmak için somut kararlar al.",
+   "text": "Dördüncü evinde tamamlanan Dolunay, taşınma, tadilat veya ailevi konulardaki belirsizlikleri sonuca bağlıyor. Burcundaki Plüton'un Güneş ve Ay ile kurduğu gerilimli açı, kariyerindeki yoğun baskı ile evdeki sorumluluklar arasında sıkışmış hissettirebilir. Kendi sınırlarını ailene net ama şefkatli bir dille anlatmalısın. Yaşam alanını ferahlatacak küçük düzenlemeler yapmak iç dünyana da denge getirecektir.",
+   "motivation": "Huzurunu temelden inşa et.",
+   "basis": "4. evindeki Dolunay ve burcundaki Plüton ile kurulan kare açı ev hayatını öne çıkarıyor.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Hane ve ortaklık",
+   "short": "Ev içindeki anlaşmazlıkları büyütmeden sağduyuyla yönetmelisin.",
+   "text": "Ev ortamında partnerinle ya da hane halkıyla gerilimli anlar yaşanabilir. Yedinci evinde bulunan Mars ve Jüpiter'in Ay'a yaptığı sert baskı, ikili ilişkilerde karşılıklı beklentilerin aşırı yükselmesine neden oluyor. Savunmacı bir tavır takınmak yerine karşınızdakini yargılamadan dinlemelisin. Evindeki huzuru korumak için inatlaşmaktan vazgeçip ortamı yumuşatacak adımlar atmalısın.",
+   "motivation": "Evindeki tansiyonu nezaketle yatıştır.",
+   "basis": "4. evindeki Ay'ın 7. evindeki Mars ve Jüpiter ile yaptığı kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "Yaratıcı İfade",
+   "short": "Hobilerine zaman ayırmak ve sanatsal yönünü beslemek ruhuna iyi gelecek.",
+   "text": "Kendini samimiyetle ortaya koyabileceğin ve keyif alacağın uğraşlara odaklanabilirsin. Yaratıcılığının arttığı bu dönemde özgün projeler geliştirmek seni motive eder. Sevdiklerinle kaliteli vakit geçirmek aranızdaki bağı derinleştirir. Bugün zihnini dinlendirecek yaratıcı bir işle meşgul olarak günün tadını çıkarabilirsin.",
+   "motivation": "İçindeki özgün yeteneğe alan aç.",
+   "basis": "Ay 5. evde, senin burcundaki Plüton ile üçgen açıda.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

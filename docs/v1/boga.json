@@ -1,34 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Kariyer ve işbirlikleri",
-   "short": "Göz önünde olduğun konularda güç mücadelelerine çekilmemeye bak.",
-   "text": "İş ortamında veya üstlerinle iletişiminde beklentiler aniden değişebilir. Ortaklıklarda geçmişten gelen çözülmemiş pürüzler, kariyer hedeflerinle çelişiyor gibi hissettirebilir. Retro Venüs ve Plüton arasındaki sert temas, kontrol etme dürtünü tetikleyebilir; bu yüzden olayları akışına bırakmayı denemelisin. Arka planda planlarını sağlamlaştırmak bugün sana daha çok alan kazandırır.",
-   "motivation": "Kontrolü bırak, netliğe odaklan.",
-   "basis": "7. evindeki retro Venüs ile 10. evindeki Plüton arasındaki kare açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Ekip dayanışması",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Bireysel sınırlar",
+   "short": "Burcundaki Dolunay, kişisel beklentilerini açıkça tanımlamanı sağlıyor.",
+   "text": "Burcunda parlayan Dolunay, kendi isteklerinle başkalarının senden bekledikleri arasındaki ayrımı belirginleştiriyor. Kariyerindeki güç mücadelelerine kapılmak yerine ne istediğini netleştirmelisin. İkili ilişkilerinde gerilim hissettiğinde savunmaya geçmek yerine sakin bir kararlılık sergile. Bugün bedensel yorgunluklara fırsat vermemek adına dinlenmeye de özen göster.",
+   "motivation": "Özüne sadık kal.",
+   "basis": "Burcunda gerçekleşen Dolunay ve Ay'ın Plüton ile kare açısı.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Kişisel alan",
+   "short": "Aile içi tartışmalarda haklı çıkmaya çalışmak yerine sakin kalmayı seç.",
+   "text": "Burcunda ilerleyen Ay, dördüncü evinde konumlanan Mars ve Jüpiter ile sert bir etkileşim kuruyor. Hane içindeki otorite çekişmeleri ya da geçmişten gelen bir konu aniden parlayabilir. Kendi isteklerinle ailenin beklentileri arasında sıkışmış hissedersen hemen savunmaya geçme. Olayların yatışması için biraz kendi kabuğuna çekilmek ve fiziksel olarak dinlenmek gününü kurtaracaktır.",
+   "motivation": "Kendi kalene çekilip soluklan.",
+   "basis": "1. evindeki Ay'ın 4. evindeki Mars ve Jüpiter ile kare açısı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "Maddi öncelikler",
+   "short": "Bütçeni gözden geçirmek ve yeteneklerine sahip çıkmak sana güven verecek.",
+   "text": "Parasal kaynaklarını ve kişisel değerlerini daha sağlam temellere oturtmak isteyebilirsin. Mesleki hedeflerinle uyuşan pratik adımlar atarak harcama dengeni koruman kolaylaşıyor. Sahip olduğun becerilere güvenmek, gelecek kaygılarını yatıştırmanda önemli bir rol oynayacak. Bugün sadece gerçekten ihtiyaç duyduğun şeylere odaklanmayı seç.",
+   "motivation": "Öz kaynağını dirayetle yönet.",
+   "basis": "İkinci evindeki Ay'ın Plüton ile gerçekleştirdiği üçgen açı.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

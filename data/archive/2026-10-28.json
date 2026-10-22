@@ -1,0 +1,112 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-22T03:20:42+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 4°57'",
+   "Ay İkizler'de 4°53'",
+   "Merkür Akrep'te 19°47' ℞",
+   "Venüs Terazi'de 28°12' ℞",
+   "Mars Aslan'da 16°46'",
+   "Jüpiter Aslan'da 23°52'",
+   "Satürn Koç'ta 9°31' ℞",
+   "Uranüs İkizler'de 4°48' ℞",
+   "Neptün Koç'ta 2°09' ℞",
+   "Plüton Kova'da 3°06'"
+  ],
+  "events": [
+   "Ay bugün İkizler'e geçiyor.",
+   "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Fikir paylaşımı",
+   "short": "Zihnindeki karmaşık fikirleri düzenleyip somut bir plana dökme vakti.",
+   "text": "İletişim trafiğin hızlanırken düşüncelerini toparlamakta hiç zorlanmayacaksın. Kararlarını alırken kendi iç disiplinine dayanmak sana güç katıyor. Kardeşlerinle veya yakın arkadaşlarınla bir araya gelip uzun süredir ertelediğin bir konuyu yapıcı şekilde ele alabilirsin. Söylemek istediklerini sade ve kararlı bir dille ifade etmeye bak.",
+   "motivation": "Fikirlerin disiplinle şekillensin.",
+   "basis": "Ay'ın İkizler konumunun birinci evindeki Satürn ile kurduğu altmışlık açı."
+  },
+  "boga": {
+   "focus": "Maddi öncelikler",
+   "short": "Bütçeni gözden geçirmek ve yeteneklerine sahip çıkmak sana güven verecek.",
+   "text": "Parasal kaynaklarını ve kişisel değerlerini daha sağlam temellere oturtmak isteyebilirsin. Mesleki hedeflerinle uyuşan pratik adımlar atarak harcama dengeni koruman kolaylaşıyor. Sahip olduğun becerilere güvenmek, gelecek kaygılarını yatıştırmanda önemli bir rol oynayacak. Bugün sadece gerçekten ihtiyaç duyduğun şeylere odaklanmayı seç.",
+   "motivation": "Öz kaynağını dirayetle yönet.",
+   "basis": "İkinci evindeki Ay'ın Plüton ile gerçekleştirdiği üçgen açı."
+  },
+  "ikizler": {
+   "focus": "Yenilenme İsteği",
+   "short": "Kendi isteklerine yönelmek ve kişisel tarzında yenilik yapmak isteyebilirsin.",
+   "text": "Dış dünyadaki duruşunu tazelemek ve zihninde beliren özgün fikirleri hayata geçirmek için istek duyabilirsin. Sıradan kalıpların dışına çıkmak zihnini rahatlatacaktır. Bugün uzun süredir ertelediğin kişisel bir işine vakit ayırıp kendine küçük bir yenilik fırsatı tanıyabilirsin. Kendini doğru ifade ettiğinde çevrenle uyumun artar.",
+   "motivation": "Özgürce ifade edilen fikir parıldar.",
+   "basis": "Ay 1. evinde İkizler burcunda Uranüs ile kavuşum yapıyor."
+  },
+  "yengec": {
+   "focus": "İçsel dinginlik",
+   "short": "Temponu biraz yavaşlatıp zihnindeki gürültüyü yatıştırmaya ihtiyaç duyabilirsin.",
+   "text": "Dış dünyadaki koşturmacadan uzaklaşıp kendi kabuğuna çekilmek sana iyi gelecek. İçsel sezgilerin, iş hayatındaki karmaşık durumları anlamanda sessiz bir rehberlik sunuyor. Geri planda kalarak eksik kalan detayları tamamlamak zihnini hafifletecektir. Bugün kendine kaliteli bir dinlenme zamanı ayırmayı ihmal etme.",
+   "motivation": "Sessiz anlar sezgiyi çoğaltır.",
+   "basis": "On ikinci evindeki Ay'ın Neptün ile yaptığı altmışlık açı."
+  },
+  "aslan": {
+   "focus": "Sosyal Paylaşımlar",
+   "short": "Gelecek hayallerini arkadaşlarınla paylaşmak yeni kapılar aralayabilir.",
+   "text": "Ekip çalışmalarında veya sosyal çevrende etkin bir rol üstlenebilirsin. Paylaştığın fikirler çevrendekilere ilham verirken senin de motivasyonunu artıracaktır. Ortak bir gaye etrafında birleşmek bağlarını kuvvetlendirir. Bugün bir dostunla fikir alışverişinde bulunarak yarım kalmış bir projeyi canlandırabilirsin.",
+   "motivation": "Ortak akıl hedefleri yakınlaştırır.",
+   "basis": "Ay 11. evde, Plüton ile üçgen açıda."
+  },
+  "basak": {
+   "focus": "Kariyer Hedefleri",
+   "short": "İş yaşamında net kararlar almak ve sorumluluklarını sıralamak önceliğin olmalı.",
+   "text": "Toplumsal duruşunu ve mesleki yönünü ilgilendiren konularda pratik çözümler üretebilirsin. Yöneticilerinle veya iş arkadaşlarınla kuracağın açık iletişim karmaşayı önler. Planlarına sadık kalırken esneklik göstermek başarını artırabilir. Gün içinde yapılacaklar listenin başında yer alan önemli göreve odaklanmayı deneyebilirsin.",
+   "motivation": "Düzenli gayret başarıyı kalıcı kılar.",
+   "basis": "Ay 10. evde Uranüs ile kavuşumda ve Plüton ile üçgen açıda."
+  },
+  "terazi": {
+   "focus": "Yeni perspektifler",
+   "short": "Farklı bakış açılarına açık olmak ufkunu beklenmedik şekilde genişletebilir.",
+   "text": "Yeni şeyler öğrenme ve kalıpların dışına çıkma arzun oldukça belirgin. Yaratıcı projelerine veya hobilerine derinlik katacak taze bir fikir bulabilirsin. Olaylara daha geniş bir pencereden bakmak, sıkıştığını hissettiğin alanlarda rahatlamanı sağlayacak. Bugün okumaya, araştırmaya ve ufkunu besleyen sohbetlere zaman ayır.",
+   "motivation": "Ufkunu dönüştüren fikirlere açıl.",
+   "basis": "Dokuzuncu evdeki Ay'ın Plüton ile kurduğu üçgen açı."
+  },
+  "akrep": {
+   "focus": "Dönüşüm ve Düzen",
+   "short": "Duygusal ve finansal pürüzleri çözmek adına kararlı adımlar atabilirsin.",
+   "text": "Derinde kalmış meseleleri açıklıkla ele almak ruhsal bir hafifleme sağlayabilir. Ortak gelirler veya borç-alacak konularında stratejik davranmak faydana olacaktır. Samimi sohbetler vasıtasıyla güvendiğin kişilerle bağlarını tazeleyebilirsin. Bugün finansal bir tablonu gözden geçirip gereksiz yüklerden kurtulmayı seçebilirsin.",
+   "motivation": "Yüklerinden arındıkça hafifleyip güçlenirsin.",
+   "basis": "Ay 8. evde, Plüton ile üçgen açıda."
+  },
+  "yay": {
+   "focus": "İlişkilerde Denge",
+   "short": "İkili ilişkilerde empati ve açık diyalog ön planda olmalı.",
+   "text": "Birlikte çalıştığın kişilerle ya da hayatındaki özel insanla iletişim kurarken dinleyici taraf olmaya özen göstermelisin. Zıt fikirleri bir zenginlik olarak görmek ortak noktada buluşmanı kolaylaştırır. Anlaşmazlıkları tatlılıkla çözmek ilişkilerine güven katar. Bugün partnerinle veya bir dostunla beklentilerini netleştiren samimi bir konuşma yapabilirsin.",
+   "motivation": "Dinleyen yürek köprü kurar.",
+   "basis": "Ay 7. evde Uranüs ile kavuşup Plüton ile üçgen açı yapıyor."
+  },
+  "oglak": {
+   "focus": "İş düzeni",
+   "short": "Çalışma alanında yapacağın pratik düzenlemeler gününü kolaylaştıracak.",
+   "text": "Masanın üzerindeki işleri ve günlük yapılacaklar listeni sıraya koymak zihnini ferahlatıyor. Ev hayatından aldığın içsel destekle sorumluluklarını daha kolay organize edebilirsin. Detaylara gösterdiğin özen hem verimini artıracak hem de gün sonunu daha huzurlu geçirmeni sağlayacak. Aşırı yük yüklenmek yerine adımlarını dengeli at.",
+   "motivation": "Sistemli adımlar düzen getirir.",
+   "basis": "Altıncı evdeki Ay'ın Satürn ile kurduğu altmışlık açı."
+  },
+  "kova": {
+   "focus": "Yaratıcı İfade",
+   "short": "Hobilerine zaman ayırmak ve sanatsal yönünü beslemek ruhuna iyi gelecek.",
+   "text": "Kendini samimiyetle ortaya koyabileceğin ve keyif alacağın uğraşlara odaklanabilirsin. Yaratıcılığının arttığı bu dönemde özgün projeler geliştirmek seni motive eder. Sevdiklerinle kaliteli vakit geçirmek aranızdaki bağı derinleştirir. Bugün zihnini dinlendirecek yaratıcı bir işle meşgul olarak günün tadını çıkarabilirsin.",
+   "motivation": "İçindeki özgün yeteneğe alan aç.",
+   "basis": "Ay 5. evde, senin burcundaki Plüton ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Yuva huzuru",
+   "short": "Yaşam alanında aradığın huzuru bulmak için zihnini sadeleştirebilirsin.",
+   "text": "Yaşadığın mekanda rahatlık sağlamak ve geçmişten gelen duygusal yükleri hafifletmek önceliğin olabilir. Kendi iç dünyanda yakalayacağın denge, maddi kaynaklarını değerlendirirken de daha sağlıklı kararlar almanı destekleyecek. Aile içi iletişimde anlayışlı bir tutum benimsemek ortamı yumuşatır. Bugün evinde sakinleşeceğin alanlar yarat.",
+   "motivation": "Huzurunu kendi zemininde büyüt.",
+   "basis": "Dördüncü evdeki Ay'ın Neptün ile yaptığı altmışlık açı."
+  }
+ }
+}

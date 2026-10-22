@@ -1,0 +1,112 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-22T03:06:24+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 2°57'",
+   "Ay Boğa'da 5°38'",
+   "Merkür Akrep'te 20°40' ℞",
+   "Venüs Terazi'de 29°23' ℞",
+   "Mars Aslan'da 15°44'",
+   "Jüpiter Aslan'da 23°36'",
+   "Satürn Koç'ta 9°39' ℞",
+   "Uranüs İkizler'de 4°52' ℞",
+   "Neptün Koç'ta 2°12' ℞",
+   "Plüton Kova'da 3°05'"
+  ],
+  "events": [
+   "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+   "Ay bugün Boğa'ya geçiyor.",
+   "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Kişisel bütçe",
+   "short": "Parasal konularda gerçekçi bir muhasebe yapma vakti geldi.",
+   "text": "Boğa burcunda parlayan Dolunay, maddi kaynaklarını ve harcama dengeni doğrudan mercek altına alıyor. Bir süredir görmezden geldiğin bir ödeme veya gelir kalemi bugün tüm netliğiyle karşına çıkabilir. Kova'daki Plüton'un yarattığı gergin açı, sosyal çevrenden gelen maddi taleplere temkinli yaklaşman gerektiğini fısıldıyor. Elindeki bütçeyi korumak adına gereksiz lüks harcamaları bir kenara bırakıp önceliklerini sırala.",
+   "motivation": "Maddi dengeni bilinçle kur.",
+   "basis": "2. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi gelir-gider dengeni tetikliyor."
+  },
+  "boga": {
+   "focus": "Bireysel sınırlar",
+   "short": "Burcundaki Dolunay, kişisel beklentilerini açıkça tanımlamanı sağlıyor.",
+   "text": "Burcunda parlayan Dolunay, kendi isteklerinle başkalarının senden bekledikleri arasındaki ayrımı belirginleştiriyor. Kariyerindeki güç mücadelelerine kapılmak yerine ne istediğini netleştirmelisin. İkili ilişkilerinde gerilim hissettiğinde savunmaya geçmek yerine sakin bir kararlılık sergile. Bugün bedensel yorgunluklara fırsat vermemek adına dinlenmeye de özen göster.",
+   "motivation": "Özüne sadık kal.",
+   "basis": "Burcunda gerçekleşen Dolunay ve Ay'ın Plüton ile kare açısı."
+  },
+  "ikizler": {
+   "focus": "Zihinsel arınma",
+   "short": "Bilinçaltındaki yükleri bırakmak iç huzurunu tazeleyebilir.",
+   "text": "Arka planda kalmış meseleler ve bastırdığın duygular Boğa Dolunayı ile görünür hale geliyor. Uzaklarla veya inançlarınla ilgili konularda Plüton gerilimi iç dünyanda bir baskı yaratabilir; kontrol edemediğin detayları akışına bırakmalısın. Kendine zaman ayırmak ve zihnini sessizleştirmek sana güç kazandırır. Bugün sadece gerçekten ihtiyaç duyduğun şeylere odaklanıp fazlalıkları ayıkla.",
+   "motivation": "Sessizlik ruhu iyileştirir.",
+   "basis": "Boğa burcundaki Dolunay 12. evinde gerçekleşirken Plüton ile kare açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Dostluk bağları",
+   "short": "Sosyal çevrendeki beklentileri gerçekçi tutarak dengeyi koru.",
+   "text": "Geleceğe dair planların ve arkadaşlık ilişkilerin bugün Boğa Dolunayı ile mercek altına alınıyor. Ortak paylaşımlar veya finansal güven arayışı, grup içindeki dengelerde bazı anlaşmazlıkları tetikleyebilir. Fikir ayrılıklarında hemen savunmaya geçmek yerine karşındakinin sınırlarına saygı duymalısın. Kendi hedeflerine odaklanıp enerjini yıpratıcı tartışmalardan uzak tutman en sağlıklısıdır.",
+   "motivation": "Bağlarını güvenle koru.",
+   "basis": "Boğa Dolunayı 11. evinde parıldarken 8. evindeki Plüton ile kare açıda."
+  },
+  "aslan": {
+   "focus": "Toplumsal duruş",
+   "short": "Kariyerinde tamamlanması gereken işler görünür bir sonuç veriyor.",
+   "text": "Mesleki hedeflerini temsil eden alanda parlayan Dolunay, yürüttüğün projelerde önemli bir eşiğe geldiğini gösteriyor. Üstlerinle olan ilişkilerinde veya toplum önündeki duruşunda daha sağlam bir çerçeve çizmen gerekebilir. Karşıt burcundaki Plüton ile Güneş'in oluşturduğu gerilim, ortaklıklardan doğan baskıları yönetmeyi zorunlu kılıyor. Ani tepkilerden kaçınarak profesyonelliğini ve sakinliğini koruman yararına olur.",
+   "motivation": "Sakinlikle profesyonel kal.",
+   "basis": "10. evindeki Boğa Dolunayı ve Plüton karesi kariyer sorumluluklarını vurguluyor."
+  },
+  "basak": {
+   "focus": "Farklı bakış açıları",
+   "short": "Bakış açını genişletmek, karşılaştığın engelleri aşmanı kolaylaştıracak.",
+   "text": "Dokuzuncu evindeki Dolunay, uzun vadeli vizyonunu ve inançlarını gözden geçirmen için zemin hazırlıyor. Günlük rutinlerin getirdiği baskılar bazen büyük resmi görmeni engellese de bugün tabularını kırma fırsatın var. Küçük anlaşmazlıklara takılmak yerine bilgi dağarcığını geliştirecek konulara odaklan. Yeni bir araştırma ya da okuma yapmak sana taze bir yön kazandırabilir.",
+   "motivation": "Büyük resmi gör.",
+   "basis": "9. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi."
+  },
+  "terazi": {
+   "focus": "Finansal paylaşımlar",
+   "short": "Ortak bütçe ve borç dengesinde şeffaflık rahatlık getirir.",
+   "text": "Ortaklaşa yürütülen gelirler, yatırımlar ya da paylaşımlı harcamalar Boğa Dolunayı ile kesin bir noktaya ulaşıyor. Kendi bireysel arzuların ile karşı tarafın beklentileri arasında güç çekişmeleri yaşanabilir. Maddi konularda net rakamlar üzerinden konuşmak ve gizli saklı detay bırakmamak seni güvende hissettirecektir. Aşırı risk almaktan kaçınarak mevcut kaynaklarını korumaya çalış.",
+   "motivation": "Dengen şeffaflıkla perçinlenir.",
+   "basis": "8. evinde meydana gelen Boğa Dolunayı, Plüton ile kare açı oluşturuyor."
+  },
+  "akrep": {
+   "focus": "İkili uzlaşmalar",
+   "short": "Birlikteliklerinde ne beklediğin ve ne verdiğin açıkça görülüyor.",
+   "text": "Tam karşıt burcunda meydana gelen Dolunay, evlilik, ortaklık ve yakın ilişkilerdeki dengeleri gün yüzüne çıkarıyor. Partnerinin senden beklentileriyle senin bireysel isteklerin arasında bir yüzleşme yaşanabilir. Burcundaki Güneş'in Plüton ile oluşturduğu dik açı, güç savaşlarına girmek yerine yapıcı bir orta yol bulmanın önemini vurguluyor. Karşı tarafı dikkatle dinleyerek şartları mantık çerçevesinde netleştir.",
+   "motivation": "Uzlaşı zıtlıkları dengeler.",
+   "basis": "Karşıt burcundaki Dolunay ve burcundaki Güneş-Plüton karesi ilişkileri sınıyor."
+  },
+  "yay": {
+   "focus": "Gündelik düzen",
+   "short": "Rutinlerini sadeleştirmek enerjini doğru yönetmeni sağlar.",
+   "text": "İş ortamındaki sorumluluklar ve bedensel sağlığın Boğa Dolunayı ile ön plana çıkıyor. Yakın çevrenle iletişiminde oluşabilecek gerginlikler ya da ani fikir çatışmaları çalışma temponu aksatabilir; sakin kalarak görevlerini tek tek ele almalısın. Bedensel sinyallerini dinleyip dinlenmeye vakit ayırmak üretkenliğini artırır. Günlük iş listeni gereksiz detaylardan arındırıp önceliklerine odaklan.",
+   "motivation": "Bedene özen güçlendirir.",
+   "basis": "Boğa burcundaki Dolunay 6. evinde gerçekleşirken Plüton ile kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Yaratıcı hevesler",
+   "short": "Kalbini heyecanlandıran bir projeyi veya duyguyu açığa çıkarma vakti geldi.",
+   "text": "Beşinci evinde gerçekleşen Dolunay, yaratıcı yönünü ve sana mutluluk veren uğraşları ön plana çıkarıyor. Sosyal çevrenin ya da maddi kaygıların getirdiği baskıyı bir kenara bırakıp kendi yeteneklerine odaklanmalısın. Romantik ilişkilerinde veya çocuklarla olan iletişiminde kontrolü elden bırakıp doğallığı seç. Kendine keyif alacağın bir alan açmak zihnine iyi gelecektir.",
+   "motivation": "Keyif aldığın şeyleri sahiplen.",
+   "basis": "5. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi."
+  },
+  "kova": {
+   "focus": "Yuva ve kökler",
+   "short": "Hane içindeki düzeni sağlamlaştırmak için somut kararlar al.",
+   "text": "Dördüncü evinde tamamlanan Dolunay, taşınma, tadilat veya ailevi konulardaki belirsizlikleri sonuca bağlıyor. Burcundaki Plüton'un Güneş ve Ay ile kurduğu gerilimli açı, kariyerindeki yoğun baskı ile evdeki sorumluluklar arasında sıkışmış hissettirebilir. Kendi sınırlarını ailene net ama şefkatli bir dille anlatmalısın. Yaşam alanını ferahlatacak küçük düzenlemeler yapmak iç dünyana da denge getirecektir.",
+   "motivation": "Huzurunu temelden inşa et.",
+   "basis": "4. evindeki Dolunay ve burcundaki Plüton ile kurulan kare açı ev hayatını öne çıkarıyor."
+  },
+  "balik": {
+   "focus": "Sözlü kararlar",
+   "short": "Net ve sade bir üslup takınmak, zihnindeki karmaşayı çözmeni sağlayacak.",
+   "text": "Üçüncü evinde parlayan Dolunay, kardeşler, komşular veya yakın dostlarla olan temasları hareketlendiriyor. Zihnindeki fikirleri başkalarına aktarırken gizli şüphelerin tesirinde kalmamaya gayret et. Yazılı veya sözlü işlerinde gereksiz detayları ayıklayıp konunun özüne odaklanmak verimini artıracaktır. Önemli bir anlaşma ya da kararda aceleci davranmayıp bilgileri doğrulamayı unutma.",
+   "motivation": "Sözcüklerini özenle seç.",
+   "basis": "3. evindeki Boğa Dolunayı ve Güneş ile Plüton arasındaki kare açı."
+  }
+ }
+}

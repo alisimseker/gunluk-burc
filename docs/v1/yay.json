@@ -1,34 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Zihinsel dinginlik",
-   "short": "Geri planda kalan kaygıları bir kenara bırakıp anı yönet.",
-   "text": "İç dünyanda dönüp duran düşünceler, yakın çevrenle olan diyaloglarına dalgınlık olarak yansıyabilir. İfade etmekte zorlandığın şeyleri zorla anlatmaya çalışmak yerine bir süre gözlemci kalmak iyi gelecektir. Ay'ın Satürn ile uyumu, yaratıcı çalışmalarına veya hobilerine odaklanarak zihnini sakinleştirebileceğini gösteriyor. Kısa bir yürüyüş yapmak zihnini toparlamana yardım edebilir.",
-   "motivation": "Sessizlik bazen en iyi cevaptır.",
-   "basis": "3. evindeki Ay ile 5. evindeki Satürn arasındaki sekstil açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Evde huzur",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Gündelik düzen",
+   "short": "Rutinlerini sadeleştirmek enerjini doğru yönetmeni sağlar.",
+   "text": "İş ortamındaki sorumluluklar ve bedensel sağlığın Boğa Dolunayı ile ön plana çıkıyor. Yakın çevrenle iletişiminde oluşabilecek gerginlikler ya da ani fikir çatışmaları çalışma temponu aksatabilir; sakin kalarak görevlerini tek tek ele almalısın. Bedensel sinyallerini dinleyip dinlenmeye vakit ayırmak üretkenliğini artırır. Günlük iş listeni gereksiz detaylardan arındırıp önceliklerine odaklan.",
+   "motivation": "Bedene özen güçlendirir.",
+   "basis": "Boğa burcundaki Dolunay 6. evinde gerçekleşirken Plüton ile kare açı yapıyor.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Gündelik tempo",
+   "short": "İş ortamındaki yoğunluğa kapılıp bedenini gereksiz yere yorma.",
+   "text": "Çalışma ortamında aynı anda birden fazla işle ilgilenmek enerjini hızla tüketebilir. Dokuzuncu evindeki yöneticin Jüpiter'in Ay ile yaptığı kare açı, yapabileceğinden çok daha büyük sorumluluklar vadetmene sebep olabilir. Fiziksel kapasiteni zorlamak yerine işlerini basamaklara bölmelisin. Gereksiz detaylarla boğuşmak yerine en acil olanlara odaklanıp dinlenmeye de vakit ayır.",
+   "motivation": "Basit adımlar karmaşayı çözer.",
+   "basis": "6. evindeki Ay'ın yönetici gezegenin Jüpiter ile kurduğu kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "İlişkilerde Denge",
+   "short": "İkili ilişkilerde empati ve açık diyalog ön planda olmalı.",
+   "text": "Birlikte çalıştığın kişilerle ya da hayatındaki özel insanla iletişim kurarken dinleyici taraf olmaya özen göstermelisin. Zıt fikirleri bir zenginlik olarak görmek ortak noktada buluşmanı kolaylaştırır. Anlaşmazlıkları tatlılıkla çözmek ilişkilerine güven katar. Bugün partnerinle veya bir dostunla beklentilerini netleştiren samimi bir konuşma yapabilirsin.",
+   "motivation": "Dinleyen yürek köprü kurar.",
+   "basis": "Ay 7. evde Uranüs ile kavuşup Plüton ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

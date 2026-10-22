@@ -1,34 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Sosyal planlar",
-   "short": "Dostluklarla maddi konuları birbirinden ayrı tutmaya özen göster.",
-   "text": "Arkadaş çevrende yapılacak organizasyonlar veya ortak projeler bütçeni sarsacak talepler doğurabilir. Sosyal alandaki retro Venüs ile Plüton gerilimi, aidiyet duygun üzerinden baskı hissetmene neden olabilir. Kendi sınırlarını net çizip onaylamadığın harcamalara hayır demekten çekinmemelisin. Ailenden ya da evinden alacağın destek, ayaklarını yere daha sağlam basmanı sağlayacaktır.",
-   "motivation": "Sınırların seni güvende tutar.",
-   "basis": "11. evindeki retro Venüs ile 2. evindeki Plüton arasındaki kare açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Fikir alışverişi",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Yaratıcı hevesler",
+   "short": "Kalbini heyecanlandıran bir projeyi veya duyguyu açığa çıkarma vakti geldi.",
+   "text": "Beşinci evinde gerçekleşen Dolunay, yaratıcı yönünü ve sana mutluluk veren uğraşları ön plana çıkarıyor. Sosyal çevrenin ya da maddi kaygıların getirdiği baskıyı bir kenara bırakıp kendi yeteneklerine odaklanmalısın. Romantik ilişkilerinde veya çocuklarla olan iletişiminde kontrolü elden bırakıp doğallığı seç. Kendine keyif alacağın bir alan açmak zihnine iyi gelecektir.",
+   "motivation": "Keyif aldığın şeyleri sahiplen.",
+   "basis": "5. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Risk ve tutku",
+   "short": "Heyecan veren başlangıçlarda maddi gerçekleri göz ardı etme.",
+   "text": "Aşk hayatında ya da yaratıcı uğraşlarında aşırı tutkulu ve talepkâr bir tavır takınabilirsin. Sekizinci evindeki Mars ve Jüpiter, duygusal veya finansal anlamda gereğinden büyük riskler almaya seni itebilir. Keyif aldığın konular için bütçeni aşırı sarsacak harcamalardan uzak durmalısın. Adımlarını ölçülü tutarak tutkularını kalıcı bir üretim sürecine dönüştürmen mümkün.",
+   "motivation": "Ölçülü cesaret meyve verir.",
+   "basis": "5. evindeki Ay'ın 8. evdeki Mars ve Jüpiter ile yaptığı kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "İş düzeni",
+   "short": "Çalışma alanında yapacağın pratik düzenlemeler gününü kolaylaştıracak.",
+   "text": "Masanın üzerindeki işleri ve günlük yapılacaklar listeni sıraya koymak zihnini ferahlatıyor. Ev hayatından aldığın içsel destekle sorumluluklarını daha kolay organize edebilirsin. Detaylara gösterdiğin özen hem verimini artıracak hem de gün sonunu daha huzurlu geçirmeni sağlayacak. Aşırı yük yüklenmek yerine adımlarını dengeli at.",
+   "motivation": "Sistemli adımlar düzen getirir.",
+   "basis": "Altıncı evdeki Ay'ın Satürn ile kurduğu altmışlık açı.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

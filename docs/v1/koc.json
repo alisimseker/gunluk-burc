@@ -1,34 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Grup dengeleri",
-   "short": "Ekip çalışmalarında kendi sınırlarını net çizerek ilerleyebilirsin.",
-   "text": "Topluluklar ve arkadaş ortamlarında finansal meseleler yüzünden bazı fikir ayrılıkları gündeme gelebilir. Burcundaki Satürn'ün Ay ile kurduğu uyum, soğukkanlı kalmanı ve sorumluluk bilinciyle hareket etmeni kolaylaştırıyor. Gerilimli anlarda fevri tepkiler vermek yerine uzun vadeli hedeflerine odaklanmayı seçebilirsin. Birlikte yürüttüğün projelerde bütçe planını yazılı hale getirmek işini rahatlatır.",
-   "motivation": "Sakinlik en sağlam duruştur.",
-   "basis": "Ay 11. evinde, burcundaki Satürn ile sekstil açıda.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "İçsel kapanışlar",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Kişisel bütçe",
+   "short": "Parasal konularda gerçekçi bir muhasebe yapma vakti geldi.",
+   "text": "Boğa burcunda parlayan Dolunay, maddi kaynaklarını ve harcama dengeni doğrudan mercek altına alıyor. Bir süredir görmezden geldiğin bir ödeme veya gelir kalemi bugün tüm netliğiyle karşına çıkabilir. Kova'daki Plüton'un yarattığı gergin açı, sosyal çevrenden gelen maddi taleplere temkinli yaklaşman gerektiğini fısıldıyor. Elindeki bütçeyi korumak adına gereksiz lüks harcamaları bir kenara bırakıp önceliklerini sırala.",
+   "motivation": "Maddi dengeni bilinçle kur.",
+   "basis": "2. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi gelir-gider dengeni tetikliyor.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "Harcama dürtüsü",
+   "short": "Anlık heveslerle bütçeni zorlamaktan kaçınmalı, kaynaklarını korumalısın.",
+   "text": "Bugün eğlenceye ya da yaratıcı projelere bütçe ayırırken abartılı davranma eğilimi gösterebilirsin. Aslan burcundaki Mars ve Jüpiter'in etkisiyle risk alma isteğin artsa da cüzdanının sınırlarını aşmamaya özen göstermelisin. Maddi adımlarında dürtüsel davranmak yerine ihtiyaçlarını listeleyip öncelik sırasına koyman seni rahatlatır. Ani harcamalardan uzak durarak güvenli alanda kalmayı tercih et.",
+   "motivation": "Dürtülerini sabırla dizginle.",
+   "basis": "2. evindeki Ay'ın 5. evdeki Mars ve Jüpiter ile yaptığı tam kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "Fikir paylaşımı",
+   "short": "Zihnindeki karmaşık fikirleri düzenleyip somut bir plana dökme vakti.",
+   "text": "İletişim trafiğin hızlanırken düşüncelerini toparlamakta hiç zorlanmayacaksın. Kararlarını alırken kendi iç disiplinine dayanmak sana güç katıyor. Kardeşlerinle veya yakın arkadaşlarınla bir araya gelip uzun süredir ertelediğin bir konuyu yapıcı şekilde ele alabilirsin. Söylemek istediklerini sade ve kararlı bir dille ifade etmeye bak.",
+   "motivation": "Fikirlerin disiplinle şekillensin.",
+   "basis": "Ay'ın İkizler konumunun birinci evindeki Satürn ile kurduğu altmışlık açı.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

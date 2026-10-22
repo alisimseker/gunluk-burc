@@ -1,34 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-10-21T17:34:12+03:00",
+ "updated": "2026-10-22T03:20:42+03:00",
  "days": [
-  {
-   "date": "2026-10-20",
-   "focus": "Çalışma temposu",
-   "short": "Zihnini dağıtan detayları bir kenara bırakıp önceliklerini seç.",
-   "text": "Günlük angaryalar ve ofis içi haberleşmeler büyük planlarını aksatıyor gibi görünebilir. Ay ve Merkür arasındaki gerilim, yazışmalarda ve planlamalarda dalgınlıklara zemin hazırlayabilir. Aldığın bilgileri teyit etmeden karara varmamakta fayda var. Sosyal çevrenden gelen yapıcı bir tavsiye, zihinsel karmaşanı toparlayıp işleri sıraya koymana yardımcı olabilir.",
-   "motivation": "Adım adım sadeleş.",
-   "basis": "9. evindeki Ay ile 6. evindeki Merkür arasındaki kare açı.",
-   "sky_events": [
-    "Venüs ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 26°59'",
-    "Ay Kova'da 15°45'",
-    "Merkür Akrep'te 20°03'",
-    "Venüs Akrep'te 3°01' ℞",
-    "Mars Aslan'da 12°33'",
-    "Jüpiter Aslan'da 22°45'",
-    "Satürn Koç'ta 10°04' ℞",
-    "Uranüs İkizler'de 5°03' ℞",
-    "Neptün Koç'ta 2°21' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-10-21",
    "focus": "Gelecek vizyonu",
@@ -155,6 +129,85 @@
     "Plüton Kova'da 3°05'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-26",
+   "focus": "Zihinsel arınma",
+   "short": "Bilinçaltındaki yükleri bırakmak iç huzurunu tazeleyebilir.",
+   "text": "Arka planda kalmış meseleler ve bastırdığın duygular Boğa Dolunayı ile görünür hale geliyor. Uzaklarla veya inançlarınla ilgili konularda Plüton gerilimi iç dünyanda bir baskı yaratabilir; kontrol edemediğin detayları akışına bırakmalısın. Kendine zaman ayırmak ve zihnini sessizleştirmek sana güç kazandırır. Bugün sadece gerçekten ihtiyaç duyduğun şeylere odaklanıp fazlalıkları ayıkla.",
+   "motivation": "Sessizlik ruhu iyileştirir.",
+   "basis": "Boğa burcundaki Dolunay 12. evinde gerçekleşirken Plüton ile kare açı yapıyor.",
+   "sky_events": [
+    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 2°57'",
+    "Ay Boğa'da 5°38'",
+    "Merkür Akrep'te 20°40' ℞",
+    "Venüs Terazi'de 29°23' ℞",
+    "Mars Aslan'da 15°44'",
+    "Jüpiter Aslan'da 23°36'",
+    "Satürn Koç'ta 9°39' ℞",
+    "Uranüs İkizler'de 4°52' ℞",
+    "Neptün Koç'ta 2°12' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-27",
+   "focus": "İç ses ve iletişim",
+   "short": "Zihnindeki kuruntuların iletişimini gölgelemesine fırsat verme.",
+   "text": "Bilinçaltında biriken kaygılar, üçüncü evindeki Mars ve Jüpiter temasıyla sözlerine abartılı yansıyabilir. Kardeşler veya yakın temas kurduğun kişilerle konuşurken gereksiz bir alınganlık göstermemeye çalış. Günlük rutinlerin getirdiği yorgunluk zihnini bulandırabilir; bu yüzden netleşmeden karar almamalısın. Düşüncelerini bir kâğıda yazarak ayıklamak içsel baskını hafifletecektir.",
+   "motivation": "Fısıltıları netlikle ayıkla.",
+   "basis": "12. evindeki Ay'ın 3. evindeki Mars ile oluşturduğu kare açı.",
+   "sky_events": [
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 3°57'",
+    "Ay Boğa'da 20°11'",
+    "Merkür Akrep'te 20°18' ℞",
+    "Venüs Terazi'de 28°47' ℞",
+    "Mars Aslan'da 16°15'",
+    "Jüpiter Aslan'da 23°44'",
+    "Satürn Koç'ta 9°35' ℞",
+    "Uranüs İkizler'de 4°50' ℞",
+    "Neptün Koç'ta 2°11' ℞",
+    "Plüton Kova'da 3°05'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-10-28",
+   "focus": "Yenilenme İsteği",
+   "short": "Kendi isteklerine yönelmek ve kişisel tarzında yenilik yapmak isteyebilirsin.",
+   "text": "Dış dünyadaki duruşunu tazelemek ve zihninde beliren özgün fikirleri hayata geçirmek için istek duyabilirsin. Sıradan kalıpların dışına çıkmak zihnini rahatlatacaktır. Bugün uzun süredir ertelediğin kişisel bir işine vakit ayırıp kendine küçük bir yenilik fırsatı tanıyabilirsin. Kendini doğru ifade ettiğinde çevrenle uyumun artar.",
+   "motivation": "Özgürce ifade edilen fikir parıldar.",
+   "basis": "Ay 1. evinde İkizler burcunda Uranüs ile kavuşum yapıyor.",
+   "sky_events": [
+    "Ay bugün İkizler'e geçiyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 4°57'",
+    "Ay İkizler'de 4°53'",
+    "Merkür Akrep'te 19°47' ℞",
+    "Venüs Terazi'de 28°12' ℞",
+    "Mars Aslan'da 16°46'",
+    "Jüpiter Aslan'da 23°52'",
+    "Satürn Koç'ta 9°31' ℞",
+    "Uranüs İkizler'de 4°48' ℞",
+    "Neptün Koç'ta 2°09' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

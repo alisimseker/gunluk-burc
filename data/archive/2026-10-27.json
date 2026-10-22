@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-22T03:08:00+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 3°57'",
+   "Ay Boğa'da 20°11'",
+   "Merkür Akrep'te 20°18' ℞",
+   "Venüs Terazi'de 28°47' ℞",
+   "Mars Aslan'da 16°15'",
+   "Jüpiter Aslan'da 23°44'",
+   "Satürn Koç'ta 9°35' ℞",
+   "Uranüs İkizler'de 4°50' ℞",
+   "Neptün Koç'ta 2°11' ℞",
+   "Plüton Kova'da 3°05'"
+  ],
+  "events": [
+   "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+   "Ay ile Mars arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Harcama dürtüsü",
+   "short": "Anlık heveslerle bütçeni zorlamaktan kaçınmalı, kaynaklarını korumalısın.",
+   "text": "Bugün eğlenceye ya da yaratıcı projelere bütçe ayırırken abartılı davranma eğilimi gösterebilirsin. Aslan burcundaki Mars ve Jüpiter'in etkisiyle risk alma isteğin artsa da cüzdanının sınırlarını aşmamaya özen göstermelisin. Maddi adımlarında dürtüsel davranmak yerine ihtiyaçlarını listeleyip öncelik sırasına koyman seni rahatlatır. Ani harcamalardan uzak durarak güvenli alanda kalmayı tercih et.",
+   "motivation": "Dürtülerini sabırla dizginle.",
+   "basis": "2. evindeki Ay'ın 5. evdeki Mars ve Jüpiter ile yaptığı tam kare açı."
+  },
+  "boga": {
+   "focus": "Kişisel alan",
+   "short": "Aile içi tartışmalarda haklı çıkmaya çalışmak yerine sakin kalmayı seç.",
+   "text": "Burcunda ilerleyen Ay, dördüncü evinde konumlanan Mars ve Jüpiter ile sert bir etkileşim kuruyor. Hane içindeki otorite çekişmeleri ya da geçmişten gelen bir konu aniden parlayabilir. Kendi isteklerinle ailenin beklentileri arasında sıkışmış hissedersen hemen savunmaya geçme. Olayların yatışması için biraz kendi kabuğuna çekilmek ve fiziksel olarak dinlenmek gününü kurtaracaktır.",
+   "motivation": "Kendi kalene çekilip soluklan.",
+   "basis": "1. evindeki Ay'ın 4. evindeki Mars ve Jüpiter ile kare açısı."
+  },
+  "ikizler": {
+   "focus": "İç ses ve iletişim",
+   "short": "Zihnindeki kuruntuların iletişimini gölgelemesine fırsat verme.",
+   "text": "Bilinçaltında biriken kaygılar, üçüncü evindeki Mars ve Jüpiter temasıyla sözlerine abartılı yansıyabilir. Kardeşler veya yakın temas kurduğun kişilerle konuşurken gereksiz bir alınganlık göstermemeye çalış. Günlük rutinlerin getirdiği yorgunluk zihnini bulandırabilir; bu yüzden netleşmeden karar almamalısın. Düşüncelerini bir kâğıda yazarak ayıklamak içsel baskını hafifletecektir.",
+   "motivation": "Fısıltıları netlikle ayıkla.",
+   "basis": "12. evindeki Ay'ın 3. evindeki Mars ile oluşturduğu kare açı."
+  },
+  "yengec": {
+   "focus": "Sosyal bütçe",
+   "short": "Arkadaş çevrendeki organizasyonlar için gereksiz maddi yükler üstlenme.",
+   "text": "Grup etkinlikleri veya dost meclislerinde cömertliğin dozunu kaçırma riskiyle karşı karşıyasın. İkinci evindeki Jüpiter ve Mars, topluluk önünde kendini kanıtlama isteğiyle gereğinden fazla harcama yaptırabilir. Kimseye maddi anlamda bir şey ispatlamak zorunda olmadığını unutmamalısın. Sosyal bağlarını korurken kendi sınırlarına sadık kalmak ve ölçülü davranmak en doğrusudur.",
+   "motivation": "Dostluğa gerçekçi bir sınır çiz.",
+   "basis": "11. evindeki Ay'ın 2. evdeki Jüpiter ve Mars ile kare açısı."
+  },
+  "aslan": {
+   "focus": "Mesleki adımlar",
+   "short": "Kariyerindeki baskılara aşırı tepki vermemeli, sakin kalmalısın.",
+   "text": "Üstlerinle veya otorite figürleriyle iletişiminde benlik çatışmaları gündeme gelebilir. Burcundaki Mars ve Jüpiter birlikteliği hedeflerine doğru yürürken seni sabırsız kılabilir fakat üst kademelerle sürtüşmek sana kazanç sağlamaz. Haklılığını bağırmak yerine işinin kalitesiyle ortaya koymalısın. Öfkeyle alınacak ani kararları erteleyip profesyonel sınırlarını korumaya odaklan.",
+   "motivation": "Tevazu kudretini parlatır.",
+   "basis": "10. evindeki Ay'ın burcundaki Mars ve Jüpiter ile tam kare açısı."
+  },
+  "basak": {
+   "focus": "Görüş ayrılıkları",
+   "short": "Fikir tartışmalarında inatlaşmak yerine farklı açılara kulak ver.",
+   "text": "İnançların, prensiplerin ya da geleceğe dair planların konusunda çevrendekilerle fikir ayrılığı yaşayabilirsin. On ikinci evindeki Mars ve Jüpiter enerjisi, içten içe biriken öfkeyi kontrolsüz bir şekilde dışa vurmana neden olabilir. Haklılığını ispatlama dürtüsünü bir kenara bırakıp sadece gözlemci kalmayı dene. Yeni bir bilgiye direnç göstermek yerine mantığını devreye sokup olayları tart.",
+   "motivation": "Kalıpları kır, sezgine yer aç.",
+   "basis": "9. evindeki Ay'ın 12. evdeki Mars ve Jüpiter ile kurduğu kare açı."
+  },
+  "terazi": {
+   "focus": "Derin paylaşımlar",
+   "short": "Sosyal çevrenle para veya güven ilişkilerini birbirine karıştırma.",
+   "text": "Maddi paylaşımlar, borçlar veya ortak yatırımlar konusunda beklenmedik pürüzler ortaya çıkabilir. On birinci evindeki Mars ve Jüpiter, arkadaş ortamında finansal konularda gereksiz cesur vaatlerde bulunmana yol açabilir. Başkalarının sorumluluğunu üstlenmek yerine kendi kaynaklarının kontrolünü elinde tutmalısın. Şüphe duyduğun anlaşmalarda hemen imza atmak yerine zamana yaymayı seç.",
+   "motivation": "Şeffaflık kuşkuları dağıtır.",
+   "basis": "8. evindeki Ay'ın 11. evdeki Jüpiter ile yaptığı tam kare açı."
+  },
+  "akrep": {
+   "focus": "İlişkide denge",
+   "short": "İkili ilişkilerdeki güç savaşlarını bir kenara bırakıp uzlaşmayı dene.",
+   "text": "Yedinci evindeki Ay, kariyer alanındaki Mars ve Jüpiter ile sert bir çatışma içinde. Eşinle ya da iş ortağınla olan dinamiklerde kimin sözünün geçeceği meselesi gereksiz bir krize dönüşebilir. Karşındakini bastırmaya çalışmak yerine taleplerini net ama sakin bir dille ifade etmelisin. Rekabet etmek yerine ortak noktada buluşmak işlerini çok daha kolay çözecektir.",
+   "motivation": "Uzlaşmak geri adım atmak değildir.",
+   "basis": "7. evindeki Ay'ın 10. evindeki Mars ve Jüpiter ile tam kare açısı."
+  },
+  "yay": {
+   "focus": "Gündelik tempo",
+   "short": "İş ortamındaki yoğunluğa kapılıp bedenini gereksiz yere yorma.",
+   "text": "Çalışma ortamında aynı anda birden fazla işle ilgilenmek enerjini hızla tüketebilir. Dokuzuncu evindeki yöneticin Jüpiter'in Ay ile yaptığı kare açı, yapabileceğinden çok daha büyük sorumluluklar vadetmene sebep olabilir. Fiziksel kapasiteni zorlamak yerine işlerini basamaklara bölmelisin. Gereksiz detaylarla boğuşmak yerine en acil olanlara odaklanıp dinlenmeye de vakit ayır.",
+   "motivation": "Basit adımlar karmaşayı çözer.",
+   "basis": "6. evindeki Ay'ın yönetici gezegenin Jüpiter ile kurduğu kare açı."
+  },
+  "oglak": {
+   "focus": "Risk ve tutku",
+   "short": "Heyecan veren başlangıçlarda maddi gerçekleri göz ardı etme.",
+   "text": "Aşk hayatında ya da yaratıcı uğraşlarında aşırı tutkulu ve talepkâr bir tavır takınabilirsin. Sekizinci evindeki Mars ve Jüpiter, duygusal veya finansal anlamda gereğinden büyük riskler almaya seni itebilir. Keyif aldığın konular için bütçeni aşırı sarsacak harcamalardan uzak durmalısın. Adımlarını ölçülü tutarak tutkularını kalıcı bir üretim sürecine dönüştürmen mümkün.",
+   "motivation": "Ölçülü cesaret meyve verir.",
+   "basis": "5. evindeki Ay'ın 8. evdeki Mars ve Jüpiter ile yaptığı kare açı."
+  },
+  "kova": {
+   "focus": "Hane ve ortaklık",
+   "short": "Ev içindeki anlaşmazlıkları büyütmeden sağduyuyla yönetmelisin.",
+   "text": "Ev ortamında partnerinle ya da hane halkıyla gerilimli anlar yaşanabilir. Yedinci evinde bulunan Mars ve Jüpiter'in Ay'a yaptığı sert baskı, ikili ilişkilerde karşılıklı beklentilerin aşırı yükselmesine neden oluyor. Savunmacı bir tavır takınmak yerine karşınızdakini yargılamadan dinlemelisin. Evindeki huzuru korumak için inatlaşmaktan vazgeçip ortamı yumuşatacak adımlar atmalısın.",
+   "motivation": "Evindeki tansiyonu nezaketle yatıştır.",
+   "basis": "4. evindeki Ay'ın 7. evindeki Mars ve Jüpiter ile yaptığı kare açı."
+  },
+  "balik": {
+   "focus": "İletişim trafiği",
+   "short": "Günlük koşuşturmada ani kararlar verip sözlerini tüketme.",
+   "text": "Üçüncü evindeki Ay, çalışma hayatını temsil eden altıncı evdeki Mars ve Jüpiter ile kare açı yapıyor. Günlük rutinlerindeki aksaklıklar yakın çevrenle olan konuşmalarına sabırsız bir üslup olarak yansıyabilir. Yetiştirilmesi gereken işlerde aceleci davranmak hata yapma payını artırabilir. Sözcüklerini özenle seçmeli, önemli evrakları ve mesajları göndermeden önce mutlaka kontrol etmelisin.",
+   "motivation": "Acele söz yerine dinginliği seç.",
+   "basis": "3. evindeki Ay'ın 6. evdeki Mars ile oluşturduğu kare açı."
+  }
+ }
+}
