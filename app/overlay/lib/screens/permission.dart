@@ -18,7 +18,7 @@ class PermissionScreen extends StatelessWidget {
         ? const [
             'Bir sonraki adımda bildirimlere izin ver; her sabah yorumun gelsin.',
             'Kilit ekranına basılı tut › Özelleştir › Kilit Ekranı.',
-            'Saatin altındaki alana dokun ve "Günlük Burç" widget\'ını ekle.',
+            'Saatin altındaki alana dokun ve "Burç Atlası" widget\'ını ekle.',
           ]
         : const [
             'Bir sonraki adımda bildirimlere izin ver.',

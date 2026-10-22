@@ -71,7 +71,7 @@ class _PaywallScreenState extends State<PaywallScreen> {
               child: ListView(padding: const EdgeInsets.fromLTRB(22, 0, 22, 12), children: [
                 const Center(child: Glyph('sun', size: 54, color: AppColors.goldSoft, stroke: 5)),
                 const SizedBox(height: 10),
-                Text('Günlük Burç Premium', textAlign: TextAlign.center, style: AppText.display(32)),
+                Text('Burç Atlası Premium', textAlign: TextAlign.center, style: AppText.display(32)),
                 const SizedBox(height: 4),
                 Text('Gökyüzünün sana özel haritası, reklamsız.',
                     textAlign: TextAlign.center, style: AppText.body(14, color: AppColors.muted)),

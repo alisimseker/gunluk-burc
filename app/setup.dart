@@ -13,6 +13,8 @@
 // Birden fazla kez çalıştırmak güvenlidir.
 import 'dart:io';
 
+// Telefonda simgenin altında görünen ad (mağaza başlığı: "Burç Atlası - Günlük Burç")
+const appName = 'Burç Atlası';
 const project = 'gunluk_burc';
 const org = 'com.alisimseker';
 // AdMob uygulama kimlikleri: ŞU AN GOOGLE'IN TEST KİMLİKLERİ. Gerçek kimliği AdMob > Uygulamalar'dan al.
@@ -113,7 +115,7 @@ Future<void> main() async {
     </queries>
 </manifest>''');
   }
-  m = m.replaceFirst(RegExp(r'android:label="[^"]*"'), 'android:label="Günlük Burç"');
+  m = m.replaceFirst(RegExp(r'android:label="[^"]*"'), 'android:label="$appName"');
   write(manifestPath, m);
   log('AndroidManifest güncellendi.');
 
@@ -171,6 +173,8 @@ dependencies {
   copyDir(Directory('overlay/ios/BurcWidget'), Directory('$project/ios/BurcWidget'));
   final plistPath = '$project/ios/Runner/Info.plist';
   var pl = read(plistPath);
+  pl = pl.replaceFirstMapped(RegExp(r'(<key>CFBundleDisplayName</key>\s*<string>)[^<]*'), (x) => '${x.group(1)}$appName');
+  write(plistPath, pl);
   if (!pl.contains('GADApplicationIdentifier')) {
     final i = pl.lastIndexOf('</dict>');
     pl = '${pl.substring(0, i)}\t<key>GADApplicationIdentifier</key>\n\t<string>$admobIosAppId</string>\n'

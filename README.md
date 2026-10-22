@@ -1,4 +1,4 @@
-# Günlük Burç
+# Burç Atlası – Günlük Burç
 
 Her gün yapay zekânın gerçek gökyüzü verisine dayanarak yazdığı burç yorumu ve kısa motivasyon cümlesi;
 Android'de kilit ekranında ve bildirim çubuğunda, iPhone'da kilit ekranında saatin altında.
@@ -79,7 +79,7 @@ Apple, iOS uygulamalarının yalnızca Mac'teki Xcode ile derlenmesine izin veri
    diğer örnek dosyaları (BurcWidgetBundle.swift vb.) sil. Widget hedefinin iOS sürümünü **16.0** yap.
 3. **Runner** ve **BurcWidgetExtension** hedeflerinin ikisinde de
    *Signing & Capabilities › + Capability › App Groups* › `group.com.alisimseker.gunlukburc` ekle.
-4. `flutter run` ile iPhone'da dene. Kilit ekranına basılı tut › Özelleştir › saatin altına "Günlük Burç".
+4. `flutter run` ile iPhone'da dene. Kilit ekranına basılı tut › Özelleştir › saatin altına "Burç Atlası".
 
 ## Premium (aylık 299 TL · yıllık 2.499 TL)
 

@@ -30,7 +30,7 @@ class GunlukBurcApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Günlük Burç',
+      title: 'Burç Atlası',
       debugShowCheckedModeBanner: false,
       theme: buildTheme(),
       locale: const Locale('tr', 'TR'),

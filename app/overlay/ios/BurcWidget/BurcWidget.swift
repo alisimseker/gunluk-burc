@@ -54,8 +54,8 @@ struct BurcProvider: TimelineProvider {
   }
 
   private func notReady() -> BurcEntry {
-    BurcEntry(date: Date(), symbol: "✨", name: "Günlük Burç", short: "Burcunu seçmek için uygulamayı aç.",
-              motivation: "Günlük Burç", ready: false)
+    BurcEntry(date: Date(), symbol: "✨", name: "Burç Atlası", short: "Burcunu seçmek için uygulamayı aç.",
+              motivation: "Burç Atlası", ready: false)
   }
 
   /// Bugün ve sonraki günler için, her biri o günün 00:00'ında başlayan kayıtlar.
@@ -143,7 +143,7 @@ struct BurcWidget: Widget {
     StaticConfiguration(kind: kind, provider: BurcProvider()) { entry in
       BurcFamilyView(entry: entry)
     }
-    .configurationDisplayName("Günlük Burç")
+    .configurationDisplayName("Burç Atlası")
     .description("Günün yorumu ve motivasyon cümlen.")
     .supportedFamilies([.accessoryRectangular, .accessoryInline, .systemSmall, .systemMedium])
   }
