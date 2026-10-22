@@ -304,7 +304,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                   onTap: () => _openPremium(() => const PersonalTodayScreen()),
                 ),
                 const SizedBox(height: 10),
-                Row(children: [
+                IntrinsicHeight(child: Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
                   Expanded(
                     child: _FeatureTile(
                       glyph: 'venus',
@@ -326,7 +326,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                       onTap: () => _openPremium(() => const CalendarScreen()),
                     ),
                   ),
-                ]),
+                ])),
                 const SizedBox(height: 10),
                 _FeatureTile(
                   glyph: 'jupiter',
@@ -344,7 +344,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                   onTap: () => _openPremium(() => const NatalScreen(view: NatalView.chart)),
                 ),
                 const SizedBox(height: 10),
-                Row(children: [
+                IntrinsicHeight(child: Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
                   Expanded(
                     child: _FeatureTile(
                       glyph: 'koc',
@@ -366,7 +366,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                       onTap: () => _openPremium(() => const NatalScreen(view: NatalView.moon)),
                     ),
                   ),
-                ]),
+                ])),
                 if (!isPremium) ...[
                   const SizedBox(height: 18),
                   GlassCard(
@@ -511,37 +511,59 @@ class _FeatureTile extends StatelessWidget {
       this.compact = false});
 
   @override
-  Widget build(BuildContext context) => GlassCard(
+  Widget build(BuildContext context) {
+    final badge = Container(
+      width: compact ? 40 : 52,
+      height: compact ? 40 : 52,
+      alignment: Alignment.center,
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        gradient: RadialGradient(colors: [AppColors.gold.withValues(alpha: 0.18), Colors.transparent]),
+        border: Border.all(color: AppColors.line),
+      ),
+      child: Glyph(glyph, size: compact ? 22 : 30, stroke: 7),
+    );
+    final arrow =
+        Icon(locked ? Icons.lock_outline : Icons.chevron_right, size: 18, color: locked ? AppColors.muted : AppColors.gold);
+    const grad = LinearGradient(
+        colors: [Color(0xFF221B3F), Color(0xFF17122B)], begin: Alignment.topLeft, end: Alignment.bottomRight);
+    if (compact) {
+      // Küçük karo: simge üstte, başlık ve açıklama altta (dar alanda satır bölünmesin)
+      return GlassCard(
         onTap: onTap,
-        padding: EdgeInsets.all(compact ? 16 : 18),
-        gradient: const LinearGradient(
-            colors: [Color(0xFF221B3F), Color(0xFF17122B)], begin: Alignment.topLeft, end: Alignment.bottomRight),
-        child: Row(children: [
-          Container(
-            width: compact ? 42 : 52,
-            height: compact ? 42 : 52,
-            alignment: Alignment.center,
-            decoration: BoxDecoration(
-              shape: BoxShape.circle,
-              gradient: RadialGradient(colors: [AppColors.gold.withValues(alpha: 0.18), Colors.transparent]),
-              border: Border.all(color: AppColors.line),
-            ),
-            child: Glyph(glyph, size: compact ? 24 : 30, stroke: 7),
-          ),
-          SizedBox(width: compact ? 10 : 14),
-          Expanded(
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Text(title, style: AppText.body(compact ? 15 : 17, w: FontWeight.w700)),
-              const SizedBox(height: 2),
-              Text(text,
-                  maxLines: 2,
-                  overflow: TextOverflow.ellipsis,
-                  style: AppText.body(compact ? 12 : 13, color: AppColors.muted, height: 1.35)),
-            ]),
-          ),
-          Icon(locked ? Icons.lock_outline : Icons.chevron_right, size: 18, color: locked ? AppColors.muted : AppColors.gold),
+        padding: const EdgeInsets.fromLTRB(16, 14, 14, 16),
+        gradient: grad,
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Row(children: [badge, const Spacer(), arrow]),
+          const SizedBox(height: 12),
+          Text(title, maxLines: 1, overflow: TextOverflow.ellipsis, style: AppText.body(15.5, w: FontWeight.w700)),
+          const SizedBox(height: 2),
+          Text(text,
+              maxLines: 2,
+              overflow: TextOverflow.ellipsis,
+              style: AppText.body(12.5, color: AppColors.muted, height: 1.35)),
         ]),
       );
+    }
+    return GlassCard(
+      onTap: onTap,
+      padding: const EdgeInsets.all(18),
+      gradient: grad,
+      child: Row(children: [
+        badge,
+        const SizedBox(width: 14),
+        Expanded(
+          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(title, style: AppText.body(17, w: FontWeight.w700)),
+            const SizedBox(height: 2),
+            Text(text,
+                maxLines: 2, overflow: TextOverflow.ellipsis, style: AppText.body(13, color: AppColors.muted, height: 1.35)),
+          ]),
+        ),
+        arrow,
+      ]),
+    );
+  }
 }
 
 /// "Bugün sana özel": günün gökyüzünün kendi haritanla buluştuğu yer (öne çıkan kart)
