@@ -320,7 +320,8 @@ def main() -> int:
         if not key:
             print("GEMINI_API_KEY yok", file=sys.stderr)
             return 2
-        writer = Gemini(key, prefer_lite=True)
+        # Kütüphane önce Gemma'yı kullanır: Gemini'nin küçük günlük kotası her günkü burç yorumlarına kalsın
+        writer = Gemini(key, prefer_lite=True, gemma_first=True)
     budget = MAX_REQUESTS
     for name, fn in LIBRARIES:
         used = run_library(name, fn, writer, budget, args.mock)

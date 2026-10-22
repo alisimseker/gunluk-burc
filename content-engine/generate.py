@@ -262,9 +262,11 @@ def build_prompt(day: date, sky: Sky, history: list[dict], signs: list[str],
 class Gemini:
     BASE = "https://generativelanguage.googleapis.com/v1beta"
 
-    def __init__(self, key: str, prefer_lite: bool = False):
+    def __init__(self, key: str, prefer_lite: bool = False, gemma_first: bool = False):
         self.key = key
         self.prefer_lite = prefer_lite
+        self.gemma_first = gemma_first
+        self.exhausted: set[str] = set()   # bugün kotası biten modeller
         self.models = self._pick_models()
         self.requests = 0
 
@@ -304,6 +306,17 @@ class Gemini:
             if n not in seen:
                 seen.add(n)
                 out.append(n)
+        # Son çare: Gemma (aynı ücretsiz anahtar, Gemini'den ayrı ve çok daha geniş günlük kota).
+        # Gemini kotası bitince devreye girer; yazdıkları aynı uydurma/tekrar kontrollerinden geçer.
+        def gver(n: str) -> tuple:
+            m = re.search(r"gemma-(\d+)(?:n)?-(\d+)b", n)
+            return (int(m.group(1)), int(m.group(2))) if m else (0, 0)
+        gemma = sorted([n for n in names if n.startswith("gemma-") and n.endswith("-it") and gver(n)[1] >= 12],
+                       key=gver, reverse=True)
+        if not names:
+            gemma = ["gemma-3-27b-it"]
+        g = [x for x in gemma[:1] if x not in seen]
+        out = g + out if self.gemma_first else out + g
         print("Kullanılacak modeller (sırayla):", out)
         return out
 
@@ -313,26 +326,42 @@ class Gemini:
             "contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json"},
         }
+        # Gemma sistem talimatını ve JSON modunu desteklemez: talimat isteğin başına eklenir
+        gemma_body = {
+            "contents": [{"role": "user", "parts": [{"text": (system or SYSTEM_PROMPT) + "\n\n" + prompt
+                                                     + "\n\nYanıtı YALNIZCA geçerli JSON olarak ver."}]}],
+            "generationConfig": {"temperature": 0.9},
+        }
         last_err: Exception | None = None
         for model in self.models:
+            if model in self.exhausted:
+                continue
             for attempt in range(3):
                 try:
                     self.requests += 1
-                    res = self._req("POST", f"{self.BASE}/models/{model}:generateContent", body)
+                    if model.startswith("gemma-"):
+                        time.sleep(2.5)  # dakikada en fazla ~30 istek
+                    res = self._req("POST", f"{self.BASE}/models/{model}:generateContent",
+                                    gemma_body if model.startswith("gemma-") else body)
                     parts = res["candidates"][0]["content"]["parts"]
                     raw = "".join(p.get("text", "") for p in parts if not p.get("thought"))
                     raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()
+                    if not raw.startswith(("{", "[")):
+                        m = re.search(r"[\[{].*[\]}]", raw, flags=re.S)
+                        raw = m.group(0) if m else raw
                     return json.loads(raw), model
                 except urllib.error.HTTPError as e:
                     last_err = e
-                    detail = e.read().decode(errors="replace")[:300]
-                    print(f"  {model}: HTTP {e.code} {detail}", file=sys.stderr)
+                    detail = e.read().decode(errors="replace")
+                    print(f"  {model}: HTTP {e.code} {detail[:400]}", file=sys.stderr)
                     if e.code in (400, 403, 404):
                         break               # bu model kullanılamıyor → sıradaki
                     if e.code == 429:
-                        if "PerDay" in detail or "per day" in detail.lower():
+                        if "PerDay" in detail or "per day" in detail.lower() or "limit: 0" in detail:
+                            print(f"  {model}: günlük kota bitti, sıradaki modele geçiliyor", file=sys.stderr)
+                            self.exhausted.add(model)
                             break           # günlük kota bitti → sıradaki model
-                        time.sleep(30 * (attempt + 1))
+                        time.sleep(20 * (attempt + 1))
                     else:
                         time.sleep(10 * (attempt + 1))
                 except (json.JSONDecodeError, KeyError, IndexError, urllib.error.URLError, TimeoutError) as e:

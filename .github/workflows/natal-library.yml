@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "41 3,11,19 * * *"   # Türkiye saatiyle 06:41, 14:41, 22:41 (tamamlanınca hiçbir şey yapmaz)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "content-engine/library.py"
+      - "content-engine/generate.py"
 
 permissions:
   contents: write
@@ -15,7 +20,7 @@ concurrency:
 jobs:
   library:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,7 +30,7 @@ jobs:
       - name: Eksik yorumları üret
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NATAL_MAX_REQUESTS: "30"
+          NATAL_MAX_REQUESTS: "45"
         run: |
           mkdir -p data/logs
           set -o pipefail
