@@ -1,4 +1,4 @@
-name: Doğum haritası yorum kütüphanesi
+name: Yapay zekâ yorum kütüphaneleri
 
 on:
   schedule:
@@ -25,12 +25,12 @@ jobs:
       - name: Eksik yorumları üret
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NATAL_MAX_REQUESTS: "25"
-        run: python content-engine/natal_library.py
+          NATAL_MAX_REQUESTS: "30"
+        run: python content-engine/library.py
       - name: Kaydet
         if: always()
         run: |
           git config user.name "burc-bot"
           git config user.email "burc-bot@users.noreply.github.com"
-          git add docs/v1/natal
-          git diff --cached --quiet || (git commit -m "Doğum haritası yorumları" && git pull --rebase && git push)
+          git add docs/v1
+          git diff --cached --quiet || (git commit -m "Yorum kütüphaneleri" && git pull --rebase && git push)
