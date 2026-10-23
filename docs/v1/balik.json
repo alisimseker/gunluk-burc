@@ -1,34 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-10-22T17:33:08+03:00",
+ "updated": "2026-10-23T03:00:54+03:00",
  "days": [
-  {
-   "date": "2026-10-21",
-   "focus": "Bireysel uyanış",
-   "short": "Sezgilerine kulak verip kendi isteklerini merkeze al.",
-   "text": "Ay'ın burcuna geçmesiyle birlikte kendini çok daha canlı ve duygusal olarak merkezinde hissedebilirsin. Terazi'deki Güneş'in derin açısı ve 9. evdeki Venüs ile kurulan üçgen, içgüdülerinin doğruluğunu kanıtlıyor. Kendine olan inancını tazelemek ve ertelediğin kişisel bir adıma başlamak için harika bir gün. İç sesine güvenerek adım at, karşılığını alacaksın.",
-   "motivation": "Özgünlüğün en büyük gücün.",
-   "basis": "Ay'ın 1. evine geçişi ve Venüs ile tam üçgen açısı.",
-   "sky_events": [
-    "Ay bugün Balık'a geçiyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 27°59'",
-    "Ay Kova'da 28°07'",
-    "Merkür Akrep'te 20°27'",
-    "Venüs Akrep'te 2°25' ℞",
-    "Mars Aslan'da 13°06'",
-    "Jüpiter Aslan'da 22°54'",
-    "Satürn Koç'ta 10°00' ℞",
-    "Uranüs İkizler'de 5°02' ℞",
-    "Neptün Koç'ta 2°19' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-22",
    "focus": "Kişisel alan",
@@ -230,6 +204,34 @@
     "Satürn Koç'ta 9°27' ℞",
     "Uranüs İkizler'de 4°46' ℞",
     "Neptün Koç'ta 2°08' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-30",
+   "focus": "İlham ve Neşe",
+   "short": "Yaratıcı uğraşlara yönelerek günü hafifletebilirsin.",
+   "text": "Beşinci evine geçen Ay ile birlikte yaşama karşı daha duyarlı ve üretken bir ruh haline bürünüyorsun. Ancak para evindeki Satürn ve Neptün'ün oluşturduğu baskı, harcamalar ve öz değer konularında seni bir parça kısıtlayabilir. Dokuzuncu evdeki Akrep Güneş sana geniş bir perspektif kazandırırken, hobilerine zaman ayırmak zihnini tazeleyecektir. Eleştirilere takılmadan yeteneklerine alan açmayı seç.",
+   "motivation": "Yaratıcı kıvılcımına güvenle sarıl.",
+   "basis": "Ay 5. evine geçerken 9. evdeki Güneş ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yengeç'e geçiyor.",
+    "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 6°57'",
+    "Ay Yengeç'te 4°11'",
+    "Merkür Akrep'te 18°17' ℞",
+    "Venüs Terazi'de 27°05' ℞",
+    "Mars Aslan'da 17°47'",
+    "Jüpiter Aslan'da 24°07'",
+    "Satürn Koç'ta 9°23' ℞",
+    "Uranüs İkizler'de 4°44' ℞",
+    "Neptün Koç'ta 2°07' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

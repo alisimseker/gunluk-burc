@@ -1,34 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-22T17:33:08+03:00",
+ "updated": "2026-10-23T03:00:54+03:00",
  "days": [
-  {
-   "date": "2026-10-21",
-   "focus": "İçsel kapanışlar",
-   "short": "Günün temposu yavaşlarken zihnini dinlendirmeye alan aç.",
-   "text": "Ay gün içinde Kova'dan Balık burcuna geçerken kalabalıkların gürültüsünden uzaklaşma ihtiyacın artabilir. Terazi'deki Güneş ile Ay arasındaki uyumlu açı, ilişkilerinde uzlaşı sağlamanı kolaylaştırıyor. Ortak paylaşımlarda geçmişten gelen bir meseleyi çözmek için uygun bir andasın. Akşam saatlerinde yalnız kalıp birikmiş duygularını tartmak sana iyi gelecektir.",
-   "motivation": "Kendi ritmine güven.",
-   "basis": "Ay'ın Balık burcuna geçişi ve Güneş ile kurduğu üçgen açı.",
-   "sky_events": [
-    "Ay bugün Balık'a geçiyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 27°59'",
-    "Ay Kova'da 28°07'",
-    "Merkür Akrep'te 20°27'",
-    "Venüs Akrep'te 2°25' ℞",
-    "Mars Aslan'da 13°06'",
-    "Jüpiter Aslan'da 22°54'",
-    "Satürn Koç'ta 10°00' ℞",
-    "Uranüs İkizler'de 5°02' ℞",
-    "Neptün Koç'ta 2°19' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-22",
    "focus": "Zihinsel dinginlik",
@@ -230,6 +204,34 @@
     "Satürn Koç'ta 9°27' ℞",
     "Uranüs İkizler'de 4°46' ℞",
     "Neptün Koç'ta 2°08' ℞",
+    "Plüton Kova'da 3°06'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-30",
+   "focus": "İçsel Güvenlik",
+   "short": "Hane içindeki sorumlulukları sabırla ele alıp sakin kalabilirsin.",
+   "text": "Ay dördüncü evine adım atarken zihnini meşgul eden ortak harcamalar ile kişisel isteklerin arasında gerilim hissedebilirsin. Aslan'daki Mars ile gerileyen Merkür'ün sert açısı, ani tepkiler vermeye meyil yaratabilir. Kendi sınırlarını zorlamadan, evin getirdiği gereksinimleri telaşsızca düzenlemeye çalış. İç dünyanda biriken baskıyı spora veya yaratıcı bir üretime aktararak dağıtman mümkün.",
+   "motivation": "Kendi sığınağında dinginliği büyüt.",
+   "basis": "Ay 4. evine geçerken burcundaki Satürn ile kare açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yengeç'e geçiyor.",
+    "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 6°57'",
+    "Ay Yengeç'te 4°11'",
+    "Merkür Akrep'te 18°17' ℞",
+    "Venüs Terazi'de 27°05' ℞",
+    "Mars Aslan'da 17°47'",
+    "Jüpiter Aslan'da 24°07'",
+    "Satürn Koç'ta 9°23' ℞",
+    "Uranüs İkizler'de 4°44' ℞",
+    "Neptün Koç'ta 2°07' ℞",
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"

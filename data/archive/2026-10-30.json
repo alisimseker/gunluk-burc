@@ -1,0 +1,113 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-23T03:00:54+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 6°57'",
+   "Ay Yengeç'te 4°11'",
+   "Merkür Akrep'te 18°17' ℞",
+   "Venüs Terazi'de 27°05' ℞",
+   "Mars Aslan'da 17°47'",
+   "Jüpiter Aslan'da 24°07'",
+   "Satürn Koç'ta 9°23' ℞",
+   "Uranüs İkizler'de 4°44' ℞",
+   "Neptün Koç'ta 2°07' ℞",
+   "Plüton Kova'da 3°06'"
+  ],
+  "events": [
+   "Ay bugün Yengeç'e geçiyor.",
+   "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+   "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İçsel Güvenlik",
+   "short": "Hane içindeki sorumlulukları sabırla ele alıp sakin kalabilirsin.",
+   "text": "Ay dördüncü evine adım atarken zihnini meşgul eden ortak harcamalar ile kişisel isteklerin arasında gerilim hissedebilirsin. Aslan'daki Mars ile gerileyen Merkür'ün sert açısı, ani tepkiler vermeye meyil yaratabilir. Kendi sınırlarını zorlamadan, evin getirdiği gereksinimleri telaşsızca düzenlemeye çalış. İç dünyanda biriken baskıyı spora veya yaratıcı bir üretime aktararak dağıtman mümkün.",
+   "motivation": "Kendi sığınağında dinginliği büyüt.",
+   "basis": "Ay 4. evine geçerken burcundaki Satürn ile kare açı yapıyor."
+  },
+  "boga": {
+   "focus": "Fikir Trafiği",
+   "short": "Sözlerini özenle seçerek karmaşık konuşmaları kolayca çözebilirsin.",
+   "text": "Üçüncü evine geçen Ay, yakınlarınla kurduğun bağı derinleştirirken bazı anlaşmazlıkları da yüzeye çıkarabilir. Partnerinle veya bir iş ortağınla geçmişe dayalı meseleleri konuşurken Mars ile gerileyen Merkür karesi nedeniyle alınganlıklardan kaçınmalısın. Zihninde oluşan belirsizlikleri hemen sonuca bağlamak yerine dinlemeyi ön plana al. Açık ve doğrudan bir üslup, olası yanlış anlamaların önünü kesecektir.",
+   "motivation": "Düşüncelerini netlikle süz.",
+   "basis": "Ay 3. evinde ilerlerken Güneş ile üçgen açı kuruyor."
+  },
+  "ikizler": {
+   "focus": "Bütçe Disiplini",
+   "short": "Maddi konularda gerçekçi adımlar atarak güvende hissedebilirsin.",
+   "text": "İkinci evine geçen Ay, kazançların ve birikimlerin konusunu ön plana taşıyor. Çalışma hayatındaki telaş ve iletişimdeki keskin tonlar bütçeni ani kararlarla yönetme arzusu doğurabilir. Koç'taki Satürn ile Neptün'ün yaptığı sert açılar, sosyal çevrene yönelik harcamalarda temkinli olman gerektiğini fısıldıyor. İhtiyaçlarını net bir listeyle belirleyip gereksiz masrafları ertelemek rahatlatacaktır.",
+   "motivation": "Tutumlu adımlar huzur getirir.",
+   "basis": "Ay 2. evinde yer alırken 11. evdeki Satürn ile kare açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Kişisel Hedefler",
+   "short": "Kendi beklentilerine odaklanıp enerjini toparlayabilirsin.",
+   "text": "Burcuna geçiş yapan Ay, üzerindeki rehaveti kaldırıp seni merkeze alıyor. Ancak kariyer evindeki Satürn ile kurduğu kare açı, üstlendiğin sorumlulukların getirdiği ağırlığı biraz daha hissettirebilir. Akrep'teki Güneş'in verdiği destek sayesinde kişisel projelerine daha yaratıcı bir soluk kazandırabilirsin. Çevrendekilerin taleplerine boğulmadan önce kendi fiziksel konforunu gözetmen günün verimini artırır.",
+   "motivation": "Varlığını incelikle ortaya koy.",
+   "basis": "Ay burcunda ilerlerken Akrep Güneş ile üçgen açı oluşturuyor."
+  },
+  "aslan": {
+   "focus": "Zihinsel Dinginlik",
+   "short": "İç dünyana çekilip biriken gerginliği geride bırakabilirsin.",
+   "text": "Burcunda ilerleyen Mars ile dip noktandaki Merkür arasındaki kare açı, ailevi meselelerde fevri çıkışlara zemin hazırlayabilir. Ay'ın on ikinci evine geçişi ise seni biraz yavaşlamaya ve olayları dışarıdan izlemeye davet ediyor. Haklılığını kanıtlamak için çabalamak yerine günün temposunu hafifletmeyi seçebilirsin. Sezgilerine güvenerek gereksiz çatışmalardan uzak durmak ruhunu fazlasıyla ferahlatacaktır.",
+   "motivation": "Fırtınada sessiz limanına sığın.",
+   "basis": "Burcundaki Mars, 4. evdeki Merkür ile kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "Sosyal Çevre",
+   "short": "Dostlarınla kurduğun iletişimi gerçekçi bir zeminde tutabilirsin.",
+   "text": "On birinci evine yerleşen Ay, gelecek planlarını ve arkadaşlık ilişkilerini hareketlendiriyor. Merkür ile Mars arasındaki gergin açı, kontrolün dışındaki gelişmeler nedeniyle içinde hafif bir huzursuzluk yaratabilir. İkili paylaşımlarda verilen sözlerin hemen gerçekleşmesini beklememek hayal kırıklıklarını önler. Birlikte çalıştığın insanlarla ortak bir zeminde buluşmak için esnek olmaya özen göster.",
+   "motivation": "Geleceğe güvenle alan aç.",
+   "basis": "Ay 11. evinde seyrederken 8. evdeki Satürn ile kare açı kuruyor."
+  },
+  "terazi": {
+   "focus": "Mesleki Sorumluluk",
+   "short": "İş ortamındaki duruşunu sağlam tutarak ilerleyebilirsin.",
+   "text": "Onuncu evine adım atan Ay, dikkatini hedeflerine ve toplum önündeki duruşuna çeviriyor. Burcunda gerileyen Venüs kişisel kararlarında seni durup düşünmeye yönlendirirken, ortaklıklardaki belirsizlikler yorucu gelebilir. Akrep Güneş'in finansal alanından verdiği destekle, emeklerinin karşılığını somutlaştırmaya odaklanabilirsin. Tartışmalardan kaçınarak sadece yapman gereken işleri tamamlaman yeterli.",
+   "motivation": "Kararlılığın sessizce yol açsın.",
+   "basis": "Ay 10. evine geçiş yaparak Güneş ile üçgen açı tamamlıyor."
+  },
+  "akrep": {
+   "focus": "Görüş Netliği",
+   "short": "İnançlarını ve hedeflerini sağduyuyla savunabilirsin.",
+   "text": "Burcunda gerileyen Merkür'ün kariyer evindeki Mars ile girdiği sert etkileşim, iş ortamında sert ifadeler kullanmana yol açabilir. Dokuzuncu evine geçen Ay ve Güneş üçgeni, ufkunu genişletecek konulara yönelmen için sana içsel bir rahatlama sağlıyor. Günlük işlerin detaylarında boğulmak yerine temel prensiplerini hatırla. Haklılığını aceleyle kabul ettirmeye çalışmak yerine zamana bırakmak en iyisi.",
+   "motivation": "Sağduyun en parlak rehberin.",
+   "basis": "Burcundaki Merkür ile 10. evindeki Mars arasında kare açı tam açıda."
+  },
+  "yay": {
+   "focus": "Duygusal Paylaşımlar",
+   "short": "Derinleşen meseleleri soğukkanlılıkla ele alabilirsin.",
+   "text": "Sekizinci evine geçen Ay, gizli kalmış duyguları ve ortak kaynakları merkeze alıyor. Uzaklarla bağlantılı işlerde ya da eğitim konularında aceleci davranmak zihnini gereksiz yere yorabilir. Akrep'teki Güneş'in desteği, iç dünyanda bastırdığın şeyleri kabullenip dönüştürmen için uygun bir fırsat sunuyor. Maddi konularda ani taahhütlere girmeden önce tüm detayları iki kez gözden geçirmelisin.",
+   "motivation": "Derinliğe korkusuzca temas et.",
+   "basis": "Ay 8. evine geçerken Güneş ile üçgen açı oluşturuyor."
+  },
+  "oglak": {
+   "focus": "İlişki Sınırları",
+   "short": "İkili temaslarda açık kalarak uzlaşı sağlayabilirsin.",
+   "text": "Karşıt burcun Yengeç'e geçen Ay, birebir ilişkilerinde empati kurmanı zorunlu kılıyor. Dördüncü evindeki Satürn'ün Ay ile oluşturduğu kare açı, evdeki sorumluluklar ile partnerinin beklentileri arasında sıkışmışlık hissi yaratabilir. Sosyal çevrenden aldığın fikirleri ölçüp biçerek ortak kararlar üretmeye çalış. Keskin kurallar koymak yerine süreci yumuşatmak herkes için daha yapıcı sonuç verir.",
+   "motivation": "Yumuşak duruş engelleri aşar.",
+   "basis": "Ay 7. evinde ilerlerken 4. evindeki Satürn ile kare açı yapıyor."
+  },
+  "kova": {
+   "focus": "Gündelik Verim",
+   "short": "İşlerini sıraya koyarak zihnini rahatlatabilirsin.",
+   "text": "Altıncı evine yerleşen Ay, çalışma temponu ve beden sağlığını ön plana çıkarıyor. Karşıt burcundaki Mars ile kariyer alanındaki gerileyen Merkür'ün çatışması, üstlerinle ya da ortaklarınla olan diyaloglarda pürüz yaratabilir. Zihnindeki karmaşayı azaltmak için işlerini küçük parçalara bölerek halletmeyi dene. Gerçekçi hedefler belirleyip dinlenmeye de vakit ayırdığında günü çok daha hafif geçirirsin.",
+   "motivation": "Rutinini ferahlıkla yeniden kur.",
+   "basis": "Ay 6. evinde ilerlerken 10. evdeki Güneş ile üçgen açı kuruyor."
+  },
+  "balik": {
+   "focus": "İlham ve Neşe",
+   "short": "Yaratıcı uğraşlara yönelerek günü hafifletebilirsin.",
+   "text": "Beşinci evine geçen Ay ile birlikte yaşama karşı daha duyarlı ve üretken bir ruh haline bürünüyorsun. Ancak para evindeki Satürn ve Neptün'ün oluşturduğu baskı, harcamalar ve öz değer konularında seni bir parça kısıtlayabilir. Dokuzuncu evdeki Akrep Güneş sana geniş bir perspektif kazandırırken, hobilerine zaman ayırmak zihnini tazeleyecektir. Eleştirilere takılmadan yeteneklerine alan açmayı seç.",
+   "motivation": "Yaratıcı kıvılcımına güvenle sarıl.",
+   "basis": "Ay 5. evine geçerken 9. evdeki Güneş ile üçgen açı yapıyor."
+  }
+ }
+}
