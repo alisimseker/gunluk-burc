@@ -1,32 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-23T17:13:37+03:00",
+ "updated": "2026-10-24T02:53:57+03:00",
  "days": [
-  {
-   "date": "2026-10-22",
-   "focus": "Haberleşme trafiği",
-   "short": "İletişim kazalarına karşı dikkatli ol, önemli yazışmaları iki kez kontrol et.",
-   "text": "Günlük akışında veya iş arkadaşlarınla yazışmalarında beklenmedik aksamalar ya da yanlış anlaşılmalar oluşabilir. Bir cihaz arızası veya randevu iptali gündeme gelirse sinirlenmek yerine alternatif yolları devreye sok. Yakın çevrenden duyduğun her bilginin doğruluğunu araştırmadan karar vermemelisin. Önemli bir evrakı göndermeden önce detaylarını dikkatle gözden geçir.",
-   "motivation": "Aklını kullan, sakin ilerle.",
-   "basis": "Ay 3. evinde ilerlerken 6. evindeki retro Uranüs ile kare açıda bulunuyor.",
-   "sky_events": [
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 28°58'",
-    "Ay Balık'ta 10°49'",
-    "Merkür Akrep'te 20°44'",
-    "Venüs Akrep'te 1°49' ℞",
-    "Mars Aslan'da 13°38'",
-    "Jüpiter Aslan'da 23°03'",
-    "Satürn Koç'ta 9°56' ℞",
-    "Uranüs İkizler'de 5°00' ℞",
-    "Neptün Koç'ta 2°18' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-23",
    "focus": "Gelecek Hedefleri",
@@ -235,6 +211,30 @@
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-31",
+   "focus": "Ortak Akıl",
+   "short": "Birlikte hareket ettiğin insanlarla uyumlu bir ritim tutturuyorsun.",
+   "text": "Yedinci evindeki Ay, sosyal çevreni anlatan alanda gerileyen Merkür ile kusursuz bir uyum yakalıyor. Partnerinle veya bir iş ortağınla eski bir projeyi yeniden gündeme alıp eksiklerini tamamlayabilirsiniz. Maddi paylaşımlarda yaşanabilecek ufak gerginliklere karşı serinkanlı kalmalı, ortak amaçları öne çıkarmalısın. Fikir birliğine varmak için karşındakini tüm dikkatinle dinlemen yetecektir.",
+   "motivation": "İş birliği çözümü kolaylaştırır.",
+   "basis": "Yedinci evdeki Ay ile on birinci evdeki Merkür arasındaki üçgen açı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 7°57'",
+    "Ay Yengeç'te 18°35'",
+    "Merkür Akrep'te 17°19' ℞",
+    "Venüs Terazi'de 26°33' ℞",
+    "Mars Aslan'da 18°18'",
+    "Jüpiter Aslan'da 24°14'",
+    "Satürn Koç'ta 9°19' ℞",
+    "Uranüs İkizler'de 4°41' ℞",
+    "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

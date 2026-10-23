@@ -1,32 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-23T17:13:37+03:00",
+ "updated": "2026-10-24T02:53:57+03:00",
  "days": [
-  {
-   "date": "2026-10-22",
-   "focus": "Zihinsel dinginlik",
-   "short": "Beklenmedik haberler karşısında sakinliğini koruyup iç sesine kulak ver.",
-   "text": "Bugün yakın çevrenden gelen ani mesajlar veya plansız haberler zihnini biraz dağıtabilir. Bilinçaltında biriken kaygıları büyütmek yerine, bir anlığına durup derin bir nefes almayı dene. Kalabalık diyaloglardan uzaklaşıp yalnız başına kalmak, olup biteni çok daha berrak görmeni sağlayacaktır. Tepki vermeden önce düşüncelerinin durulmasına izin ver.",
-   "motivation": "Yavaşla ve zihnini ferahlat.",
-   "basis": "Ay 12. evinde yer alırken 3. evindeki retro Uranüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 28°58'",
-    "Ay Balık'ta 10°49'",
-    "Merkür Akrep'te 20°44'",
-    "Venüs Akrep'te 1°49' ℞",
-    "Mars Aslan'da 13°38'",
-    "Jüpiter Aslan'da 23°03'",
-    "Satürn Koç'ta 9°56' ℞",
-    "Uranüs İkizler'de 5°00' ℞",
-    "Neptün Koç'ta 2°18' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-23",
    "focus": "Kişisel Atılımlar",
@@ -235,6 +211,30 @@
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-31",
+   "focus": "Duygusal Netlik",
+   "short": "Eski bir meseleyi çözmek içini ferahlatacak adımı atmanı sağlıyor.",
+   "text": "Evindeki sakinlik, zihninde uzun süredir bekleyen ortak bir maddi konuyu masaya yatırman için zemin hazırlıyor. Akrep'teki Merkür retrosunun dördüncü evindeki Ay ile kurduğu su üçgeni, üstü kapalı kalmış duygusal veya finansal bir pürüzü şeffaflıkla konuşma fırsatı sunuyor. Gurur kaynaklı çıkışlara kapılmadan, sadece ihtiyacın olan güven hissine odaklanmalısın. İç dünyana çekilip neleri geride bırakmak istediğini listelemek sana iyi gelecektir.",
+   "motivation": "Yüzleştiğin her düğüm hafiflik getirir.",
+   "basis": "Dördüncü evdeki Ay ile sekizinci evdeki geri hareketteki Merkür arasındaki üçgen açı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 7°57'",
+    "Ay Yengeç'te 18°35'",
+    "Merkür Akrep'te 17°19' ℞",
+    "Venüs Terazi'de 26°33' ℞",
+    "Mars Aslan'da 18°18'",
+    "Jüpiter Aslan'da 24°14'",
+    "Satürn Koç'ta 9°19' ℞",
+    "Uranüs İkizler'de 4°41' ℞",
+    "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

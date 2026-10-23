@@ -1,32 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-10-23T17:13:37+03:00",
+ "updated": "2026-10-24T02:53:57+03:00",
  "days": [
-  {
-   "date": "2026-10-22",
-   "focus": "Hedefler ve esneklik",
-   "short": "Kariyerinde aniden değişen durumlara esnek yaklaşarak dengeyi kur.",
-   "text": "İş hayatında ya da üstlerinle olan temaslarında plan dışı gelişmelerle karşılaşabilirsin. Kendi bildiğin yolda ısrar etmek yerine, anın getirdiği değişken şartlara uyum sağlamak üzerindeki baskıyı hafifletir. Ani kararlarla köprüleri atmaktan kaçınmalı, profesyonel hedeflerini sağduyuyla ele almalısın. Masandaki işleri sırayla bitirerek günü toparla.",
-   "motivation": "Değişime uyumla karşılık ver.",
-   "basis": "Ay 10. evindeyken burcundaki retro Uranüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 28°58'",
-    "Ay Balık'ta 10°49'",
-    "Merkür Akrep'te 20°44'",
-    "Venüs Akrep'te 1°49' ℞",
-    "Mars Aslan'da 13°38'",
-    "Jüpiter Aslan'da 23°03'",
-    "Satürn Koç'ta 9°56' ℞",
-    "Uranüs İkizler'de 5°00' ℞",
-    "Neptün Koç'ta 2°18' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-23",
    "focus": "Sosyal Çevre",
@@ -235,6 +211,30 @@
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-31",
+   "focus": "Maddi Farkındalık",
+   "short": "Rutinlerini ve bütçeni gözden geçirmek kafanı rahatlatıyor.",
+   "text": "İkinci evinde duran Ay, altıncı evindeki Merkür retrosuyla uyumlanarak çalışma düzenini ve harcama alışkanlıklarını yeniden tartmanı istiyor. Masraflarını toparlamak ve iş akışında gözden kaçan evrakları düzenlemek gününe verim katacaktır. Zihnin hızlı çalışsa da aceleyle karar almaktan kaçınmalı, pratik detaylara sadık kalmalısın. Masanı düzenlemek bile üretkenliğini anında artıracaktır.",
+   "motivation": "Sadelik zihnine berraklık katar.",
+   "basis": "İkinci evdeki Ay ile altıncı evdeki Merkür arasındaki üçgen açı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 7°57'",
+    "Ay Yengeç'te 18°35'",
+    "Merkür Akrep'te 17°19' ℞",
+    "Venüs Terazi'de 26°33' ℞",
+    "Mars Aslan'da 18°18'",
+    "Jüpiter Aslan'da 24°14'",
+    "Satürn Koç'ta 9°19' ℞",
+    "Uranüs İkizler'de 4°41' ℞",
+    "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

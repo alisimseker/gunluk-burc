@@ -1,32 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-10-23T17:13:37+03:00",
+ "updated": "2026-10-24T02:53:57+03:00",
  "days": [
-  {
-   "date": "2026-10-22",
-   "focus": "Finansal denge",
-   "short": "Ortak bütçelerde sürpriz harcamaları soğukkanlılıkla yönet.",
-   "text": "Ortaklaşa yürütülen bir para konusunda veya bir arkadaşının önerisiyle aniden ortaya çıkan masraflar dikkatini çekebilir. Geleceğe dair maddi planlarını yaparken ani heveslerle hareket etmemen gereken bir gündesin. Aile içinde geçmişten gelen konular konuşulurken kırıcı olmamaya özen göster. Paylaşımlarını şeffaf tutarak karmaşanın önüne geçebilirsin.",
-   "motivation": "Adımlarını ölçerek güven sağla.",
-   "basis": "Ay 8. evinde bulunurken 11. evindeki Uranüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 28°58'",
-    "Ay Balık'ta 10°49'",
-    "Merkür Akrep'te 20°44'",
-    "Venüs Akrep'te 1°49' ℞",
-    "Mars Aslan'da 13°38'",
-    "Jüpiter Aslan'da 23°03'",
-    "Satürn Koç'ta 9°56' ℞",
-    "Uranüs İkizler'de 5°00' ℞",
-    "Neptün Koç'ta 2°18' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-23",
    "focus": "Yaşam alanı",
@@ -235,6 +211,30 @@
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-31",
+   "focus": "Sessiz Muhasebe",
+   "short": "Biraz yavaşlayıp iç sesine kulak vermek sana iyi gelecektir.",
+   "text": "Temponu biraz yavaşlatıp kendi köşene çekilmek, zihnindeki eski yükleri temizlemeni sağlayabilir. Kendi burcundaki Mars seni hemen harekete geçmeye itse de, dördüncü evinde geri giden Merkür geçmiş meseleleri tekrar önüne getirebilir. 12. evde bulunan Ay, sezgisel bir kavrayış geliştirerek iç dünyanı toparlamanı kolaylaştırıyor. Tepkisel sözler sarf etmek yerine hissettiklerini gözden geçirip derin bir nefes almayı dene.",
+   "motivation": "Geri çekilmek gücünü tazeler.",
+   "basis": "Ay 12. evinde, dördüncü evde geri giden Merkür ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 7°57'",
+    "Ay Yengeç'te 18°35'",
+    "Merkür Akrep'te 17°19' ℞",
+    "Venüs Terazi'de 26°33' ℞",
+    "Mars Aslan'da 18°18'",
+    "Jüpiter Aslan'da 24°14'",
+    "Satürn Koç'ta 9°19' ℞",
+    "Uranüs İkizler'de 4°41' ℞",
+    "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

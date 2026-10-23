@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-24T02:53:57+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 7°57'",
+   "Ay Yengeç'te 18°35'",
+   "Merkür Akrep'te 17°19' ℞",
+   "Venüs Terazi'de 26°33' ℞",
+   "Mars Aslan'da 18°18'",
+   "Jüpiter Aslan'da 24°14'",
+   "Satürn Koç'ta 9°19' ℞",
+   "Uranüs İkizler'de 4°41' ℞",
+   "Neptün Koç'ta 2°06' ℞",
+   "Plüton Kova'da 3°07'"
+  ],
+  "events": [
+   "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Son Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Duygusal Netlik",
+   "short": "Eski bir meseleyi çözmek içini ferahlatacak adımı atmanı sağlıyor.",
+   "text": "Evindeki sakinlik, zihninde uzun süredir bekleyen ortak bir maddi konuyu masaya yatırman için zemin hazırlıyor. Akrep'teki Merkür retrosunun dördüncü evindeki Ay ile kurduğu su üçgeni, üstü kapalı kalmış duygusal veya finansal bir pürüzü şeffaflıkla konuşma fırsatı sunuyor. Gurur kaynaklı çıkışlara kapılmadan, sadece ihtiyacın olan güven hissine odaklanmalısın. İç dünyana çekilip neleri geride bırakmak istediğini listelemek sana iyi gelecektir.",
+   "motivation": "Yüzleştiğin her düğüm hafiflik getirir.",
+   "basis": "Dördüncü evdeki Ay ile sekizinci evdeki geri hareketteki Merkür arasındaki üçgen açı."
+  },
+  "boga": {
+   "focus": "Açık Diyalog",
+   "short": "İlişkilerde eksik kalan cümleleri tamamlamak için doğru zamandasın.",
+   "text": "Karşıt burcunda gerileyen Merkür'ün üçüncü evindeki Ay ile uyumu, ikili ilişkilerde geçmişe dönük anlaşmazlıkları tatlıya bağlamanı kolaylaştırıyor. Birlikte yürüdüğün kişiyle arandaki sessizliği bozarak aklındakileri dürüstçe aktarabilirsin. Aile ortamından kaynaklanan fevri tepkilere prim vermeden kelimelerini özenle seçmen yeterli. Bugün eski bir dosttan gelecek haber de seni şaşırtabilir.",
+   "motivation": "İçten bir söz kalpleri yaklaştırır.",
+   "basis": "Üçüncü evdeki Ay ile yedinci evdeki Merkür retrosunun üçgen açısı."
+  },
+  "ikizler": {
+   "focus": "Maddi Farkındalık",
+   "short": "Rutinlerini ve bütçeni gözden geçirmek kafanı rahatlatıyor.",
+   "text": "İkinci evinde duran Ay, altıncı evindeki Merkür retrosuyla uyumlanarak çalışma düzenini ve harcama alışkanlıklarını yeniden tartmanı istiyor. Masraflarını toparlamak ve iş akışında gözden kaçan evrakları düzenlemek gününe verim katacaktır. Zihnin hızlı çalışsa da aceleyle karar almaktan kaçınmalı, pratik detaylara sadık kalmalısın. Masanı düzenlemek bile üretkenliğini anında artıracaktır.",
+   "motivation": "Sadelik zihnine berraklık katar.",
+   "basis": "İkinci evdeki Ay ile altıncı evdeki Merkür arasındaki üçgen açı."
+  },
+  "yengec": {
+   "focus": "Yaratıcı İlham",
+   "short": "Sezgilerinle hareket ettiğinde kendini çok daha iyi anlatıyorsun.",
+   "text": "Burcunda ilerleyen Ay'ın beşinci evindeki Merkür retrosuyla kurduğu üçgen, kalbinden geçenleri kelimelere dökmeni fazlasıyla kolaylaştırıyor. Yarım bıraktığın sanatsal bir uğraşa geri dönebilir veya çocuklarla ilgili ertelenmiş bir konuyu tatlı dille çözebilirsin. Harcamalarında aşırıya kaçma isteği belirirse durup temel ihtiyaçlarını hatırla. Kendi hislerine kulak verdiğinde en doğru rotayı bulacaksın.",
+   "motivation": "Özünden gelen sese kulak ver.",
+   "basis": "Birinci evindeki Ay ile beşinci evdeki Merkür retrosunun üçgen açısı."
+  },
+  "aslan": {
+   "focus": "Sessiz Muhasebe",
+   "short": "Biraz yavaşlayıp iç sesine kulak vermek sana iyi gelecektir.",
+   "text": "Temponu biraz yavaşlatıp kendi köşene çekilmek, zihnindeki eski yükleri temizlemeni sağlayabilir. Kendi burcundaki Mars seni hemen harekete geçmeye itse de, dördüncü evinde geri giden Merkür geçmiş meseleleri tekrar önüne getirebilir. 12. evde bulunan Ay, sezgisel bir kavrayış geliştirerek iç dünyanı toparlamanı kolaylaştırıyor. Tepkisel sözler sarf etmek yerine hissettiklerini gözden geçirip derin bir nefes almayı dene.",
+   "motivation": "Geri çekilmek gücünü tazeler.",
+   "basis": "Ay 12. evinde, dördüncü evde geri giden Merkür ile üçgen açıda."
+  },
+  "basak": {
+   "focus": "Eski Dostlar",
+   "short": "Dost meclislerinde yapılacak samimi sohbetler ufkunu açıyor.",
+   "text": "On birinci evindeki Ay'ın üçüncü evdeki Merkür retrosuyla kurduğu su bağı, eski bir arkadaş grubuyla yeniden temas kurmanı sağlıyor. Uzun süredir görüşemediğin dostlarınla nostaljik paylaşımlar yapmak moralini yükseltecektir. Zihninde arka planda dönüp duran kaygıları bir kenara koyup anın getirdiği paylaşımlara odaklan. Birlikte üretilecek fikirler sana yeni kapılar aralayabilir.",
+   "motivation": "Paylaşılan anılar bağı tazeler.",
+   "basis": "On birinci evdeki Ay ile üçüncü evdeki Merkür arasındaki üçgen açı."
+  },
+  "terazi": {
+   "focus": "Kariyer Netliği",
+   "short": "İş hayatındaki hedeflerini iç sesinle harmanlayarak yönetebilirsin.",
+   "text": "Tepe noktanı aydınlatan Ay, ikinci evinde gerileyen Merkür ile olumlu bir açı yaparak mesleki planlarında finansal gerçekleri tartmanı sağlıyor. Üstlerinle geçmiş projelerin bütçesini yeniden masaya yatırabilir, emeğinin karşılığını sakin bir üslupla talep edebilirsin. Çevrendeki sosyal karmaşaya kapılmadan kendi hedeflerine odaklanmalısın. Yapacağın ufak bir planlama geleceğe güvenle bakmanı sağlayacak.",
+   "motivation": "Emeğin yönünü bilgelikle çiz.",
+   "basis": "Onuncu evdeki Ay ile ikinci evdeki Merkür arasındaki üçgen açı."
+  },
+  "akrep": {
+   "focus": "Derin Kavrayış",
+   "short": "Olaylara geniş açıdan bakmak zihnini ferahlatacak.",
+   "text": "Hayata bakış açını derinleştiren, eski fikirlerini olgunlukla tarttığın bir gündesin. Birinci evinde geri giden Merkür ile kariyer alanındaki Mars arasındaki gerilim, hedeflerin konusunda aceleci sözlerden kaçınmanı gerektiriyor. Dokuzuncu evdeki Ay ise olaylara çok daha bilgece ve geniş bir perspektiften yaklaşmana yardım ediyor. Tartışmalara enerji harcamak yerine, edindiğin deneyimleri sindirmeye odaklan.",
+   "motivation": "Bilgelik acele etmeden köklenir.",
+   "basis": "Dokuzuncu evdeki Ay, 1. evde geri giden Merkür ile üçgen açıda."
+  },
+  "yay": {
+   "focus": "Manevi Çözülme",
+   "short": "Derinlerde sakladığın endişeleri serbest bırakma vakti.",
+   "text": "Sekizinci evinde bulunan Ay'ın on ikinci evdeki Merkür retrosuyla kurduğu köprü, bilinçaltında sıkışıp kalmış bir korkuyu dönüştürmen için fırsat veriyor. Kendi iç dünyanla yapacağın dürüst bir yüzleşme, gereksiz yüklerden arınmanı sağlayacak. Uzak hedeflerinle ilgili acele kararlar almadan önce sezgilerinin gösterdiği yönü izlemelisin. Bazen sadece kabule geçmek en büyük rahatlamayı getirir.",
+   "motivation": "Bıraktığın her ağırlık kanatlandırır.",
+   "basis": "Sekizinci evdeki Ay ile on ikinci evdeki Merkür retrosunun üçgen açısı."
+  },
+  "oglak": {
+   "focus": "Ortak Akıl",
+   "short": "Birlikte hareket ettiğin insanlarla uyumlu bir ritim tutturuyorsun.",
+   "text": "Yedinci evindeki Ay, sosyal çevreni anlatan alanda gerileyen Merkür ile kusursuz bir uyum yakalıyor. Partnerinle veya bir iş ortağınla eski bir projeyi yeniden gündeme alıp eksiklerini tamamlayabilirsiniz. Maddi paylaşımlarda yaşanabilecek ufak gerginliklere karşı serinkanlı kalmalı, ortak amaçları öne çıkarmalısın. Fikir birliğine varmak için karşındakini tüm dikkatinle dinlemen yetecektir.",
+   "motivation": "İş birliği çözümü kolaylaştırır.",
+   "basis": "Yedinci evdeki Ay ile on birinci evdeki Merkür arasındaki üçgen açı."
+  },
+  "kova": {
+   "focus": "İş Akışı",
+   "short": "Gündelik işlerini toparlamak zihinsel bir rahatlık sağlayacak.",
+   "text": "Masa başındaki yarım kalmış işleri toparlamak ve sorumluluklarını sıraya koymak bugün sana hafiflik getirebilir. Onuncu evinde geri giden Merkür mesleki konularda geçmiş kararları tekrar değerlendirmeni sağlarken, karşıt burcundaki Mars ortaklıklarda ani fevri tepkilere açık bir zemin hazırlayabilir. Altıncı evdeki Ay ise pratik çözümler üreterek rutinlerini kolaylaştırmana katkı veriyor. Çekişmelerden uzak durup sadece kendi görev listeni tamamlamaya odaklan.",
+   "motivation": "Sade pratiklik karmaşayı dindirir.",
+   "basis": "Altıncı evde bulunan Ay, 10. evde geri giden Merkür ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Yaratıcı Şevk",
+   "short": "Sezgilerinle beslenen fikirler gününe neşe katıyor.",
+   "text": "Beşinci evindeki Ay, dokuzuncu evinde gerileyen Merkür ile üçgen açı oluşturarak seni ilham dolu bir ruh haline taşıyor. Sanatsal bir hobiye, eski bir yazıya ya da sana keyif veren bir öğrenme alanına dönmek için çok verimli bir atmosfer var. Günlük koşturmaların enerjini tüketmesine izin vermeden kendine özel bir yaratım alanı açmalısın. Ruhunu neşelendirecek bir aktiviteye vakit ayır.",
+   "motivation": "İlhamını hayata cesurca kat.",
+   "basis": "Beşinci evdeki Ay ile dokuzuncu evdeki Merkür retrosunun üçgen açısı."
+  }
+ }
+}

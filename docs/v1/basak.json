@@ -1,32 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-10-23T17:13:37+03:00",
+ "updated": "2026-10-24T02:53:57+03:00",
  "days": [
-  {
-   "date": "2026-10-22",
-   "focus": "İlişkilerde esneklik",
-   "short": "Ortaklıklarda gelişen ani durumları yapıcı bir dille karşıla.",
-   "text": "Partnerinle veya iş birliği yaptığın kişilerle ilişkilerinde kariyer kaynaklı ani gerginlikler baş gösterebilir. Beklenmedik bir yön değişikliği karşısında katı kurallar koymak yerine dinlemeyi seçmelisin. İletişimde sözcüklerini özenle seçmen, olası bir güç çekişmesini hemen yumuşatır. Birlikte çalıştığın insanlarla görev dağılımını yeniden netleştirmelisin.",
-   "motivation": "Esneklik en sağlam çözümdür.",
-   "basis": "Ay 7. evinde ilerlerken 10. evindeki retro Uranüs ile kare açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 28°58'",
-    "Ay Balık'ta 10°49'",
-    "Merkür Akrep'te 20°44'",
-    "Venüs Akrep'te 1°49' ℞",
-    "Mars Aslan'da 13°38'",
-    "Jüpiter Aslan'da 23°03'",
-    "Satürn Koç'ta 9°56' ℞",
-    "Uranüs İkizler'de 5°00' ℞",
-    "Neptün Koç'ta 2°18' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-23",
    "focus": "Zihinsel Netlik",
@@ -235,6 +211,30 @@
     "Plüton Kova'da 3°06'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-10-31",
+   "focus": "Eski Dostlar",
+   "short": "Dost meclislerinde yapılacak samimi sohbetler ufkunu açıyor.",
+   "text": "On birinci evindeki Ay'ın üçüncü evdeki Merkür retrosuyla kurduğu su bağı, eski bir arkadaş grubuyla yeniden temas kurmanı sağlıyor. Uzun süredir görüşemediğin dostlarınla nostaljik paylaşımlar yapmak moralini yükseltecektir. Zihninde arka planda dönüp duran kaygıları bir kenara koyup anın getirdiği paylaşımlara odaklan. Birlikte üretilecek fikirler sana yeni kapılar aralayabilir.",
+   "motivation": "Paylaşılan anılar bağı tazeler.",
+   "basis": "On birinci evdeki Ay ile üçüncü evdeki Merkür arasındaki üçgen açı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 7°57'",
+    "Ay Yengeç'te 18°35'",
+    "Merkür Akrep'te 17°19' ℞",
+    "Venüs Terazi'de 26°33' ℞",
+    "Mars Aslan'da 18°18'",
+    "Jüpiter Aslan'da 24°14'",
+    "Satürn Koç'ta 9°19' ℞",
+    "Uranüs İkizler'de 4°41' ℞",
+    "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }
