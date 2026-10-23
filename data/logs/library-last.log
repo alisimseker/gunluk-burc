@@ -1,172 +1,3 @@
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[events] yanıt okunamadı; örnek: {'ev:ingress:jupiter:6:6': 'Şifa arayışı, günlük rutinlerin iyileştirilmesi ve çalışma ortamında bereketin artması bu dönemde ön plana çıkıyor. Sağlığını destekleyecek adımlar atabilir, işleyişi pürüzsüz hale getirecek yöntemler geliştirebilirsin.', 'ev:ingress:jupiter:7:7': 'Ortaklıklar, ikili bağl
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
   gemma-4-31b-it: HTTP 500 {
   "error": {
     "code": 500,
@@ -176,11 +7,60 @@
 }
 
   gemma-4-31b-it: geçersiz yanıt (The read operation timed out)
+  gemma-4-31b-it: geçersiz yanıt (The read operation timed out)
   gemma-4-31b-it: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "status": "UNAVAILABLE"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
   }
 }
 
