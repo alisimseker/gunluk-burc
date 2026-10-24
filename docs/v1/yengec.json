@@ -1,34 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-24T16:19:04+03:00",
+ "updated": "2026-10-25T02:19:47+03:00",
  "days": [
-  {
-   "date": "2026-10-23",
-   "focus": "Yaratıcı İlhamlar",
-   "short": "Bugün hissettiklerini yazıya veya sanata dökmek zihnini çok rahatlatır.",
-   "text": "Ay ile Merkür arasındaki uyumlu üçgen açı, duygularını anlaşılır bir dille ifade etmeni kolaylaştırıyor. Özellikle hobilerine ve kendini mutlu eden uğraşlara vakit ayırmak içindeki yaratıcılığı besleyecektir. Güneş'in Akrep'e adım atmasıyla birlikte yaşama duyduğun tutku belirginleşebilir. Akşam saatlerinde sorumluluklarını göz ardı etmeden keyif aldığın şeylere odaklan.",
-   "motivation": "Yüreğinden geçenleri açıkça paylaş.",
-   "basis": "Ay ile Merkür arasında üçgen açı tam gerçekleşiyor.",
-   "sky_events": [
-    "Güneş bugün Akrep'e geçiyor.",
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 29°58'",
-    "Ay Balık'ta 23°55'",
-    "Merkür Akrep'te 20°55'",
-    "Venüs Akrep'te 1°13' ℞",
-    "Mars Aslan'da 14°09'",
-    "Jüpiter Aslan'da 23°11'",
-    "Satürn Koç'ta 9°51' ℞",
-    "Uranüs İkizler'de 4°58' ℞",
-    "Neptün Koç'ta 2°16' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-24",
    "focus": "Kariyer Rotaları",
@@ -232,6 +206,33 @@
     "Satürn Koç'ta 9°19' ℞",
     "Uranüs İkizler'de 4°41' ℞",
     "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-01",
+   "focus": "Maddi Değerlendirme",
+   "short": "Bütçeni gözden geçirmek ve gereksiz harcamaları kısmak güven hissi verecektir.",
+   "text": "Ay'ın Aslan burcuna geçişiyle birlikte parasal konulara ve öz değerine odaklanıyorsun. Neptün ile gerçekleşen üçgen açı, geleceğe dönük hedeflerinde sezgilerine alan tanımanı sağlıyor. Ani harcama dürtülerini kontrol altında tutarak kaynaklarını uzun vadeli planlar için koruyabilirsin. Bugün sahip olduğun yeteneklerin listesini çıkarmak kendine olan inancını pekiştirecektir.",
+   "motivation": "Emeğinin kıymetini iyi bil.",
+   "basis": "Ay 2. evinde Aslan burcunda ve 10. evdeki Neptün ile üçgen açıda.",
+   "sky_events": [
+    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
+    "Ay bugün Aslan'a geçiyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 8°57'",
+    "Ay Aslan'da 2°45'",
+    "Merkür Akrep'te 16°14' ℞",
+    "Venüs Terazi'de 26°03' ℞",
+    "Mars Aslan'da 18°48'",
+    "Jüpiter Aslan'da 24°22'",
+    "Satürn Koç'ta 9°15' ℞",
+    "Uranüs İkizler'de 4°39' ℞",
+    "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
    ],
    "moon_phase": "Son Dördün"

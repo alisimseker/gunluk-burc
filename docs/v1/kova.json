@@ -1,34 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-10-24T16:19:04+03:00",
+ "updated": "2026-10-25T02:19:47+03:00",
  "days": [
-  {
-   "date": "2026-10-23",
-   "focus": "Kariyer adımları",
-   "short": "İş hayatında sorumlulukların artıyor, yeni kararlar kapıda.",
-   "text": "Onuncu evindeki Güneş, mesleki hedeflerine odaklanman için sana güçlü bir ivme kazandırıyor. Kariyerinle ilgili konularda geçmişte yarım kalmış detayları gözden geçirebilir, yöneticilerle yapacağın görüşmelerde net bir duruş sergileyebilirsin. Maddi kaynaklarını planlarken sezgilerine kulak vermen faydalı olacaktır.",
-   "motivation": "Hedeflerine odaklanarak fark yarat.",
-   "basis": "Güneş 10. evine geçiş yaparken Ay ile Merkür üçgen açı yapıyor.",
-   "sky_events": [
-    "Güneş bugün Akrep'e geçiyor.",
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 29°58'",
-    "Ay Balık'ta 23°55'",
-    "Merkür Akrep'te 20°55'",
-    "Venüs Akrep'te 1°13' ℞",
-    "Mars Aslan'da 14°09'",
-    "Jüpiter Aslan'da 23°11'",
-    "Satürn Koç'ta 9°51' ℞",
-    "Uranüs İkizler'de 4°58' ℞",
-    "Neptün Koç'ta 2°16' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-24",
    "focus": "Fikir Alışverişi",
@@ -232,6 +206,33 @@
     "Satürn Koç'ta 9°19' ℞",
     "Uranüs İkizler'de 4°41' ℞",
     "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-01",
+   "focus": "İkili İlişkiler",
+   "short": "Birlikte hareket ettiğin kişilerle empati kurarak anlaşmazlıkları aşabilirsin.",
+   "text": "Yedinci evine adım atan Ay, odağını ikili ilişkilere ve bire bir paylaşımlara çekiyor. Üçüncü evdeki Neptün ile Ay arasındaki üçgen, konuşmalarında sezgisel ve yapıcı bir ton yakalamanı kolaylaştırıyor. Burcundaki Plüton'un karşıtlığı baskıcı tutumlara davetiye çıkarabilir; uzlaşmacı kalarak gerilimi savuşturabilirsin. Karşındakini sakince dinlemek aranızdaki güveni tazeleyecektir.",
+   "motivation": "Şefkatli dinleyiş güven aşılar.",
+   "basis": "Ay 7. evinde Aslan'da ve 3. evdeki Neptün ile üçgen, 1. evindeki Plüton ile karşıt açıda.",
+   "sky_events": [
+    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
+    "Ay bugün Aslan'a geçiyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 8°57'",
+    "Ay Aslan'da 2°45'",
+    "Merkür Akrep'te 16°14' ℞",
+    "Venüs Terazi'de 26°03' ℞",
+    "Mars Aslan'da 18°48'",
+    "Jüpiter Aslan'da 24°22'",
+    "Satürn Koç'ta 9°15' ℞",
+    "Uranüs İkizler'de 4°39' ℞",
+    "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
    ],
    "moon_phase": "Son Dördün"

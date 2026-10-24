@@ -1,34 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-24T16:19:04+03:00",
+ "updated": "2026-10-25T02:19:47+03:00",
  "days": [
-  {
-   "date": "2026-10-23",
-   "focus": "Kişisel Atılımlar",
-   "short": "Öğleden sonra adımlarını hızlandırıp kendi isteklerine odaklanabilirsin.",
-   "text": "Günün ilk saatlerindeki durgunluğu geride bırakıp canlı bir havaya bürünüyorsun. Akşamüstüne doğru Ay'ın senin burcuna geçişiyle beraber ertelediğin işleri ele almak için güçlü bir heves bulabilirsin. Güneş'in Akrep geçişi ise ortak paylaşımlar ve bütçe planlarında daha derinlikli düşünmeni gerektiriyor. Kendine zaman ayırıp hedeflerini netleştirmen kararlarını kolaylaştırır.",
-   "motivation": "Harekete geçmek cesaret ister.",
-   "basis": "Ay bugün Koç burcuna geçiyor.",
-   "sky_events": [
-    "Güneş bugün Akrep'e geçiyor.",
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Terazi'de 29°58'",
-    "Ay Balık'ta 23°55'",
-    "Merkür Akrep'te 20°55'",
-    "Venüs Akrep'te 1°13' ℞",
-    "Mars Aslan'da 14°09'",
-    "Jüpiter Aslan'da 23°11'",
-    "Satürn Koç'ta 9°51' ℞",
-    "Uranüs İkizler'de 4°58' ℞",
-    "Neptün Koç'ta 2°16' ℞",
-    "Plüton Kova'da 3°04'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-24",
    "focus": "Ortak Kaynaklar",
@@ -232,6 +206,33 @@
     "Satürn Koç'ta 9°19' ℞",
     "Uranüs İkizler'de 4°41' ℞",
     "Neptün Koç'ta 2°06' ℞",
+    "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-01",
+   "focus": "Yaratıcı Cesaret",
+   "short": "Yaratıcı projelerine ilhamla odaklanabilir, yeni fikirleri cesurca deneyebilirsin.",
+   "text": "Aslan burcundaki Son Dördün, kişisel zevklerine ve yaratıcı üretimlerine yeni bir soluk getiriyor. Koç burcundaki Neptün ile kurulan uyumlu üçgen açı, içindeki sanatsal sezgileri canlandırıyor. Fikirlerini özgürce ortaya koymaktan çekinme; ancak sosyal çevrenden gelebilecek baskıcı tutumlara karşı sakinliğini koru. Sevdiğin bir uğraşa odaklanmak günün akışını güzelleştirecektir.",
+   "motivation": "Tutkunu hayal gücünle birleştir.",
+   "basis": "Ay 5. evinde Aslan burcunda Son Dördün fazında ve 1. evindeki Neptün ile üçgen açıda.",
+   "sky_events": [
+    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
+    "Ay bugün Aslan'a geçiyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 8°57'",
+    "Ay Aslan'da 2°45'",
+    "Merkür Akrep'te 16°14' ℞",
+    "Venüs Terazi'de 26°03' ℞",
+    "Mars Aslan'da 18°48'",
+    "Jüpiter Aslan'da 24°22'",
+    "Satürn Koç'ta 9°15' ℞",
+    "Uranüs İkizler'de 4°39' ℞",
+    "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
    ],
    "moon_phase": "Son Dördün"
