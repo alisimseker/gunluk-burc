@@ -1,34 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-10-25T16:42:10+03:00",
+ "updated": "2026-10-26T02:23:42+03:00",
  "days": [
-  {
-   "date": "2026-10-24",
-   "focus": "Ufuk turu",
-   "short": "Yeni perspektifler keşfederken aile bağlarını sağlam tut.",
-   "text": "Dokuzuncu evindeki Koç Ay'ının Uranüs ile yaptığı sekstil açı, sana sınırlarını aşma ve yeni şeyler öğrenme arzusu veriyor. Ancak dördüncü evinde retroya geçen Merkür, aile içindeki eski bir konunun veya evle ilgili tamamlanmamış bir meselenin dikkatini isteyeceğini söylüyor. Evinde geçmişe dair düzenlemeler yapmak, taşınma ya da tadilat kararlarında aceleci olmamak fayda sağlar. Güneş ile Venüs'ün kavuşumu içsel huzuru köklerinde aramanı fısıldıyor. Bugün geniş düşünürken evdeki sorumluluklarını da unutma.",
-   "basis": "Ay dokuzuncu evinde yer alırken Merkür dördüncü evinde retroya başlıyor.",
-   "motivation": "Keşif cesareti köklerden beslenir.",
-   "sky_events": [
-    "Merkür bugün retro hareketine başlıyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 0°58'",
-    "Ay Koç'ta 7°26'",
-    "Merkür Akrep'te 20°58' ℞",
-    "Venüs Akrep'te 0°36' ℞",
-    "Mars Aslan'da 14°41'",
-    "Jüpiter Aslan'da 23°19'",
-    "Satürn Koç'ta 9°47' ℞",
-    "Uranüs İkizler'de 4°56' ℞",
-    "Neptün Koç'ta 2°15' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-25",
    "focus": "Yeni bakış",

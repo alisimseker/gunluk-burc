@@ -1,34 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-25T16:42:10+03:00",
+ "updated": "2026-10-26T02:23:42+03:00",
  "days": [
-  {
-   "date": "2026-10-24",
-   "focus": "İlham ve yaratıcılık",
-   "short": "Hobilerine alan aç, bilinçaltındaki fazlalıkları ayıkla.",
-   "text": "Beşinci evindeki Ay'ın Uranüs ve Plüton ile sekstili, kendini neşeyle ve özgünce ortaya koyman için harika bir akış sağlıyor. Fakat on ikinci evinde geri gitmeye başlayan Merkür, perde arkasında dönen konuşmalara ve sezgilerine dikkat etmen gerektiğini vurguluyor. Geçmişte yarım bıraktığın sanatsal bir uğraşı ya da projeyi raftan indirmek için kusursuz bir zamanlama. Güneş ile Venüs'ün kavuşumu, yalnız kaldığında derin bir dinginlik yakalayabileceğini gösteriyor. Bugün seni mutlu eden yaratıcı bir faaliyete vakit ayır.",
-   "basis": "Ay beşinci evinde Uranüs ile sekstil açı yaparken Merkür on ikinci evinde retro hareketine başlıyor.",
-   "motivation": "Yaratıcı kıvılcımını sessizce parlat.",
-   "sky_events": [
-    "Merkür bugün retro hareketine başlıyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 0°58'",
-    "Ay Koç'ta 7°26'",
-    "Merkür Akrep'te 20°58' ℞",
-    "Venüs Akrep'te 0°36' ℞",
-    "Mars Aslan'da 14°41'",
-    "Jüpiter Aslan'da 23°19'",
-    "Satürn Koç'ta 9°47' ℞",
-    "Uranüs İkizler'de 4°56' ℞",
-    "Neptün Koç'ta 2°15' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-25",
    "focus": "Ufuk Açan Planlar",

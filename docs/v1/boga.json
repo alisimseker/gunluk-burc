@@ -1,34 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-25T16:42:10+03:00",
+ "updated": "2026-10-26T02:23:42+03:00",
  "days": [
-  {
-   "date": "2026-10-24",
-   "focus": "İlişkilerde geçmiş muhasebesi",
-   "short": "Ortaklıklarda yarım kalmış konuşmalar yeniden gündeme gelebilir.",
-   "text": "Karşıt burcunda geri hareketine başlayan Merkür, ikili ilişkilerinde veya ortaklıklarda eskiden konuşulmamış konuları su yüzüne çıkarabilir. On ikinci evindeki Ay'ın Uranüs ile uyumlu kontağı, geri planda kalarak olayları tartmanın sana çok daha iyi geleceğini gösteriyor. Karşındaki kişinin söylediklerini önyargısızca dinlemeli, ani tepkiler vermekten kaçınmalısın. Güneş ile geri hareketteki Venüs'ün teması, bağlarını tazelemek için dürüstçe yüzleşmeyi gerektiriyor. Akşamı kendine ayırıp zihnini dinlendir.",
-   "basis": "Merkür yedinci evinde retro hareketine başlarken Ay on ikinci evinde yer alıyor.",
-   "motivation": "Yüzleşmeler anlayışla derinleşir.",
-   "sky_events": [
-    "Merkür bugün retro hareketine başlıyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 0°58'",
-    "Ay Koç'ta 7°26'",
-    "Merkür Akrep'te 20°58' ℞",
-    "Venüs Akrep'te 0°36' ℞",
-    "Mars Aslan'da 14°41'",
-    "Jüpiter Aslan'da 23°19'",
-    "Satürn Koç'ta 9°47' ℞",
-    "Uranüs İkizler'de 4°56' ℞",
-    "Neptün Koç'ta 2°15' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-25",
    "focus": "İçsel huzur",

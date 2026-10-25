@@ -1,34 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-25T16:42:10+03:00",
+ "updated": "2026-10-26T02:23:42+03:00",
  "days": [
-  {
-   "date": "2026-10-24",
-   "focus": "Ortak Kaynaklar",
-   "short": "Bütçe ve ödemelerle ilgili geçmiş detayları gözden geçirebilirsin.",
-   "text": "Sekizinci evinde retro hareketine başlayan Merkür, ortak harcamalar veya borçlar konusunda eski dosyaları yeniden masaya yatırabileceğini fısıldıyor. Birinci evindeki Ay'ın Plüton ile kurduğu altmışlık açı ise kendi kararlarını savunurken sana derin bir irade sunuyor. Aceleyle yeni bir finansal anlaşmaya imza atmak yerine, var olan hesapları ve banka hareketlerini dikkatlice incele. Gün içindeki ani harcama dürtülerini dizginlemek sana rahat bir nefes aldıracaktır.",
-   "motivation": "Geçmiş hesapları incelikle çözümle.",
-   "basis": "Merkür 8. evinde retro hareketine başlıyor ve Ay 1. evinde Plüton ile altmışlık açıda.",
-   "sky_events": [
-    "Merkür bugün retro hareketine başlıyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 0°58'",
-    "Ay Koç'ta 7°26'",
-    "Merkür Akrep'te 20°58' ℞",
-    "Venüs Akrep'te 0°36' ℞",
-    "Mars Aslan'da 14°41'",
-    "Jüpiter Aslan'da 23°19'",
-    "Satürn Koç'ta 9°47' ℞",
-    "Uranüs İkizler'de 4°56' ℞",
-    "Neptün Koç'ta 2°15' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-10-25",
    "focus": "İlişki Dengeleri",
