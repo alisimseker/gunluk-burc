@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-10-26T19:32:13+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 9°57'",
+   "Ay Aslan'da 16°39'",
+   "Merkür Akrep'te 15°02' ℞",
+   "Venüs Terazi'de 25°35' ℞",
+   "Mars Aslan'da 19°18'",
+   "Jüpiter Aslan'da 24°29'",
+   "Satürn Koç'ta 9°11' ℞",
+   "Uranüs İkizler'de 4°37' ℞",
+   "Neptün Koç'ta 2°03' ℞",
+   "Plüton Kova'da 3°08'"
+  ],
+  "events": [
+   "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Son Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Finansal Dengeler",
+   "short": "Harcamaların ile tutkularını dengelerken zihnini net tutmalısın.",
+   "text": "Beşinci evindeki Ay, duygusal isteklerini ve hobilerini öne çıkarırken Akrep'teki gerileyen Merkür ile yaptığı kare açı ortak harcamalarda ani kararlar almanı zorlaştırabilir. Eğlenceli aktivitelere çekilebilirsin ancak bütçeni aşan hamlelerden kaçınman yararlı olur. Sevdiklerinle konuşurken geçmişten kalan mali detayları sakinlikle ele al. Sanatsal projelere zaman ayırmak bugün sana zihinsel bir rahatlama getirecektir.",
+   "motivation": "Duygunu aklınla dengede tut.",
+   "basis": "Ay'ın Aslan burcundaki konumu Merkür ile kare açı yapıyor."
+  },
+  "boga": {
+   "focus": "Aile ve İletişim",
+   "short": "Evindeki huzuru korumak için ikili ilişkilerde dinlemeyi seç.",
+   "text": "Dördüncü evinde yer alan Ay ile yedinci evindeki gerileyen Merkür arasındaki kare açı, aile içi sohbetlerde veya ortaklıklarda bazı anlaşmazlıkları tetikleyebilir. Eski meseleler aniden gündeme gelirse tepki vermeden önce derin bir nefes al. Evindeki konfor alanına odaklanmak zihnindeki karmaşayı yatıştırır. Yakın çevrenle empati kurarak ilerlediğinde günün sonunda ortak noktada buluşmak çok daha kolaylaşacak.",
+   "motivation": "Sükunetle dinlemek bağları onarır.",
+   "basis": "Ay ile yedinci evindeki Merkür arasında kare açı oluşuyor."
+  },
+  "ikizler": {
+   "focus": "İş ve İletişim",
+   "short": "Zihninden geçen fikirleri iş rutinine yansıtırken acele etme.",
+   "text": "Aslan burcundaki Ay, iletişim trafiğini hareketlendirirken altıncı evindeki gerileyen Merkür ile oluşan kare açı günlük işlerinde veya planlarında aksamalara yol açabilir. E-postaları göndermeden önce iki kez kontrol etmek veya iş arkadaşlarından gelen mesajları dikkatle okumak aksaklıkları önler. Sosyal ilişkilerinde kelimelerini özenle seçmelisin. Kısa yürüyüşler ve zihnini dinlendirecek molalar günün verimini artıracaktır.",
+   "motivation": "Dikkatli adımlar pürüzleri giderir.",
+   "basis": "Aslan burcundaki Ay, Merkür ile kare açı gerçekleştiriyor."
+  },
+  "yengec": {
+   "focus": "Harcama Dengesi",
+   "short": "Keyifli aktivitelere bütçe ayırırken abartılı harcamalardan uzak dur.",
+   "text": "Eğlenceli zaman geçirme arzunla bütçe gerçeklerin bugün çakışabilir. Hobilerine, sevdiklerine veya çocuklarına yönelik harcamalarda duygusal davranıp kontrolü kaçırma riskin var. Geçmişte yarım kalan bir yaratıcı projeyi revize etmek ise sana çok daha iyi fikirler verecektir. Anlık isteklerin yerine uzun vadeli kaynak yönetimine odaklanarak gününü huzurla geçirebilirsin.",
+   "motivation": "Duygusal istekleri mantıkla dengele.",
+   "basis": "Ay 2. evinde konumlanırken, 5. evde gerileyen Merkür ile kare açı yapıyor."
+  },
+  "aslan": {
+   "focus": "İçsel Denge",
+   "short": "Kendi isteklerinle yuva sorumlulukları arasında denge kur.",
+   "text": "Birinci evinde ilerleyen Ay sana güçlü bir görünürlük katarken dördüncü evindeki gerileyen Merkür ile yaptığı kare açı, yuva hayatında geçmişten gelen pürüzleri su yüzüne çıkarabilir. Kendi hedeflerin için adımlar atarken yakınlarının beklentilerini göz ardı etmemeye çalış. Hissettiğin heyecanı yapıcı adımlara dönüştürmek için sakin bir strateji izle. İçindeki enerjiyi kişisel bakımına veya hobilerine yönlendirmek hafiflemene yardımcı olur.",
+   "motivation": "Dengeli duruş kararlılığı büyütür.",
+   "basis": "Birinci evindeki Ay, dördüncü evindeki Merkür ile kare açı oluşturuyor."
+  },
+  "basak": {
+   "focus": "Zihinsel Dinlenme",
+   "short": "İç dünyandaki düşünce yoğunluğunu sakinlikle süzmelisin.",
+   "text": "On ikinci evinde hareket eden Ay, biraz geri çekilip dinlenme ihtiyacını artırıyor. Üçüncü evindeki gerileyen Merkür ile oluşan kare açı ise zihninde çözülmemiş düşünceleri tekrar harekete geçirebilir. Dedikodulara veya kulaktan dolma bilgilere kulak asmadan kendi sezgilerine güvenmeyi seç. Yapman gereken işleri sıraya koyup aceleci söylemlerden kaçınmak ruhsal alanını korur. Yalnız kalabileceğin zaman dilimleri yaratmak büyük ferahlık sağlayacaktır.",
+   "motivation": "İçsel sessizlik zihni berraklaştırır.",
+   "basis": "On ikinci evindeki Ay, Merkür ile kare açısını tamamlıyor."
+  },
+  "terazi": {
+   "focus": "Sosyal Çevre",
+   "short": "Gelecek planlarını değerlendirirken bütçeni göz önünde tut.",
+   "text": "On birinci evindeki Ay, arkadaş ortamlarında ve grup faaliyetlerinde aktif olma arzunu öne çıkarıyor. İkinci evindeki gerileyen Merkür ile kurduğu kare açı ise arkadaşlıklar ile finansal meseleler arasında hassasiyet yaratabilir. Ortak organizasyonlarda veya borç alacak konularında netlik sağlamak önem taşıyor. Hayallerini hayata geçirirken ayağını yere sağlam basan adımlar atman ve harcamalarını denetlemen seni güvende tutacaktır.",
+   "motivation": "Gerçekçi sınırlar ilişkileri korur.",
+   "basis": "On birinci evindeki Ay, ikinci evindeki Merkür ile kare açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Hedefler ve İletişim",
+   "short": "Kariyer adımlarında kendini ifade ederken yapıcı kal.",
+   "text": "Onuncu evindeki Ay, toplum önündeki duruşunu ve mesleki konuları vurguluyor. Ancak birinci evinde retro yapan Merkür ile gerçekleşen kare açı, iş hayatında yanlış anlaşılmalara kapı aralayabilir. Üstlerinle veya iş ortaklarınla konuşurken net ve sakin bir dil kullanmaya özen göster. Geçmişteki projeleri yeniden ele almak eksikleri kapatmak adına fırsatlar sunabilir. Duygusal çıkışlar yerine profesyonel yaklaşımını korumalısın.",
+   "motivation": "Olgun yaklaşım başarını pekiştirir.",
+   "basis": "Onuncu evindeki Ay, burcundaki gerileyen Merkür ile kare yapıyor."
+  },
+  "yay": {
+   "focus": "Bakış Açısı",
+   "short": "Yeni fikirleri değerlendirirken içsel şüpheleri geride bırak.",
+   "text": "Dokuzuncu evindeki Ay, öğrenme ve keşfetme arzunu güçlendirirken on ikinci evindeki gerileyen Merkür ile kare açı kuruyor. İnançların veya uzun vadeli planların konusunda zihninde gizli tereddütler belirebilir. Netleşmeyen konularda hemen karar vermek yerine bilgi toplamaya devam etmek en doğrusudur. Felsefi okumalar yapmak veya uzak vizyonlarına odaklanmak zihinsel sıkışıklığı aşmana yardım eder. Sabırlı bir gözlemci olmayı dene.",
+   "motivation": "Zaman zihnindeki sisleri dağıtır.",
+   "basis": "Dokuzuncu evindeki Ay, on ikinci evindeki Merkür ile kare yapıyor."
+  },
+  "oglak": {
+   "focus": "Paylaşımlar ve Güven",
+   "short": "Ortak gelirler veya borçlar hususunda netlik yakala.",
+   "text": "Sekizinci evinde bulunan Ay, finansal ve manevi paylaşımları gündemine taşıyor. On birinci evindeki gerileyen Merkür ile yaptığı kare açı, sosyal çevrenle veya gruplarla ilgili maddi hesaplarda pürüzler yaratabilir. Arkadaş ortamında para alışverişlerine girmeden önce koşulları iyice tartmalısın. Derinlemesine araştırma yapmak ve gizli kalmış ayrıntıları fark etmek bugün sana fayda sağlar. Şüpheci olmak yerine açık iletişim kur.",
+   "motivation": "Net tanımlar belirsizlikleri yok eder.",
+   "basis": "Sekizinci evindeki Ay, on birinci evindeki Merkür ile kare açı kuruyor."
+  },
+  "kova": {
+   "focus": "İlişki Dinamikleri",
+   "short": "İkili ilişkilerde iş odaklı gerginlikleri mantığınla çöz.",
+   "text": "Yedinci evindeki Ay, partnerinle veya yakın ortaklarınla olan paylaşımlarını ön plana çıkarıyor. Onuncu evinde retro ilerleyen Merkür ile oluşan kare açı, kariyerindeki sorumlulukların ilişkilerine yansımasına yol açabilir. İş stresini ikili diyologlara taşımamaya gayret göster. Karşındaki insanı önyargısız dinlemek ve beklentilerini açıkça belirtmek olası gerilimlerin önüne geçer. Esnek bir tutum sergilemek günü kolaylaştırır.",
+   "motivation": "Empati yapıcı çözümler üretir.",
+   "basis": "Yedinci evindeki Ay, onuncu evindeki Merkür ile kare açı oluşturuyor."
+  },
+  "balik": {
+   "focus": "Günlük Rutinler",
+   "short": "İş planlarını yaparken detaylarda kaybolmadan ilerle.",
+   "text": "Altıncı evindeki Ay, çalışma hayatına ve sağlık konularına odaklanmanı sağlıyor. Dokuzuncu evindeki gerileyen Merkür ile yaptığı kare açı, büyük hedeflerin ile günlük sorumlulukların arasında kafa karışıklığı yaratabilir. Yakın zamanda çıkılacak yolculuklar veya eğitim planlarında ufak pürüzler belirebilir, adımlarını kontrolden geçirmelisin. Bedenini yormadan, iş listeni sadeleştirerek ilerlemek enerjini dengede tutacaktır.",
+   "motivation": "Adım adım ilerlemek hedefe ulaştırır.",
+   "basis": "Altıncı evindeki Ay, dokuzuncu evindeki Merkür ile kare açı yapıyor."
+  }
+ }
+}

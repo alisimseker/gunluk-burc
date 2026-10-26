@@ -1,7 +1,7 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "Paylaşımlar ve Güven",
+   "short": "Ortak gelirler veya borçlar hususunda netlik yakala.",
+   "text": "Sekizinci evinde bulunan Ay, finansal ve manevi paylaşımları gündemine taşıyor. On birinci evindeki gerileyen Merkür ile yaptığı kare açı, sosyal çevrenle veya gruplarla ilgili maddi hesaplarda pürüzler yaratabilir. Arkadaş ortamında para alışverişlerine girmeden önce koşulları iyice tartmalısın. Derinlemesine araştırma yapmak ve gizli kalmış ayrıntıları fark etmek bugün sana fayda sağlar. Şüpheci olmak yerine açık iletişim kur.",
+   "motivation": "Net tanımlar belirsizlikleri yok eder.",
+   "basis": "Sekizinci evindeki Ay, on birinci evindeki Merkür ile kare açı kuruyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

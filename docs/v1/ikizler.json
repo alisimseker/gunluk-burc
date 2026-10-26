@@ -1,7 +1,7 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "İş ve İletişim",
+   "short": "Zihninden geçen fikirleri iş rutinine yansıtırken acele etme.",
+   "text": "Aslan burcundaki Ay, iletişim trafiğini hareketlendirirken altıncı evindeki gerileyen Merkür ile oluşan kare açı günlük işlerinde veya planlarında aksamalara yol açabilir. E-postaları göndermeden önce iki kez kontrol etmek veya iş arkadaşlarından gelen mesajları dikkatle okumak aksaklıkları önler. Sosyal ilişkilerinde kelimelerini özenle seçmelisin. Kısa yürüyüşler ve zihnini dinlendirecek molalar günün verimini artıracaktır.",
+   "motivation": "Dikkatli adımlar pürüzleri giderir.",
+   "basis": "Aslan burcundaki Ay, Merkür ile kare açı gerçekleştiriyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

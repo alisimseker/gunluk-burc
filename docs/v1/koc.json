@@ -1,7 +1,7 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "Finansal Dengeler",
+   "short": "Harcamaların ile tutkularını dengelerken zihnini net tutmalısın.",
+   "text": "Beşinci evindeki Ay, duygusal isteklerini ve hobilerini öne çıkarırken Akrep'teki gerileyen Merkür ile yaptığı kare açı ortak harcamalarda ani kararlar almanı zorlaştırabilir. Eğlenceli aktivitelere çekilebilirsin ancak bütçeni aşan hamlelerden kaçınman yararlı olur. Sevdiklerinle konuşurken geçmişten kalan mali detayları sakinlikle ele al. Sanatsal projelere zaman ayırmak bugün sana zihinsel bir rahatlama getirecektir.",
+   "motivation": "Duygunu aklınla dengede tut.",
+   "basis": "Ay'ın Aslan burcundaki konumu Merkür ile kare açı yapıyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

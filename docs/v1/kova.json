@@ -1,7 +1,7 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "İlişki Dinamikleri",
+   "short": "İkili ilişkilerde iş odaklı gerginlikleri mantığınla çöz.",
+   "text": "Yedinci evindeki Ay, partnerinle veya yakın ortaklarınla olan paylaşımlarını ön plana çıkarıyor. Onuncu evinde retro ilerleyen Merkür ile oluşan kare açı, kariyerindeki sorumlulukların ilişkilerine yansımasına yol açabilir. İş stresini ikili diyologlara taşımamaya gayret göster. Karşındaki insanı önyargısız dinlemek ve beklentilerini açıkça belirtmek olası gerilimlerin önüne geçer. Esnek bir tutum sergilemek günü kolaylaştırır.",
+   "motivation": "Empati yapıcı çözümler üretir.",
+   "basis": "Yedinci evindeki Ay, onuncu evindeki Merkür ile kare açı oluşturuyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

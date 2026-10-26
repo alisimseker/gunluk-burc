@@ -1,7 +1,7 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "Zihinsel Dinlenme",
+   "short": "İç dünyandaki düşünce yoğunluğunu sakinlikle süzmelisin.",
+   "text": "On ikinci evinde hareket eden Ay, biraz geri çekilip dinlenme ihtiyacını artırıyor. Üçüncü evindeki gerileyen Merkür ile oluşan kare açı ise zihninde çözülmemiş düşünceleri tekrar harekete geçirebilir. Dedikodulara veya kulaktan dolma bilgilere kulak asmadan kendi sezgilerine güvenmeyi seç. Yapman gereken işleri sıraya koyup aceleci söylemlerden kaçınmak ruhsal alanını korur. Yalnız kalabileceğin zaman dilimleri yaratmak büyük ferahlık sağlayacaktır.",
+   "motivation": "İçsel sessizlik zihni berraklaştırır.",
+   "basis": "On ikinci evindeki Ay, Merkür ile kare açısını tamamlıyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

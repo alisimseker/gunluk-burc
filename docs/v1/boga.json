@@ -1,7 +1,7 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "Aile ve İletişim",
+   "short": "Evindeki huzuru korumak için ikili ilişkilerde dinlemeyi seç.",
+   "text": "Dördüncü evinde yer alan Ay ile yedinci evindeki gerileyen Merkür arasındaki kare açı, aile içi sohbetlerde veya ortaklıklarda bazı anlaşmazlıkları tetikleyebilir. Eski meseleler aniden gündeme gelirse tepki vermeden önce derin bir nefes al. Evindeki konfor alanına odaklanmak zihnindeki karmaşayı yatıştırır. Yakın çevrenle empati kurarak ilerlediğinde günün sonunda ortak noktada buluşmak çok daha kolaylaşacak.",
+   "motivation": "Sükunetle dinlemek bağları onarır.",
+   "basis": "Ay ile yedinci evindeki Merkür arasında kare açı oluşuyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }

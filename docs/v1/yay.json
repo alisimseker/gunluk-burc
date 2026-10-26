@@ -1,7 +1,7 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-26T02:23:42+03:00",
+ "updated": "2026-10-26T19:32:13+03:00",
  "days": [
   {
    "date": "2026-10-25",
@@ -208,6 +208,30 @@
     "Uranüs İkizler'de 4°39' ℞",
     "Neptün Koç'ta 2°04' ℞",
     "Plüton Kova'da 3°07'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-02",
+   "focus": "Bakış Açısı",
+   "short": "Yeni fikirleri değerlendirirken içsel şüpheleri geride bırak.",
+   "text": "Dokuzuncu evindeki Ay, öğrenme ve keşfetme arzunu güçlendirirken on ikinci evindeki gerileyen Merkür ile kare açı kuruyor. İnançların veya uzun vadeli planların konusunda zihninde gizli tereddütler belirebilir. Netleşmeyen konularda hemen karar vermek yerine bilgi toplamaya devam etmek en doğrusudur. Felsefi okumalar yapmak veya uzak vizyonlarına odaklanmak zihinsel sıkışıklığı aşmana yardım eder. Sabırlı bir gözlemci olmayı dene.",
+   "motivation": "Zaman zihnindeki sisleri dağıtır.",
+   "basis": "Dokuzuncu evindeki Ay, on ikinci evindeki Merkür ile kare yapıyor.",
+   "sky_events": [
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 9°57'",
+    "Ay Aslan'da 16°39'",
+    "Merkür Akrep'te 15°02' ℞",
+    "Venüs Terazi'de 25°35' ℞",
+    "Mars Aslan'da 19°18'",
+    "Jüpiter Aslan'da 24°29'",
+    "Satürn Koç'ta 9°11' ℞",
+    "Uranüs İkizler'de 4°37' ℞",
+    "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
   }
