@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-10-27T03:30:07+03:00",
+ "model": "gemini-3.5-flash-lite",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 10°57'",
+   "Ay Başak'ta 0°18'",
+   "Merkür Akrep'te 13°46' ℞",
+   "Venüs Terazi'de 25°09' ℞",
+   "Mars Aslan'da 19°48'",
+   "Jüpiter Aslan'da 24°36'",
+   "Satürn Koç'ta 9°08' ℞",
+   "Uranüs İkizler'de 4°35' ℞",
+   "Neptün Koç'ta 2°02' ℞",
+   "Plüton Kova'da 3°08'"
+  ],
+  "events": [
+   "Ay bugün Başak'a geçiyor.",
+   "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
+   "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Son Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Yaratıcı Cesaret",
+   "short": "Günün temposunda iş ve özel hayat dengesini kurmaya bak.",
+   "text": "Bugün Aslan burcundan Başak burcuna geçen Ay, 6. evindeki rutin işlerine odaklanmanı istiyor. Uranüs ile yaptığı kare açı, planlarında ani değişiklikler yaratabilir, esnek kalmaya çalış. Venüs ile kurduğu altmışlık açı ise ilişkilerinde seni destekliyor. Günün akışını aceleye getirmeden, işleri sıraya koyarak ilerle.",
+   "motivation": "Zorlukları esneklikle aş.",
+   "basis": "Ay 6. evinde, Uranüs ile kare ve Venüs ile sekstil açıda."
+  },
+  "boga": {
+   "focus": "Evde Yenilenme",
+   "short": "Yaşam alanındaki detayları düzenleyerek huzuru yakala.",
+   "text": "Ay'ın Başak burcuna geçişi ile birlikte 5. evindeki yaratıcı ve keyifli konular ön plana çıkıyor. Uranüs'ün burcundaki duruşuyla tetiklenen kare açı, kişisel alanında bazı ani kararlar almana neden olabilir. Venüs'ün 6. evindeki konumu, günlük işlerinde sana estetik bir dokunuş katıyor. Sakin adımlarla ilerlemek sana iyi gelecek.",
+   "motivation": "Huzurunu kendi ellerinle boya.",
+   "basis": "Ay 5. evine geçiyor, 2. evindeki Uranüs ile kare açıda."
+  },
+  "ikizler": {
+   "focus": "Özgün İletişim",
+   "short": "İç huzurunu korumak için yakın çevrenle bağlarını tazeleyebilirsin.",
+   "text": "Ay 4. evine adım atarken ev ve aile konuları gündemine yerleşiyor. Uranüs'ün 1. evindeki konumuyla yaptığı kare, ani zihinsel dalgalanmalar getirebilir. Venüs'ün 5. evindeki sekstili ise sana yaratıcı konularda şans tanıyor. Duygularını açıkça ifade etmekten çekinme, iç sesine kulak ver.",
+   "motivation": "İç sesine güvenle kulak ver.",
+   "basis": "Ay 4. evinde, 1. evindeki Uranüs ile kare açıda."
+  },
+  "yengec": {
+   "focus": "Maddi Değerlendirme",
+   "short": "Zihnini dinlendirmek için kısa bir mola vermeyi dene.",
+   "text": "Ay bugün 3. evine geçiş yapıyor ve iletişim trafiğini hızlandırıyor. 12. evindeki Uranüs ile yaptığı sert açı, arkadan dönen bazı dedikoduları veya gizli konuları önüne getirebilir. Venüs'ün 4. evindeki konumu sayesinde aile içi ilişkilerde yumuşak bir hava yakalayabilirsin. Günlük planlarını sade tutmak işini kolaylaştıracaktır.",
+   "motivation": "Sakinlikle zihnini arındır.",
+   "basis": "Ay 3. evinde, 12. evindeki Uranüs ile kare açıda."
+  },
+  "aslan": {
+   "focus": "Bireysel Yenilenme",
+   "short": "Maddi konularda pratik çözümlere odaklanabilirsin.",
+   "text": "Ay'ın 2. evine geçişi, bütçeni ve kişisel kaynaklarını gözden geçirmeni sağlıyor. 11. evindeki Uranüs ile kurduğu kare açı, sosyal çevrenden gelebilecek beklenmedik harcamalara işaret edebilir. Venüs'ün 3. evindeki uyumlu açısı ise yakın çevrenle olan diyaloglarında tatlı bir dil yakalamana yardımcı oluyor. Harcamalarında ölçülü olmaya özen göster.",
+   "motivation": "Kaynaklarını bilinçle yönet.",
+   "basis": "Ay 2. evinde, 11. evindeki Uranüs ile kare açıda."
+  },
+  "basak": {
+   "focus": "Zihinsel Dinlenme",
+   "short": "Kendi burcuna geçen Ay ile kişisel hedeflerine odaklan.",
+   "text": "Ay burcuna adım atarken enerjini tamamen kendi üzerine topluyorsun. 10. evindeki Uranüs ile yaptığı kare, kariyer alanında ani bir yön değişikliği veya sürpriz bir gelişme getirebilir. Venüs'ün 2. evindeki desteği ise maddi konularda sana rahat bir nefes aldırıyor. Kendine zaman tanıyarak kararlarını gözden geçir.",
+   "motivation": "Öz güveninle adımlarını at.",
+   "basis": "Ay 1. evine geçiyor, 10. evindeki Uranüs ile kare açıda."
+  },
+  "terazi": {
+   "focus": "Sosyal Çevre",
+   "short": "İç dünyana dönerek ruhsal dengeni koruyabilirsin.",
+   "text": "Ay 12. evine ilerlerken biraz kendi kabuğuna çekilmek isteyebilirsin. 9. evindeki Uranüs ile yaptığı kare açı, uzaklardan gelebilecek ani haberleri veya plan değişikliklerini tetikleyebilir. Burcundaki gerileyen Venüs'ün Ay ile olan sekstili, kişisel bakım ve içsel şifa için güzel bir destek sunuyor. Sessizliği bir dinlenme fırsatı olarak değerlendir.",
+   "motivation": "Sessizlikte saklı gücü bul.",
+   "basis": "Ay 12. evinde, 9. evindeki Uranüs ile kare açıda."
+  },
+  "akrep": {
+   "focus": "Kariyer Dengesi",
+   "short": "Sosyal ilişkilerinde ve ortak projelerde net olmaya çalış.",
+   "text": "Ay 11. evine geçerken arkadaş grupların ve ortak hedeflerin hareketleniyor. 8. evindeki Uranüs ile kurduğu kare, finansal paylaşımlarda veya ortaklıklarda beklenmedik gerilimler yaratabilir. Venüs'ün 12. evindeki konumu, geçmişten gelen bazı konuları şefkatle kapatmana olanak tanıyor. Sosyal ortamlarda sabırlı bir duruş sergile.",
+   "motivation": "Esnek kal, dengeni koru.",
+   "basis": "Ay 11. evinde, 8. evindeki Uranüs ile kare açıda."
+  },
+  "yay": {
+   "focus": "Ufuk Turu",
+   "short": "Kariyer hedeflerine doğru kararlı adımlarla ilerle.",
+   "text": "Ay 10. evine geçiş yaparak iş ve toplumsal statü alanını aydınlatıyor. 7. evindeki Uranüs ile yaptığı kare, ikili ilişkilerde veya ortaklıklarda ani sürprizler getirebilir. Venüs'ün 11. evindeki sekstili ise sosyal çevrenden göreceğin destekleri artırıyor. Profesyonel duruşunu koruyarak günün krizlerini avantaja çevirebilirsin.",
+   "motivation": "Hedeflerine netlikle odaklan.",
+   "basis": "Ay 10. evinde, 7. evindeki Uranüs ile kare açıda."
+  },
+  "oglak": {
+   "focus": "Finansal Arınma",
+   "short": "Yeni bilgiler öğrenmek ve bakış açını tazelemek için ideal bir gün.",
+   "text": "Ay 9. evine adım atarken uzaklar, eğitim ve seyahatler odak noktana yerleşiyor. 6. evindeki Uranüs ile olan kare açısı, günlük iş akışında veya sağlığında ani plan değişikliklerine yol açabilir. 10. evindeki Venüs ise kariyerinde estetik ve uzlaşmacı bir tavır sergilemeni destekliyor. Akışa uyum sağlamak işlerini kolaylaştıracaktır.",
+   "motivation": "Ufuklarını cesaretle genişlet.",
+   "basis": "Ay 9. evinde, 6. evindeki Uranüs ile kare açıda."
+  },
+  "kova": {
+   "focus": "İlişki Dinamikleri",
+   "short": "Ortak maddi konularda esnek ve dikkatli olmaya çalış.",
+   "text": "Ay 8. evine geçerken ortak gelirler, borçlar veya derin konular gündemine geliyor. 5. evindeki Uranüs ile yaptığı kare, aşk hayatında veya yaratıcı projelerde beklenmedik sarsıntılar yaratabilir. Venüs'ün 9. evindeki sekstili ise uzaklardan gelecek güzel haberlerle moralini yükseltiyor. Krizleri büyütmeden sakinlikle yönet.",
+   "motivation": "Krizleri akılla çöz.",
+   "basis": "Ay 8. evinde, 5. evindeki Uranüs ile kare açıda."
+  },
+  "balik": {
+   "focus": "Günlük Rutinler",
+   "short": "İkili ilişkilerde karşı tarafı anlamaya özen göster.",
+   "text": "Ay 7. evine geçiş yaparken ilişkiler ve ortaklıklar gününün ana konusu oluyor. 4. evindeki Uranüs ile kurduğu sert açı, ev ve aile içinde ani gelişen durumlar yaratabilir. Venüs'ün 8. evindeki konumu, ortak finansal kaynaklarda veya duygusal paylaşımlarda destekleyici bir akış sunuyor. Karşılıklı anlayışla her sorunu çözebilirsin.",
+   "motivation": "Anlayışla köprüler kur.",
+   "basis": "Ay 7. evinde, 4. evindeki Uranüs ile kare açıda."
+  }
+ }
+}

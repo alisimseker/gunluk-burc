@@ -1,33 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-26T19:32:13+03:00",
+ "updated": "2026-10-27T03:30:07+03:00",
  "days": [
-  {
-   "date": "2026-10-25",
-   "focus": "Ufuk Açan Planlar",
-   "short": "Geleceğe dair vizyonunu genişletecek ilham verici projelere odaklanabilirsin.",
-   "text": "Gezegenin Jüpiter ile kurulan parlak etkileşim, uzak planlarını ve kültürel hedeflerini neşeyle şekillendirmen için elverişli bir zemin sunuyor. Keyif aldığın konulara vakit ayırabilir, eğitim veya seyahat bağlantılı fikirlerini geliştirebilirsin. Venüs'ün arkadaş çevreni aydınlatan geçişi de eski dostlarla bağları tazelemeye davet ediyor. Bugün kendi tecrübelerini çevrendekilerle paylaşarak ortak bir hedefe yönelmek sana iyi gelecektir.",
-   "motivation": "Vizyonunu cesurca genişlet.",
-   "basis": "5. evindeki Ay, 9. evindeki yönetici gezegenin Jüpiter ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Venüs bugün Terazi'ye geçiyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 1°57'",
-    "Ay Koç'ta 21°21'",
-    "Merkür Akrep'te 20°54' ℞",
-    "Venüs Terazi'de 29°59' ℞",
-    "Mars Aslan'da 15°13'",
-    "Jüpiter Aslan'da 23°28'",
-    "Satürn Koç'ta 9°43' ℞",
-    "Uranüs İkizler'de 4°54' ℞",
-    "Neptün Koç'ta 2°14' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-26",
    "focus": "Gündelik düzen",
@@ -231,6 +206,32 @@
     "Satürn Koç'ta 9°11' ℞",
     "Uranüs İkizler'de 4°37' ℞",
     "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-03",
+   "focus": "Ufuk Turu",
+   "short": "Kariyer hedeflerine doğru kararlı adımlarla ilerle.",
+   "text": "Ay 10. evine geçiş yaparak iş ve toplumsal statü alanını aydınlatıyor. 7. evindeki Uranüs ile yaptığı kare, ikili ilişkilerde veya ortaklıklarda ani sürprizler getirebilir. Venüs'ün 11. evindeki sekstili ise sosyal çevrenden göreceğin destekleri artırıyor. Profesyonel duruşunu koruyarak günün krizlerini avantaja çevirebilirsin.",
+   "motivation": "Hedeflerine netlikle odaklan.",
+   "basis": "Ay 10. evinde, 7. evindeki Uranüs ile kare açıda.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 10°57'",
+    "Ay Başak'ta 0°18'",
+    "Merkür Akrep'te 13°46' ℞",
+    "Venüs Terazi'de 25°09' ℞",
+    "Mars Aslan'da 19°48'",
+    "Jüpiter Aslan'da 24°36'",
+    "Satürn Koç'ta 9°08' ℞",
+    "Uranüs İkizler'de 4°35' ℞",
+    "Neptün Koç'ta 2°02' ℞",
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"

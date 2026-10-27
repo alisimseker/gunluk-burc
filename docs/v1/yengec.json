@@ -1,33 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-26T19:32:13+03:00",
+ "updated": "2026-10-27T03:30:07+03:00",
  "days": [
-  {
-   "date": "2026-10-25",
-   "focus": "Maddi hedefler",
-   "short": "Kariyerinde attığın adımlar kişisel kaynaklarını destekliyor.",
-   "text": "Kariyer alanındaki Ay ile finans evindeki Jüpiter arasındaki uyumlu açı, yeteneklerinin karşılığını alma konusunda sana güven veriyor. Venüs'ün ev ve yuva alanına geri dönüşü ise aile içi konularda geçmişte konuşulmamış dengeleri ele almayı gerektirebilir. Hedeflerine doğru ilerlerken sevdiklerinin desteğini yanında hissedeceksin. Bütçeni planlarken fevri adımlardan kaçın.",
-   "motivation": "Emeğine güvenle tutun.",
-   "basis": "Ay'ın 10. evde 2. evdeki Jüpiter ile üçgen açısı.",
-   "sky_events": [
-    "Venüs bugün Terazi'ye geçiyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 1°57'",
-    "Ay Koç'ta 21°21'",
-    "Merkür Akrep'te 20°54' ℞",
-    "Venüs Terazi'de 29°59' ℞",
-    "Mars Aslan'da 15°13'",
-    "Jüpiter Aslan'da 23°28'",
-    "Satürn Koç'ta 9°43' ℞",
-    "Uranüs İkizler'de 4°54' ℞",
-    "Neptün Koç'ta 2°14' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-26",
    "focus": "Dostluk bağları",
@@ -231,6 +206,32 @@
     "Satürn Koç'ta 9°11' ℞",
     "Uranüs İkizler'de 4°37' ℞",
     "Neptün Koç'ta 2°03' ℞",
+    "Plüton Kova'da 3°08'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-03",
+   "focus": "Maddi Değerlendirme",
+   "short": "Zihnini dinlendirmek için kısa bir mola vermeyi dene.",
+   "text": "Ay bugün 3. evine geçiş yapıyor ve iletişim trafiğini hızlandırıyor. 12. evindeki Uranüs ile yaptığı sert açı, arkadan dönen bazı dedikoduları veya gizli konuları önüne getirebilir. Venüs'ün 4. evindeki konumu sayesinde aile içi ilişkilerde yumuşak bir hava yakalayabilirsin. Günlük planlarını sade tutmak işini kolaylaştıracaktır.",
+   "motivation": "Sakinlikle zihnini arındır.",
+   "basis": "Ay 3. evinde, 12. evindeki Uranüs ile kare açıda.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 10°57'",
+    "Ay Başak'ta 0°18'",
+    "Merkür Akrep'te 13°46' ℞",
+    "Venüs Terazi'de 25°09' ℞",
+    "Mars Aslan'da 19°48'",
+    "Jüpiter Aslan'da 24°36'",
+    "Satürn Koç'ta 9°08' ℞",
+    "Uranüs İkizler'de 4°35' ℞",
+    "Neptün Koç'ta 2°02' ℞",
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
