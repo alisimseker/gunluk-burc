@@ -1,35 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Finansal paylaşımlar",
-   "short": "Ortak bütçe ve borç dengesinde şeffaflık rahatlık getirir.",
-   "text": "Ortaklaşa yürütülen gelirler, yatırımlar ya da paylaşımlı harcamalar Boğa Dolunayı ile kesin bir noktaya ulaşıyor. Kendi bireysel arzuların ile karşı tarafın beklentileri arasında güç çekişmeleri yaşanabilir. Maddi konularda net rakamlar üzerinden konuşmak ve gizli saklı detay bırakmamak seni güvende hissettirecektir. Aşırı risk almaktan kaçınarak mevcut kaynaklarını korumaya çalış.",
-   "motivation": "Dengen şeffaflıkla perçinlenir.",
-   "basis": "8. evinde meydana gelen Boğa Dolunayı, Plüton ile kare açı oluşturuyor.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Derin paylaşımlar",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "İçsel Temizlik",
+   "short": "Kendi kabuğuna çekilip zihnini düzenlemek, maddi konularda netlik sağlıyor.",
+   "text": "Geri planda yürüttüğün işleri toparlamak ve sessizce çalışmak bugün sana verim getirecektir. Maddi değerlerin ve birikimlerin hakkında içsel bir muhasebe yapabilir, gereksiz yüklerden arınabilirsin. Temponu biraz düşürüp dinlenmeye vakit ayırmak, zihnindeki karmaşayı çözmeni kolaylaştırır. Kendi iç sesine güvenerek plan yap.",
+   "motivation": "Sessiz analiz çözümü getirir.",
+   "basis": "Ay 12. evindeyken 2. evdeki Güneş ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

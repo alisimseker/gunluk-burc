@@ -1,35 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Dostluk bağları",
-   "short": "Sosyal çevrendeki beklentileri gerçekçi tutarak dengeyi koru.",
-   "text": "Geleceğe dair planların ve arkadaşlık ilişkilerin bugün Boğa Dolunayı ile mercek altına alınıyor. Ortak paylaşımlar veya finansal güven arayışı, grup içindeki dengelerde bazı anlaşmazlıkları tetikleyebilir. Fikir ayrılıklarında hemen savunmaya geçmek yerine karşındakinin sınırlarına saygı duymalısın. Kendi hedeflerine odaklanıp enerjini yıpratıcı tartışmalardan uzak tutman en sağlıklısıdır.",
-   "motivation": "Bağlarını güvenle koru.",
-   "basis": "Boğa Dolunayı 11. evinde parıldarken 8. evindeki Plüton ile kare açıda.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Sosyal bütçe",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Fikir Ayıklama",
+   "short": "Düşüncelerini kağıda dökmek, yaratıcı projelerine yeni bir yön veriyor.",
+   "text": "Yakın çevrenle yapacağın pratik odaklı konuşmalar zihnindeki soru işaretlerini siliyor. Yarım kalmış bir yazışmayı tamamlayabilir veya planlarını detaylandırabilirsin. Eğlenceli projelere ya da hobilerine zaman ayırırken mantıklı adımlar atmak sonuç almanı kolaylaştırıyor. Sözcüklerini özenle seçerek karmaşık bir konuyu tatlıya bağlayabilirsin.",
+   "motivation": "Sadelik fikirleri berraklaştırır.",
+   "basis": "Ay 3. evinde bulunup 5. evdeki Merkür ile altmışlık açı oluşturuyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

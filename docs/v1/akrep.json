@@ -1,35 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "İkili uzlaşmalar",
-   "short": "Birlikteliklerinde ne beklediğin ve ne verdiğin açıkça görülüyor.",
-   "text": "Tam karşıt burcunda meydana gelen Dolunay, evlilik, ortaklık ve yakın ilişkilerdeki dengeleri gün yüzüne çıkarıyor. Partnerinin senden beklentileriyle senin bireysel isteklerin arasında bir yüzleşme yaşanabilir. Burcundaki Güneş'in Plüton ile oluşturduğu dik açı, güç savaşlarına girmek yerine yapıcı bir orta yol bulmanın önemini vurguluyor. Karşı tarafı dikkatle dinleyerek şartları mantık çerçevesinde netleştir.",
-   "motivation": "Uzlaşı zıtlıkları dengeler.",
-   "basis": "Karşıt burcundaki Dolunay ve burcundaki Güneş-Plüton karesi ilişkileri sınıyor.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "İlişkide denge",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Grup Organizasyonu",
+   "short": "Arkadaş grubunla geleceğe dair pratik planlar yapmak zihnini ferahlatıyor.",
+   "text": "Dostlarınla bir araya gelmek veya yer aldığın projelerde detayları düzenlemek bugün neşeni artırıyor. Kendi duruşunu ve fikirlerini net bir şekilde ifade ederken, sosyal çevrenden destek görebilirsin. Geçmişte yarım kalan bir ekip çalışmasını yeniden ele almak için uygun bir akış var. İletişimde yapıcı kalmaya özen göster.",
+   "motivation": "Birlikte üretmek güven tazeler.",
+   "basis": "Ay 11. evinde ilerlerken 1. evindeki Merkür ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

@@ -1,35 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Yaratıcı hevesler",
-   "short": "Kalbini heyecanlandıran bir projeyi veya duyguyu açığa çıkarma vakti geldi.",
-   "text": "Beşinci evinde gerçekleşen Dolunay, yaratıcı yönünü ve sana mutluluk veren uğraşları ön plana çıkarıyor. Sosyal çevrenin ya da maddi kaygıların getirdiği baskıyı bir kenara bırakıp kendi yeteneklerine odaklanmalısın. Romantik ilişkilerinde veya çocuklarla olan iletişiminde kontrolü elden bırakıp doğallığı seç. Kendine keyif alacağın bir alan açmak zihnine iyi gelecektir.",
-   "motivation": "Keyif aldığın şeyleri sahiplen.",
-   "basis": "5. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Risk ve tutku",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Zihinsel Gelişim",
+   "short": "Araştırdığın konulardaki ayrıntılar, gelecek planlarına ışık tutuyor.",
+   "text": "Eğitsel işler, resmi süreçler veya uzaklarla ilgili konular bugün ön plana çıkabilir. Arkadaş çevrenden gelen fikirleri kendi süzgecinden geçirerek uzun vadeli hedeflerine entegre edebilirsin. Bilgiyi pratik bir şekilde kullanmak, vizyonunu daha gerçekçi bir zemine oturtuyor. Detaylarda boğulmadan ana fikre sadık kalarak ilerlemelisin.",
+   "motivation": "Bilgiyi pratikle harmanla.",
+   "basis": "Ay 9. evinde bulunup 11. evdeki Güneş ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

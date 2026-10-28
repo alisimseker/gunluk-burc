@@ -1,35 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Farklı bakış açıları",
-   "short": "Bakış açını genişletmek, karşılaştığın engelleri aşmanı kolaylaştıracak.",
-   "text": "Dokuzuncu evindeki Dolunay, uzun vadeli vizyonunu ve inançlarını gözden geçirmen için zemin hazırlıyor. Günlük rutinlerin getirdiği baskılar bazen büyük resmi görmeni engellese de bugün tabularını kırma fırsatın var. Küçük anlaşmazlıklara takılmak yerine bilgi dağarcığını geliştirecek konulara odaklan. Yeni bir araştırma ya da okuma yapmak sana taze bir yön kazandırabilir.",
-   "motivation": "Büyük resmi gör.",
-   "basis": "9. evinde gerçekleşen Boğa Dolunayı ve Plüton karesi.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Görüş ayrılıkları",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Bireysel Netlik",
+   "short": "Kendi isteklerini açıkça dile getirmek, çevrenle ilişkilerini tazeliyor.",
+   "text": "Bedenine ve kişisel projelerine vakit ayırmak için ideal bir gündesin. Yakın çevrenle olan diyaloglarında detaycı ve yapıcı yaklaşımın sayesinde eksik kalmış işleri hızla toparlıyorsun. Kendi ihtiyaçlarını ertelemeden, zihnindeki fikirleri hayata geçirecek pratik adımlar atabilirsin. Kendine koyduğun hedefleri sadeleştirerek ilerle.",
+   "motivation": "İhtiyaçlarına öncelik tanımayı seç.",
+   "basis": "Ay kendi burcunda 1. evde, 3. evdeki Güneş ile altmışlık açı oluşturuyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

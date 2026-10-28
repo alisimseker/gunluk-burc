@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Bireysel sınırlar",
-   "short": "Burcundaki Dolunay, kişisel beklentilerini açıkça tanımlamanı sağlıyor.",
-   "text": "Burcunda parlayan Dolunay, kendi isteklerinle başkalarının senden bekledikleri arasındaki ayrımı belirginleştiriyor. Kariyerindeki güç mücadelelerine kapılmak yerine ne istediğini netleştirmelisin. İkili ilişkilerinde gerilim hissettiğinde savunmaya geçmek yerine sakin bir kararlılık sergile. Bugün bedensel yorgunluklara fırsat vermemek adına dinlenmeye de özen göster.",
-   "motivation": "Özüne sadık kal.",
-   "basis": "Burcunda gerçekleşen Dolunay ve Ay'ın Plüton ile kare açısı.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Kişisel alan",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Duygusal İfade",
+   "short": "Sevdiklerinle kurduğun samimi diyaloglar, ilişkine pratik bir boyut kazandırıyor.",
+   "text": "Hobilerine zaman ayırmak ve duygularını somut yollarla ifade etmek sana çok iyi geliyor. Birlikte çalıştığın ya da ortak kararlar aldığın kişilerle geçmiş konuları konuşurken çözüme odaklanacaksın. Eleştirel tonu bir kenara koyup yapıcı adımlar attığında ilişkilerindeki bağ güçleniyor. Bugün kendine ve sevdiklerine küçük sürprizler planlayabilirsin.",
+   "motivation": "Yapıcı üslup bağları pekiştirir.",
+   "basis": "Ay 5. evinde, 7. evindeki Merkür ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

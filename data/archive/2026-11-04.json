@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-10-28T03:36:07+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 11°57'",
+   "Ay Başak'ta 13°43'",
+   "Merkür Akrep'te 12°28' ℞",
+   "Venüs Terazi'de 24°44' ℞",
+   "Mars Aslan'da 20°18'",
+   "Jüpiter Aslan'da 24°43'",
+   "Satürn Koç'ta 9°04' ℞",
+   "Uranüs İkizler'de 4°33' ℞",
+   "Neptün Koç'ta 2°01' ℞",
+   "Plüton Kova'da 3°09'"
+  ],
+  "events": [
+   "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İş Masası Düzeni",
+   "short": "Günlük rutinlerindeki detaylar, ortak bütçene dair zihnini berraklaştırıyor.",
+   "text": "Günlük yapılacaklar listene odaklanmak zihnini rahatlatıyor. Masanın üzerindeki karmaşayı toplarken, geçmişten gelen finansal bir pürüzü de çözüme kavuşturabilirsin. Çalışma ortamında yarım kalmış detayları tamamlamak sana kontrol hissi kazandıracak. İş arkadaşlarınla iletişiminde net ve pratik bir üslup benimse.",
+   "motivation": "Karmaşayı adım adım ayıkla.",
+   "basis": "Ay 6. evinde ilerlerken 8. evindeki Güneş ile altmışlık açı kuruyor."
+  },
+  "boga": {
+   "focus": "Duygusal İfade",
+   "short": "Sevdiklerinle kurduğun samimi diyaloglar, ilişkine pratik bir boyut kazandırıyor.",
+   "text": "Hobilerine zaman ayırmak ve duygularını somut yollarla ifade etmek sana çok iyi geliyor. Birlikte çalıştığın ya da ortak kararlar aldığın kişilerle geçmiş konuları konuşurken çözüme odaklanacaksın. Eleştirel tonu bir kenara koyup yapıcı adımlar attığında ilişkilerindeki bağ güçleniyor. Bugün kendine ve sevdiklerine küçük sürprizler planlayabilirsin.",
+   "motivation": "Yapıcı üslup bağları pekiştirir.",
+   "basis": "Ay 5. evinde, 7. evindeki Merkür ile altmışlık açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Yuva Düzenlemesi",
+   "short": "Evindeki düzeni sağlamak, iş hayatındaki zihinsel yükünü hafifletiyor.",
+   "text": "Yaşam alanında biriken eşyaları ayıklamak veya evdeki teknik bir aksaklığı gidermek günün ana konusu olabilir. Aile içindeki geçmiş sohbetler yeniden açıldığında pratik çözümler sunarak ortamı sakinleştirebilirsin. Günlük koşturmacanın getirdiği stresi, kendi güvenli sığınağında toparlanarak atıyorsun. Mekanını ferahlatmak zihnine de iyi gelecek.",
+   "motivation": "Düzenli alan zihni özgürleştirir.",
+   "basis": "Ay 4. evindeyken 6. evdeki Güneş ile altmışlık açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Fikir Ayıklama",
+   "short": "Düşüncelerini kağıda dökmek, yaratıcı projelerine yeni bir yön veriyor.",
+   "text": "Yakın çevrenle yapacağın pratik odaklı konuşmalar zihnindeki soru işaretlerini siliyor. Yarım kalmış bir yazışmayı tamamlayabilir veya planlarını detaylandırabilirsin. Eğlenceli projelere ya da hobilerine zaman ayırırken mantıklı adımlar atmak sonuç almanı kolaylaştırıyor. Sözcüklerini özenle seçerek karmaşık bir konuyu tatlıya bağlayabilirsin.",
+   "motivation": "Sadelik fikirleri berraklaştırır.",
+   "basis": "Ay 3. evinde bulunup 5. evdeki Merkür ile altmışlık açı oluşturuyor."
+  },
+  "aslan": {
+   "focus": "Kaynak Hesabı",
+   "short": "Harcamalarını gözden geçirmek, evindeki huzuru ve öz güvenini tazeliyor.",
+   "text": "Cebindeki kaynağı ve bütçeni detaylıca planlamak bugün sana güven veriyor. Evin için yapacağın harcamalarda duygusal davranmak yerine ihtiyaç listene sadık kalmalısın. Ailevi konularda geçmişte konuşulmuş bir finansal detayı yeniden ele alıp netleştirebilirsin. Maddi konularda atacağın ölçülü adımlar uzun vadede rahatlık getirecektir.",
+   "motivation": "Tedbirli adımlar güven inşa eder.",
+   "basis": "Ay 2. evindeyken 4. evdeki Güneş ile altmışlık açı yapıyor."
+  },
+  "basak": {
+   "focus": "Bireysel Netlik",
+   "short": "Kendi isteklerini açıkça dile getirmek, çevrenle ilişkilerini tazeliyor.",
+   "text": "Bedenine ve kişisel projelerine vakit ayırmak için ideal bir gündesin. Yakın çevrenle olan diyaloglarında detaycı ve yapıcı yaklaşımın sayesinde eksik kalmış işleri hızla toparlıyorsun. Kendi ihtiyaçlarını ertelemeden, zihnindeki fikirleri hayata geçirecek pratik adımlar atabilirsin. Kendine koyduğun hedefleri sadeleştirerek ilerle.",
+   "motivation": "İhtiyaçlarına öncelik tanımayı seç.",
+   "basis": "Ay kendi burcunda 1. evde, 3. evdeki Güneş ile altmışlık açı oluşturuyor."
+  },
+  "terazi": {
+   "focus": "İçsel Temizlik",
+   "short": "Kendi kabuğuna çekilip zihnini düzenlemek, maddi konularda netlik sağlıyor.",
+   "text": "Geri planda yürüttüğün işleri toparlamak ve sessizce çalışmak bugün sana verim getirecektir. Maddi değerlerin ve birikimlerin hakkında içsel bir muhasebe yapabilir, gereksiz yüklerden arınabilirsin. Temponu biraz düşürüp dinlenmeye vakit ayırmak, zihnindeki karmaşayı çözmeni kolaylaştırır. Kendi iç sesine güvenerek plan yap.",
+   "motivation": "Sessiz analiz çözümü getirir.",
+   "basis": "Ay 12. evindeyken 2. evdeki Güneş ile altmışlık açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Grup Organizasyonu",
+   "short": "Arkadaş grubunla geleceğe dair pratik planlar yapmak zihnini ferahlatıyor.",
+   "text": "Dostlarınla bir araya gelmek veya yer aldığın projelerde detayları düzenlemek bugün neşeni artırıyor. Kendi duruşunu ve fikirlerini net bir şekilde ifade ederken, sosyal çevrenden destek görebilirsin. Geçmişte yarım kalan bir ekip çalışmasını yeniden ele almak için uygun bir akış var. İletişimde yapıcı kalmaya özen göster.",
+   "motivation": "Birlikte üretmek güven tazeler.",
+   "basis": "Ay 11. evinde ilerlerken 1. evindeki Merkür ile altmışlık açı yapıyor."
+  },
+  "yay": {
+   "focus": "Sorumluluk Düzeni",
+   "short": "Mesleki alandaki pürüzleri ayıklamak, geleceğe daha net bakmanı sağlıyor.",
+   "text": "Toplum önündeki duruşun ve kariyer hedeflerin doğrultusunda somut adımlar atabilirsin. Üstlendiğin görevlerdeki detayları titizlikle tamamlamak, arka planda seni meşgul eden kaygıları dindiriyor. İş yaşamında planlı hareket ettiğinde karmaşık görünen süreçlerin kolayca çözüldüğünü fark edeceksin. Sorumluluklarını sırala ve birer birer bitir.",
+   "motivation": "Odaklı çalışma güven getirir.",
+   "basis": "Ay 10. evindeyken 12. evdeki Güneş ile altmışlık açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Zihinsel Gelişim",
+   "short": "Araştırdığın konulardaki ayrıntılar, gelecek planlarına ışık tutuyor.",
+   "text": "Eğitsel işler, resmi süreçler veya uzaklarla ilgili konular bugün ön plana çıkabilir. Arkadaş çevrenden gelen fikirleri kendi süzgecinden geçirerek uzun vadeli hedeflerine entegre edebilirsin. Bilgiyi pratik bir şekilde kullanmak, vizyonunu daha gerçekçi bir zemine oturtuyor. Detaylarda boğulmadan ana fikre sadık kalarak ilerlemelisin.",
+   "motivation": "Bilgiyi pratikle harmanla.",
+   "basis": "Ay 9. evinde bulunup 11. evdeki Güneş ile altmışlık açı kuruyor."
+  },
+  "kova": {
+   "focus": "Paylaşım Detayları",
+   "short": "Finansal ayrıntıları gözden geçirmek, mesleki hedeflerinde elini güçlendiriyor.",
+   "text": "Ortaklaşa yürütülen işlerde veya bütçe yönetiminde detaylı bir inceleme yapman gerekebilir. İş hayatındaki hedeflerine ulaşmak için giderleri kontrol altına almak sana avantaj sağlayacak. Derinlemesine araştırma gerektiren bir konuyu çözüme kavuşturabilir, geçmiş ödemeleri düzene sokabilirsin. Kararlarında mantığı ön planda tut.",
+   "motivation": "Hesabını bilmek özgürleştirir.",
+   "basis": "Ay 8. evindeyken 10. evdeki Güneş ile altmışlık açı oluşturuyor."
+  },
+  "balik": {
+   "focus": "İlişki Dengesi",
+   "short": "Partnerinle ortak kararlar almak, hayata bakışını daha berrak kılıyor.",
+   "text": "Birlikte hareket ettiğin insanlarla açık ve pratik bir iletişim kurmak günün anahtarı. Geçmişten taşınan anlaşmazlıkları mantık çerçevesinde ele aldığınızda ortak bir paydada buluşmanız kolaylaşıyor. Ufkunuzu genişletecek yeni planlar yaparken detayları gözden kaçırmamamya dikkat edin. Eleştirel olmaktan ziyade çözüm odaklı kalmak ilişkiyi besler.",
+   "motivation": "Ortak akıl uyumu çoğaltır.",
+   "basis": "Ay 7. evinde ilerlerken 9. evdeki Güneş ile altmışlık açı yapıyor."
+  }
+ }
+}

@@ -1,35 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-10-27T18:20:06+03:00",
+ "updated": "2026-10-28T03:36:07+03:00",
  "days": [
-  {
-   "date": "2026-10-26",
-   "focus": "Toplumsal duruş",
-   "short": "Kariyerinde tamamlanması gereken işler görünür bir sonuç veriyor.",
-   "text": "Mesleki hedeflerini temsil eden alanda parlayan Dolunay, yürüttüğün projelerde önemli bir eşiğe geldiğini gösteriyor. Üstlerinle olan ilişkilerinde veya toplum önündeki duruşunda daha sağlam bir çerçeve çizmen gerekebilir. Karşıt burcundaki Plüton ile Güneş'in oluşturduğu gerilim, ortaklıklardan doğan baskıları yönetmeyi zorunlu kılıyor. Ani tepkilerden kaçınarak profesyonelliğini ve sakinliğini koruman yararına olur.",
-   "motivation": "Sakinlikle profesyonel kal.",
-   "basis": "10. evindeki Boğa Dolunayı ve Plüton karesi kariyer sorumluluklarını vurguluyor.",
-   "sky_events": [
-    "Bugün Dolunay (Boğa burcunda) gerçekleşiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Güneş ile Plüton arasında kare açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 2°57'",
-    "Ay Boğa'da 5°38'",
-    "Merkür Akrep'te 20°40' ℞",
-    "Venüs Terazi'de 29°23' ℞",
-    "Mars Aslan'da 15°44'",
-    "Jüpiter Aslan'da 23°36'",
-    "Satürn Koç'ta 9°39' ℞",
-    "Uranüs İkizler'de 4°52' ℞",
-    "Neptün Koç'ta 2°12' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-27",
    "focus": "Mesleki adımlar",
@@ -235,6 +208,32 @@
     "Plüton Kova'da 3°08'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-11-04",
+   "focus": "Kaynak Hesabı",
+   "short": "Harcamalarını gözden geçirmek, evindeki huzuru ve öz güvenini tazeliyor.",
+   "text": "Cebindeki kaynağı ve bütçeni detaylıca planlamak bugün sana güven veriyor. Evin için yapacağın harcamalarda duygusal davranmak yerine ihtiyaç listene sadık kalmalısın. Ailevi konularda geçmişte konuşulmuş bir finansal detayı yeniden ele alıp netleştirebilirsin. Maddi konularda atacağın ölçülü adımlar uzun vadede rahatlık getirecektir.",
+   "motivation": "Tedbirli adımlar güven inşa eder.",
+   "basis": "Ay 2. evindeyken 4. evdeki Güneş ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 11°57'",
+    "Ay Başak'ta 13°43'",
+    "Merkür Akrep'te 12°28' ℞",
+    "Venüs Terazi'de 24°44' ℞",
+    "Mars Aslan'da 20°18'",
+    "Jüpiter Aslan'da 24°43'",
+    "Satürn Koç'ta 9°04' ℞",
+    "Uranüs İkizler'de 4°33' ℞",
+    "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }
