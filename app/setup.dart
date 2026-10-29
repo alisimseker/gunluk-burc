@@ -124,6 +124,31 @@ Future<void> main() async {
   final groovy = File('$project/android/app/build.gradle');
   if (kts.existsSync()) {
     var g = kts.readAsStringSync().replaceAll(RegExp(r'\n\s*ndkVersion = flutter\.ndkVersion'), '');
+    // Yayın imzası: android/key.properties (anahtar dosyası + takma ad) ve şifre ortam değişkeninden.
+    // Şifre hiçbir dosyaya yazılmaz; YAYIN-SURUMU.bat derleme sırasında sorar.
+    if (!g.contains('burcRelease')) {
+      g = g.replaceFirst('    buildTypes {', '''    signingConfigs {
+        create("burcRelease") {
+            val props = Properties()
+            val f = rootProject.file("key.properties")
+            if (f.exists()) f.inputStream().use { props.load(it) }
+            val pass = System.getenv("BURC_KEY_PASSWORD")
+            if (props.getProperty("storeFile") != null && pass != null) {
+                storeFile = file(props.getProperty("storeFile"))
+                storePassword = pass
+                keyAlias = props.getProperty("keyAlias") ?: "upload"
+                keyPassword = pass
+            }
+        }
+    }
+
+    buildTypes {''');
+      g = g.replaceFirst(RegExp(r'signingConfig = signingConfigs\.getByName\("debug"\)'),
+          'signingConfig = if (System.getenv("BURC_KEY_PASSWORD") != null) signingConfigs.getByName("burcRelease") '
+          'else signingConfigs.getByName("debug")');
+    }
+    g = g.replaceAll('val props = java.util.Properties()', 'val props = Properties()');
+    if (!g.contains('import java.util.Properties')) g = 'import java.util.Properties\n\n$g';
     if (!g.contains('androidx.work:work-runtime')) {
       g += '''
 
@@ -132,8 +157,8 @@ dependencies {
     implementation("androidx.core:core:1.13.1")
 }
 ''';
-      kts.writeAsStringSync(g);
     }
+    kts.writeAsStringSync(g);
   } else if (groovy.existsSync()) {
     var g = groovy.readAsStringSync();
     if (!g.contains('androidx.work:work-runtime')) {
