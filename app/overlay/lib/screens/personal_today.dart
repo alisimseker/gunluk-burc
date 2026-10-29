@@ -56,7 +56,7 @@ class _PersonalTodayScreenState extends State<PersonalTodayScreen> {
 
   static const _poss = {
     'sun': "Güneş'in", 'moon': "Ay'ın", 'mercury': "Merkür'ün", 'venus': "Venüs'ün", 'mars': "Mars'ın",
-    'jupiter': "Jüpiter'in", 'saturn': "Satürn'ün", 'asc': 'yükselenin', 'mc': "MC'n",
+    'jupiter': "Jüpiter'in", 'saturn': "Satürn'ün", 'asc': "Yükselen'in", 'mc': 'Tepe noktanın (MC)',
   };
   String _pointName(String k) => _poss[k] ?? k;
 
