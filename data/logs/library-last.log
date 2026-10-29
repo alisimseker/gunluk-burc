@@ -1,184 +1,7 @@
 Kullanılacak modeller (sırayla): ['gemma-4-31b-it', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite', 'gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash']
-[natal] 300/300 hazır, 1 tanesi 'sen' diliyle yeniden yazılacak.
-[natal] gemma-4-31b-it 77 sn
-[natal] istek 1: 1 kabul, kalan 0
+[natal] 300/300 hazır.
 [events] 114/114 hazır.
-[transits] 450/450 hazır, 450 tanesi 'sen' diliyle yeniden yazılacak.
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemini-3.5-flash-lite 109 sn
-[transits] istek 1: 14 kabul, kalan 436 | ret örnekleri: ["tr:sun:conj:venus: açılış 'estetik algın ve' başka metinde kullanıldı", "tr:sun:conj:mars: açılış 'içindeki ateş ve' başka metinde kullanıldı"]
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemini-3.5-flash-lite 73 sn
-[transits] istek 2: 12 kabul, kalan 424 | ret örnekleri: ["tr:sun:conj:mars: açılış 'fiziksel gücün ve' başka metinde kullanıldı", 'tr:sun:sextile:mc: boş', 'tr:sun:square:mc: boş']
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-[transits] gemini-3.5-flash-lite 94 sn
-[transits] istek 3: 12 kabul, kalan 412 | ret örnekleri: ['tr:sun:sextile:mc: boş', 'tr:sun:square:mc: boş', "tr:sun:trine:asc: açılış 'dış dünyaya yansıttığın' başka metinde kullanıldı"]
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemma-4-31b-it 180 sn
-[transits] istek 4: 15 kabul, kalan 397 | ret örnekleri: ['tr:sun:opp:asc: başka bir metne çok benziyor']
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 5 column 30 (char 797))
-[transits] gemini-3.5-flash-lite 295 sn
-[transits] istek 5: 1 kabul, kalan 396 | ret örnekleri: ['tr:moon:sextile:sun: boş', 'tr:moon:sextile:moon: boş', 'tr:moon:sextile:mercury: boş']
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemini-3.5-flash-lite 152 sn
-[transits] istek 6: 14 kabul, kalan 382 | ret örnekleri: ["tr:moon:sextile:sun: açılış 'iç dünyandaki dalgalanmalar' başka metinde kullanıldı", "tr:moon:sextile:asc: açılış 'dış dünyaya yansıttığın' başka metinde kullanıldı"]
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemini-3.5-flash-lite 107 sn
-[transits] istek 7: 15 kabul, kalan 367 | ret örnekleri: ["tr:moon:sextile:sun: açılış 'yaşam enerjin ile' başka metinde kullanıldı", 'tr:moon:square:mc: boş']
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
+[transits] 450/450 hazır, 288 tanesi 'sen' diliyle yeniden yazılacak.
   gemma-4-31b-it: geçersiz yanıt (The read operation timed out)
   gemma-4-31b-it: HTTP 500 {
   "error": {
@@ -188,53 +11,6 @@ Kullanılacak modeller (sırayla): ['gemma-4-31b-it', 'gemini-3.5-flash-lite', '
   }
 }
 
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 210 (char 417))
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 218 (char 442))
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 23 (char 218))
-[transits] gemini-3.1-flash-lite 291 sn
-[transits] istek 8: 15 kabul, kalan 352 | ret örnekleri: ["tr:mercury:conj:asc: açılış 'kendini ifade etme' başka metinde kullanıldı"]
-[transits] gemma-4-31b-it 88 sn
-[transits] istek 9: 13 kabul, kalan 339 | ret örnekleri: ["tr:mercury:sextile:jupiter: açılış 'bakış açın genişliyor' başka metinde kullanıldı", "tr:mercury:square:mars: açılış 'zihnin çok hızlı' başka metinde kullanıldı", "tr:mercury:square:jupiter: açılış 'her şeyi aynı' başka metinde kullanıldı"]
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-[transits] gemma-4-31b-it 170 sn
-[transits] istek 10: 12 kabul, kalan 327 | ret örnekleri: ["tr:mercury:square:jupiter: açılış 'detayları gözden kaçırıp' başka metinde kullanıldı", "tr:mercury:trine:moon: açılış 'mantığın ve duyguların' başka metinde kullanıldı", "tr:mercury:trine:mars: açılış 'düşüncelerini hızla eyleme' başka metinde kullanıldı"]
-[transits] gemma-4-31b-it 164 sn
-[transits] istek 11: 9 kabul, kalan 318 | ret örnekleri: ["tr:mercury:opp:moon: açılış 'zihnin ve kalbin' başka metinde kullanıldı", 'tr:mercury:opp:mercury: uzunluk 124; yaklaşık 230 karakter olmalı', 'tr:mercury:opp:mars: uzunluk 126; yaklaşık 230 karakter olmalı']
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 29 (char 293))
-  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 270 (char 517))
-[transits] gemini-3.5-flash-lite 147 sn
-[transits] istek 12: 15 kabul, kalan 303 | ret örnekleri: ["tr:venus:conj:jupiter: açılış 'hayata karşı iyimserliğin' başka metinde kullanıldı"]
   gemma-4-31b-it: HTTP 503 {
   "error": {
     "code": 503,
@@ -243,6 +19,8 @@ Kullanılacak modeller (sırayla): ['gemma-4-31b-it', 'gemini-3.5-flash-lite', '
   }
 }
 
+[transits] gemini-3.5-flash-lite 402 sn
+[transits] istek 1: 13 kabul, kalan 275 | ret örnekleri: ["tr:venus:trine:jupiter: açılış 'sosyal ilişkilerde ve' başka metinde kullanıldı", "tr:venus:trine:saturn: açılış 'ilişkilerinde ve harcamalarında' başka metinde kullanıldı", "tr:venus:trine:asc: açılış 'dış dünyaya yansıttığın' başka metinde kullanıldı"]
   gemma-4-31b-it: HTTP 500 {
   "error": {
     "code": 500,
@@ -251,8 +29,210 @@ Kullanılacak modeller (sırayla): ['gemma-4-31b-it', 'gemini-3.5-flash-lite', '
   }
 }
 
-[transits] gemma-4-31b-it 199 sn
-[transits] istek 13: 15 kabul, kalan 288 | ret örnekleri: ["tr:venus:square:mercury: açılış 'iletişimde yanlış anlaşılmalar' başka metinde kullanıldı"]
+[transits] gemma-4-31b-it 173 sn
+[transits] istek 2: 15 kabul, kalan 260 | ret örnekleri: ["tr:mars:conj:mercury: açılış 'zihnin çok hızlı' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+[transits] gemini-3.5-flash-lite 140 sn
+[transits] istek 3: 12 kabul, kalan 248 | ret örnekleri: ['tr:mars:sextile:venus: boş', "tr:mars:sextile:asc: açılış 'dışarıya yansıttığın imaj' başka metinde kullanıldı", "tr:mars:sextile:mc: açılış 'kariyerinde ve hedeflerinde' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+[transits] gemini-3.5-flash-lite 193 sn
+[transits] istek 4: 13 kabul, kalan 235 | ret örnekleri: ["tr:mars:sextile:asc: açılış 'fiziksel enerjin ve' başka metinde kullanıldı", "tr:mars:trine:mercury: açılış 'zihinsel hızın ve' başka metinde kullanıldı", "tr:mars:trine:venus: açılış 'güzellik sanat ve' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+[transits] gemma-4-31b-it 116 sn
+[transits] istek 5: 16 kabul, kalan 219
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+[transits] gemini-3.5-flash-lite 204 sn
+[transits] istek 6: 14 kabul, kalan 205 | ret örnekleri: ['tr:jupiter:sextile:venus: boş', 'tr:jupiter:sextile:jupiter: boş']
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+[transits] gemini-3.5-flash-lite 181 sn
+[transits] istek 7: 15 kabul, kalan 190 | ret örnekleri: ["tr:jupiter:square:asc: açılış 'dış dünyaya yansıttığın' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: geçersiz yanıt (The read operation timed out)
+[transits] gemini-3.5-flash-lite 255 sn
+[transits] istek 8: 14 kabul, kalan 176 | ret örnekleri: ["tr:jupiter:opp:mc: açılış 'kariyer hedeflerin ile' başka metinde kullanıldı", "tr:saturn:conj:jupiter: açılış 'büyüme arzun ile' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemini-3.5-flash-lite: geçersiz yanıt (Expecting ':' delimiter: line 3 column 272 (char 528))
+[transits] gemini-3.5-flash-lite 198 sn
+[transits] istek 9: 2 kabul, kalan 174 | ret örnekleri: ['tr:saturn:conj:jupiter: boş', "tr:saturn:conj:asc: açılış 'dış dünyaya yansıttığın' başka metinde kullanıldı", "tr:saturn:conj:mc: açılış 'kariyerinde ve hedeflerinde' başka metinde kullanıldı"]
+  gemma-4-31b-it: HTTP 500 {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+  gemma-4-31b-it: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+  gemma-4-31b-it: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+[transits] gemini-3.5-flash-lite 227 sn
+[transits] istek 10: 1 kabul, kalan 173 | ret örnekleri: ['tr:saturn:conj:asc: boş', 'tr:saturn:conj:mc: boş', 'tr:saturn:sextile:sun: boş']
 [transits] süre sınırı (35 dk) doldu, kalanlar sonraki çalışmada.
 [synastry] 218/218 hazır.
 [solar] 84/84 hazır.
