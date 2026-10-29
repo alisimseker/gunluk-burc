@@ -74,7 +74,7 @@ SYSTEMS = {
 BASE_SYSTEM = """Sen deneyimli bir astrolog ve usta bir Türkçe yazarsın. {role}
 KURALLAR:
 - Klasik batı astrolojisinin yerleşik anlamlarına sadık kal; uydurma bilgi verme.
-- Sıcak, net, "sen" diliyle yaz (uyum yorumlarında "siz"). Güçlü ve dikkat gerektiren yönleri dengeli anlat.
+- Sıcak ve net yaz. {voice} Güçlü ve dikkat gerektiren yönleri dengeli anlat.
 - Kesin kehanet, korkutma, sağlık/para konusunda kesin yönlendirme yok.
 - Her metin diğerlerinden farklı açılış ve cümle yapısıyla başlasın; klişe kalıplar yok
   ("yıldızlar senin için", "evren sana", "harika bir enerji").
@@ -231,10 +231,27 @@ def extract_texts(res, keys: list[str]) -> dict[str, str]:
 
 
 # --------------------------------------------------------------------------- doğrulama
-def validate(text: str, target: int, allowed: set[int] | None, lib: dict) -> list[str]:
+# "Siz" hitabı: zamir, -iniz/-sınız ekleri ve -in/-ın/-yin emir kipi (uyum yorumları hariç hepsi "sen" diliyle)
+FORMAL = re.compile(r"\b(siz|sizin|size|sizi|sizde|sizden|sizce)\b"
+                    r"|\w{2,}(ınız|iniz|unuz|ünüz|sınız|siniz|sunuz|sünüz)\b", re.I)
+FORMAL_IMP = re.compile(r"\b\w+[aeıioöuü]y(ın|in|un|ün)\b|\b\w+(ma|me)y(ın|in)\b", re.I)
+IMP_OK = {"şeyin", "tayin", "oyun", "koyun", "boyun", "beyin", "kayın", "hiçbir şeyin", "deyin"}
+VOICE = "sen"   # yayınlanan dosyada bu hitapla yazıldığı işaretlenir
+
+
+def is_formal(text: str) -> bool:
+    if FORMAL.search(text):
+        return True
+    return any(m.group(0).lower() not in IMP_OK for m in FORMAL_IMP.finditer(text))
+
+
+def validate(text: str, target: int, allowed: set[int] | None, lib: dict, informal: bool = True,
+             self_key: str | None = None) -> list[str]:
     errs = []
     if not isinstance(text, str) or not text.strip():
         return ["boş"]
+    if informal and is_formal(text):
+        return ["'siz' değil 'sen' diliyle yaz (ör. enerjin, yapabilirsin, dene)"]
     n = len(text)
     if n < target * 0.55 or n > target * 1.8:
         errs.append(f"uzunluk {n}; yaklaşık {target} karakter olmalı")
@@ -244,7 +261,9 @@ def validate(text: str, target: int, allowed: set[int] | None, lib: dict) -> lis
                 errs.append(f"başka bir burçtan ({s}) bahsetme")
                 break
     opening = sim.first_words(text, 3)
-    for t in lib.values():
+    for k, t in lib.items():
+        if k == self_key:
+            continue
         if sim.first_words(t, 3) == opening:
             errs.append(f"açılış '{opening}' başka metinde kullanıldı")
             break
@@ -256,14 +275,39 @@ def validate(text: str, target: int, allowed: set[int] | None, lib: dict) -> lis
 
 def run_library(name: str, items_fn, writer, budget: int, mock: bool) -> int:
     out = DOCS / name / "tr.json"
-    lib: dict = load_json(out, {}).get("texts", {})
+    stored = load_json(out, {})
+    lib: dict = stored.get("texts", {})
+    informal = name != "synastry"
+    # Yeniden yazılacaklar: "sen" diliyle işaretlenmemiş transitlerin hepsi, diğerlerinde "siz" hitaplı olanlar
+    if informal and stored.get("voice") != VOICE:
+        redo = set(lib) if name == "transits" else {k for k, v in lib.items() if is_formal(v)}
+    else:
+        redo = set(stored.get("redo", []))
+    redo &= set(lib)
     all_it = items_fn()
-    todo = [it for it in all_it if it[0] not in lib]
-    print(f"[{name}] {len(lib)}/{len(all_it)} hazır.")
+
+    def pending() -> list:
+        return [it for it in all_it if it[0] not in lib or it[0] in redo]
+
+    def save() -> None:
+        left = pending()
+        data = {"version": 1, "count": len(lib), "complete": not left, "texts": lib}
+        if informal:
+            data["voice"] = VOICE
+            if redo:
+                data["redo"] = sorted(redo)
+        save_json(out, data)
+
+    skip: set = set()
+    todo = pending()
+    print(f"[{name}] {len(lib)}/{len(all_it)} hazır" + (f", {len(redo)} tanesi 'sen' diliyle yeniden yazılacak." if redo else "."))
     if not todo or budget <= 0:
-        save_json(out, {"version": 1, "count": len(lib), "complete": not todo, "texts": lib})
+        save()
         return 0
-    system = BASE_SYSTEM.format(role=SYSTEMS[name])
+    system = BASE_SYSTEM.format(role=SYSTEMS[name], voice=(
+        "Okura tek kişi olarak 'sen' diye hitap et (ör. 'enerjin', 'yapabilirsin', 'bugün dene'); "
+        "'siz', '-iniz/-ınız/-sınız' ekleri ve 'deneyin/yapın' gibi emirler KULLANMA." if name != "synastry"
+        else "İki kişiye birlikte 'siz' diye hitap et."))
     feedback: dict[str, list[str]] = {}
     tries: dict[str, int] = {}
     used = 0
@@ -301,22 +345,24 @@ def run_library(name: str, items_fn, writer, budget: int, mock: bool) -> int:
         rejected = []
         for key, desc, target, allowed in batch:
             text = str(got.get(key, "")).strip()
-            errs = [] if mock else validate(text, target, allowed, lib)
+            errs = [] if mock else validate(text, target, allowed, lib, informal, key)
             if errs:
                 rejected.append(f"{key}: {errs[0]}")
             if errs and tries.get(key, 0) < 2:
                 feedback[key] = errs
                 tries[key] = tries.get(key, 0) + 1
                 continue
-            if errs and any("başka bir burç" in e or e == "boş" for e in errs):
+            if errs and any("başka bir burç" in e or e == "boş" or "'sen' diliyle" in e for e in errs):
+                skip.add(key)       # bu çalışmada tekrar deneme; sonraki çalışmada yeniden denenir
                 continue
             lib[key] = text
+            redo.discard(key)
             ok += 1
-        todo = [it for it in all_it if it[0] not in lib]
+        todo = [it for it in pending() if it[0] not in skip]
         print(f"[{name}] istek {used}: {ok} kabul, kalan {len(todo)}"
               + (f" | ret örnekleri: {rejected[:3]}" if rejected else ""))
-        save_json(out, {"version": 1, "count": len(lib), "complete": not todo, "texts": lib})
-    save_json(out, {"version": 1, "count": len(lib), "complete": not todo, "texts": lib})
+        save()
+    save()
     return used
 
 
