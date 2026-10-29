@@ -1,33 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "Sosyal bütçe",
-   "short": "Arkadaş çevrendeki organizasyonlar için gereksiz maddi yükler üstlenme.",
-   "text": "Grup etkinlikleri veya dost meclislerinde cömertliğin dozunu kaçırma riskiyle karşı karşıyasın. İkinci evindeki Jüpiter ve Mars, topluluk önünde kendini kanıtlama isteğiyle gereğinden fazla harcama yaptırabilir. Kimseye maddi anlamda bir şey ispatlamak zorunda olmadığını unutmamalısın. Sosyal bağlarını korurken kendi sınırlarına sadık kalmak ve ölçülü davranmak en doğrusudur.",
-   "motivation": "Dostluğa gerçekçi bir sınır çiz.",
-   "basis": "11. evindeki Ay'ın 2. evdeki Jüpiter ve Mars ile kare açısı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "İçsel dinginlik",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "İçsel Sığınak",
+   "short": "Yaşam alanındaki huzuru çoğaltarak günün yorgunluğunu atabilirsin.",
+   "text": "Sabahın yoğun konuşma temposu geride kalırken, dikkatini yaşam alanına ve kişisel konforuna yöneltiyorsun. Dördüncü evine adım atan Ay, sevdiklerinle evde huzurlu bir akşam geçirme arzunu öne çıkarıyor. Venüs'ün retro hareketiyle eski bir ev dekorasyonu ya da aile meselesi yeniden gündeme gelebilir. Sakin bir çay molası eşliğinde iç sesini dinle.",
+   "motivation": "Huzuru yuvanda büyüt.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve 4. evdeki Venüs retrosu.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

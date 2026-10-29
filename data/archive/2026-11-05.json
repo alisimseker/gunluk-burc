@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-10-29T04:09:18+03:00",
+ "model": "gemini-3.7-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 12°57'",
+   "Ay Başak'ta 26°55'",
+   "Merkür Akrep'te 11°10' ℞",
+   "Venüs Terazi'de 24°22' ℞",
+   "Mars Aslan'da 20°47'",
+   "Jüpiter Aslan'da 24°49'",
+   "Satürn Koç'ta 9°01' ℞",
+   "Uranüs İkizler'de 4°30' ℞",
+   "Neptün Koç'ta 1°59' ℞",
+   "Plüton Kova'da 3°09'"
+  ],
+  "events": [
+   "Ay bugün Terazi'ye geçiyor."
+  ],
+  "moon_phase": "Küçülen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Birebir Uyum",
+   "short": "İkili diyaloglarda nezaketi öne alarak uyumu kolayca yakalayabilirsin.",
+   "text": "Sabah saatlerinde toparladığın işlerin ardından dikkatini ikili diyaloglara çeviriyorsun. Karşı tarafın beklentilerini sakince dinlemek, gün içinde olası pürüzleri büyümeden çözer. Yedinci evindeki gerileyen Venüs'ün Jüpiter ile kurduğu tatlı temas, eski bir anlaşmazlığı tatlı dille çözmek için zemin hazırlıyor. Akşamı sevdiğin biriyle sakince geçirmek sana iyi gelecektir.",
+   "motivation": "Nezaketle dinlemek bağı tazeler.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter altmışlığı."
+  },
+  "boga": {
+   "focus": "Çalışma Ritmi",
+   "short": "Gündelik işlerini toparlayarak zihnine ferah bir alan açabilirsin.",
+   "text": "Günün ilk yarısındaki keyifli uğraşların yerini öğleden sonra çalışma alanını toparlama isteği alıyor. Masanın üzerindeki dağınıklığı elden geçirmek ve ertelediğin detayları sıraya koymak zihnini rahatlatacak. Karşıt burcunda gerileyen Merkür'ün Güneş ile kavuşumu, ilişkilerde söylenmemiş şeyleri zarafetle dile getirme gereğine işaret ediyor. Bedenini dinlendirici küçük molalar vermeyi ihmal etme.",
+   "motivation": "Ritmini sade adımlarla bul.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu."
+  },
+  "ikizler": {
+   "focus": "Yaratıcı Mola",
+   "short": "Sana neşe veren uğraşlara vakit ayırıp zihnini tazeleyebilirsin.",
+   "text": "Evdeki işleri tamamladıktan sonra kendini mutlu eden uğraşlara yönelmek isteyebilirsin. Beşinci evine geçen Ay, yarım kalmış sanatsal bir hevesi veya hobiyi yeniden ele almana destek veriyor. Üçüncü evindeki Jüpiter ile Venüs'ün uyumu, keyifli bir sohbetin moralini yükselteceğini gösteriyor. Bugün kendine eğlenceli bir mola hakkı tanı.",
+   "motivation": "Neşeni üretime davet et.",
+   "basis": "Ay'ın Terazi burcuna geçmesi ve Venüs-Jüpiter sekstili."
+  },
+  "yengec": {
+   "focus": "İçsel Sığınak",
+   "short": "Yaşam alanındaki huzuru çoğaltarak günün yorgunluğunu atabilirsin.",
+   "text": "Sabahın yoğun konuşma temposu geride kalırken, dikkatini yaşam alanına ve kişisel konforuna yöneltiyorsun. Dördüncü evine adım atan Ay, sevdiklerinle evde huzurlu bir akşam geçirme arzunu öne çıkarıyor. Venüs'ün retro hareketiyle eski bir ev dekorasyonu ya da aile meselesi yeniden gündeme gelebilir. Sakin bir çay molası eşliğinde iç sesini dinle.",
+   "motivation": "Huzuru yuvanda büyüt.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve 4. evdeki Venüs retrosu."
+  },
+  "aslan": {
+   "focus": "Düşünce Paylaşımı",
+   "short": "Fikirlerini yapıcı bir dille paylaşarak çevrenle uyum yakalayabilirsin.",
+   "text": "Maddi planlamaları hallettikten sonra zihinsel olarak daha hareketli bir akışa giriyorsun. Üçüncü evine ilerleyen Ay ve burcundaki Jüpiter'in desteği, fikirlerini paylaşırken samimi ve yapıcı olmanı sağlıyor. Kardeşler veya yakın komşularla eski bir anıyı tazelemek gününe neşe katabilir. Biriken mesajları cevaplamak için güzel bir akşam seni bekliyor.",
+   "motivation": "Samimi paylaşımlar yolu açar.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve 1. evdeki Jüpiter ile Venüs sekstili."
+  },
+  "basak": {
+   "focus": "Harcama Dengesi",
+   "short": "Bütçendeki detayları düzenleyerek kendine sağlam bir zemin kurabilirsin.",
+   "text": "Günün ilk saatlerinde kendi ihtiyaçlarına yoğunlaştıktan sonra dikkatin bütçene ve sahip olduklarına kayıyor. Ay'ın Terazi'ye geçişiyle birlikte gereksiz harcamaları ayıklamak ve kaynaklarını dengeli tutmak isteyebilirsin. İkinci evindeki gerileyen Venüs, geçmişte aldığın eşyaları ya da ertelediğin ödemeleri gözden geçirme fırsatı veriyor. Sadeleşmek sana güven hissi kazandıracak.",
+   "motivation": "Tutumlu olmak ferahlık sağlar.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve ikinci evdeki Venüs retrosu."
+  },
+  "terazi": {
+   "focus": "Kişisel Uyanış",
+   "short": "Ay burcuna geçerken kendi isteklerine alan açıp tazelenebilirsin.",
+   "text": "Birkaç gündür hissettiğin geri çekilme ihtiyacı, Ay'ın burcuna adım atmasıyla yerini canlanmaya bırakıyor. Kendi isteklerini ve görünüşünü ön plana çıkarmak için taze bir heves bulabilirsin. Burcundaki gerileyen Venüs'ün Jüpiter ile yaptığı tatlı açı, eski dostlardan gelebilecek samimi bir desteğe işaret ediyor. Kendine şefkat göstermeyi ve duruşunu tazelemeyi ihmal etme.",
+   "motivation": "Kendi varlığına şefkatle sarıl.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve burçtaki Venüs-Jüpiter sekstili."
+  },
+  "akrep": {
+   "focus": "İçsel Arınma",
+   "short": "Günün yorgunluğunu sessiz bir köşede dinlenerek geride bırakabilirsin.",
+   "text": "Sosyal çevrenle planları tamamladıktan sonra günün ikinci yarısında kabuğuna çekilmek sana çok iyi gelecektir. On ikinci evine geçen Ay, iç dünyandaki kalabalığı ayıklaman ve zihnini sakinleştirmen için uygun bir alan yaratıyor. Burcundaki Güneş ve gerileyen Merkür kavuşumu, geçmiş kararlarını kendi içinde olgunlukla değerlendirmeni sağlıyor. Akşam saatlerini gürültüden uzak planla.",
+   "motivation": "Sükunet kalbini sakinleştirir.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu."
+  },
+  "yay": {
+   "focus": "Ortak Hayaller",
+   "short": "Eski dostlarla bir araya gelmek sana taze bir neşe katabilir.",
+   "text": "Mesleki hedeflerine odaklandığın yoğun sabahın ardından sosyal planlar ve dostluklar gündemine giriyor. On birinci evine geçen Ay, eski arkadaşlarla buluşmak ya da ortak bir ideali konuşmak için sıcak bir atmosfer sunuyor. Dokuzuncu evindeki Jüpiter'in Venüs ile kurduğu uyum, sohbetlerde ufkunu açan paylaşımlar getirebilir. İnsanlarla arandaki bağı güçlendirmek sana moral verecek.",
+   "motivation": "Gönülden bağlar yolu aydınlatır.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili."
+  },
+  "oglak": {
+   "focus": "Mesleki Denge",
+   "short": "İş ortamında sergileyeceğin diplomatik tavır kapıları kolayca açar.",
+   "text": "Zihnini genişleten araştırmaları bir kenara koyup gözünü hedeflerine çeviriyorsun. Onuncu evine ilerleyen Ay, iş ortamındaki ilişkilerde uzlaşmacı ve profesyonel bir üslup takınmanın kapılarını açıyor. Kariyer alanındaki gerileyen Venüs, geçmişte üzerinde çalıştığın bir projeyi diplomatik bir dille yeniden gündeme getirebileceğini hatırlatıyor. Sakin ve ölçülü tavrın takdir toplayacaktır.",
+   "motivation": "Ölçülü duruş saygı uyandırır.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve 10. evdeki Venüs retrosu."
+  },
+  "kova": {
+   "focus": "Fikir Açılımı",
+   "short": "Zihnini kalıplardan çıkarıp yeni düşüncelere cömertçe yer açabilirsin.",
+   "text": "Ortak bütçe ve sorumluluk detaylarını hallettikten sonra ruhun daha ferah alanlara ihtiyaç duyuyor. Dokuzuncu evine geçen Ay, farklı bir felsefe okumak veya seyahat planı hayal etmek için güzel bir esin veriyor. Yedinci evindeki Jüpiter'in Venüs ile uyumu, hayatındaki özel bir kişiyle geleceğe dair umut dolu fikirler paylaşmana zemin hazırlar. Zihnini rutinlerin dışına çıkar.",
+   "motivation": "Geniş bakan yolu kolay bulur.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili."
+  },
+  "balik": {
+   "focus": "Ortak Paylaşımlar",
+   "short": "Samimi paylaşımlar yaparak aradaki güven duygusunu tazeleyebilirsin.",
+   "text": "İkili görüşmelerle başlayan sabahın ardından daha derin paylaşımlara ve içsel meselelere odaklanıyorsun. Sekizinci evine ilerleyen Ay, güven ve dürüstlük temalarını masaya yatırman için uygun bir zemin oluşturuyor. Altıncı evindeki Jüpiter ile sekizinci evindeki Venüs arasındaki uyum, iş ve gündelik hayatındaki maddi pürüzleri uzlaşarak çözmene yardımcı olabilir. İçten konuşmalar bağları sağlamlaştırır.",
+   "motivation": "Güven içtenlikle inşa edilir.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili."
+  }
+ }
+}

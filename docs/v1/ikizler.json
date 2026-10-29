@@ -1,33 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "İç ses ve iletişim",
-   "short": "Zihnindeki kuruntuların iletişimini gölgelemesine fırsat verme.",
-   "text": "Bilinçaltında biriken kaygılar, üçüncü evindeki Mars ve Jüpiter temasıyla sözlerine abartılı yansıyabilir. Kardeşler veya yakın temas kurduğun kişilerle konuşurken gereksiz bir alınganlık göstermemeye çalış. Günlük rutinlerin getirdiği yorgunluk zihnini bulandırabilir; bu yüzden netleşmeden karar almamalısın. Düşüncelerini bir kâğıda yazarak ayıklamak içsel baskını hafifletecektir.",
-   "motivation": "Fısıltıları netlikle ayıkla.",
-   "basis": "12. evindeki Ay'ın 3. evindeki Mars ile oluşturduğu kare açı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Yenilenme İsteği",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Yaratıcı Mola",
+   "short": "Sana neşe veren uğraşlara vakit ayırıp zihnini tazeleyebilirsin.",
+   "text": "Evdeki işleri tamamladıktan sonra kendini mutlu eden uğraşlara yönelmek isteyebilirsin. Beşinci evine geçen Ay, yarım kalmış sanatsal bir hevesi veya hobiyi yeniden ele almana destek veriyor. Üçüncü evindeki Jüpiter ile Venüs'ün uyumu, keyifli bir sohbetin moralini yükselteceğini gösteriyor. Bugün kendine eğlenceli bir mola hakkı tanı.",
+   "motivation": "Neşeni üretime davet et.",
+   "basis": "Ay'ın Terazi burcuna geçmesi ve Venüs-Jüpiter sekstili.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

@@ -1,33 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "İlişkide denge",
-   "short": "İkili ilişkilerdeki güç savaşlarını bir kenara bırakıp uzlaşmayı dene.",
-   "text": "Yedinci evindeki Ay, kariyer alanındaki Mars ve Jüpiter ile sert bir çatışma içinde. Eşinle ya da iş ortağınla olan dinamiklerde kimin sözünün geçeceği meselesi gereksiz bir krize dönüşebilir. Karşındakini bastırmaya çalışmak yerine taleplerini net ama sakin bir dille ifade etmelisin. Rekabet etmek yerine ortak noktada buluşmak işlerini çok daha kolay çözecektir.",
-   "motivation": "Uzlaşmak geri adım atmak değildir.",
-   "basis": "7. evindeki Ay'ın 10. evindeki Mars ve Jüpiter ile tam kare açısı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Dönüşüm ve Düzen",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "İçsel Arınma",
+   "short": "Günün yorgunluğunu sessiz bir köşede dinlenerek geride bırakabilirsin.",
+   "text": "Sosyal çevrenle planları tamamladıktan sonra günün ikinci yarısında kabuğuna çekilmek sana çok iyi gelecektir. On ikinci evine geçen Ay, iç dünyandaki kalabalığı ayıklaman ve zihnini sakinleştirmen için uygun bir alan yaratıyor. Burcundaki Güneş ve gerileyen Merkür kavuşumu, geçmiş kararlarını kendi içinde olgunlukla değerlendirmeni sağlıyor. Akşam saatlerini gürültüden uzak planla.",
+   "motivation": "Sükunet kalbini sakinleştirir.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

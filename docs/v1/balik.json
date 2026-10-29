@@ -1,33 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "İletişim trafiği",
-   "short": "Günlük koşuşturmada ani kararlar verip sözlerini tüketme.",
-   "text": "Üçüncü evindeki Ay, çalışma hayatını temsil eden altıncı evdeki Mars ve Jüpiter ile kare açı yapıyor. Günlük rutinlerindeki aksaklıklar yakın çevrenle olan konuşmalarına sabırsız bir üslup olarak yansıyabilir. Yetiştirilmesi gereken işlerde aceleci davranmak hata yapma payını artırabilir. Sözcüklerini özenle seçmeli, önemli evrakları ve mesajları göndermeden önce mutlaka kontrol etmelisin.",
-   "motivation": "Acele söz yerine dinginliği seç.",
-   "basis": "3. evindeki Ay'ın 6. evdeki Mars ile oluşturduğu kare açı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Yuva huzuru",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Ortak Paylaşımlar",
+   "short": "Samimi paylaşımlar yaparak aradaki güven duygusunu tazeleyebilirsin.",
+   "text": "İkili görüşmelerle başlayan sabahın ardından daha derin paylaşımlara ve içsel meselelere odaklanıyorsun. Sekizinci evine ilerleyen Ay, güven ve dürüstlük temalarını masaya yatırman için uygun bir zemin oluşturuyor. Altıncı evindeki Jüpiter ile sekizinci evindeki Venüs arasındaki uyum, iş ve gündelik hayatındaki maddi pürüzleri uzlaşarak çözmene yardımcı olabilir. İçten konuşmalar bağları sağlamlaştırır.",
+   "motivation": "Güven içtenlikle inşa edilir.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

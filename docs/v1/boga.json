@@ -1,33 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "Kişisel alan",
-   "short": "Aile içi tartışmalarda haklı çıkmaya çalışmak yerine sakin kalmayı seç.",
-   "text": "Burcunda ilerleyen Ay, dördüncü evinde konumlanan Mars ve Jüpiter ile sert bir etkileşim kuruyor. Hane içindeki otorite çekişmeleri ya da geçmişten gelen bir konu aniden parlayabilir. Kendi isteklerinle ailenin beklentileri arasında sıkışmış hissedersen hemen savunmaya geçme. Olayların yatışması için biraz kendi kabuğuna çekilmek ve fiziksel olarak dinlenmek gününü kurtaracaktır.",
-   "motivation": "Kendi kalene çekilip soluklan.",
-   "basis": "1. evindeki Ay'ın 4. evindeki Mars ve Jüpiter ile kare açısı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Maddi öncelikler",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Çalışma Ritmi",
+   "short": "Gündelik işlerini toparlayarak zihnine ferah bir alan açabilirsin.",
+   "text": "Günün ilk yarısındaki keyifli uğraşların yerini öğleden sonra çalışma alanını toparlama isteği alıyor. Masanın üzerindeki dağınıklığı elden geçirmek ve ertelediğin detayları sıraya koymak zihnini rahatlatacak. Karşıt burcunda gerileyen Merkür'ün Güneş ile kavuşumu, ilişkilerde söylenmemiş şeyleri zarafetle dile getirme gereğine işaret ediyor. Bedenini dinlendirici küçük molalar vermeyi ihmal etme.",
+   "motivation": "Ritmini sade adımlarla bul.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

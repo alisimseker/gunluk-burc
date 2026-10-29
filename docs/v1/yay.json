@@ -1,33 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "Gündelik tempo",
-   "short": "İş ortamındaki yoğunluğa kapılıp bedenini gereksiz yere yorma.",
-   "text": "Çalışma ortamında aynı anda birden fazla işle ilgilenmek enerjini hızla tüketebilir. Dokuzuncu evindeki yöneticin Jüpiter'in Ay ile yaptığı kare açı, yapabileceğinden çok daha büyük sorumluluklar vadetmene sebep olabilir. Fiziksel kapasiteni zorlamak yerine işlerini basamaklara bölmelisin. Gereksiz detaylarla boğuşmak yerine en acil olanlara odaklanıp dinlenmeye de vakit ayır.",
-   "motivation": "Basit adımlar karmaşayı çözer.",
-   "basis": "6. evindeki Ay'ın yönetici gezegenin Jüpiter ile kurduğu kare açı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "İlişkilerde Denge",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Ortak Hayaller",
+   "short": "Eski dostlarla bir araya gelmek sana taze bir neşe katabilir.",
+   "text": "Mesleki hedeflerine odaklandığın yoğun sabahın ardından sosyal planlar ve dostluklar gündemine giriyor. On birinci evine geçen Ay, eski arkadaşlarla buluşmak ya da ortak bir ideali konuşmak için sıcak bir atmosfer sunuyor. Dokuzuncu evindeki Jüpiter'in Venüs ile kurduğu uyum, sohbetlerde ufkunu açan paylaşımlar getirebilir. İnsanlarla arandaki bağı güçlendirmek sana moral verecek.",
+   "motivation": "Gönülden bağlar yolu aydınlatır.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

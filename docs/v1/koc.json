@@ -1,33 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "Harcama dürtüsü",
-   "short": "Anlık heveslerle bütçeni zorlamaktan kaçınmalı, kaynaklarını korumalısın.",
-   "text": "Bugün eğlenceye ya da yaratıcı projelere bütçe ayırırken abartılı davranma eğilimi gösterebilirsin. Aslan burcundaki Mars ve Jüpiter'in etkisiyle risk alma isteğin artsa da cüzdanının sınırlarını aşmamaya özen göstermelisin. Maddi adımlarında dürtüsel davranmak yerine ihtiyaçlarını listeleyip öncelik sırasına koyman seni rahatlatır. Ani harcamalardan uzak durarak güvenli alanda kalmayı tercih et.",
-   "motivation": "Dürtülerini sabırla dizginle.",
-   "basis": "2. evindeki Ay'ın 5. evdeki Mars ve Jüpiter ile yaptığı tam kare açı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Fikir paylaşımı",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Birebir Uyum",
+   "short": "İkili diyaloglarda nezaketi öne alarak uyumu kolayca yakalayabilirsin.",
+   "text": "Sabah saatlerinde toparladığın işlerin ardından dikkatini ikili diyaloglara çeviriyorsun. Karşı tarafın beklentilerini sakince dinlemek, gün içinde olası pürüzleri büyümeden çözer. Yedinci evindeki gerileyen Venüs'ün Jüpiter ile kurduğu tatlı temas, eski bir anlaşmazlığı tatlı dille çözmek için zemin hazırlıyor. Akşamı sevdiğin biriyle sakince geçirmek sana iyi gelecektir.",
+   "motivation": "Nezaketle dinlemek bağı tazeler.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter altmışlığı.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"

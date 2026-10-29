@@ -1,33 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-10-28T18:59:33+03:00",
+ "updated": "2026-10-29T04:09:18+03:00",
  "days": [
-  {
-   "date": "2026-10-27",
-   "focus": "Görüş ayrılıkları",
-   "short": "Fikir tartışmalarında inatlaşmak yerine farklı açılara kulak ver.",
-   "text": "İnançların, prensiplerin ya da geleceğe dair planların konusunda çevrendekilerle fikir ayrılığı yaşayabilirsin. On ikinci evindeki Mars ve Jüpiter enerjisi, içten içe biriken öfkeyi kontrolsüz bir şekilde dışa vurmana neden olabilir. Haklılığını ispatlama dürtüsünü bir kenara bırakıp sadece gözlemci kalmayı dene. Yeni bir bilgiye direnç göstermek yerine mantığını devreye sokup olayları tart.",
-   "motivation": "Kalıpları kır, sezgine yer aç.",
-   "basis": "9. evindeki Ay'ın 12. evdeki Mars ve Jüpiter ile kurduğu kare açı.",
-   "sky_events": [
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 3°57'",
-    "Ay Boğa'da 20°11'",
-    "Merkür Akrep'te 20°18' ℞",
-    "Venüs Terazi'de 28°47' ℞",
-    "Mars Aslan'da 16°15'",
-    "Jüpiter Aslan'da 23°44'",
-    "Satürn Koç'ta 9°35' ℞",
-    "Uranüs İkizler'de 4°50' ℞",
-    "Neptün Koç'ta 2°11' ℞",
-    "Plüton Kova'da 3°05'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-10-28",
    "focus": "Kariyer Hedefleri",
@@ -231,6 +206,30 @@
     "Satürn Koç'ta 9°04' ℞",
     "Uranüs İkizler'de 4°33' ℞",
     "Neptün Koç'ta 2°01' ℞",
+    "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-05",
+   "focus": "Harcama Dengesi",
+   "short": "Bütçendeki detayları düzenleyerek kendine sağlam bir zemin kurabilirsin.",
+   "text": "Günün ilk saatlerinde kendi ihtiyaçlarına yoğunlaştıktan sonra dikkatin bütçene ve sahip olduklarına kayıyor. Ay'ın Terazi'ye geçişiyle birlikte gereksiz harcamaları ayıklamak ve kaynaklarını dengeli tutmak isteyebilirsin. İkinci evindeki gerileyen Venüs, geçmişte aldığın eşyaları ya da ertelediğin ödemeleri gözden geçirme fırsatı veriyor. Sadeleşmek sana güven hissi kazandıracak.",
+   "motivation": "Tutumlu olmak ferahlık sağlar.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve ikinci evdeki Venüs retrosu.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 12°57'",
+    "Ay Başak'ta 26°55'",
+    "Merkür Akrep'te 11°10' ℞",
+    "Venüs Terazi'de 24°22' ℞",
+    "Mars Aslan'da 20°47'",
+    "Jüpiter Aslan'da 24°49'",
+    "Satürn Koç'ta 9°01' ℞",
+    "Uranüs İkizler'de 4°30' ℞",
+    "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
    ],
    "moon_phase": "Küçülen Hilal"
