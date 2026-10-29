@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../ads.dart';
 import '../config.dart';
@@ -123,13 +124,39 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     setState(() => offset = o);
   }
 
+  Future<void> _enterCode() async {
+    final ctl = TextEditingController();
+    final code = await showDialog<String>(
+      context: context,
+      builder: (dctx) => AlertDialog(
+        backgroundColor: AppColors.bg2,
+        title: const Text('Erişim kodu'),
+        content: TextField(
+          controller: ctl,
+          autofocus: true,
+          textCapitalization: TextCapitalization.characters,
+          decoration: const InputDecoration(hintText: 'ATLAS-XXXX-XXXX'),
+        ),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(dctx), child: const Text('Vazgeç')),
+          TextButton(onPressed: () => Navigator.pop(dctx, ctl.text), child: const Text('Onayla')),
+        ],
+      ),
+    );
+    if (code == null || code.trim().isEmpty || !mounted) return;
+    final ok = await premium.redeemCode(code);
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+        content: Text(ok ? 'Premium özellikler açıldı.' : 'Kod geçersiz.')));
+  }
+
   void _settings() {
     showModalBottomSheet(
       context: context,
       backgroundColor: AppColors.bg2,
       shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(24))),
       builder: (ctx) => SafeArea(
-        child: Padding(
+        child: SingleChildScrollView(
           padding: const EdgeInsets.fromLTRB(8, 12, 8, 8),
           child: Column(mainAxisSize: MainAxisSize.min, children: [
             ListTile(
@@ -177,6 +204,23 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                 onTap: () {
                   Navigator.pop(ctx);
                   AdService.instance.showPrivacyOptions();
+                },
+              ),
+            ListTile(
+              leading: const Icon(Icons.policy_outlined, color: AppColors.gold),
+              title: const Text('Gizlilik politikası'),
+              onTap: () {
+                Navigator.pop(ctx);
+                launchUrl(Uri.parse('$kContentBaseUrl/'), mode: LaunchMode.externalApplication);
+              },
+            ),
+            if (!premium.isPremium)
+              ListTile(
+                leading: const Icon(Icons.key_outlined, color: AppColors.muted),
+                title: const Text('Erişim kodu gir'),
+                onTap: () {
+                  Navigator.pop(ctx);
+                  _enterCode();
                 },
               ),
             if (kDebugMode)

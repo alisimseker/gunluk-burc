@@ -1,5 +1,7 @@
 import 'dart:async';
+import 'dart:convert';
 
+import 'package:crypto/crypto.dart';
 import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -20,6 +22,13 @@ class PremiumService extends ChangeNotifier {
   static const _kDebugOverride = 'premium_debug_override';
   static const _offlineGrace = Duration(days: 3);
 
+  // Mağaza incelemesi için erişim kodu: yalnızca Google Play / App Store inceleme ekibine verilir.
+  // Kodun kendisi depoda yok, yalnızca özeti (SHA-256) var. Girilen kod Premium'u 60 gün açar.
+  static const _kReviewUntil = 'premium_review_until';
+  static const _reviewSalt = 'burc-atlasi-inceleme';
+  static const _reviewHash = '5c9d92ac4ca35223c1f7f308c6b3d2a0cca0303a0d8da8e9cbd453d136530101';
+  DateTime? _reviewUntil;
+
   final InAppPurchase _iap = InAppPurchase.instance;
   StreamSubscription<List<PurchaseDetails>>? _sub;
 
@@ -31,7 +40,18 @@ class PremiumService extends ChangeNotifier {
   String? activePlan;
   String? lastError;
 
-  bool get isPremium => _debugOverride ?? _active;
+  bool get _reviewActive => _reviewUntil != null && DateTime.now().isBefore(_reviewUntil!);
+  bool get isPremium => _debugOverride ?? (_active || _reviewActive);
+
+  /// İnceleme erişim kodunu dener; doğruysa Premium 60 gün açılır.
+  Future<bool> redeemCode(String code) async {
+    final c = code.trim().toUpperCase();
+    if (sha256.convert(utf8.encode('$_reviewSalt$c')).toString() != _reviewHash) return false;
+    _reviewUntil = DateTime.now().add(const Duration(days: 60));
+    (await SharedPreferences.getInstance()).setInt(_kReviewUntil, _reviewUntil!.millisecondsSinceEpoch);
+    notifyListeners();
+    return true;
+  }
   bool get storeAvailable => _storeAvailable;
   bool get busy => _busy;
 
@@ -46,6 +66,8 @@ class PremiumService extends ChangeNotifier {
     if (kDebugMode && prefs.containsKey(_kDebugOverride)) {
       _debugOverride = prefs.getBool(_kDebugOverride);
     }
+    final ru = prefs.getInt(_kReviewUntil);
+    if (ru != null) _reviewUntil = DateTime.fromMillisecondsSinceEpoch(ru);
     final verified = prefs.getInt(_kVerifiedAt);
     if (verified != null &&
         DateTime.now().difference(DateTime.fromMillisecondsSinceEpoch(verified)) < _offlineGrace) {
