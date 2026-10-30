@@ -1,24 +1,6 @@
 Kullanılacak modeller (sırayla): ['gemma-4-31b-it', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite', 'gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash']
 [natal] 300/300 hazır.
 [events] 114/114 hazır.
-[transits] 450/450 hazır, 5 tanesi 'sen' diliyle yeniden yazılacak.
-  gemma-4-31b-it: HTTP 500 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
-}
-
-  gemma-4-31b-it: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-[transits] gemma-4-31b-it 209 sn
-[transits] istek 1: 5 kabul, kalan 0
+[transits] 450/450 hazır.
 [synastry] 218/218 hazır.
 [solar] 84/84 hazır.
