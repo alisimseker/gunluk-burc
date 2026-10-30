@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Maddi öncelikler",
-   "short": "Bütçeni gözden geçirmek ve yeteneklerine sahip çıkmak sana güven verecek.",
-   "text": "Parasal kaynaklarını ve kişisel değerlerini daha sağlam temellere oturtmak isteyebilirsin. Mesleki hedeflerinle uyuşan pratik adımlar atarak harcama dengeni koruman kolaylaşıyor. Sahip olduğun becerilere güvenmek, gelecek kaygılarını yatıştırmanda önemli bir rol oynayacak. Bugün sadece gerçekten ihtiyaç duyduğun şeylere odaklanmayı seç.",
-   "motivation": "Öz kaynağını dirayetle yönet.",
-   "basis": "İkinci evindeki Ay'ın Plüton ile gerçekleştirdiği üçgen açı.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Ev Bütçesi",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Pratik Çözümler",
+   "short": "İş ortamında yöntem değiştirmek verimini hızla artırabilir.",
+   "text": "Masa başındaki rutinlerini sadeleştirmek için eline güzel bir fırsat geçiyor. Geliştireceğin pratik bir yöntem sayesinde biriken işleri çok daha hızlı toparlayabilirsin. Kendi konfor alanından ufak bir adım dışarı çıkmak, çalışma arkadaşlarınla olan uyumunu da güçlendirecektir. Bugün tamamlanması gereken görevleri ertelemeden, sırayla bitirmeyi dene.",
+   "motivation": "Ufak yenilikler hız kazandırır.",
+   "basis": "Ay altıncı evinde, ikinci evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

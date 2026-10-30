@@ -1,35 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Kariyer Hedefleri",
-   "short": "İş yaşamında net kararlar almak ve sorumluluklarını sıralamak önceliğin olmalı.",
-   "text": "Toplumsal duruşunu ve mesleki yönünü ilgilendiren konularda pratik çözümler üretebilirsin. Yöneticilerinle veya iş arkadaşlarınla kuracağın açık iletişim karmaşayı önler. Planlarına sadık kalırken esneklik göstermek başarını artırabilir. Gün içinde yapılacaklar listenin başında yer alan önemli göreve odaklanmayı deneyebilirsin.",
-   "motivation": "Düzenli gayret başarıyı kalıcı kılar.",
-   "basis": "Ay 10. evde Uranüs ile kavuşumda ve Plüton ile üçgen açıda.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Stratejik Planlama",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Kazanç Kapıları",
+   "short": "Kariyerindeki sıra dışı gelişmeler bütçeni toparlaman için fırsat sunabilir.",
+   "text": "Kişisel yeteneklerini maddi kazanca dönüştürme konusunda zihnin oldukça berrak çalışıyor. İş hayatında aniden gelişen bir teklif ya da yeni bir görev tanımı elini rahatlatabilir. Ortaklı harcamalarda temkinli davranmaya devam ederken kendi emeğinin değerini bilmelisin. Gelir ve gider dengeni gözden geçirip gereksiz bir aboneliği iptal etmek iyi bir başlangıç olur.",
+   "motivation": "Emek kendi karşılığını üretir.",
+   "basis": "Ay ikinci evinde, onuncu evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

@@ -1,35 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Yaratıcı İfade",
-   "short": "Hobilerine zaman ayırmak ve sanatsal yönünü beslemek ruhuna iyi gelecek.",
-   "text": "Kendini samimiyetle ortaya koyabileceğin ve keyif alacağın uğraşlara odaklanabilirsin. Yaratıcılığının arttığı bu dönemde özgün projeler geliştirmek seni motive eder. Sevdiklerinle kaliteli vakit geçirmek aranızdaki bağı derinleştirir. Bugün zihnini dinlendirecek yaratıcı bir işle meşgul olarak günün tadını çıkarabilirsin.",
-   "motivation": "İçindeki özgün yeteneğe alan aç.",
-   "basis": "Ay 5. evde, senin burcundaki Plüton ile üçgen açıda.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Keyifli Etkileşimler",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Özgün Keşifler",
+   "short": "Merak ettiğin yeni bir alan sanatsal tarafını besleyerek ufkunu açabilir.",
+   "text": "Zihnini tazeleyen felsefi veya eğitsel bir konu sayesinde gün boyunca yüksek bir ilham hissedebilirsin. Yaratıcı bir çalışmaya başlamak ya da sıra dışı bir fikri uygulamaya dökmek için uygun bir zemin var. Yakın çevrenin geleneksel yaklaşımlarına takılmadan kendi doğrularının peşinden gitmelisin. İlgi duyduğun bir konuda kapsamlı bir makale okumak sana yön verecektir.",
+   "motivation": "Yeni bilgiler ilham taşır.",
+   "basis": "Ay dokuzuncu evinde, beşinci evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

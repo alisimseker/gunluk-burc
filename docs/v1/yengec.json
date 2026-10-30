@@ -1,35 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "İçsel dinginlik",
-   "short": "Temponu biraz yavaşlatıp zihnindeki gürültüyü yatıştırmaya ihtiyaç duyabilirsin.",
-   "text": "Dış dünyadaki koşturmacadan uzaklaşıp kendi kabuğuna çekilmek sana iyi gelecek. İçsel sezgilerin, iş hayatındaki karmaşık durumları anlamanda sessiz bir rehberlik sunuyor. Geri planda kalarak eksik kalan detayları tamamlamak zihnini hafifletecektir. Bugün kendine kaliteli bir dinlenme zamanı ayırmayı ihmal etme.",
-   "motivation": "Sessiz anlar sezgiyi çoğaltır.",
-   "basis": "On ikinci evindeki Ay'ın Neptün ile yaptığı altmışlık açı.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Zihinsel Mola",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Ailevi Rahatlama",
+   "short": "Ev ortamında sezgisel bir farkındalık içsel huzuru sağlamlaştırmaya yardım eder.",
+   "text": "Hane içinde uzun süredir üstü kapalı duran bir durum bugün aniden çözüme kavuşabilir. Arka planda hissettiğin kaygıları serbest bıraktıkça yaşam alanındaki atmosfer de yumuşayacaktır. Kariyer baskısını kapının dışında bırakıp sevdiklerinle sakin bir sohbet başlatabilirsin. Yaşadığın odayı havalandırmak veya ufak bir eşya değişikliği yapmak sana ferahlık katar.",
+   "motivation": "Sükuneti evinde yeşert.",
+   "basis": "Ay dördüncü evinde, on ikinci evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

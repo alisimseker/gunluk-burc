@@ -1,35 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Fikir paylaşımı",
-   "short": "Zihnindeki karmaşık fikirleri düzenleyip somut bir plana dökme vakti.",
-   "text": "İletişim trafiğin hızlanırken düşüncelerini toparlamakta hiç zorlanmayacaksın. Kararlarını alırken kendi iç disiplinine dayanmak sana güç katıyor. Kardeşlerinle veya yakın arkadaşlarınla bir araya gelip uzun süredir ertelediğin bir konuyu yapıcı şekilde ele alabilirsin. Söylemek istediklerini sade ve kararlı bir dille ifade etmeye bak.",
-   "motivation": "Fikirlerin disiplinle şekillensin.",
-   "basis": "Ay'ın İkizler konumunun birinci evindeki Satürn ile kurduğu altmışlık açı.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Merak ve Neşe",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "İkili Anlaşmalar",
+   "short": "Birlikte yürüttüğün işlerde beklenmedik fikirler taze bir soluk getirebilir.",
+   "text": "Karşındaki insanlarla kurduğun diyaloglarda bugün sürpriz bir anlayış birliği yakalayabilirsin. Karşı tarafın sunduğu orijinal bir bakış açısı, kafandaki soru işaretlerini giderecektir. Kendi sınırlarını korurken esnek kalmaya özen göster; böylece gerginlikler yerini yapıcı bir uzlaşıya bırakır. Bireysel hedeflerinle ortak planlar arasındaki ayrımı netleştirmek için somut bir liste yapabilirsin.",
+   "motivation": "Yenilikçi fikirlere kulak ver.",
+   "basis": "Ay yedinci evinde, üçüncü evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

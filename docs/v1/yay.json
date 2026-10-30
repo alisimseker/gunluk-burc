@@ -1,35 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "İlişkilerde Denge",
-   "short": "İkili ilişkilerde empati ve açık diyalog ön planda olmalı.",
-   "text": "Birlikte çalıştığın kişilerle ya da hayatındaki özel insanla iletişim kurarken dinleyici taraf olmaya özen göstermelisin. Zıt fikirleri bir zenginlik olarak görmek ortak noktada buluşmanı kolaylaştırır. Anlaşmazlıkları tatlılıkla çözmek ilişkilerine güven katar. Bugün partnerinle veya bir dostunla beklentilerini netleştiren samimi bir konuşma yapabilirsin.",
-   "motivation": "Dinleyen yürek köprü kurar.",
-   "basis": "Ay 7. evde Uranüs ile kavuşup Plüton ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Karşılıklı Güven",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Dost Meclisi",
+   "short": "Sosyal çevrenden alacağın bir davet ikili ilişkilerine canlılık getirebilir.",
+   "text": "Geleceğe dair umutlarını paylaşabileceğin insanlarla bir araya gelmek motivasyonunu yükseltecektir. Ortaklaşa yürütülen bir projede ani bir iş birliği teklifiyle karşılaşabilirsin. Bireysel zevklerinle topluluk içindeki rollerin arasında denge kurmaya özen göstermelisin. Eski bir dostunla yapacağın kısa bir telefon görüşmesi gününe neşe katabilir.",
+   "motivation": "Birlikte kurulan hayal güçlenir.",
+   "basis": "Ay on birinci evinde, yedinci evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

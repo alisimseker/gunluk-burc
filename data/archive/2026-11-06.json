@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-10-30T04:05:28+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 13°57'",
+   "Ay Terazi'de 9°56'",
+   "Merkür Akrep'te 9°55' ℞",
+   "Venüs Terazi'de 24°03' ℞",
+   "Mars Aslan'da 21°16'",
+   "Jüpiter Aslan'da 24°56'",
+   "Satürn Koç'ta 8°57' ℞",
+   "Uranüs İkizler'de 4°28' ℞",
+   "Neptün Koç'ta 1°58' ℞",
+   "Plüton Kova'da 3°10'"
+  ],
+  "events": [
+   "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İkili Anlaşmalar",
+   "short": "Birlikte yürüttüğün işlerde beklenmedik fikirler taze bir soluk getirebilir.",
+   "text": "Karşındaki insanlarla kurduğun diyaloglarda bugün sürpriz bir anlayış birliği yakalayabilirsin. Karşı tarafın sunduğu orijinal bir bakış açısı, kafandaki soru işaretlerini giderecektir. Kendi sınırlarını korurken esnek kalmaya özen göster; böylece gerginlikler yerini yapıcı bir uzlaşıya bırakır. Bireysel hedeflerinle ortak planlar arasındaki ayrımı netleştirmek için somut bir liste yapabilirsin.",
+   "motivation": "Yenilikçi fikirlere kulak ver.",
+   "basis": "Ay yedinci evinde, üçüncü evindeki Uranüs ile üçgen açıda."
+  },
+  "boga": {
+   "focus": "Pratik Çözümler",
+   "short": "İş ortamında yöntem değiştirmek verimini hızla artırabilir.",
+   "text": "Masa başındaki rutinlerini sadeleştirmek için eline güzel bir fırsat geçiyor. Geliştireceğin pratik bir yöntem sayesinde biriken işleri çok daha hızlı toparlayabilirsin. Kendi konfor alanından ufak bir adım dışarı çıkmak, çalışma arkadaşlarınla olan uyumunu da güçlendirecektir. Bugün tamamlanması gereken görevleri ertelemeden, sırayla bitirmeyi dene.",
+   "motivation": "Ufak yenilikler hız kazandırır.",
+   "basis": "Ay altıncı evinde, ikinci evindeki Uranüs ile üçgen açıda."
+  },
+  "ikizler": {
+   "focus": "Yaratıcı Heves",
+   "short": "Kişisel vizyonunu hobilerine veya sanatsal projelerine cesurca yansıtabilirsin.",
+   "text": "Keyif aldığın uğraşlara vakit ayırmak günün rengini tamamen değiştirebilir. Kendine has tarzını ortaya koymaktan çekinmediğinde çevrenden de ilham verici geri bildirimler alabilirsin. Sosyal sorumlulukların baskı yaratsa bile kendi neşene alan tanımalısın. Sevdiğin bir projeye odaklanıp yarım saat de olsa dikkatini oraya vermen zihnini toparlar.",
+   "motivation": "Özgün tarzını korkusuzca yansıt.",
+   "basis": "Ay beşinci evinde, birinci evindeki Uranüs ile üçgen açıda."
+  },
+  "yengec": {
+   "focus": "Ailevi Rahatlama",
+   "short": "Ev ortamında sezgisel bir farkındalık içsel huzuru sağlamlaştırmaya yardım eder.",
+   "text": "Hane içinde uzun süredir üstü kapalı duran bir durum bugün aniden çözüme kavuşabilir. Arka planda hissettiğin kaygıları serbest bıraktıkça yaşam alanındaki atmosfer de yumuşayacaktır. Kariyer baskısını kapının dışında bırakıp sevdiklerinle sakin bir sohbet başlatabilirsin. Yaşadığın odayı havalandırmak veya ufak bir eşya değişikliği yapmak sana ferahlık katar.",
+   "motivation": "Sükuneti evinde yeşert.",
+   "basis": "Ay dördüncü evinde, on ikinci evindeki Uranüs ile üçgen açıda."
+  },
+  "aslan": {
+   "focus": "Yeni Bağlantılar",
+   "short": "Çevrenden gelen ani bir haber görüşmelerine yepyeni bir yön kazandırabilir.",
+   "text": "Yakın çevrenle yürüttüğün görüşmelerde beklenmedik bir ortak akıl doğabilir. Bir arkadaşının ortaya atacağı fikir, üzerinde çalıştığın bir konuyu bambaşka bir boyuta taşıyacaktır. Zihnini kurcalayan fikir ayrılıklarını büyütmek yerine çözüm odaklı konuşmalara yönelmelisin. Gün içinde telefon trafiğini azaltıp sadece gerçekten önemli olan mesajlara odaklanmayı seç.",
+   "motivation": "Farklı sesler ufkunu açar.",
+   "basis": "Ay üçüncü evinde, on birinci evindeki Uranüs ile üçgen açıda."
+  },
+  "basak": {
+   "focus": "Kazanç Kapıları",
+   "short": "Kariyerindeki sıra dışı gelişmeler bütçeni toparlaman için fırsat sunabilir.",
+   "text": "Kişisel yeteneklerini maddi kazanca dönüştürme konusunda zihnin oldukça berrak çalışıyor. İş hayatında aniden gelişen bir teklif ya da yeni bir görev tanımı elini rahatlatabilir. Ortaklı harcamalarda temkinli davranmaya devam ederken kendi emeğinin değerini bilmelisin. Gelir ve gider dengeni gözden geçirip gereksiz bir aboneliği iptal etmek iyi bir başlangıç olur.",
+   "motivation": "Emek kendi karşılığını üretir.",
+   "basis": "Ay ikinci evinde, onuncu evindeki Uranüs ile üçgen açıda."
+  },
+  "terazi": {
+   "focus": "Taze Perspektif",
+   "short": "Hayatına dışarıdan bakmak beklenmedik bir rahatlama hissi getirecektir.",
+   "text": "Kendini ifade ederken her zamankinden daha özgür ve yenilikçi hissedebilirsin. Uzaklardan gelen bir haber veya yeni bir bilgi kaynağı, kafandaki eski kalıpları yıkmana yardımcı olacaktır. İkili ilişkilerdeki ciddiyet ve mesafe seni zorlasa da kendi duruşundan taviz vermemelisin. Bugün sadece kendi isteklerine zaman ayıracağın bir yürüyüş planla.",
+   "motivation": "Kendi yolunu özgürce çiz.",
+   "basis": "Ay birinci evinde, dokuzuncu evindeki Uranüs ile üçgen açıda."
+  },
+  "akrep": {
+   "focus": "Gizli Çözülmeler",
+   "short": "İçsel olarak çözdüğün bir mesele üzerindeki manevi ağırlığı kaldırabilir.",
+   "text": "Gözlerden uzak kalarak yürüttüğün düşünme süreci sana tahmin ettiğinden daha hızlı bir ferahlama sağlayabilir. Ortak bir maddi konu veya güven meselesi, ani bir içgörüyle düğüm olmaktan çıkacaktır. Günlük işlerin yoğunluğu seni yorsa da zihnini dinlendirmek için kısa molalar vermelisin. Akşam saatlerini ekranlardan uzak, sessiz bir ortamda değerlendir.",
+   "motivation": "İçsel farkındalık yükü hafifletir.",
+   "basis": "Ay on ikinci evinde, sekizinci evindeki Uranüs ile üçgen açıda."
+  },
+  "yay": {
+   "focus": "Dost Meclisi",
+   "short": "Sosyal çevrenden alacağın bir davet ikili ilişkilerine canlılık getirebilir.",
+   "text": "Geleceğe dair umutlarını paylaşabileceğin insanlarla bir araya gelmek motivasyonunu yükseltecektir. Ortaklaşa yürütülen bir projede ani bir iş birliği teklifiyle karşılaşabilirsin. Bireysel zevklerinle topluluk içindeki rollerin arasında denge kurmaya özen göstermelisin. Eski bir dostunla yapacağın kısa bir telefon görüşmesi gününe neşe katabilir.",
+   "motivation": "Birlikte kurulan hayal güçlenir.",
+   "basis": "Ay on birinci evinde, yedinci evindeki Uranüs ile üçgen açıda."
+  },
+  "oglak": {
+   "focus": "Hedef ve Metot",
+   "short": "Görevlerini yenilikçi metotlarla ele almak üstlerinin dikkatini çekebilir.",
+   "text": "Mesleki alanda uzun süredir aynı şekilde yürüttüğün bir süreci modernleştirmek sana büyük avantaj sağlayacaktır. Günlük akışında yapacağın pratik bir değişiklik, iş yükünü gözle görülür biçimde azaltabilir. Ailevi sorumlulukların getirdiği ciddiyeti profesyonel tavrınla dengelemelisin. Masandaki evrakları veya dijital dosyalarını sadeleştirerek işe başla.",
+   "motivation": "Çağdaş yöntemler başarıyı hızlandırır.",
+   "basis": "Ay onuncu evinde, altıncı evindeki Uranüs ile üçgen açıda."
+  },
+  "kova": {
+   "focus": "Özgün Keşifler",
+   "short": "Merak ettiğin yeni bir alan sanatsal tarafını besleyerek ufkunu açabilir.",
+   "text": "Zihnini tazeleyen felsefi veya eğitsel bir konu sayesinde gün boyunca yüksek bir ilham hissedebilirsin. Yaratıcı bir çalışmaya başlamak ya da sıra dışı bir fikri uygulamaya dökmek için uygun bir zemin var. Yakın çevrenin geleneksel yaklaşımlarına takılmadan kendi doğrularının peşinden gitmelisin. İlgi duyduğun bir konuda kapsamlı bir makale okumak sana yön verecektir.",
+   "motivation": "Yeni bilgiler ilham taşır.",
+   "basis": "Ay dokuzuncu evinde, beşinci evindeki Uranüs ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Paylaşılan Güven",
+   "short": "Ailevi bir destek ortak parasal kaygıları hafifletmeye yardım edebilir.",
+   "text": "Başkalarıyla ortak yürüttüğün kaynaklar veya borç-alacak dengesi bugün sürpriz bir kolaylıkla çözülebilir. Ev içindeki dinamiklerde yaşanan bir aydınlanma, maddi konularda daha rahat nefes almanı sağlayacaktır. Kendi kazancına dair gereksiz endişeleri büyütmek yerine elindeki imkanları akılcı kullanmaya odaklan. Finansal bir evrakı ya da sözleşmeyi dikkatlice incelemeyi ihmal etme.",
+   "motivation": "Çözüm sezgisel adımlarla gelir.",
+   "basis": "Ay sekizinci evinde, dördüncü evindeki Uranüs ile üçgen açıda."
+  }
+ }
+}

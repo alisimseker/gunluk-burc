@@ -1,35 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Yeni perspektifler",
-   "short": "Farklı bakış açılarına açık olmak ufkunu beklenmedik şekilde genişletebilir.",
-   "text": "Yeni şeyler öğrenme ve kalıpların dışına çıkma arzun oldukça belirgin. Yaratıcı projelerine veya hobilerine derinlik katacak taze bir fikir bulabilirsin. Olaylara daha geniş bir pencereden bakmak, sıkıştığını hissettiğin alanlarda rahatlamanı sağlayacak. Bugün okumaya, araştırmaya ve ufkunu besleyen sohbetlere zaman ayır.",
-   "motivation": "Ufkunu dönüştüren fikirlere açıl.",
-   "basis": "Dokuzuncu evdeki Ay'ın Plüton ile kurduğu üçgen açı.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Fikir Birlikteliği",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Taze Perspektif",
+   "short": "Hayatına dışarıdan bakmak beklenmedik bir rahatlama hissi getirecektir.",
+   "text": "Kendini ifade ederken her zamankinden daha özgür ve yenilikçi hissedebilirsin. Uzaklardan gelen bir haber veya yeni bir bilgi kaynağı, kafandaki eski kalıpları yıkmana yardımcı olacaktır. İkili ilişkilerdeki ciddiyet ve mesafe seni zorlasa da kendi duruşundan taviz vermemelisin. Bugün sadece kendi isteklerine zaman ayıracağın bir yürüyüş planla.",
+   "motivation": "Kendi yolunu özgürce çiz.",
+   "basis": "Ay birinci evinde, dokuzuncu evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

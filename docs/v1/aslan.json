@@ -1,35 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-10-29T19:05:52+03:00",
+ "updated": "2026-10-30T04:05:28+03:00",
  "days": [
-  {
-   "date": "2026-10-28",
-   "focus": "Sosyal Paylaşımlar",
-   "short": "Gelecek hayallerini arkadaşlarınla paylaşmak yeni kapılar aralayabilir.",
-   "text": "Ekip çalışmalarında veya sosyal çevrende etkin bir rol üstlenebilirsin. Paylaştığın fikirler çevrendekilere ilham verirken senin de motivasyonunu artıracaktır. Ortak bir gaye etrafında birleşmek bağlarını kuvvetlendirir. Bugün bir dostunla fikir alışverişinde bulunarak yarım kalmış bir projeyi canlandırabilirsin.",
-   "motivation": "Ortak akıl hedefleri yakınlaştırır.",
-   "basis": "Ay 11. evde, Plüton ile üçgen açıda.",
-   "sky_events": [
-    "Ay bugün İkizler'e geçiyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 4°57'",
-    "Ay İkizler'de 4°53'",
-    "Merkür Akrep'te 19°47' ℞",
-    "Venüs Terazi'de 28°12' ℞",
-    "Mars Aslan'da 16°46'",
-    "Jüpiter Aslan'da 23°52'",
-    "Satürn Koç'ta 9°31' ℞",
-    "Uranüs İkizler'de 4°48' ℞",
-    "Neptün Koç'ta 2°09' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-29",
    "focus": "Takım Ruhu",
@@ -231,6 +204,30 @@
     "Uranüs İkizler'de 4°30' ℞",
     "Neptün Koç'ta 1°59' ℞",
     "Plüton Kova'da 3°09'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-06",
+   "focus": "Yeni Bağlantılar",
+   "short": "Çevrenden gelen ani bir haber görüşmelerine yepyeni bir yön kazandırabilir.",
+   "text": "Yakın çevrenle yürüttüğün görüşmelerde beklenmedik bir ortak akıl doğabilir. Bir arkadaşının ortaya atacağı fikir, üzerinde çalıştığın bir konuyu bambaşka bir boyuta taşıyacaktır. Zihnini kurcalayan fikir ayrılıklarını büyütmek yerine çözüm odaklı konuşmalara yönelmelisin. Gün içinde telefon trafiğini azaltıp sadece gerçekten önemli olan mesajlara odaklanmayı seç.",
+   "motivation": "Farklı sesler ufkunu açar.",
+   "basis": "Ay üçüncü evinde, on birinci evindeki Uranüs ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 13°57'",
+    "Ay Terazi'de 9°56'",
+    "Merkür Akrep'te 9°55' ℞",
+    "Venüs Terazi'de 24°03' ℞",
+    "Mars Aslan'da 21°16'",
+    "Jüpiter Aslan'da 24°56'",
+    "Satürn Koç'ta 8°57' ℞",
+    "Uranüs İkizler'de 4°28' ℞",
+    "Neptün Koç'ta 1°58' ℞",
+    "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
   }
