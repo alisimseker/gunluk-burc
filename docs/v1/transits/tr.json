@@ -1,7 +1,7 @@
 {
  "version": 1,
  "count": 450,
- "complete": false,
+ "complete": true,
  "texts": {
   "tr:sun:conj:sun": "Kimliğin ve yaşam enerjin bugün zirvede; kendi öz merkezine dönmek için harika bir gün. Işığını parlatarak liderliği ele alabilir, kişisel projelerine netlik kazandırabilirsin. Bugün kendini ön plana koymaktan çekinme.",
   "tr:sun:conj:moon": "Duygularınla temel kimliğin bugün tam bir uyum içinde buluşuyor. İçsel ihtiyaçlarını net bir şekilde fark edebilir, sezgilerine kulak vererek güven tazeleyebilirsin. Bugün kendi kabuğunda huzur bulmayı seç.",
@@ -298,7 +298,7 @@
   "tr:saturn:square:jupiter": "Büyük beklentilerin gerçeklerle çarpışması seni yorabilir. Haddini aşmadan, ağır adımlarla ilerlemek bugün en güvenli yol. Planlarını daha küçük ve yönetilebilir parçalara böl.",
   "tr:saturn:square:saturn": "Hayatın belirli alanlarında kendini kısıtlanmış hissedebilirsin. Bu döngü, eski yapıları sorgulamanı ve sorumluluklarını yeniden yapılandırmanı istiyor. Bugün, tamamlanmamış işlerine odaklanarak kalıcı adımlar atmayı hedefle.",
   "tr:saturn:square:asc": "Fiziksel duruşun ve dışarıya yansıyan imajın bugün beklenmedik engellerle karşılaşabilir. Aynaya baktığında üzerine yüklenen fazladan sorumlulukları taşıdığını hissedebilirsin. Bugün acele etmek yerine, sınırlarını kabullenip sağlam adımlar atmayı dene.",
-  "tr:saturn:square:mc": "Üstlerinle veya otorite figürleriyle fikir ayrılıkları yaşama riskin var. İşlerin yavaş ilerlemesi seni gerebilir. Öneri: Profesyonel sınırlarını korumaya ve sabra odaklan.",
+  "tr:saturn:square:mc": "Kariyer hedeflerinle ilgili bazı kısıtlamalar seni zorlayabilir. Sorumlulukların arttığı bu süreçte disiplinli kalman gerekebilir. Bugün sadece önündeki somut işleri tamamlamaya odaklanabilirsin.",
   "tr:saturn:trine:sun": "İçsel otoriten ve özgüvenin bugün oldukça sağlam bir zeminde ilerliyor. Yaptığın işlerde disiplinli davranmak, hedeflerine ulaşmanı kolaylaştıracak. Planlarını uygulamaya koymak için güvenilir bir gün, verimli kullan.",
   "tr:saturn:trine:moon": "Duygularında denge ve huzur arayışı içindesin. Geçmişten gelen alışkanlıklarını yapılandırmak ve iç dünyanı güvenli bir alana taşımak bugün senin için daha kolay. Öz bakımına zaman ayırarak enerjini düzenle.",
   "tr:saturn:trine:mercury": "Zihnin bugün olayları daha derinlemesine analiz etmeye hazır. Pratik çözümler üretmek ve planlı ilerlemek sana avantaj sağlayacak. Önemli görüşmelerini bugün yapabilir, fikirlerini somut temellere dayandırabilirsin.",
@@ -325,7 +325,7 @@
   "tr:uranus:conj:mars": "Enerjin aniden zirveye çıkabilir ancak bu gücü kontrol etmekte zorlanabilirsin. Sabırsızlık ve ani çıkışlar kazalara ya da gereksiz tartışmalara yol açabilir. Bugün fiziksel enerjini, uzun süredir ertelediğin zor bir işe yönlendir.",
   "tr:uranus:conj:jupiter": "Hayata bakış açında ani bir aydınlanma ve genişleme yaşayabilirsin. İnançlarını veya vizyonunu tamamen değiştirebilecek beklenmedik bir fırsat kapını çalabilir. Bugün kalıpların dışına çıkarak yeni deneyimlere açık ol.",
   "tr:uranus:conj:saturn": "Hayatındaki yapılandırılmış düzen ile özgürlük arayışın arasında şiddetli bir çekişme var. Eski kuralların artık işe yaramadığını fark edip sistemini güncellemen gerekebilir. Bugün esnekliği elden bırakmadan kalıcı değişimler planla.",
-  "tr:uranus:conj:mc": "Toplumsal konumun veya kariyer hedeflerinle ilgili şaşırtıcı bir gelişme yaşanabilir. Beklenmedik bir yön değişikliği gündeme gelebilir. Esnek kalmak seni başarıya götürür.",
+  "tr:uranus:conj:mc": "Mesleki yaşamında aniden gelişen bir olay seni şaşırtabilir. Rutini kırmak ve farklı bir yol denemek isteyebilirsin. Sıra dışı bir öneriye açık olman sana yeni kapılar açabilir.",
   "tr:uranus:sextile:sun": "Kimliğinde ve öz ifade biçiminde tazeleyici bir uyanış yaşanıyor. Rutin akışın dışına çıkmak, uzun süredir ertelediğin farklı bir hobiyi denemek veya kişisel tarzında yenilikler yapmak için harika bir gün.",
   "tr:uranus:sextile:moon": "Alışılmış rutinlerin dışına çıkmak için harika bir gün. İçgüdülerine kulak vererek evinde veya özel yaşamında küçük, tazeleyici değişiklikler yapabilirsin. Güvenlik alanını esnetmek sana iyi gelecek.",
   "tr:uranus:sextile:mercury": "Fikirlerin bugün inanılmaz hızlı ve özgün akıyor. Alışılagelmiş iletişim kalıplarını kırarak insanları şaşırtabilir, problemlere pratik ve yepyeni çözümler üretebilirsin. Zihnindeki pencereleri havalandır.",
@@ -407,7 +407,7 @@
   "tr:neptune:opp:saturn": "Sorumlulukların ile hayallerin arasında bugüne sıkışmışlık hâkim olabilir; katı gerçeklerle ideallerin çatışabilir. Sınırlarını aşmadan, dengeli adımlar atmayı dene.",
   "tr:neptune:opp:asc": "İnsanlar seni olduğundan farklı algılayabilir veya sen kendini belirsiz hissedebilirsin. Sınırlarını net çiz ve bugün kimliğinle ilgili kararlarda acele etme.",
   "tr:neptune:square:mercury": "Yanlış anlamalar veya detayları gözden kaçırmalar yaşayabilirsin. Önemli konuşmaları ertele ya da notlar alarak ilerle; gerçekleri netleştirmek adına sorular sormaktan çekinme.",
-  "tr:neptune:opp:mc": "Toplum önündeki duruşunda bir belirsizlik veya yön kaybı hissedebilirsin. Bugün büyük kariyer kararları almak yerine, mevcut durumunu gözlemleyip akışta kalmayı dene.",
+  "tr:neptune:opp:mc": "Hedeflerinle ilgili bazı sisli durumlar yaşayabilirsin. Gerçekçi olmayan beklentiler seni yanıltabilir. Bugün büyük kararlar almak yerine sadece durumu gözlemleyebilirsin.",
   "tr:pluto:conj:sun": "Kendi gücünü yeniden keşfettiğin, derin bir değişim sürecindesin. Eski alışkanlıklarını bırakıp yeni bir benlik inşa etmek için içindeki kararlılığa güven.",
   "tr:pluto:conj:moon": "Duyguların çok derin ve dönüştürücü bir etkide. Bastırdığın hisleri yüzeye çıkarıp onları şifalandırmak için kendine zaman tanı ve yalnız kalmayı dene.",
   "tr:pluto:conj:mercury": "Sorgulayıcı yanın bugün çok baskın, gizli kalmış detayları kolayca çözebilirsin. Odaklanma gücünü karmaşık bir konuyu derinlemesine araştırmak için kullan.",
@@ -445,21 +445,14 @@
   "tr:pluto:trine:asc": "Kişiliğin ve duruşun çevrende güçlü bir etki yaratıyor. Kendini yenilenmiş ve kararlı hissedebilirsin. Bugün tarzında veya günlük rutininizdeki ufak bir değişiklikle yeni bir sayfa aç.",
   "tr:pluto:trine:mc": "Mesleki hedeflerinde ve otorite figürleriyle olan ilişkilerinde kalıcı başarılar yakalayabileceğin bir akıştasın. Stratejik planlar yaparak uzun vadeli projelerine hız verebilirsin. Yeteneklerini sergilemekten çekinme.",
   "tr:pluto:opp:sun": "Bireysel isteklerin ile başkalarının beklentileri arasında bugün sıkışmış hissedebilirsin. Güç mücadelesine girmek yerine uzlaşmacı yolları seçmen faydalı olur. Egonu bir kenara bırakarak olayları tarafsız gözlemle.",
-  "tr:pluto:opp:moon": "Bastırılmış duyguların aniden yüzeye çıkması seni zorlayabilir. Takıntı yapmadan, seni yoran alışkanlıkları serbest bırak. Yazı yazarak zihnini boşaltmayı dene.",
+  "tr:pluto:opp:moon": "Duygusal anlamda derin bir temizlik ihtiyacı hissedebilirsin. Güvenlik arayışındaki eski kalıpları sorgulaman mümkün. Duygularını bastırmak yerine onları anlamaya vakit ayırabilirsin.",
   "tr:pluto:opp:mercury": "Düşüncelerini karşı tarafa aktarırken manipülatif veya baskıcı bir üslup kullanma riskin var. İletişimde inatlaşmaktan kaçınmalı, söylenenleri dikkatle dinlemelisin. Zihinsel esneklik bugün en büyük yardımcındır.",
   "tr:pluto:opp:venus": "İlişkilerinde kıskançlık, sahiplenme veya güç savaşları gün yüzüne çıkabilir. Değerli bulduğun konuları aşırı sahiplenmekten kaçınarak akışa güvenmelisin. Partnerinle veya sevdiklerinle yapıcı bir diyalog kur.",
   "tr:pluto:opp:mars": "Sabırsızlık ve içten gelen yoğun öfke patlamaları bugün seni zorlayabilir. Harekete geçmeden önce durup derin bir nefes alarak strateji belirlemelisin. Enerjini yıkıcı tartışmalar yerine sporla dönüştür.",
-  "tr:pluto:opp:jupiter": "Her şeyi aynı anda çözme veya büyütme isteği seni yorabilir. Sınırlarını zorlamak yerine gerçekçi hedeflere odaklan. Abartılı vaatlerden bugün uzak dur.",
+  "tr:pluto:opp:jupiter": "İnançların veya hayata bakış açın konusunda zorlayıcı bir süreçten geçebilirsin. Güç kazanma tutkusu seni yorabilir. Bugün abartılı tepkiler vermekten kaçınman faydalı olabilir.",
   "tr:pluto:opp:saturn": "Otorite figürleri veya hayatın katı kuralları ile büyük bir sürtüşme yaşayabilirsin. Sorumluluklarından kaçmak yerine onları yeniden yapılandırma yolunu seçmelisin. Sabırlı duruşun engelleri aşmanı sağlar.",
   "tr:pluto:opp:asc": "İkili ilişkilerde karşındakilerin baskısını yoğun şekilde hissedebilirsin. İnsanların seni köşeye sıkıştırdığını düşünsen de aslında kendi sınırlarını test ediyorsun. Tepkilerinde ılımlı kalarak dengeyi bul.",
   "tr:pluto:opp:mc": "Kariyerindeki duruşun ile özel hayatındaki talepler birbiriyle çatışma halinde. Önceliklerini yeniden belirlemen gereken bir dönemeçtesin; iki alanı da ihmal etmeden uzlaşma sağlamalısın."
  },
- "voice": "sen",
- "redo": [
-  "tr:neptune:opp:mc",
-  "tr:pluto:opp:jupiter",
-  "tr:pluto:opp:moon",
-  "tr:saturn:square:mc",
-  "tr:uranus:conj:mc"
- ]
+ "voice": "sen"
 }
