@@ -1,7 +1,7 @@
 name: gunluk_burc
 description: Günlük burç yorumu ve motivasyon cümlesi, kilit ekranında.
 publish_to: "none"
-version: 1.2.1+4
+version: 1.2.2+5
 
 environment:
   sdk: ">=3.5.0 <4.0.0"

@@ -148,6 +148,16 @@ Future<void> main() async {
           'else signingConfigs.getByName("debug")');
     }
     g = g.replaceAll('val props = java.util.Properties()', 'val props = Properties()');
+    // R8 kuralları: WorkManager'ın veritabanı ve uygulamanın Worker sınıfları silinmesin (mağaza sürümü açılışta çöküyordu)
+    if (!g.contains('proguard-rules.pro')) {
+      g = g.replaceFirstMapped(RegExp(r'(signingConfig = if \(System\.getenv\("BURC_KEY_PASSWORD"\)[^\n]*\n)'),
+          (m) => '${m.group(1)}            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")\n');
+    }
+    // R8 küçültme kapalı: Dart'ın JNI ile çağırdığı eklenti yöntemlerini (shared_preferences vb.) siliyordu
+    if (!g.contains('isMinifyEnabled = false')) {
+      g = g.replaceFirst('            proguardFiles(getDefaultProguardFile',
+          '            isMinifyEnabled = false\n            isShrinkResources = false\n            proguardFiles(getDefaultProguardFile');
+    }
     if (!g.contains('import java.util.Properties')) g = 'import java.util.Properties\n\n$g';
     if (!g.contains('androidx.work:work-runtime')) {
       g += '''
