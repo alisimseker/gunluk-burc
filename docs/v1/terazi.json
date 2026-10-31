@@ -1,33 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-10-30T18:54:29+03:00",
+ "updated": "2026-10-31T03:50:12+03:00",
  "days": [
-  {
-   "date": "2026-10-29",
-   "focus": "Fikir Birlikteliği",
-   "short": "Yeni bilgiler öğrenmek ve dostlarla paylaşmak ufkunu açıyor.",
-   "text": "Dünyaya daha geniş bir pencereden bakmak ve ideallerini tazelemek isteyeceğin bir gündesin. Arkadaş gruplarınla yapacağın derin ve ufuk açıcı sohbetler seni fazlasıyla motive edebilir. Geleceğe dair umutlarını büyütürken bütçeni sarsacak ani harcamalara karşı temkinli durmanda fayda var. Hayatına katacağın yeni bir felsefe veya eğitim, vizyonunu belirgin şekilde tazeleyebilir.",
-   "motivation": "Öğrenmenin coşkusunu paylaş.",
-   "basis": "Dokuzuncu evindeki Ay, on birinci evindeki Jüpiter ile altmışlık açı gerçekleştiriyor.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 5°57'",
-    "Ay İkizler'de 19°35'",
-    "Merkür Akrep'te 19°07' ℞",
-    "Venüs Terazi'de 27°38' ℞",
-    "Mars Aslan'da 17°17'",
-    "Jüpiter Aslan'da 23°59'",
-    "Satürn Koç'ta 9°27' ℞",
-    "Uranüs İkizler'de 4°46' ℞",
-    "Neptün Koç'ta 2°08' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-30",
    "focus": "Mesleki Sorumluluk",
@@ -230,6 +205,31 @@
     "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-07",
+   "focus": "Sosyal İnisiyatif",
+   "short": "Kendi isteklerini arkadaş çevrenle uyumlu şekilde eyleme geçirebilirsin.",
+   "text": "Burcunda ilerleyen Ay'ın on birinci evindeki Mars ile kurduğu sekstil açı, topluluklar içinde liderlik etme ve isteklerini ifade etme gücünü artırıyor. Geri planda kalmak yerine, grup çalışmalarında veya dost ortamlarında fikrini cesurca ortaya koyabilirsin. Zarafetini kararlılıkla birleştirdiğinde, etrafındakileri ortak bir gaye etrafında kolayca toplayacaksın.",
+   "motivation": "Duruşun zarafetle güç kazansın.",
+   "basis": "Ay 1. evinde, Mars ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 14°57'",
+    "Ay Terazi'de 22°46'",
+    "Merkür Akrep'te 8°44' ℞",
+    "Venüs Terazi'de 23°45' ℞",
+    "Mars Aslan'da 21°45'",
+    "Jüpiter Aslan'da 25°02'",
+    "Satürn Koç'ta 8°54' ℞",
+    "Uranüs İkizler'de 4°26' ℞",
+    "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
   }
  ]
 }

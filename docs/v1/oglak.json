@@ -1,33 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-10-30T18:54:29+03:00",
+ "updated": "2026-10-31T03:50:12+03:00",
  "days": [
-  {
-   "date": "2026-10-29",
-   "focus": "Günlük Verimlilik",
-   "short": "İşlerini sıraya koyarak verimli sonuçlar alabilirsin.",
-   "text": "Günlük akışını toparlamak ve birikmiş sorumlulukları eritmek için harika bir dinamizm yakalayabilirsin. Ortak çalışmalar veya paylaşılan bütçeler konusunda pratik kararlar almak işlerini hafifletecektir. Sosyal ortamların getirdiği kafa karışıklıklarına takılmadan, doğrudan yapılması gereken görevlere odaklanmalısın. Bedenini dinç tutacak ufak düzenlemeler yapmak da günün temposunu rahatça kaldırmanı sağlar.",
-   "motivation": "Küçük çabalar büyük fark yaratır.",
-   "basis": "Altıncı evindeki Ay, sekizinci evindeki Mars ile sekstil açı kuruyor.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 5°57'",
-    "Ay İkizler'de 19°35'",
-    "Merkür Akrep'te 19°07' ℞",
-    "Venüs Terazi'de 27°38' ℞",
-    "Mars Aslan'da 17°17'",
-    "Jüpiter Aslan'da 23°59'",
-    "Satürn Koç'ta 9°27' ℞",
-    "Uranüs İkizler'de 4°46' ℞",
-    "Neptün Koç'ta 2°08' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-30",
    "focus": "İlişki Sınırları",
@@ -230,6 +205,31 @@
     "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-07",
+   "focus": "Stratejik Destek",
+   "short": "Mesleki hedeflerinde ortak kaynakları ustalıkla yönetebilirsin.",
+   "text": "Kariyerinde itibarını korurken başkalarından gelen maddi veya manevi destekleri akıllıca yönlendirebilirsin. Onuncu evindeki Ay'ın sekizinci evindeki Mars ile kurduğu sekstil açı, sorumluluk gerektiren işlerde güçlü bir irade sergilemeni sağlıyor. İnisiyatif almaktan çekinme; profesyonel duruşun ve krizleri yönetme becerin dikkat çekecektir. Planlarını netleştirip ilerle.",
+   "motivation": "Ustalık krizleri fırsata çevirir.",
+   "basis": "Ay 10. evinde, Mars ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 14°57'",
+    "Ay Terazi'de 22°46'",
+    "Merkür Akrep'te 8°44' ℞",
+    "Venüs Terazi'de 23°45' ℞",
+    "Mars Aslan'da 21°45'",
+    "Jüpiter Aslan'da 25°02'",
+    "Satürn Koç'ta 8°54' ℞",
+    "Uranüs İkizler'de 4°26' ℞",
+    "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
   }
  ]
 }

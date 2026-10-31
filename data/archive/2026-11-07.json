@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-10-31T03:50:12+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 14°57'",
+   "Ay Terazi'de 22°46'",
+   "Merkür Akrep'te 8°44' ℞",
+   "Venüs Terazi'de 23°45' ℞",
+   "Mars Aslan'da 21°45'",
+   "Jüpiter Aslan'da 25°02'",
+   "Satürn Koç'ta 8°54' ℞",
+   "Uranüs İkizler'de 4°26' ℞",
+   "Neptün Koç'ta 1°57' ℞",
+   "Plüton Kova'da 3°11'"
+  ],
+  "events": [
+   "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Yeniay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Ortak Heyecan",
+   "short": "İlişkilerinde yapıcı adımlar atabileceğin dinamik bir uzlaşı zemini var.",
+   "text": "Birlikte yürüttüğün projelerde veya ikili diyaloglarında canlı bir hareketlilik gözlemleyebilirsin. Yedinci evindeki Ay'ın beşinci evindeki Mars ile kurduğu sekstil açı, yaratıcı fikirlerini karşı tarafa hevesle aktarmanı kolaylaştırıyor. Ortak paylaşımlarda hem zarafeti elden bırakmayıp hem de kendi heyecanını netçe ortaya koyabilirsin. Birlikte bir plan başlatmak için harika bir an.",
+   "motivation": "Açık yüreklilik köprüleri sağlamlaştırır.",
+   "basis": "Ay 7. evinde, Mars ile altmışlık açıda."
+  },
+  "boga": {
+   "focus": "Çalışma Konforu",
+   "short": "Gündelik işlerini toparlarken iç huzurunu koruyacak pratik yollar bulabilirsin.",
+   "text": "Masa başı işlerini veya günlük sorumluluklarını düzenlerken konforunu ön planda tutmak isteyebilirsin. Altıncı evindeki Ay ile dördüncü evindeki Mars arasındaki altmışlık açı, evden yürüttüğün işlerde gereken enerjiyi sana sağlıyor. Fiziksel ortamını sadeleştirip görevlerini sıraya koyman zihnini ferahlatır. Temponu zorlamadan, düzenli aralıklarla ilerlemeye özen göster.",
+   "motivation": "Düzenli adımlar yorgunluğu hafifletir.",
+   "basis": "Ay 6. evinde, Mars ile altmışlık açıda."
+  },
+  "ikizler": {
+   "focus": "Neşeli Anlatım",
+   "short": "Yaratıcı projelerini canlı bir dille çevrene aktarma fırsatı bulabilirsin.",
+   "text": "Kendini ifade etme isteğin ve üretkenliğin belirgin şekilde öne çıkıyor. Beşinci evindeki Ay'ın üçüncü evindeki Jüpiter ile oluşturduğu sekstil açı, zihnindeki parlak fikirleri hevesle kelimelere dökmeni sağlıyor. Kısa yazışmalar, eğlenceli sohbetler ya da sanatsal hobilerin için verimli bir gün. Samimi anlatımın karşılık bulacaktır; aklındakileri ertelemeden paylaş.",
+   "motivation": "Yaratıcı heves paylaştıkça büyür.",
+   "basis": "Ay 5. evinde, Jüpiter ile altmışlık açıda."
+  },
+  "yengec": {
+   "focus": "Yuva Bütçesi",
+   "short": "Ev ortamındaki ihtiyaçları maddi dengeni gözeterek kolayca planlayabilirsin.",
+   "text": "Yaşam alanını güzelleştirmek veya ailevi ihtiyaçları gidermek adına yeni çözümler gündeme gelebilir. Dördüncü evindeki Ay ile ikinci evindeki Mars arasındaki sekstil açı, evle ilgili harcamalarda makul ve kararlı adımlar atmanı destekliyor. Masrafları gözden geçirirken aşırıya kaçmadan, eldeki imkanları akıllıca değerlendirmek içini rahatlatacaktır. Sakin planlama güven verir.",
+   "motivation": "Ölçülü niyet huzuru pekiştirir.",
+   "basis": "Ay 4. evinde, Mars ile altmışlık açıda."
+  },
+  "aslan": {
+   "focus": "Sözlü Girişimler",
+   "short": "Fikirlerini açık ve canlı bir dille ifade ederek kolayca uzlaşabilirsin.",
+   "text": "Çevrenle kurduğun iletişimde doğrudan, sıcak ve ikna edici bir ton yakalaman oldukça kolay. Üçüncü evindeki Ay'ın burcundaki Jüpiter ile kurduğu altmışlık açı, konuşmalarına hem nezaket hem de geniş bir vizyon katıyor. Kardeşler, komşular ya da yakın dostlarla yapılacak sohbetlerde yapıcı çözümler geliştirebilirsin. Düşüncelerini net bir üslupla aktarmaktan çekinme.",
+   "motivation": "Net ifade güven tazeler.",
+   "basis": "Ay 3. evinde, birinci evindeki Jüpiter ile altmışlık açıda."
+  },
+  "basak": {
+   "focus": "Maddi Güvence",
+   "short": "Kişisel bütçeni sessizce analiz ederek huzurlu kararlar alabilirsin.",
+   "text": "Gelir gider dengeni korumak ve öz değerini sağlam tutmak adına içsel bir dinginlik hissedebilirsin. İkinci evindeki Ay'ın on ikinci evindeki Mars ile oluşturduğu sekstil açı, arka planda kalıp mali durumunu sakin kafayla gözden geçirmen için destek sunuyor. Gereksiz tüketim dürtülerini fark edip kendi kaynaklarına sahip çıkmak sana istikrar kazandıracaktır. Sessizce planla ve adım at.",
+   "motivation": "Kendi kıymetini bilmek zenginleştirir.",
+   "basis": "Ay 2. evinde, Mars ile altmışlık açıda."
+  },
+  "terazi": {
+   "focus": "Sosyal İnisiyatif",
+   "short": "Kendi isteklerini arkadaş çevrenle uyumlu şekilde eyleme geçirebilirsin.",
+   "text": "Burcunda ilerleyen Ay'ın on birinci evindeki Mars ile kurduğu sekstil açı, topluluklar içinde liderlik etme ve isteklerini ifade etme gücünü artırıyor. Geri planda kalmak yerine, grup çalışmalarında veya dost ortamlarında fikrini cesurca ortaya koyabilirsin. Zarafetini kararlılıkla birleştirdiğinde, etrafındakileri ortak bir gaye etrafında kolayca toplayacaksın.",
+   "motivation": "Duruşun zarafetle güç kazansın.",
+   "basis": "Ay 1. evinde, Mars ile altmışlık açıda."
+  },
+  "akrep": {
+   "focus": "Perde Arkası",
+   "short": "Hedeflerine odaklanırken geri planda stratejik hazırlıklar yapabilirsin.",
+   "text": "Dış dünyanın temposundan bir adım geri çekilip kariyer planlarını derinden düşünmek isteyebilirsin. On ikinci evindeki Ay'ın onuncu evindeki Jüpiter ile yaptığı sekstil açı, mesleki amaçların için sessizce zemin hazırlamanı kolaylaştırıyor. Sezgilerini hedeflerinle birleştirip acele etmeden strateji kurarsan, ilerleyen günlerde çok daha sağlam bir çıkış yakalayabilirsin.",
+   "motivation": "Sessiz hazırlık başarıyı olgunlaştırır.",
+   "basis": "Ay 12. evinde, Jüpiter ile altmışlık açıda."
+  },
+  "yay": {
+   "focus": "Ortak Vizyon",
+   "short": "Gelecek hedeflerini dostlarınla paylaşarak ufkunu genişletebilirsin.",
+   "text": "Grup içi dayanışma ve sosyal bağlar açısından oldukça akıcı ve destekleyici bir atmosferdesin. On birinci evindeki Ay ile dokuzuncu evindeki Mars arasındaki sekstil açı, inandığın değerleri arkadaş çevrenle ortak bir amaca dönüştürme şansı veriyor. Yeni fikirler tartışmak, ufkunu açan insanlarla bir araya gelmek sana canlılık katacaktır. Kolektif çabalara hevesle katıl.",
+   "motivation": "Birlikte inanmak ufukları yakınlaştırır.",
+   "basis": "Ay 11. evinde, Mars ile altmışlık açıda."
+  },
+  "oglak": {
+   "focus": "Stratejik Destek",
+   "short": "Mesleki hedeflerinde ortak kaynakları ustalıkla yönetebilirsin.",
+   "text": "Kariyerinde itibarını korurken başkalarından gelen maddi veya manevi destekleri akıllıca yönlendirebilirsin. Onuncu evindeki Ay'ın sekizinci evindeki Mars ile kurduğu sekstil açı, sorumluluk gerektiren işlerde güçlü bir irade sergilemeni sağlıyor. İnisiyatif almaktan çekinme; profesyonel duruşun ve krizleri yönetme becerin dikkat çekecektir. Planlarını netleştirip ilerle.",
+   "motivation": "Ustalık krizleri fırsata çevirir.",
+   "basis": "Ay 10. evinde, Mars ile altmışlık açıda."
+  },
+  "kova": {
+   "focus": "Görüş Birliği",
+   "short": "İlişkilerinde ortak ideallere odaklanarak anlayışı güçlendirebilirsin.",
+   "text": "Dünyaya bakışını tazeleyecek fikir alışverişlerine açıksın ve bu durum ikili ilişkilerine canlılık getiriyor. Dokuzuncu evindeki Ay ile yedinci evindeki Jüpiter arasındaki sekstil açı, partnerinle veya yakın bir ortağınla aynı vizyonda buluşmanı kolaylaştırıyor. Geleceğe dair seyahat ya da eğitim planlarını masaya yatırmak, aranızdaki bağı ve uzlaşıyı daha da derinleştirecektir.",
+   "motivation": "Ortak gaye bağları sağlamlaştırır.",
+   "basis": "Ay 9. evinde, Jüpiter ile altmışlık açıda."
+  },
+  "balik": {
+   "focus": "Bütçe İntizamı",
+   "short": "Günlük işlerini toparlarken paylaşılan masrafları çözüme kavuşturabilirsin.",
+   "text": "Ortak bütçe meseleleri veya bekleyen ödemeler gündeminde yer tutabilir. Sekizinci evindeki Ay'ın altıncı evindeki Mars ile oluşturduğu sekstil açı, rutin çalışma temponu bu detayları çözmek için verimli bir güce dönüştürüyor. Görevlerini ertelemeden halletmek üzerindeki baskıyı tamamen dağıtır. Masraflarını listele, çalışma ortamındaki pürüzleri sakinlikle ayıkla.",
+   "motivation": "Pratik çözümler hafiflik getirir.",
+   "basis": "Ay 8. evinde, Mars ile altmışlık açıda."
+  }
+ }
+}

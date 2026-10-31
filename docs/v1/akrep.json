@@ -1,33 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-10-30T18:54:29+03:00",
+ "updated": "2026-10-31T03:50:12+03:00",
  "days": [
-  {
-   "date": "2026-10-29",
-   "focus": "İçsel Güç",
-   "short": "Finansal düğümleri kararlı adımlarla çözüme kavuşturabilirsin.",
-   "text": "Ortaklaşa yürütülen hesapları veya derin duygusal bağları düzenlemek için uygun bir akış var. Kariyer hedeflerine hizmet edecek güçlü kaynakları harekete geçirmek adına cesaretin yerinde. Kendi isteklerini savunurken kırıcı bir dil kullanmamaya özen göstermen, iş birliği yaptığın kişileri yanında tutar. İçindeki dayanıklılığı doğru kanalize ettiğinde çözümsüz gibi duran pürüzleri tek tek aşabilirsin.",
-   "motivation": "Dirayetin zorlukları kolaylaştırır.",
-   "basis": "Sekizinci evindeki Ay, tepe noktasındaki Mars ile sekstil açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 5°57'",
-    "Ay İkizler'de 19°35'",
-    "Merkür Akrep'te 19°07' ℞",
-    "Venüs Terazi'de 27°38' ℞",
-    "Mars Aslan'da 17°17'",
-    "Jüpiter Aslan'da 23°59'",
-    "Satürn Koç'ta 9°27' ℞",
-    "Uranüs İkizler'de 4°46' ℞",
-    "Neptün Koç'ta 2°08' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-30",
    "focus": "Görüş Netliği",
@@ -230,6 +205,31 @@
     "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-07",
+   "focus": "Perde Arkası",
+   "short": "Hedeflerine odaklanırken geri planda stratejik hazırlıklar yapabilirsin.",
+   "text": "Dış dünyanın temposundan bir adım geri çekilip kariyer planlarını derinden düşünmek isteyebilirsin. On ikinci evindeki Ay'ın onuncu evindeki Jüpiter ile yaptığı sekstil açı, mesleki amaçların için sessizce zemin hazırlamanı kolaylaştırıyor. Sezgilerini hedeflerinle birleştirip acele etmeden strateji kurarsan, ilerleyen günlerde çok daha sağlam bir çıkış yakalayabilirsin.",
+   "motivation": "Sessiz hazırlık başarıyı olgunlaştırır.",
+   "basis": "Ay 12. evinde, Jüpiter ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 14°57'",
+    "Ay Terazi'de 22°46'",
+    "Merkür Akrep'te 8°44' ℞",
+    "Venüs Terazi'de 23°45' ℞",
+    "Mars Aslan'da 21°45'",
+    "Jüpiter Aslan'da 25°02'",
+    "Satürn Koç'ta 8°54' ℞",
+    "Uranüs İkizler'de 4°26' ℞",
+    "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
   }
  ]
 }

@@ -1,33 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-10-30T18:54:29+03:00",
+ "updated": "2026-10-31T03:50:12+03:00",
  "days": [
-  {
-   "date": "2026-10-29",
-   "focus": "Evdeki Pratik Düzen",
-   "short": "Hane içindeki işleri toparlamak zihnine hafiflik getirecek.",
-   "text": "Kişisel yaşam alanında yapacağın pratik düzenlemeler günün koşturmacasını keyifli bir hale getirebilir. Günlük rutinlerini aksatmadan ev ortamında konforu sağlayacak adımlar atmak seni fazlasıyla rahatlatır. Uzak hedefler veya zihnini meşgul eden fikirler konusunda aceleci yorumlar yapmaktan kaçınmalısın. Kendi sığınağında yaratacağın sadelik ve intizam, ruhunu tazeleyip enerjini toparlamana yardımcı olur.",
-   "motivation": "Kendi alanını özenle güzelleştir.",
-   "basis": "Dördüncü evindeki Ay, altıncı evindeki Mars ile sekstil açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 5°57'",
-    "Ay İkizler'de 19°35'",
-    "Merkür Akrep'te 19°07' ℞",
-    "Venüs Terazi'de 27°38' ℞",
-    "Mars Aslan'da 17°17'",
-    "Jüpiter Aslan'da 23°59'",
-    "Satürn Koç'ta 9°27' ℞",
-    "Uranüs İkizler'de 4°46' ℞",
-    "Neptün Koç'ta 2°08' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-30",
    "focus": "İlham ve Neşe",
@@ -230,6 +205,31 @@
     "Plüton Kova'da 3°10'"
    ],
    "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-11-07",
+   "focus": "Bütçe İntizamı",
+   "short": "Günlük işlerini toparlarken paylaşılan masrafları çözüme kavuşturabilirsin.",
+   "text": "Ortak bütçe meseleleri veya bekleyen ödemeler gündeminde yer tutabilir. Sekizinci evindeki Ay'ın altıncı evindeki Mars ile oluşturduğu sekstil açı, rutin çalışma temponu bu detayları çözmek için verimli bir güce dönüştürüyor. Görevlerini ertelemeden halletmek üzerindeki baskıyı tamamen dağıtır. Masraflarını listele, çalışma ortamındaki pürüzleri sakinlikle ayıkla.",
+   "motivation": "Pratik çözümler hafiflik getirir.",
+   "basis": "Ay 8. evinde, Mars ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 14°57'",
+    "Ay Terazi'de 22°46'",
+    "Merkür Akrep'te 8°44' ℞",
+    "Venüs Terazi'de 23°45' ℞",
+    "Mars Aslan'da 21°45'",
+    "Jüpiter Aslan'da 25°02'",
+    "Satürn Koç'ta 8°54' ℞",
+    "Uranüs İkizler'de 4°26' ℞",
+    "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
   }
  ]
 }
