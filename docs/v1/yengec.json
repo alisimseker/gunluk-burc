@@ -1,36 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-10-31T18:18:28+03:00",
+ "updated": "2026-11-01T03:11:07+03:00",
  "days": [
-  {
-   "date": "2026-10-30",
-   "focus": "Kişisel Hedefler",
-   "short": "Kendi beklentilerine odaklanıp enerjini toparlayabilirsin.",
-   "text": "Burcuna geçiş yapan Ay, üzerindeki rehaveti kaldırıp seni merkeze alıyor. Ancak kariyer evindeki Satürn ile kurduğu kare açı, üstlendiğin sorumlulukların getirdiği ağırlığı biraz daha hissettirebilir. Akrep'teki Güneş'in verdiği destek sayesinde kişisel projelerine daha yaratıcı bir soluk kazandırabilirsin. Çevrendekilerin taleplerine boğulmadan önce kendi fiziksel konforunu gözetmen günün verimini artırır.",
-   "motivation": "Varlığını incelikle ortaya koy.",
-   "basis": "Ay burcunda ilerlerken Akrep Güneş ile üçgen açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 6°57'",
-    "Ay Yengeç'te 4°11'",
-    "Merkür Akrep'te 18°17' ℞",
-    "Venüs Terazi'de 27°05' ℞",
-    "Mars Aslan'da 17°47'",
-    "Jüpiter Aslan'da 24°07'",
-    "Satürn Koç'ta 9°23' ℞",
-    "Uranüs İkizler'de 4°44' ℞",
-    "Neptün Koç'ta 2°07' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-31",
    "focus": "Yaratıcı İlham",
@@ -227,6 +199,31 @@
     "Satürn Koç'ta 8°54' ℞",
     "Uranüs İkizler'de 4°26' ℞",
     "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-08",
+   "focus": "Yaratıcı Tutkular",
+   "short": "İçindeki hevesi derin duygularla yoğurup üretime dönüştür.",
+   "text": "Kendini özgürce ortaya koyma isteğin artarken bazı gizli kaygılar tereddüt yaratabilir. Sevdiklerinle kurduğun bağlarda aşırı korumacı tavırlardan uzak durup anın tadını çıkarmalısın. Sanatsal veya yaratıcı bir işle ilgilenmek zihnindeki gerginliği dağıtmak adına sana çok iyi gelecektir.",
+   "motivation": "Hevesini güvenle görünür kıl.",
+   "basis": "5. evde konumlanan Ay, 8. evdeki Plüton ile kare açıda bulunuyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 15°58'",
+    "Ay Akrep'te 5°25'",
+    "Merkür Akrep'te 7°41' ℞",
+    "Venüs Terazi'de 23°30' ℞",
+    "Mars Aslan'da 22°14'",
+    "Jüpiter Aslan'da 25°09'",
+    "Satürn Koç'ta 8°51' ℞",
+    "Uranüs İkizler'de 4°23' ℞",
+    "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
    ],
    "moon_phase": "Yeniay"

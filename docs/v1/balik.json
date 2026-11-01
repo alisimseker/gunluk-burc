@@ -1,36 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-10-31T18:18:28+03:00",
+ "updated": "2026-11-01T03:11:07+03:00",
  "days": [
-  {
-   "date": "2026-10-30",
-   "focus": "İlham ve Neşe",
-   "short": "Yaratıcı uğraşlara yönelerek günü hafifletebilirsin.",
-   "text": "Beşinci evine geçen Ay ile birlikte yaşama karşı daha duyarlı ve üretken bir ruh haline bürünüyorsun. Ancak para evindeki Satürn ve Neptün'ün oluşturduğu baskı, harcamalar ve öz değer konularında seni bir parça kısıtlayabilir. Dokuzuncu evdeki Akrep Güneş sana geniş bir perspektif kazandırırken, hobilerine zaman ayırmak zihnini tazeleyecektir. Eleştirilere takılmadan yeteneklerine alan açmayı seç.",
-   "motivation": "Yaratıcı kıvılcımına güvenle sarıl.",
-   "basis": "Ay 5. evine geçerken 9. evdeki Güneş ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 6°57'",
-    "Ay Yengeç'te 4°11'",
-    "Merkür Akrep'te 18°17' ℞",
-    "Venüs Terazi'de 27°05' ℞",
-    "Mars Aslan'da 17°47'",
-    "Jüpiter Aslan'da 24°07'",
-    "Satürn Koç'ta 9°23' ℞",
-    "Uranüs İkizler'de 4°44' ℞",
-    "Neptün Koç'ta 2°07' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-31",
    "focus": "Yaratıcı Şevk",
@@ -227,6 +199,31 @@
     "Satürn Koç'ta 8°54' ℞",
     "Uranüs İkizler'de 4°26' ℞",
     "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-08",
+   "focus": "Yeni Ufuklar",
+   "short": "Bakış açını derinleştirirken içsel şüpheleri ardında bırak.",
+   "text": "Uzak hedefler, eğitim veya yeni planlar konusunda heyecan verici adımlar gündeme gelebilir. Bilinçaltında saklanan bazı endişeler kararlarını gölgelemeye çalışsa da nesnel gerçeklere tutunmalısın. Farklı fikirlere hoşgörüyle yaklaşmak ve öğrenmeye açık olmak zihnini ferahlatacaktır.",
+   "motivation": "Geniş bakan aydınlığa yürür.",
+   "basis": "9. evdeki Ay, 12. evdeki Plüton ile kare pozisyonda bulunuyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 15°58'",
+    "Ay Akrep'te 5°25'",
+    "Merkür Akrep'te 7°41' ℞",
+    "Venüs Terazi'de 23°30' ℞",
+    "Mars Aslan'da 22°14'",
+    "Jüpiter Aslan'da 25°09'",
+    "Satürn Koç'ta 8°51' ℞",
+    "Uranüs İkizler'de 4°23' ℞",
+    "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
    ],
    "moon_phase": "Yeniay"

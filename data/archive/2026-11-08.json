@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-01T03:11:07+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 15°58'",
+   "Ay Akrep'te 5°25'",
+   "Merkür Akrep'te 7°41' ℞",
+   "Venüs Terazi'de 23°30' ℞",
+   "Mars Aslan'da 22°14'",
+   "Jüpiter Aslan'da 25°09'",
+   "Satürn Koç'ta 8°51' ℞",
+   "Uranüs İkizler'de 4°23' ℞",
+   "Neptün Koç'ta 1°56' ℞",
+   "Plüton Kova'da 3°11'"
+  ],
+  "events": [
+   "Ay bugün Akrep'e geçiyor.",
+   "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Yeniay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Maddi Sorumluluklar",
+   "short": "Müşterek harcamalarda duygusal baskı kurmadan net kalmaya gayret et.",
+   "text": "Finansal paylaşımlar ve ortak bütçeler günün ana gündemini belirleyebilir. Sosyal çevrenden gelen bazı beklentilerle kendi maddi sınırların arasında kalabilirsin. Baskı hissettiğin anlarda fevri kararlar almaktan kaçınmalı, hesapları yazılı olarak denetlemelisin. Açık iletişim kurmak kontrol duygunu yeniden kazanmanı sağlar.",
+   "motivation": "Sınırlarını sakinlikle koru.",
+   "basis": "8. evdeki Ay, 11. evdeki Plüton ile dik açı kuruyor."
+  },
+  "boga": {
+   "focus": "İlişki Dinamikleri",
+   "short": "Birebir diyaloglarda güç savaşlarına girmeden dinlemeyi seç.",
+   "text": "Ortaklıklar ve ikili ilişkilerde görünmeyen gerilimler su yüzüne çıkabilir. Kariyer hedeflerin ile karşı tarafın beklentileri çatışma yarattığında sakinliğini korumalısın. Israrcı bir tavır sergilemek yerine olayları akışına bırakmak çok daha sağlıklı sonuçlar verir. Karşılıklı dürüstlük pürüzleri hafifletir.",
+   "motivation": "Yumuşak duruş pürüzleri eritir.",
+   "basis": "7. eve yerleşen Ay, 10. evdeki Plüton ile kare açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Gündelik Düzen",
+   "short": "İş ortamındaki yoğun tempoyu planlı adımlarla yönetebilirsin.",
+   "text": "Çalışma alanında detay gerektiren görevler bugün zihnini fazlasıyla meşgul edebilir. Uzak bağlantılı işlerden ya da inanç ayrılıklarından doğan baskılara kapılmadan önündeki listeye sadık kalmalısın. Bedenini yormayacak bir tempo belirlemek ve rutin kontrolleri ihmal etmemek gününü hafifletir.",
+   "motivation": "Planlı ilerleyiş ferahlık getirir.",
+   "basis": "6. evdeki Ay, 9. evdeki Plüton ile sert bir açı gerçekleştiriyor."
+  },
+  "yengec": {
+   "focus": "Yaratıcı Tutkular",
+   "short": "İçindeki hevesi derin duygularla yoğurup üretime dönüştür.",
+   "text": "Kendini özgürce ortaya koyma isteğin artarken bazı gizli kaygılar tereddüt yaratabilir. Sevdiklerinle kurduğun bağlarda aşırı korumacı tavırlardan uzak durup anın tadını çıkarmalısın. Sanatsal veya yaratıcı bir işle ilgilenmek zihnindeki gerginliği dağıtmak adına sana çok iyi gelecektir.",
+   "motivation": "Hevesini güvenle görünür kıl.",
+   "basis": "5. evde konumlanan Ay, 8. evdeki Plüton ile kare açıda bulunuyor."
+  },
+  "aslan": {
+   "focus": "Özel Alan",
+   "short": "Ev içindeki dengeyi sağlamak için empatiyle yaklaş.",
+   "text": "Kişisel alanında ve ailevi konularda derinleşme arzusu hissedebilirsin. İkili ilişkilerden yansıyan bazı baskılar hane içindeki sükuneti zorlayabilir. Haklı çıkma dürtüsünü bir kenara bırakarak sevdiklerinin duygusal ihtiyaçlarını dinlemek ortamı rahatlatacaktır. Kendi sığınağına çekilmek enerjini tazeler.",
+   "motivation": "Huzur paylaştıkça derinleşir.",
+   "basis": "4. evdeki Ay, 7. evdeki Plüton ile tam kare oluşturuyor."
+  },
+  "basak": {
+   "focus": "İletişim Dili",
+   "short": "Görüşmelerinde sözcüklerin derin etkisini hesaba katarak ilerle.",
+   "text": "Zihinsel trafiğin hızlandığı ve önemli haberlerin gündeme geldiği bir gündesin. Günlük koşturmacanın getirdiği gerilim konuşmalarına yansıyabilir, bu yüzden tepki vermeden önce derin bir soluk almalısın. Kardeşler veya yakın komşularla olan ilişkilerde gereksiz detaylara takılmamak zihnini dinç tutar.",
+   "motivation": "Sakin söz güçlü yankı bulur.",
+   "basis": "3. evdeki Ay, 6. evdeki Plüton ile dik açı bağlantısı kuruyor."
+  },
+  "terazi": {
+   "focus": "Maddi Kaynaklar",
+   "short": "Kendi yeteneklerine değer vererek bütçeni sağlama al.",
+   "text": "Parasal meseleler ve kazanç dengesi bugün dikkatini daha fazla talep edebilir. Keyifler veya yaratıcı projeler için planlanmamış harcamalar yapma eğilimine karşı ölçüyü korumalısın. Sahip olduğun birikimi ve öz saygını korumak için aceleyle maddi taahhütlere girmemeye özen göster.",
+   "motivation": "Değerini içsel güveninle bil.",
+   "basis": "2. evdeki Ay, 5. evdeki Plüton ile kare açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Kişisel İnisiyatif",
+   "short": "Kendi rotanı çizerken geçmişin yüklerinden sıyrılmayı seç.",
+   "text": "Duygusal derinliğinin ve kararlılığının öne çıktığı güçlü bir süreç başlıyor. Aile köklerinden veya geçmişten kaynaklanan bazı içsel baskılar seni kontrol dürtüsüne itebilir. Olayları yönlendirmeye çalışmak yerine kendi gelişimine ve duruşuna odaklanmak sana gerçek bir rahatlık kazandıracaktır.",
+   "motivation": "İçsel gücünü sükunetle taşı.",
+   "basis": "1. evdeki Ay, 4. evdeki Plüton ile sert kare görünüm oluşturuyor."
+  },
+  "yay": {
+   "focus": "Ruhsal Dinginlik",
+   "short": "Gürültüden uzaklaşıp kendi iç muhasebeni tamamla.",
+   "text": "Bugün dış dünyanın taleplerinden sıyrılıp içsel dünyana dönmek isteyebilirsin. İletişim trafiğindeki bazı keskin ifadeler zihnini yorabileceğinden, her duyduğuna hemen tepki vermemelisin. Sezgilerine alan açmak ve yalnız kalarak toparlanmak sana taze bir bakış açısı sunacaktır.",
+   "motivation": "Sessizlik ruhunu berraklaştırır.",
+   "basis": "12. evdeki Ay, 3. evdeki Plüton ile kare açı kuruyor."
+  },
+  "oglak": {
+   "focus": "Ekip Çalışması",
+   "short": "Topluluk içindeki hedeflerini gerçekçi bir zemine oturt.",
+   "text": "Dahil olduğun çevrelerde veya geleceğe dönük planlarında güçlü yüzleşmeler yaşanabilir. Maddi beklentilerle sosyal hedefler arasında oluşabilecek gerilimleri sakinlikle yönetmelisin. Güvenilir dostlarla strateji belirlemek ve aceleci tavırları frenlemek uzun vadeli başarılarını sağlama alır.",
+   "motivation": "Sağlam duruş vizyonu büyütür.",
+   "basis": "11. evdeki Ay, 2. evdeki Plüton ile dik açı açısında bulunuyor."
+  },
+  "kova": {
+   "focus": "Mesleki Sorumluluk",
+   "short": "Kariyer hedeflerinde soğukkanlılığını koruyarak sorumluluk al.",
+   "text": "İş hayatında ve sorumluluk aldığın alanlarda görünürlüğün artış gösterebilir. Kendi isteklerin ile otorite figürlerinin beklentileri arasında güç çekişmelerine çekilmemelisin. Olayları kişiselleştirmeden, profesyonel bir duruş sergileyerek ilerlemek statünü çok daha güçlü biçimde pekiştirir.",
+   "motivation": "Soğukkanlılık saygınlığı besler.",
+   "basis": "10. evdeki Ay, 1. evdeki Plüton ile tam kare açı oluşturuyor."
+  },
+  "balik": {
+   "focus": "Yeni Ufuklar",
+   "short": "Bakış açını derinleştirirken içsel şüpheleri ardında bırak.",
+   "text": "Uzak hedefler, eğitim veya yeni planlar konusunda heyecan verici adımlar gündeme gelebilir. Bilinçaltında saklanan bazı endişeler kararlarını gölgelemeye çalışsa da nesnel gerçeklere tutunmalısın. Farklı fikirlere hoşgörüyle yaklaşmak ve öğrenmeye açık olmak zihnini ferahlatacaktır.",
+   "motivation": "Geniş bakan aydınlığa yürür.",
+   "basis": "9. evdeki Ay, 12. evdeki Plüton ile kare pozisyonda bulunuyor."
+  }
+ }
+}

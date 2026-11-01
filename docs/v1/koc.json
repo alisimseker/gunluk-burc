@@ -1,36 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-10-31T18:18:28+03:00",
+ "updated": "2026-11-01T03:11:07+03:00",
  "days": [
-  {
-   "date": "2026-10-30",
-   "focus": "İçsel Güvenlik",
-   "short": "Hane içindeki sorumlulukları sabırla ele alıp sakin kalabilirsin.",
-   "text": "Ay dördüncü evine adım atarken zihnini meşgul eden ortak harcamalar ile kişisel isteklerin arasında gerilim hissedebilirsin. Aslan'daki Mars ile gerileyen Merkür'ün sert açısı, ani tepkiler vermeye meyil yaratabilir. Kendi sınırlarını zorlamadan, evin getirdiği gereksinimleri telaşsızca düzenlemeye çalış. İç dünyanda biriken baskıyı spora veya yaratıcı bir üretime aktararak dağıtman mümkün.",
-   "motivation": "Kendi sığınağında dinginliği büyüt.",
-   "basis": "Ay 4. evine geçerken burcundaki Satürn ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Merkür ile Mars arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 6°57'",
-    "Ay Yengeç'te 4°11'",
-    "Merkür Akrep'te 18°17' ℞",
-    "Venüs Terazi'de 27°05' ℞",
-    "Mars Aslan'da 17°47'",
-    "Jüpiter Aslan'da 24°07'",
-    "Satürn Koç'ta 9°23' ℞",
-    "Uranüs İkizler'de 4°44' ℞",
-    "Neptün Koç'ta 2°07' ℞",
-    "Plüton Kova'da 3°06'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-10-31",
    "focus": "Duygusal Netlik",
@@ -227,6 +199,31 @@
     "Satürn Koç'ta 8°54' ℞",
     "Uranüs İkizler'de 4°26' ℞",
     "Neptün Koç'ta 1°57' ℞",
+    "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-08",
+   "focus": "Maddi Sorumluluklar",
+   "short": "Müşterek harcamalarda duygusal baskı kurmadan net kalmaya gayret et.",
+   "text": "Finansal paylaşımlar ve ortak bütçeler günün ana gündemini belirleyebilir. Sosyal çevrenden gelen bazı beklentilerle kendi maddi sınırların arasında kalabilirsin. Baskı hissettiğin anlarda fevri kararlar almaktan kaçınmalı, hesapları yazılı olarak denetlemelisin. Açık iletişim kurmak kontrol duygunu yeniden kazanmanı sağlar.",
+   "motivation": "Sınırlarını sakinlikle koru.",
+   "basis": "8. evdeki Ay, 11. evdeki Plüton ile dik açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 15°58'",
+    "Ay Akrep'te 5°25'",
+    "Merkür Akrep'te 7°41' ℞",
+    "Venüs Terazi'de 23°30' ℞",
+    "Mars Aslan'da 22°14'",
+    "Jüpiter Aslan'da 25°09'",
+    "Satürn Koç'ta 8°51' ℞",
+    "Uranüs İkizler'de 4°23' ℞",
+    "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
    ],
    "moon_phase": "Yeniay"
