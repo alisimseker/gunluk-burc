@@ -1,32 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-01T18:59:55+03:00",
+ "updated": "2026-11-02T03:48:45+03:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "focus": "Sessiz Muhasebe",
-   "short": "Biraz yavaşlayıp iç sesine kulak vermek sana iyi gelecektir.",
-   "text": "Temponu biraz yavaşlatıp kendi köşene çekilmek, zihnindeki eski yükleri temizlemeni sağlayabilir. Kendi burcundaki Mars seni hemen harekete geçmeye itse de, dördüncü evinde geri giden Merkür geçmiş meseleleri tekrar önüne getirebilir. 12. evde bulunan Ay, sezgisel bir kavrayış geliştirerek iç dünyanı toparlamanı kolaylaştırıyor. Tepkisel sözler sarf etmek yerine hissettiklerini gözden geçirip derin bir nefes almayı dene.",
-   "motivation": "Geri çekilmek gücünü tazeler.",
-   "basis": "Ay 12. evinde, dördüncü evde geri giden Merkür ile üçgen açıda.",
-   "sky_events": [
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 7°57'",
-    "Ay Yengeç'te 18°35'",
-    "Merkür Akrep'te 17°19' ℞",
-    "Venüs Terazi'de 26°33' ℞",
-    "Mars Aslan'da 18°18'",
-    "Jüpiter Aslan'da 24°14'",
-    "Satürn Koç'ta 9°19' ℞",
-    "Uranüs İkizler'de 4°41' ℞",
-    "Neptün Koç'ta 2°06' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-01",
    "focus": "Bireysel Yenilenme",
@@ -225,6 +201,31 @@
     "Uranüs İkizler'de 4°23' ℞",
     "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-09",
+   "focus": "Hane Düzenlemesi",
+   "short": "Kendi isteklerini dayatmak yerine evdeki huzura öncelik ver.",
+   "text": "Dördüncü evinde gerçekleşen Akrep Yeniayı, hane içi dinamikleri ve özel yaşamını yeniden yapılandırma fırsatı veriyor. Burcunda ilerleyen Mars'ın bu alana yaptığı kare açı, kendi haklılığını kanıtlama isteğiyle ortamı germe ihtimalini artırabilir. Gücünü tartışmalara harcamak yerine evindeki gereksiz yükleri ayıklamaya yönlendirmelisin. Geçmişle yüzleşip sakince yol aldığında içsel konforun artacaktır.",
+   "motivation": "Gücün sükunetle anlam bulsun.",
+   "basis": "Dördüncü evinde doğan Yeniay, birinci evindeki Mars ile dik açı oluşturuyor.",
+   "sky_events": [
+    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 16°58'",
+    "Ay Akrep'te 17°54'",
+    "Merkür Akrep'te 6°47' ℞",
+    "Venüs Terazi'de 23°17' ℞",
+    "Mars Aslan'da 22°43'",
+    "Jüpiter Aslan'da 25°15'",
+    "Satürn Koç'ta 8°47' ℞",
+    "Uranüs İkizler'de 4°21' ℞",
+    "Neptün Koç'ta 1°55' ℞",
+    "Plüton Kova'da 3°12'"
    ],
    "moon_phase": "Yeniay"
   }

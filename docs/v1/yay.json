@@ -1,32 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-01T18:59:55+03:00",
+ "updated": "2026-11-02T03:48:45+03:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "focus": "Manevi Çözülme",
-   "short": "Derinlerde sakladığın endişeleri serbest bırakma vakti.",
-   "text": "Sekizinci evinde bulunan Ay'ın on ikinci evdeki Merkür retrosuyla kurduğu köprü, bilinçaltında sıkışıp kalmış bir korkuyu dönüştürmen için fırsat veriyor. Kendi iç dünyanla yapacağın dürüst bir yüzleşme, gereksiz yüklerden arınmanı sağlayacak. Uzak hedeflerinle ilgili acele kararlar almadan önce sezgilerinin gösterdiği yönü izlemelisin. Bazen sadece kabule geçmek en büyük rahatlamayı getirir.",
-   "motivation": "Bıraktığın her ağırlık kanatlandırır.",
-   "basis": "Sekizinci evdeki Ay ile on ikinci evdeki Merkür retrosunun üçgen açısı.",
-   "sky_events": [
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 7°57'",
-    "Ay Yengeç'te 18°35'",
-    "Merkür Akrep'te 17°19' ℞",
-    "Venüs Terazi'de 26°33' ℞",
-    "Mars Aslan'da 18°18'",
-    "Jüpiter Aslan'da 24°14'",
-    "Satürn Koç'ta 9°19' ℞",
-    "Uranüs İkizler'de 4°41' ℞",
-    "Neptün Koç'ta 2°06' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-01",
    "focus": "Ufuk Turu",
@@ -225,6 +201,31 @@
     "Uranüs İkizler'de 4°23' ℞",
     "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-09",
+   "focus": "İçsel Arınma",
+   "short": "Kendi köşene çekilip dinlenirken inanç tartışmalarından uzak kal.",
+   "text": "Akrep Yeniayı on ikinci evinde doğarken, ruhsal olarak yorgunluk veren alışkanlıkları geride bırakman için derin bir kapı açıyor. Uzak ufuklar ve fikirler alanındaki Mars'ın kare açısı, savunduğun düşünceler yüzünden içsel dinginliğini zedeleme tehlikesi taşıyor. Haklı çıkmaya çalışmak yerine zihnini boşaltmayı ve dinlenmeyi tercih etmelisin. Sezgilerine alan tanıdığında, gizli kalan engelleri rahatlıkla fark edebilirsin.",
+   "motivation": "Dinginlik haklılıktan değerlidir.",
+   "basis": "On ikinci evinde doğan Yeniay, dokuzuncu evindeki Mars ile sert kare açı yapıyor.",
+   "sky_events": [
+    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 16°58'",
+    "Ay Akrep'te 17°54'",
+    "Merkür Akrep'te 6°47' ℞",
+    "Venüs Terazi'de 23°17' ℞",
+    "Mars Aslan'da 22°43'",
+    "Jüpiter Aslan'da 25°15'",
+    "Satürn Koç'ta 8°47' ℞",
+    "Uranüs İkizler'de 4°21' ℞",
+    "Neptün Koç'ta 1°55' ℞",
+    "Plüton Kova'da 3°12'"
    ],
    "moon_phase": "Yeniay"
   }

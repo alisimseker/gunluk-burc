@@ -1,32 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-01T18:59:55+03:00",
+ "updated": "2026-11-02T03:48:45+03:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "focus": "Derin Kavrayış",
-   "short": "Olaylara geniş açıdan bakmak zihnini ferahlatacak.",
-   "text": "Hayata bakış açını derinleştiren, eski fikirlerini olgunlukla tarttığın bir gündesin. Birinci evinde geri giden Merkür ile kariyer alanındaki Mars arasındaki gerilim, hedeflerin konusunda aceleci sözlerden kaçınmanı gerektiriyor. Dokuzuncu evdeki Ay ise olaylara çok daha bilgece ve geniş bir perspektiften yaklaşmana yardım ediyor. Tartışmalara enerji harcamak yerine, edindiğin deneyimleri sindirmeye odaklan.",
-   "motivation": "Bilgelik acele etmeden köklenir.",
-   "basis": "Dokuzuncu evdeki Ay, 1. evde geri giden Merkür ile üçgen açıda.",
-   "sky_events": [
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 7°57'",
-    "Ay Yengeç'te 18°35'",
-    "Merkür Akrep'te 17°19' ℞",
-    "Venüs Terazi'de 26°33' ℞",
-    "Mars Aslan'da 18°18'",
-    "Jüpiter Aslan'da 24°14'",
-    "Satürn Koç'ta 9°19' ℞",
-    "Uranüs İkizler'de 4°41' ℞",
-    "Neptün Koç'ta 2°06' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-01",
    "focus": "Kariyer Dengesi",
@@ -225,6 +201,31 @@
     "Uranüs İkizler'de 4°23' ℞",
     "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-09",
+   "focus": "Kişisel Yenilenme",
+   "short": "Kendine yeni bir yön çizerken otorite figürleriyle sürtüşme.",
+   "text": "Burcunda gerçekleşen güçlü Yeniay, hayatının genel gidişatını ve kişisel duruşunu bütünüyle yenileme cesareti veriyor. Kariyer evindeki Mars ile oluşan dik açı, hedeflerin doğrultusunda ilerlerken iş yerinde veya üstlerinle ego çatışmaları doğurabilir. Haklı olsan bile gücünü agresiflikle değil, stratejik soğukkanlılıkla göstermelisin. Retro Merkür'ün de etkisiyle adımlarını atmadan önce geçmiş hatalarını gözden geçir.",
+   "motivation": "Kararlılığını sabrınla taçlandır.",
+   "basis": "Birinci evinde gerçekleşen Yeniay, onuncu evindeki Mars ile kare açı kuruyor.",
+   "sky_events": [
+    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 16°58'",
+    "Ay Akrep'te 17°54'",
+    "Merkür Akrep'te 6°47' ℞",
+    "Venüs Terazi'de 23°17' ℞",
+    "Mars Aslan'da 22°43'",
+    "Jüpiter Aslan'da 25°15'",
+    "Satürn Koç'ta 8°47' ℞",
+    "Uranüs İkizler'de 4°21' ℞",
+    "Neptün Koç'ta 1°55' ℞",
+    "Plüton Kova'da 3°12'"
    ],
    "moon_phase": "Yeniay"
   }

@@ -1,32 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-01T18:59:55+03:00",
+ "updated": "2026-11-02T03:48:45+03:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "focus": "Ortak Akıl",
-   "short": "Birlikte hareket ettiğin insanlarla uyumlu bir ritim tutturuyorsun.",
-   "text": "Yedinci evindeki Ay, sosyal çevreni anlatan alanda gerileyen Merkür ile kusursuz bir uyum yakalıyor. Partnerinle veya bir iş ortağınla eski bir projeyi yeniden gündeme alıp eksiklerini tamamlayabilirsiniz. Maddi paylaşımlarda yaşanabilecek ufak gerginliklere karşı serinkanlı kalmalı, ortak amaçları öne çıkarmalısın. Fikir birliğine varmak için karşındakini tüm dikkatinle dinlemen yetecektir.",
-   "motivation": "İş birliği çözümü kolaylaştırır.",
-   "basis": "Yedinci evdeki Ay ile on birinci evdeki Merkür arasındaki üçgen açı.",
-   "sky_events": [
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 7°57'",
-    "Ay Yengeç'te 18°35'",
-    "Merkür Akrep'te 17°19' ℞",
-    "Venüs Terazi'de 26°33' ℞",
-    "Mars Aslan'da 18°18'",
-    "Jüpiter Aslan'da 24°14'",
-    "Satürn Koç'ta 9°19' ℞",
-    "Uranüs İkizler'de 4°41' ℞",
-    "Neptün Koç'ta 2°06' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-01",
    "focus": "Finansal Arınma",
@@ -225,6 +201,31 @@
     "Uranüs İkizler'de 4°23' ℞",
     "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-09",
+   "focus": "Gelecek Planları",
+   "short": "Sosyal projelerde yer alırken ortak kaynak kavgalarından kaçın.",
+   "text": "Akrep Yeniayı, dahil olduğun topluluklar ve uzun vadeli hedeflerin açısından taze bir dönemi başlatıyor. Ancak sekizinci evindeki Mars ile oluşan kare açı, borçlar, ortak yatırımlar veya hisseli paralar konusunda aceleci adımların sorun çıkarabileceğine işaret ediyor. Arkadaşlarınla maddi işleri birbirine karıştırmamaya özen göstermelisin. İdeallerine odaklanıp sağlam adımlar atarak riskleri en aza indirebilirsin.",
+   "motivation": "Geleceğini sağlam temellerle ör.",
+   "basis": "On birinci evindeki Yeniay, sekizinci evinde bulunan Mars ile dik açı oluşturuyor.",
+   "sky_events": [
+    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 16°58'",
+    "Ay Akrep'te 17°54'",
+    "Merkür Akrep'te 6°47' ℞",
+    "Venüs Terazi'de 23°17' ℞",
+    "Mars Aslan'da 22°43'",
+    "Jüpiter Aslan'da 25°15'",
+    "Satürn Koç'ta 8°47' ℞",
+    "Uranüs İkizler'de 4°21' ℞",
+    "Neptün Koç'ta 1°55' ℞",
+    "Plüton Kova'da 3°12'"
    ],
    "moon_phase": "Yeniay"
   }

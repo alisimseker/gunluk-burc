@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-02T03:48:45+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 16°58'",
+   "Ay Akrep'te 17°54'",
+   "Merkür Akrep'te 6°47' ℞",
+   "Venüs Terazi'de 23°17' ℞",
+   "Mars Aslan'da 22°43'",
+   "Jüpiter Aslan'da 25°15'",
+   "Satürn Koç'ta 8°47' ℞",
+   "Uranüs İkizler'de 4°21' ℞",
+   "Neptün Koç'ta 1°55' ℞",
+   "Plüton Kova'da 3°12'"
+  ],
+  "events": [
+   "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+   "Ay ile Mars arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Yeniay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Derin Dönüşüm",
+   "short": "Maddi paylaşımlarda baskı hissettiğinde ani harcamalardan uzak dur.",
+   "text": "Akrep burcundaki Yeniay, ortaklaşa bütçeler ve paylaşılan kaynaklar alanında taze bir sayfa açıyor. Ancak Aslan'daki Mars ile oluşan dik açı, keyfi harcamalar veya anlık hevesler yüzünden gerilim doğurabilir. Karşındaki insanlarla parasal sınırları yeniden çizerken fevri çıkışlar yapmamaya özen göstermelisin. Gerileyen Merkür'ün de etkisiyle eski bir borç ya da alacak meselesini sakin kafayla masaya yatırabilirsin.",
+   "motivation": "Hesabını bilerek kök sal.",
+   "basis": "Akrep burcundaki Yeniay sekizinci evinde gerçekleşirken beşinci evindeki Mars ile kare açı kuruyor."
+  },
+  "boga": {
+   "focus": "Ortaklık Adımları",
+   "short": "Birebir ilişkilerde yeni kararlar alırken ailevi gerginlikleri yönet.",
+   "text": "Karşıt burcunda doğan Yeniay, evlilik, ortaklık ve önemli sözleşmelerde yepyeni bir evreye işaret ediyor. Yuva alanındaki Mars'ın bu döngüye sert teması, aile içindeki eski bir meseleyi ya da ev ortamındaki huzursuzluğu ilişkine yansıtma riski taşır. Karşındaki kişinin beklentilerini anlamak için sabır göstermen gerekebilir. Dinlemeyi seçtiğinde, gerileyen Merkür'ün yarattığı iletişim pürüzlerini hızla çözebilirsin.",
+   "motivation": "Uzlaşı sabırla filizlenir.",
+   "basis": "Yedinci evinde gerçekleşen Yeniay, dördüncü evindeki Mars ile kare açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Çalışma Düzeni",
+   "short": "Gündelik işleri yeniden kurarken fevri sözlerden kaçın.",
+   "text": "Günlük işlerini ve alışkanlıklarını yapılandırmak adına Akrep Yeniayı etkili bir başlangıç sunuyor. Üçüncü evindeki Mars'ın zorlayıcı açısı, iş ortamında aceleci konuşmaların veya ani tepkilerin yanlış anlaşılmalara yol açabileceğini gösteriyor. Bedenini dinleyip çalışma temponu sadeleştirmelisin. İletişimde net ama yumuşak kalırsan, yarım kalmış görevleri kolayca toparlayabilirsin.",
+   "motivation": "Sözünü tartar adımlarını netleştirirsin.",
+   "basis": "Altıncı evinde gerçekleşen Yeniay, üçüncü evindeki Mars ile kare açı oluşturuyor."
+  },
+  "yengec": {
+   "focus": "Yaratıcı Başlangıçlar",
+   "short": "Heves ettiğin projelere başlarken bütçeni sarsacak adımlardan kaçın.",
+   "text": "Bugün Akrep burcunda parlayan Yeniay, yaratıcı çalışmaların ve kişisel tutkuların için taze bir motivasyon getiriyor. Para evindeki Mars'ın oluşturduğu kare açı, eğlenceye veya projelere ölçüsüz kaynak aktarma dürtüsü yaratabilir. Öz değerini koruyarak sadece gerçekten inandığın adımlara odaklanmalısın. İçinden gelen yaratıcı kıvılcımı sabırla işlediğinde kalıcı bir tatmin sağlayacaksın.",
+   "motivation": "Üretkenliğin değerini bilerek parılda.",
+   "basis": "Beşinci evindeki Yeniay, ikinci evinde konumlanan Mars ile kare açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Hane Düzenlemesi",
+   "short": "Kendi isteklerini dayatmak yerine evdeki huzura öncelik ver.",
+   "text": "Dördüncü evinde gerçekleşen Akrep Yeniayı, hane içi dinamikleri ve özel yaşamını yeniden yapılandırma fırsatı veriyor. Burcunda ilerleyen Mars'ın bu alana yaptığı kare açı, kendi haklılığını kanıtlama isteğiyle ortamı germe ihtimalini artırabilir. Gücünü tartışmalara harcamak yerine evindeki gereksiz yükleri ayıklamaya yönlendirmelisin. Geçmişle yüzleşip sakince yol aldığında içsel konforun artacaktır.",
+   "motivation": "Gücün sükunetle anlam bulsun.",
+   "basis": "Dördüncü evinde doğan Yeniay, birinci evindeki Mars ile dik açı oluşturuyor."
+  },
+  "basak": {
+   "focus": "Zihinsel Başlangıç",
+   "short": "Fikirlerini eyleme dökerken içten içe biriken öfkeye dikkat et.",
+   "text": "Akrep Yeniayı, yakın çevrenle olan bağlarını ve öğrenme süreçlerini derinleştirmek için temiz bir sayfa açıyor. Arka plandaki Mars'ın kare açısı, bastırılmış kırgınlıkların aniden sert kelimelerle yüzeye çıkmasına sebep olabilir. Ağzından çıkacak sözleri süzgeçten geçirmeli ve dedikodulardan uzak durmalısın. Zihnindeki fikirleri yazıya dökerek ya da planlarını somutlaştırarak bu yoğunluğu hafifletebilirsin.",
+   "motivation": "Düşünceni süz, sözünü koru.",
+   "basis": "Üçüncü evinde gerçekleşen Yeniay, on ikinci evindeki Mars ile kare açı kuruyor."
+  },
+  "terazi": {
+   "focus": "Gelir Dengesi",
+   "short": "Maddi kazançlarını planlarken arkadaş çevresinin baskısına kapılma.",
+   "text": "Parasal kaynaklarını düzenleme ve gelirlerini artırma yönünde Akrep Yeniayı sana yeni kapılar aralayabilir. Ancak sosyal alandaki Mars'ın gergin açısı, grup etkinlikleri ya da dost ricaları sebebiyle bütçeni zorlayabileceğini hatırlatıyor. Kendi mali sınırlarını net çizerek hayır demeyi bilmelisin. Değer verdiğin şeyleri koruyarak ilerlemek, geleceğe yönelik kaygılarını azaltacaktır.",
+   "motivation": "Mali sınırların özgürlüğündür.",
+   "basis": "İkinci evinde parlayan Yeniay, on birinci evindeki Mars ile kare açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Kişisel Yenilenme",
+   "short": "Kendine yeni bir yön çizerken otorite figürleriyle sürtüşme.",
+   "text": "Burcunda gerçekleşen güçlü Yeniay, hayatının genel gidişatını ve kişisel duruşunu bütünüyle yenileme cesareti veriyor. Kariyer evindeki Mars ile oluşan dik açı, hedeflerin doğrultusunda ilerlerken iş yerinde veya üstlerinle ego çatışmaları doğurabilir. Haklı olsan bile gücünü agresiflikle değil, stratejik soğukkanlılıkla göstermelisin. Retro Merkür'ün de etkisiyle adımlarını atmadan önce geçmiş hatalarını gözden geçir.",
+   "motivation": "Kararlılığını sabrınla taçlandır.",
+   "basis": "Birinci evinde gerçekleşen Yeniay, onuncu evindeki Mars ile kare açı kuruyor."
+  },
+  "yay": {
+   "focus": "İçsel Arınma",
+   "short": "Kendi köşene çekilip dinlenirken inanç tartışmalarından uzak kal.",
+   "text": "Akrep Yeniayı on ikinci evinde doğarken, ruhsal olarak yorgunluk veren alışkanlıkları geride bırakman için derin bir kapı açıyor. Uzak ufuklar ve fikirler alanındaki Mars'ın kare açısı, savunduğun düşünceler yüzünden içsel dinginliğini zedeleme tehlikesi taşıyor. Haklı çıkmaya çalışmak yerine zihnini boşaltmayı ve dinlenmeyi tercih etmelisin. Sezgilerine alan tanıdığında, gizli kalan engelleri rahatlıkla fark edebilirsin.",
+   "motivation": "Dinginlik haklılıktan değerlidir.",
+   "basis": "On ikinci evinde doğan Yeniay, dokuzuncu evindeki Mars ile sert kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Gelecek Planları",
+   "short": "Sosyal projelerde yer alırken ortak kaynak kavgalarından kaçın.",
+   "text": "Akrep Yeniayı, dahil olduğun topluluklar ve uzun vadeli hedeflerin açısından taze bir dönemi başlatıyor. Ancak sekizinci evindeki Mars ile oluşan kare açı, borçlar, ortak yatırımlar veya hisseli paralar konusunda aceleci adımların sorun çıkarabileceğine işaret ediyor. Arkadaşlarınla maddi işleri birbirine karıştırmamaya özen göstermelisin. İdeallerine odaklanıp sağlam adımlar atarak riskleri en aza indirebilirsin.",
+   "motivation": "Geleceğini sağlam temellerle ör.",
+   "basis": "On birinci evindeki Yeniay, sekizinci evinde bulunan Mars ile dik açı oluşturuyor."
+  },
+  "kova": {
+   "focus": "Kariyer Hamlesi",
+   "short": "Mesleki adımlarını atarken ortaklıklarında sakin kalmaya çalış.",
+   "text": "Kariyer evinde gerçekleşen Akrep Yeniayı, mesleki duruşunu ve toplumsal hedeflerini tazelemek adına kuvvetli bir başlangıç sunuyor. Karşıt evindeki Mars'ın bu noktaya yaptığı kare açı, ortakların ya da partnerinle güç mücadelelerine çekilebileceğini vurguluyor. Dışarıdan gelen meydan okumalara fevri karşılık vermek yerine işine odaklanmalısın. Kendi profesyonel sınırlarını koruyarak ilerlemek uzun vadede saygınlık getirecektir.",
+   "motivation": "Duruşunu profesyonellikle güçlendir.",
+   "basis": "Onuncu evinde gerçekleşen Yeniay, yedinci evindeki Mars ile kare açı yapıyor."
+  },
+  "balik": {
+   "focus": "Fikir Dünyası",
+   "short": "Geniş vizyonunu günlük işlerin telaşına kaptırmadan sakin kal.",
+   "text": "Hayata bakışını tazeleyecek derin bir kavrayış zihnini sarıyor. Dokuzuncu evinde doğan Yeniay, inançlarını ve uzun vadeli hedeflerini kökten yenilemek isteyebileceğini fısıldıyor. Ancak altıncı evdeki Mars’ın zorlayıcı açısı, iş ortamındaki koşturmacanın seni sabırsızlaştırmasına zemin hazırlayabilir. Büyük tasarıları hayata geçirmeden önce günlük görevlerini telaşsızca tamamlamayı seç.",
+   "motivation": "Büyük resmi telaşsız adımlarla besle.",
+   "basis": "9. evde Akrep Yeniayı gerçekleşirken 6. evdeki Mars ile kare açı oluşturuyor."
+  }
+ }
+}

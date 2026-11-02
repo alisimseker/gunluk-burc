@@ -1,32 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-01T18:59:55+03:00",
+ "updated": "2026-11-02T03:48:45+03:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "focus": "Duygusal Netlik",
-   "short": "Eski bir meseleyi çözmek içini ferahlatacak adımı atmanı sağlıyor.",
-   "text": "Evindeki sakinlik, zihninde uzun süredir bekleyen ortak bir maddi konuyu masaya yatırman için zemin hazırlıyor. Akrep'teki Merkür retrosunun dördüncü evindeki Ay ile kurduğu su üçgeni, üstü kapalı kalmış duygusal veya finansal bir pürüzü şeffaflıkla konuşma fırsatı sunuyor. Gurur kaynaklı çıkışlara kapılmadan, sadece ihtiyacın olan güven hissine odaklanmalısın. İç dünyana çekilip neleri geride bırakmak istediğini listelemek sana iyi gelecektir.",
-   "motivation": "Yüzleştiğin her düğüm hafiflik getirir.",
-   "basis": "Dördüncü evdeki Ay ile sekizinci evdeki geri hareketteki Merkür arasındaki üçgen açı.",
-   "sky_events": [
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 7°57'",
-    "Ay Yengeç'te 18°35'",
-    "Merkür Akrep'te 17°19' ℞",
-    "Venüs Terazi'de 26°33' ℞",
-    "Mars Aslan'da 18°18'",
-    "Jüpiter Aslan'da 24°14'",
-    "Satürn Koç'ta 9°19' ℞",
-    "Uranüs İkizler'de 4°41' ℞",
-    "Neptün Koç'ta 2°06' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-01",
    "focus": "Yaratıcı Cesaret",
@@ -225,6 +201,31 @@
     "Uranüs İkizler'de 4°23' ℞",
     "Neptün Koç'ta 1°56' ℞",
     "Plüton Kova'da 3°11'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-09",
+   "focus": "Derin Dönüşüm",
+   "short": "Maddi paylaşımlarda baskı hissettiğinde ani harcamalardan uzak dur.",
+   "text": "Akrep burcundaki Yeniay, ortaklaşa bütçeler ve paylaşılan kaynaklar alanında taze bir sayfa açıyor. Ancak Aslan'daki Mars ile oluşan dik açı, keyfi harcamalar veya anlık hevesler yüzünden gerilim doğurabilir. Karşındaki insanlarla parasal sınırları yeniden çizerken fevri çıkışlar yapmamaya özen göstermelisin. Gerileyen Merkür'ün de etkisiyle eski bir borç ya da alacak meselesini sakin kafayla masaya yatırabilirsin.",
+   "motivation": "Hesabını bilerek kök sal.",
+   "basis": "Akrep burcundaki Yeniay sekizinci evinde gerçekleşirken beşinci evindeki Mars ile kare açı kuruyor.",
+   "sky_events": [
+    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 16°58'",
+    "Ay Akrep'te 17°54'",
+    "Merkür Akrep'te 6°47' ℞",
+    "Venüs Terazi'de 23°17' ℞",
+    "Mars Aslan'da 22°43'",
+    "Jüpiter Aslan'da 25°15'",
+    "Satürn Koç'ta 8°47' ℞",
+    "Uranüs İkizler'de 4°21' ℞",
+    "Neptün Koç'ta 1°55' ℞",
+    "Plüton Kova'da 3°12'"
    ],
    "moon_phase": "Yeniay"
   }
