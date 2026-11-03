@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-02T22:27:47+03:00",
+ "updated": "2026-11-03T06:07:47+03:00",
  "days": [
-  {
-   "date": "2026-11-01",
-   "focus": "Evde Yenilenme",
-   "short": "Yaşam alanında yapacağın küçük bir yenilik, zihinsel rahatlık sağlayacaktır.",
-   "text": "Dördüncü evine geçen Ay, odağını evine ve kişisel sığınağına çeviriyor. On ikinci evdeki Neptün ile oluşan üçgen açı, içsel bir dinginliğe zemin hazırlarken geçmişten gelen duygusal yükleri bırakmanı kolaylaştırıyor. Yaşam alanını ferahlatmak ya da odanı düzenlemek sana taze bir soluk aldırabilir. Kariyer baskılarını kapının dışında bırakmayı seç.",
-   "motivation": "Sadeleşen yuva huzur taşır.",
-   "basis": "Ay 4. evinde Aslan'da ve 12. evdeki Neptün ile üçgen açıda.",
-   "sky_events": [
-    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
-    "Ay bugün Aslan'a geçiyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 8°57'",
-    "Ay Aslan'da 2°45'",
-    "Merkür Akrep'te 16°14' ℞",
-    "Venüs Terazi'de 26°03' ℞",
-    "Mars Aslan'da 18°48'",
-    "Jüpiter Aslan'da 24°22'",
-    "Satürn Koç'ta 9°15' ℞",
-    "Uranüs İkizler'de 4°39' ℞",
-    "Neptün Koç'ta 2°04' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-02",
    "focus": "Aile ve İletişim",
@@ -226,6 +199,34 @@
     "Uranüs İkizler'de 4°21' ℞",
     "Neptün Koç'ta 1°55' ℞",
     "Plüton Kova'da 3°12'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-10",
+   "focus": "Maddi Paylaşımlar",
+   "short": "Kaynak yönetiminde abartıdan uzak durmak içini ferahlatacak.",
+   "text": "Günün ilerleyen saatlerinde sekizinci evine yerleşen Ay, ortaklaşa yürütülen bütçeleri ve karşılıklı güveni ön plana taşıyor. Aslan burcundaki Jüpiter ile oluşan kare açı, harcamalarda ya da maddi beklentilerde sınırları aşma eğilimi yaratabilir. Altıncı evindeki gerileyen Venüs ile dördüncü evindeki Mars'ın desteği, ev içindeki işleri toparlaman için gereken pratik gücü sana veriyor. Hesaplarını net tutarak ilerle.",
+   "motivation": "Ölçülü adımlar bereketi korur.",
+   "basis": "Yay burcundaki Ay ile dördüncü evindeki Jüpiter arasında kare açı gerçekleşiyor.",
+   "sky_events": [
+    "Ay bugün Yay'a geçiyor.",
+    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 17°58'",
+    "Ay Yay'da 0°12'",
+    "Merkür Akrep'te 6°04' ℞",
+    "Venüs Terazi'de 23°07' ℞",
+    "Mars Aslan'da 23°11'",
+    "Jüpiter Aslan'da 25°21'",
+    "Satürn Koç'ta 8°44' ℞",
+    "Uranüs İkizler'de 4°19' ℞",
+    "Neptün Koç'ta 1°54' ℞",
+    "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
   }

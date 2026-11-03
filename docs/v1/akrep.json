@@ -1,35 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-02T22:27:47+03:00",
+ "updated": "2026-11-03T06:07:47+03:00",
  "days": [
-  {
-   "date": "2026-11-01",
-   "focus": "Kariyer Dengesi",
-   "short": "İş hedeflerinde net adımlar atmak sorumluluklarını kolayca toparlamanı sağlar.",
-   "text": "Onuncu evinde gerçekleşen Son Dördün, mesleki duruşunda sadeleşme ve yön tayini getiriyor. Altıncı evdeki Neptün ile üçgen açı kuran Ay, günlük çalışma ortamındaki emeklerinin görünür olmasını sağlıyor. Aile ve iş arasındaki dengeyi kurarken aşırı kontrolcü olmaktan kaçınmalı, işleri akışına bırakabilmelisin. Masandaki en önemli görevi tamamlayıp günü hafiflemiş olarak kapatabilirsin.",
-   "motivation": "Gayretini netlikle taçlandır.",
-   "basis": "Ay 10. evinde Aslan burcunda Son Dördün fazında ve 6. evdeki Neptün ile üçgen açıda.",
-   "sky_events": [
-    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
-    "Ay bugün Aslan'a geçiyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 8°57'",
-    "Ay Aslan'da 2°45'",
-    "Merkür Akrep'te 16°14' ℞",
-    "Venüs Terazi'de 26°03' ℞",
-    "Mars Aslan'da 18°48'",
-    "Jüpiter Aslan'da 24°22'",
-    "Satürn Koç'ta 9°15' ℞",
-    "Uranüs İkizler'de 4°39' ℞",
-    "Neptün Koç'ta 2°04' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-02",
    "focus": "Hedefler ve İletişim",
@@ -226,6 +199,34 @@
     "Uranüs İkizler'de 4°21' ℞",
     "Neptün Koç'ta 1°55' ℞",
     "Plüton Kova'da 3°12'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-10",
+   "focus": "Maddi Çerçeve",
+   "short": "Harcama dengeni korumak bütçene nefes aldıracak.",
+   "text": "Ay burcundan ayrılarak ikinci evine geçerken, somut kaynakların ve öz değerin ön plana çıkıyor. Altıncı evindeki Neptün ile kurulan üçgen açı, mesleki süreçlerde iç sesine kulak vererek pratik kararlar alabileceğini fısıldıyor. Onuncu evindeki Mars ile on ikinci evindeki Venüs arasındaki olumlu açı ise hedeflerin doğrultusunda gizli bir destek bulabileceğini gösteriyor. Aşırı harcama hevesini dizginleyip mevcut olanı koru.",
+   "motivation": "Kanaat güveni sağlamlaştırır.",
+   "basis": "Ay ikinci evine geçerek altıncı evindeki retro Neptün ile üçgen açı oluşturuyor.",
+   "sky_events": [
+    "Ay bugün Yay'a geçiyor.",
+    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 17°58'",
+    "Ay Yay'da 0°12'",
+    "Merkür Akrep'te 6°04' ℞",
+    "Venüs Terazi'de 23°07' ℞",
+    "Mars Aslan'da 23°11'",
+    "Jüpiter Aslan'da 25°21'",
+    "Satürn Koç'ta 8°44' ℞",
+    "Uranüs İkizler'de 4°19' ℞",
+    "Neptün Koç'ta 1°54' ℞",
+    "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
   }

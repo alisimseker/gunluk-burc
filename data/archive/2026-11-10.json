@@ -1,0 +1,113 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-03T06:07:47+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 17°58'",
+   "Ay Yay'da 0°12'",
+   "Merkür Akrep'te 6°04' ℞",
+   "Venüs Terazi'de 23°07' ℞",
+   "Mars Aslan'da 23°11'",
+   "Jüpiter Aslan'da 25°21'",
+   "Satürn Koç'ta 8°44' ℞",
+   "Uranüs İkizler'de 4°19' ℞",
+   "Neptün Koç'ta 1°54' ℞",
+   "Plüton Kova'da 3°13'"
+  ],
+  "events": [
+   "Ay bugün Yay'a geçiyor.",
+   "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Yeniay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Zihinsel Ufuklar",
+   "short": "Geniş perspektiften bakarak yeni öğrenme fırsatlarına odaklanabilirsin.",
+   "text": "Güne başlarken zihnini kurcalayan dar kalıpları bir kenara bırakıp büyük resmi görmeye yönelebilirsin. Eğitim, araştırma ya da yeni bir vizyon geliştirme hususunda adımlar atmak sana iyi gelebilir. Ancak heyecanla aşırı büyük sözler vermemeye özen göstermeli, adımlarını ölçülü tutmalısın. Gün içinde sezgilerine kulak vermek, karmaşık meseleleri çözmeni kolaylaştıracaktır.",
+   "motivation": "Geniş bakış açısı çözümü getirir.",
+   "basis": "Ay 9. evine geçerken 1. evindeki Neptün ile üçgen açı yapıyor."
+  },
+  "boga": {
+   "focus": "Maddi Paylaşımlar",
+   "short": "Kaynak yönetiminde abartıdan uzak durmak içini ferahlatacak.",
+   "text": "Günün ilerleyen saatlerinde sekizinci evine yerleşen Ay, ortaklaşa yürütülen bütçeleri ve karşılıklı güveni ön plana taşıyor. Aslan burcundaki Jüpiter ile oluşan kare açı, harcamalarda ya da maddi beklentilerde sınırları aşma eğilimi yaratabilir. Altıncı evindeki gerileyen Venüs ile dördüncü evindeki Mars'ın desteği, ev içindeki işleri toparlaman için gereken pratik gücü sana veriyor. Hesaplarını net tutarak ilerle.",
+   "motivation": "Ölçülü adımlar bereketi korur.",
+   "basis": "Yay burcundaki Ay ile dördüncü evindeki Jüpiter arasında kare açı gerçekleşiyor."
+  },
+  "ikizler": {
+   "focus": "Karşılıklı Denge",
+   "short": "İlişkilerinde abartılı beklentilerden kaçınıp sakinlikle uyum yakalayabilirsin.",
+   "text": "Bugün muhatap olduğun kişilerle ilişkilerinde dengeyi korumak önem kazanıyor. Karşındaki insanla ortak bir paydada buluşmak için esneklik göstermek işleri kolaylaştıracaktır. İletişimde aşırı coşkulu veya abartılı tepkiler vermek yerine daha makul bir üslup benimsemelisin. Empati kurarak ilerlediğinde aradaki bağların ne kadar güçlendiğini fark edeceksin.",
+   "motivation": "Uyumlu diyalog güven tazeler.",
+   "basis": "Ay 7. evinde ilerlerken 3. evindeki Jüpiter ile kare açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Gündelik Verim",
+   "short": "İş listeni sadeleştirerek zihnindeki ağırlıklardan kurtulabilirsin.",
+   "text": "Ay'ın altıncı evine girişiyle beraber günlük sorumluluklarını ve sağlığını ilgilendiren rutinler önem kazanıyor. Onuncu evindeki retro Neptün ile oluşan üçgen açı, iş ortamında sezgisel çözümler geliştirmeni destekliyor. İkinci evindeki Jüpiter'in kare açısı ise aynı anda çok fazla göreve talip olmanın getireceği yorgunluğa işaret ediyor. Harcamalarını ve iş yükünü abartmadan, adım adım ilerlemeyi seç.",
+   "motivation": "Yalın akış dinginlik sağlar.",
+   "basis": "Ay altıncı evine geçerek onuncu evindeki Neptün ile üçgen açı oluşturuyor."
+  },
+  "aslan": {
+   "focus": "İlham ve Heves",
+   "short": "Yaratıcı işlerinde coşkunu dengede tutarak adımlar atabilirsin.",
+   "text": "Günün gelişiyle birlikte keyif aldığın işlere odaklanma arzun artabilir. Kendini ifade ederken güçlü bir çekim yaratıyorsun, ancak enerjini aynı anda çok fazla yere bölmemeye dikkat etmelisin. Sanatsal veya kişisel projelerinde ölçülü ilerlemek hevesinin uzun soluklu olmasını sağlar. İçinden gelen yaratıcı kıvılcımı sabırla işleyebilirsin.",
+   "motivation": "Ölçülü heyecan istikrar getirir.",
+   "basis": "Ay 5. evinde ilerlerken 1. evindeki Jüpiter ile kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "Hane Düzeni",
+   "short": "Kendi özel alanında kuracağın intizam zihnini toparlar.",
+   "text": "Dördüncü evine geçiş yapan Ay ile birlikte dikkatin yaşam alanına ve içsel güvenliğine kayıyor. Sekizinci evindeki Neptün ile kurulan üçgen açı, ailevi meselelerde hislerine güvenebileceğini ve empati kurmanın kolaylaşacağını gösteriyor. İkinci evindeki retro Venüs ile on ikinci evindeki Mars arasındaki sekstil, geçmişten gelen maddi bir konuyu sessizce çözüme kavuşturman için uygun bir zemin sunuyor. Sakinliğe alan tanı.",
+   "motivation": "İç huzuru sükunetle besle.",
+   "basis": "Ay dördüncü evine geçerek sekizinci evindeki Neptün ile üçgen açı kuruyor."
+  },
+  "terazi": {
+   "focus": "Yakın İletişim",
+   "short": "Görüşmelerinde zarafetini koruyarak ortak fikirler üretebilirsin.",
+   "text": "Yakın çevrenle yürüttüğün konuşmalarda yapıcı ve birleştirici bir dil kullanabilirsin. Birinci evindeki Venüs ile sosyal çevrendeki Mars arasında kurulan uyumlu bağ, kendini rahatça ortaya koymana destek veriyor. Fikir alışverişi yaparken samimiyeti korumak kapıları kolayca açacaktır. Günlük planlarında zihnini yormayacak küçük molalar vermeyi ihmal etme.",
+   "motivation": "Zarif üslup yolları açar.",
+   "basis": "1. evindeki Venüs ile 11. evindeki Mars arasındaki sekstil açı bugün kesinleşiyor."
+  },
+  "akrep": {
+   "focus": "Maddi Çerçeve",
+   "short": "Harcama dengeni korumak bütçene nefes aldıracak.",
+   "text": "Ay burcundan ayrılarak ikinci evine geçerken, somut kaynakların ve öz değerin ön plana çıkıyor. Altıncı evindeki Neptün ile kurulan üçgen açı, mesleki süreçlerde iç sesine kulak vererek pratik kararlar alabileceğini fısıldıyor. Onuncu evindeki Mars ile on ikinci evindeki Venüs arasındaki olumlu açı ise hedeflerin doğrultusunda gizli bir destek bulabileceğini gösteriyor. Aşırı harcama hevesini dizginleyip mevcut olanı koru.",
+   "motivation": "Kanaat güveni sağlamlaştırır.",
+   "basis": "Ay ikinci evine geçerek altıncı evindeki retro Neptün ile üçgen açı oluşturuyor."
+  },
+  "yay": {
+   "focus": "Kişisel Çıkış",
+   "short": "Kendi isteklerini merkeze alırken abartıdan sakınmalısın.",
+   "text": "Ay bugün burcuna yerleşerek iç dünyandaki durgunluğu dağıtıyor ve seni taze bir hevesle dolduruyor. Beşinci evindeki geri giden Neptün ile oluşan üçgen açı, hayal gücünü beslerken sanatsal ya da romantik konularda ilham veriyor. Dokuzuncu evindeki Jüpiter ile oluşan kare açı ise boyunu aşan sözler vermene ya da gereğinden büyük hedefler koymana zemin hazırlayabilir. Planlarını somut ve uygulanabilir düzeyde tut.",
+   "motivation": "Sakin özgüven rotanı netleştirir.",
+   "basis": "Ay Yay burcuna geçiyor ve dokuzuncu evindeki Jüpiter ile kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "İçsel Muhasebe",
+   "short": "Biraz yavaşlamak ve zihnini boşaltmak sana güç verecek.",
+   "text": "On ikinci evine geçen Ay, dış dünyanın gürültüsünden uzaklaşıp kendi kabuğuna çekilme ihtiyacını vurguluyor. Dördüncü evindeki Neptün ile kurulan üçgen açı, evinde dinlenmenin ve geçmiş yükleri affetmenin ruhuna iyi geleceğine işaret ediyor. Kariyer evindeki retro Venüs ile sekizinci evindeki Mars arasındaki sekstil, mesleki iş birliklerinde alttan alta yürüyen pürüzleri çözme fırsatı veriyor. Kendine dinlenme alanı aç.",
+   "motivation": "Yavaşlamak gücü geri kazandırır.",
+   "basis": "Ay on ikinci evine geçiş yaparak dördüncü evindeki Neptün ile üçgen açı kuruyor."
+  },
+  "kova": {
+   "focus": "Sosyal Çalışmalar",
+   "short": "Grup dinamiklerinde gücünü yapıcı biçimde sergileyebilirsin.",
+   "text": "Günün akışında dâhil olduğun topluluklar ve arkadaş grupları ön plana çıkıyor. Kendi potansiyelini sergilerken çevrene ilham verebilir, ortak projelerde yönlendirici bir rol üstlenebilirsin. Ekip çalışmalarında büyük vaatler yerine somut adımlara odaklanmak faydalı olur. Zihnini taze tutmak için dostlarınla samimi bir paylaşımda bulunabilirsin.",
+   "motivation": "Yapıcı duruş güven uyandırır.",
+   "basis": "Ay 11. evine girerken 1. evindeki Plüton ile sekstil açı oluşturuyor."
+  },
+  "balik": {
+   "focus": "Gelecek Hedefleri",
+   "short": "Sorumluluklarını sakince ele alarak uzun vadeli planlar yapabilirsin.",
+   "text": "Bugün hedeflerine odaklanmak ve duruşunu güçlendirmek için uygun şartlar var. Kendi öz değerini ve yeteneklerini sezgisel bir güvenle harmanlayabilirsin. Yalnız iş yükünü artırırken kapasiteni aşmamaya ve gerçekçi sınırlarda kalmaya özen göstermelisin. Adım adım ilerlediğinde hedeflerine giden yolun daha berrak hale geldiğini göreceksin.",
+   "motivation": "Bilinçli adımlar netlik getirir.",
+   "basis": "Ay 10. eve geçerken 2. evindeki Neptün ile üçgen açı yapıyor."
+  }
+ }
+}

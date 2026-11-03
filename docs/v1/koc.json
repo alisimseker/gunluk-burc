@@ -1,35 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-02T22:27:47+03:00",
+ "updated": "2026-11-03T06:07:47+03:00",
  "days": [
-  {
-   "date": "2026-11-01",
-   "focus": "Yaratıcı Cesaret",
-   "short": "Yaratıcı projelerine ilhamla odaklanabilir, yeni fikirleri cesurca deneyebilirsin.",
-   "text": "Aslan burcundaki Son Dördün, kişisel zevklerine ve yaratıcı üretimlerine yeni bir soluk getiriyor. Koç burcundaki Neptün ile kurulan uyumlu üçgen açı, içindeki sanatsal sezgileri canlandırıyor. Fikirlerini özgürce ortaya koymaktan çekinme; ancak sosyal çevrenden gelebilecek baskıcı tutumlara karşı sakinliğini koru. Sevdiğin bir uğraşa odaklanmak günün akışını güzelleştirecektir.",
-   "motivation": "Tutkunu hayal gücünle birleştir.",
-   "basis": "Ay 5. evinde Aslan burcunda Son Dördün fazında ve 1. evindeki Neptün ile üçgen açıda.",
-   "sky_events": [
-    "Bugün Son Dördün (Aslan burcunda) gerçekleşiyor.",
-    "Ay bugün Aslan'a geçiyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 8°57'",
-    "Ay Aslan'da 2°45'",
-    "Merkür Akrep'te 16°14' ℞",
-    "Venüs Terazi'de 26°03' ℞",
-    "Mars Aslan'da 18°48'",
-    "Jüpiter Aslan'da 24°22'",
-    "Satürn Koç'ta 9°15' ℞",
-    "Uranüs İkizler'de 4°39' ℞",
-    "Neptün Koç'ta 2°04' ℞",
-    "Plüton Kova'da 3°07'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-02",
    "focus": "Finansal Dengeler",
@@ -226,6 +199,34 @@
     "Uranüs İkizler'de 4°21' ℞",
     "Neptün Koç'ta 1°55' ℞",
     "Plüton Kova'da 3°12'"
+   ],
+   "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-10",
+   "focus": "Zihinsel Ufuklar",
+   "short": "Geniş perspektiften bakarak yeni öğrenme fırsatlarına odaklanabilirsin.",
+   "text": "Güne başlarken zihnini kurcalayan dar kalıpları bir kenara bırakıp büyük resmi görmeye yönelebilirsin. Eğitim, araştırma ya da yeni bir vizyon geliştirme hususunda adımlar atmak sana iyi gelebilir. Ancak heyecanla aşırı büyük sözler vermemeye özen göstermeli, adımlarını ölçülü tutmalısın. Gün içinde sezgilerine kulak vermek, karmaşık meseleleri çözmeni kolaylaştıracaktır.",
+   "motivation": "Geniş bakış açısı çözümü getirir.",
+   "basis": "Ay 9. evine geçerken 1. evindeki Neptün ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yay'a geçiyor.",
+    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 17°58'",
+    "Ay Yay'da 0°12'",
+    "Merkür Akrep'te 6°04' ℞",
+    "Venüs Terazi'de 23°07' ℞",
+    "Mars Aslan'da 23°11'",
+    "Jüpiter Aslan'da 25°21'",
+    "Satürn Koç'ta 8°44' ℞",
+    "Uranüs İkizler'de 4°19' ℞",
+    "Neptün Koç'ta 1°54' ℞",
+    "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
   }
