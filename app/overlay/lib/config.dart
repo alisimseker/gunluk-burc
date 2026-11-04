@@ -7,17 +7,18 @@ const String kMonthlyProductId = 'aylik_premium';
 const String kYearlyProductId = 'yillik_premium';
 
 /// Mağazaya ulaşılamadığında gösterilecek fiyatlar (gerçek fiyat mağazadan gelir)
-const String kMonthlyFallbackPrice = '₺299';
-const String kYearlyFallbackPrice = '₺2.499';
+const String kMonthlyFallbackPrice = '₺299,99';
+const String kYearlyFallbackPrice = '₺2.499,99';
 
 // ---------------------------------------------------------------- reklam
-/// AdMob kimlikleri. ŞU AN GOOGLE'IN TEST KİMLİKLERİ: AdMob hesabı açınca kendi kimliklerinle değiştir.
+/// AdMob kimlikleri. Android: gerçek kimlikler (AdMob uygulaması "Burç Atlası - Günlük Burç").
+/// iOS: henüz Google'ın test kimlikleri; iOS sürümü çıkınca AdMob'da iOS uygulaması açıp değiştir.
 /// (Uygulama kimliği ayrıca AndroidManifest.xml ve iOS Info.plist'te de yazılı; setup.dart ekler.)
-const String kAdmobInterstitialAndroid = 'ca-app-pub-3940256099942544/1033173712';
+const String kAdmobInterstitialAndroid = 'ca-app-pub-8986045384678938/7703376872';
 const String kAdmobInterstitialIos = 'ca-app-pub-3940256099942544/4411468910';
 
-/// Ana sayfanın altındaki sabit banner (uyarlanabilir banner test kimlikleri)
-const String kAdmobBannerAndroid = 'ca-app-pub-3940256099942544/9214589741';
+/// Ana sayfanın altındaki sabit banner (iOS'ta hâlâ test kimliği)
+const String kAdmobBannerAndroid = 'ca-app-pub-8986045384678938/5077213536';
 const String kAdmobBannerIos = 'ca-app-pub-3940256099942544/2435281174';
 
 /// Ücretsiz kullanıcıya günde en fazla kaç tam ekran reklam gösterilir

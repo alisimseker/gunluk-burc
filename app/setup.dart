@@ -17,8 +17,8 @@ import 'dart:io';
 const appName = 'Burç Atlası';
 const project = 'gunluk_burc';
 const org = 'com.alisimseker';
-// AdMob uygulama kimlikleri: ŞU AN GOOGLE'IN TEST KİMLİKLERİ. Gerçek kimliği AdMob > Uygulamalar'dan al.
-const admobAndroidAppId = 'ca-app-pub-3940256099942544~3347511713';
+// AdMob uygulama kimlikleri: Android gerçek; iOS hâlâ Google'ın test kimliği (iOS sürümünde değiştir).
+const admobAndroidAppId = 'ca-app-pub-8986045384678938~2742906265';
 const admobIosAppId = 'ca-app-pub-3940256099942544~1458002511';
 const kotlinDir = 'android/app/src/main/kotlin/com/alisimseker/gunluk_burc';
 
@@ -96,7 +96,7 @@ Future<void> main() async {
         </receiver>
     </application>''');
   }
-  // AdMob uygulama kimliği (ŞU AN GOOGLE TEST KİMLİĞİ; AdMob hesabı açınca değiştir: bkz. README)
+  // AdMob uygulama kimliği (yukarıdaki admobAndroidAppId)
   if (!m.contains('com.google.android.gms.ads.APPLICATION_ID')) {
     m = m.replaceFirst('</application>', '''    <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="$admobAndroidAppId"/>
