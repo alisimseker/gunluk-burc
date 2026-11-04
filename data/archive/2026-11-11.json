@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-04T04:32:59+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 18°58'",
+   "Ay Yay'da 12°20'",
+   "Merkür Akrep'te 5°32' ℞",
+   "Venüs Terazi'de 23°00' ℞",
+   "Mars Aslan'da 23°39'",
+   "Jüpiter Aslan'da 25°27'",
+   "Satürn Koç'ta 8°41' ℞",
+   "Uranüs İkizler'de 4°16' ℞",
+   "Neptün Koç'ta 1°53' ℞",
+   "Plüton Kova'da 3°13'"
+  ],
+  "events": [
+   "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Gelecek Vizyonu",
+   "short": "Uzak planlarında uzun vadeli ve sağlam adımlarla ilerleyebilirsin.",
+   "text": "Yeni şeyler öğrenmek veya ileriye dönük projeler tasarlamak isteyebilirsin. Kendi yeteneklerine duyduğun güven, uzun soluklu kararlar almanı kolaylaştırıyor. Acele etmeden, tecrübelerine dayanarak hareket ettiğinde zihnindeki karmaşa kendiliğinden dağılıyor. Bugün ufkunu genişletecek bir kitap okumak ya da bir eğitim fikrini olgunlaştırmak zihnine tazelik katabilir.",
+   "motivation": "Deneyimlerin sana yön göstersin.",
+   "basis": "Ay 9. evinde, 1. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "boga": {
+   "focus": "İçsel Dengelenme",
+   "short": "İç dünyandaki sessizlikle yüzleşip manevi bir düzen kurabilirsin.",
+   "text": "Ortaklaşa durumlar veya duygusal bağlar üzerinde durmak isteyebilirsin. Arka planda yürüttüğün işleri toparlamak ve üzerindeki baskıyı azaltmak bugün daha kolay. Kendi içinde tuttuğun bir kaygıyı somut adımlarla hafifletebileceğini fark edeceksin. Kendine zaman ayırıp bir süre sessiz bir ortamda dinlenmek zihnini fazlasıyla rahatlatacaktır.",
+   "motivation": "Sessizlikte güç topla.",
+   "basis": "Ay 8. evinde, 12. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Ortak Paydalar",
+   "short": "Sosyal çevrendeki tecrübeli kişilerle iş birliği yapabilirsin.",
+   "text": "Birebir ilişkilerinde karşılıklı güven arayışı ön plana çıkıyor. Sosyal çevrenden veya arkadaşlarından alacağın bir fikir, ortak girişimlerinde daha sağlam ilerlemeni sağlayabilir. Sözlerine netlik katıp karşı tarafı dikkatle dinlediğinde pürüzlerin eridiğini göreceksin. Bugün bir dostunla ortak bir hedef üzerine konuşarak net bir yol haritası belirleyebilirsin.",
+   "motivation": "Güvenle kurulan bağlar kalıcıdır.",
+   "basis": "Ay 7. evinde, 11. evindeki Satürn ile üçgen açıda."
+  },
+  "yengec": {
+   "focus": "Çalışma Disiplini",
+   "short": "Günlük işlerinde disiplinli davranarak işlerini kolayca toparlayabilirsin.",
+   "text": "Çalışma masanı, günlük yapılacaklar listenizi ve sorumluluklarını gözden geçirmek isteyebilirsin. Mesleki hedeflerine hizmet eden küçük ama kararlı adımlar atıyorsun. Adım adım ilerlemek gün içinde biriken iş yükünü gözünde büyütmeni engeller. Bugün iş yerinde veya evdeki çalışma alanında biriken evrakları düzenlemek zihnini ferahlatabilir.",
+   "motivation": "Düzenli gayret başarı getirir.",
+   "basis": "Ay 6. evinde, 10. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Yaratıcı Olgunluk",
+   "short": "Keyif aldığın alanlarda tecrübenle öne çıkabileceğin bir akış var.",
+   "text": "İçindeki hevesi ve üretkenliği somut projelere aktarmak bugün senin için oldukça zahmetsiz. İlham aldığın konuları disiplinli bir şekilde ele aldığında ortaya kalıcı işler çıkarabilirsin. Hobilerine vakit ayırırken aynı zamanda yeni bir bakış açısı kazanmanın yollarını arayabilirsin. Sevdiğin bir uğraşa odaklanıp onunla ilgili bir taslak hazırlamak gününü güzelleştirecektir.",
+   "motivation": "Tutkunu disiplinle şekillendir.",
+   "basis": "Ay 5. evinde, 9. evindeki Satürn ile üçgen açı kuruyor."
+  },
+  "basak": {
+   "focus": "Yuva Emniyeti",
+   "short": "Evinize ve ailenize dair sorumlulukları sakince ele alabilirsiniz.",
+   "text": "Yaşam alanındaki düzen ve huzur ihtiyacı bugün belirginleşiyor. Ailevi paylaşımlarda veya evle ilgili konularda geçmişten gelen bir meseleyi olgunlukla çözüme kavuşturabilirsin. Köklerine ve güvenli alanına odaklanmak duygusal olarak kendini daha emniyette hissettirir. Bugün evdeki eksikleri listelemek ve aile bireyleriyle ortak kararlar almak içini rahatlatacaktır.",
+   "motivation": "Yuvandaki huzura sahip çık.",
+   "basis": "Ay 4. evinde, 8. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "terazi": {
+   "focus": "Yapıcı Diyalog",
+   "short": "İletişimde ciddi ve yapıcı bir tutum sergileyerek uzlaşma sağlayabilirsin.",
+   "text": "Yakın çevren, kardeşlerin veya komşularınla olan diyaloglarında netlik arayışındasın. İkili ilişkilerinde sergileyeceğin olgun tavır, yanlış anlaşılmaların önüne geçer. Düşüncelerini bir sıraya koyup aktardığında muhataplarının sana saygı duyması kolaylaşıyor. Bir süredir ertelediğin bir görüşmeyi bugün yapabilir veya önemli bir yazışmayı sonlandırabilirsin.",
+   "motivation": "Açık sözlülük sağlam bağlar kurar.",
+   "basis": "Ay 3. evinde, 7. evindeki Satürn ile üçgen açı oluşturuyor."
+  },
+  "akrep": {
+   "focus": "Bütçe Dengesi",
+   "short": "Maddi konuları ve günlük harcamalarını kontrol altına almak kolaylaşıyor.",
+   "text": "Kendi imkanlarını ve harcama alışkanlıklarını daha gerçekçi değerlendirdiğin bir gündesin. Günlük rutinine dahil edeceğin pratik çözümler, kişisel kaynaklarını korumana yardım eder. Hesabını bilerek hareket etmek geleceğe dair kaygılarını azaltacaktır. Bugün harcama kalemlerini yazılı hale getirmek ve gereksiz harcamaları ayıklamak iyi bir adım olabilir.",
+   "motivation": "Kaynaklarını ölçülü kullan.",
+   "basis": "Ay 2. evinde, 6. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "yay": {
+   "focus": "Şahsi Sorumluluk",
+   "short": "Kendi beklentilerini ön plana alırken tutarlı adımlar atabilirsin.",
+   "text": "Hayatının kontrolünü eline alma isteğin oldukça belirgin. Yeteneklerini ve yaratıcı fikirlerini sergilerken aşırılıktan kaçınıp daha kararlı bir duruş sergiliyorsun. Kendine koyduğun hedeflere adım adım yaklaşmak özgüvenini tazeler. Bugün kişisel bir projen için ilk somut adımı atabilir veya kendine dair yeni bir kural koyabilirsin.",
+   "motivation": "Adımların sağlam ve tutarlı olsun.",
+   "basis": "Ay 1. evinde, 5. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Dinlenme ve Arınma",
+   "short": "Zihnini dinlendirmek ve iç dünyanda birikmiş yükleri bırakmak mümkün.",
+   "text": "Kendi kabuğuna çekilip zihinsel yorgunluğunu atmak isteyebilirsin. Ailevi geçmişin ya da içsel alanınla ilgili konuları sakin bir kafayla değerlendirmek sana güç katacaktır. Geri planda kalarak olayları dışarıdan gözlemlemek doğru kararlar almanı kolaylaştırır. Bugün tek başına vakit geçirebileceğin sakin bir etkinlik planlamak zihnini tazeleyecektir.",
+   "motivation": "Sessizce dinlenmek zihni arındırır.",
+   "basis": "Ay 12. evinde, 4. evindeki Satürn ile üçgen açı yapıyor."
+  },
+  "kova": {
+   "focus": "Planlı Sosyalleşme",
+   "short": "Gelecek hedeflerinizi dostlarınızla paylaşarak somut fikirler üretebilirsiniz.",
+   "text": "Sosyal gruplar ve arkadaşlıklar içinde daha verimli diyaloglar kurabileceğin bir gündesin. Yakın çevrenden alacağın fikirler, ileriye dönük projelerini daha tutarlı bir zemine oturtmana destek olur. Mantıklı ve gerçekçi öneriler sunarak çevrendeki insanlara yol gösterebilirsin. Bir topluluk projesi veya arkadaş grubuyla planlama toplantısı yapmak bugün verimli geçer.",
+   "motivation": "Dayanışma fikirleri güçlendirir.",
+   "basis": "Ay 11. evinde, 3. evindeki Satürn ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Mesleki İstikrar",
+   "short": "İş ve kariyer hedeflerinde sağlam adımlarla ilerlemek isteyebilirsin.",
+   "text": "Toplum önündeki duruşun ve kariyerindeki hedeflerin bugün ön planda. Maddi güvence arayışın, mesleki kararlarında daha temkinli ve kararlı davranmanı sağlıyor. Üzerine düşen görevleri eksiksiz tamamlamak üstlerinin takdirini kazanmana yardımcı olur. Bugün uzun vadeli bir iş planı üzerine çalışmak ya da sorumluluklarını listelemek verimini artıracaktır.",
+   "motivation": "Emeğinin ardında kararlılıkla dur.",
+   "basis": "Ay 10. evinde, 2. evindeki Satürn ile üçgen açı yapıyor."
+  }
+ }
+}

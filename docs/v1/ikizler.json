@@ -1,32 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-03T20:00:10+03:00",
+ "updated": "2026-11-04T04:32:59+03:00",
  "days": [
-  {
-   "date": "2026-11-02",
-   "focus": "İş ve İletişim",
-   "short": "Zihninden geçen fikirleri iş rutinine yansıtırken acele etme.",
-   "text": "Aslan burcundaki Ay, iletişim trafiğini hareketlendirirken altıncı evindeki gerileyen Merkür ile oluşan kare açı günlük işlerinde veya planlarında aksamalara yol açabilir. E-postaları göndermeden önce iki kez kontrol etmek veya iş arkadaşlarından gelen mesajları dikkatle okumak aksaklıkları önler. Sosyal ilişkilerinde kelimelerini özenle seçmelisin. Kısa yürüyüşler ve zihnini dinlendirecek molalar günün verimini artıracaktır.",
-   "motivation": "Dikkatli adımlar pürüzleri giderir.",
-   "basis": "Aslan burcundaki Ay, Merkür ile kare açı gerçekleştiriyor.",
-   "sky_events": [
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 9°57'",
-    "Ay Aslan'da 16°39'",
-    "Merkür Akrep'te 15°02' ℞",
-    "Venüs Terazi'de 25°35' ℞",
-    "Mars Aslan'da 19°18'",
-    "Jüpiter Aslan'da 24°29'",
-    "Satürn Koç'ta 9°11' ℞",
-    "Uranüs İkizler'de 4°37' ℞",
-    "Neptün Koç'ta 2°03' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-03",
    "focus": "Özgün İletişim",
@@ -229,6 +205,30 @@
     "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-11",
+   "focus": "Ortak Paydalar",
+   "short": "Sosyal çevrendeki tecrübeli kişilerle iş birliği yapabilirsin.",
+   "text": "Birebir ilişkilerinde karşılıklı güven arayışı ön plana çıkıyor. Sosyal çevrenden veya arkadaşlarından alacağın bir fikir, ortak girişimlerinde daha sağlam ilerlemeni sağlayabilir. Sözlerine netlik katıp karşı tarafı dikkatle dinlediğinde pürüzlerin eridiğini göreceksin. Bugün bir dostunla ortak bir hedef üzerine konuşarak net bir yol haritası belirleyebilirsin.",
+   "motivation": "Güvenle kurulan bağlar kalıcıdır.",
+   "basis": "Ay 7. evinde, 11. evindeki Satürn ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 18°58'",
+    "Ay Yay'da 12°20'",
+    "Merkür Akrep'te 5°32' ℞",
+    "Venüs Terazi'de 23°00' ℞",
+    "Mars Aslan'da 23°39'",
+    "Jüpiter Aslan'da 25°27'",
+    "Satürn Koç'ta 8°41' ℞",
+    "Uranüs İkizler'de 4°16' ℞",
+    "Neptün Koç'ta 1°53' ℞",
+    "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
   }
  ]
 }

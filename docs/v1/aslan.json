@@ -1,32 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-03T20:00:10+03:00",
+ "updated": "2026-11-04T04:32:59+03:00",
  "days": [
-  {
-   "date": "2026-11-02",
-   "focus": "İçsel Denge",
-   "short": "Kendi isteklerinle yuva sorumlulukları arasında denge kur.",
-   "text": "Birinci evinde ilerleyen Ay sana güçlü bir görünürlük katarken dördüncü evindeki gerileyen Merkür ile yaptığı kare açı, yuva hayatında geçmişten gelen pürüzleri su yüzüne çıkarabilir. Kendi hedeflerin için adımlar atarken yakınlarının beklentilerini göz ardı etmemeye çalış. Hissettiğin heyecanı yapıcı adımlara dönüştürmek için sakin bir strateji izle. İçindeki enerjiyi kişisel bakımına veya hobilerine yönlendirmek hafiflemene yardımcı olur.",
-   "motivation": "Dengeli duruş kararlılığı büyütür.",
-   "basis": "Birinci evindeki Ay, dördüncü evindeki Merkür ile kare açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 9°57'",
-    "Ay Aslan'da 16°39'",
-    "Merkür Akrep'te 15°02' ℞",
-    "Venüs Terazi'de 25°35' ℞",
-    "Mars Aslan'da 19°18'",
-    "Jüpiter Aslan'da 24°29'",
-    "Satürn Koç'ta 9°11' ℞",
-    "Uranüs İkizler'de 4°37' ℞",
-    "Neptün Koç'ta 2°03' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-03",
    "focus": "Bireysel Yenilenme",
@@ -229,6 +205,30 @@
     "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-11",
+   "focus": "Yaratıcı Olgunluk",
+   "short": "Keyif aldığın alanlarda tecrübenle öne çıkabileceğin bir akış var.",
+   "text": "İçindeki hevesi ve üretkenliği somut projelere aktarmak bugün senin için oldukça zahmetsiz. İlham aldığın konuları disiplinli bir şekilde ele aldığında ortaya kalıcı işler çıkarabilirsin. Hobilerine vakit ayırırken aynı zamanda yeni bir bakış açısı kazanmanın yollarını arayabilirsin. Sevdiğin bir uğraşa odaklanıp onunla ilgili bir taslak hazırlamak gününü güzelleştirecektir.",
+   "motivation": "Tutkunu disiplinle şekillendir.",
+   "basis": "Ay 5. evinde, 9. evindeki Satürn ile üçgen açı kuruyor.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 18°58'",
+    "Ay Yay'da 12°20'",
+    "Merkür Akrep'te 5°32' ℞",
+    "Venüs Terazi'de 23°00' ℞",
+    "Mars Aslan'da 23°39'",
+    "Jüpiter Aslan'da 25°27'",
+    "Satürn Koç'ta 8°41' ℞",
+    "Uranüs İkizler'de 4°16' ℞",
+    "Neptün Koç'ta 1°53' ℞",
+    "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
   }
  ]
 }

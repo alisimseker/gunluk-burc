@@ -1,32 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-03T20:00:10+03:00",
+ "updated": "2026-11-04T04:32:59+03:00",
  "days": [
-  {
-   "date": "2026-11-02",
-   "focus": "İlişki Dinamikleri",
-   "short": "İkili ilişkilerde iş odaklı gerginlikleri mantığınla çöz.",
-   "text": "Yedinci evindeki Ay, partnerinle veya yakın ortaklarınla olan paylaşımlarını ön plana çıkarıyor. Onuncu evinde retro ilerleyen Merkür ile oluşan kare açı, kariyerindeki sorumlulukların ilişkilerine yansımasına yol açabilir. İş stresini ikili diyologlara taşımamaya gayret göster. Karşındaki insanı önyargısız dinlemek ve beklentilerini açıkça belirtmek olası gerilimlerin önüne geçer. Esnek bir tutum sergilemek günü kolaylaştırır.",
-   "motivation": "Empati yapıcı çözümler üretir.",
-   "basis": "Yedinci evindeki Ay, onuncu evindeki Merkür ile kare açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 9°57'",
-    "Ay Aslan'da 16°39'",
-    "Merkür Akrep'te 15°02' ℞",
-    "Venüs Terazi'de 25°35' ℞",
-    "Mars Aslan'da 19°18'",
-    "Jüpiter Aslan'da 24°29'",
-    "Satürn Koç'ta 9°11' ℞",
-    "Uranüs İkizler'de 4°37' ℞",
-    "Neptün Koç'ta 2°03' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-03",
    "focus": "İlişki Dinamikleri",
@@ -229,6 +205,30 @@
     "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-11",
+   "focus": "Planlı Sosyalleşme",
+   "short": "Gelecek hedeflerinizi dostlarınızla paylaşarak somut fikirler üretebilirsiniz.",
+   "text": "Sosyal gruplar ve arkadaşlıklar içinde daha verimli diyaloglar kurabileceğin bir gündesin. Yakın çevrenden alacağın fikirler, ileriye dönük projelerini daha tutarlı bir zemine oturtmana destek olur. Mantıklı ve gerçekçi öneriler sunarak çevrendeki insanlara yol gösterebilirsin. Bir topluluk projesi veya arkadaş grubuyla planlama toplantısı yapmak bugün verimli geçer.",
+   "motivation": "Dayanışma fikirleri güçlendirir.",
+   "basis": "Ay 11. evinde, 3. evindeki Satürn ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 18°58'",
+    "Ay Yay'da 12°20'",
+    "Merkür Akrep'te 5°32' ℞",
+    "Venüs Terazi'de 23°00' ℞",
+    "Mars Aslan'da 23°39'",
+    "Jüpiter Aslan'da 25°27'",
+    "Satürn Koç'ta 8°41' ℞",
+    "Uranüs İkizler'de 4°16' ℞",
+    "Neptün Koç'ta 1°53' ℞",
+    "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
   }
  ]
 }

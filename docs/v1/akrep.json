@@ -1,32 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-03T20:00:10+03:00",
+ "updated": "2026-11-04T04:32:59+03:00",
  "days": [
-  {
-   "date": "2026-11-02",
-   "focus": "Hedefler ve İletişim",
-   "short": "Kariyer adımlarında kendini ifade ederken yapıcı kal.",
-   "text": "Onuncu evindeki Ay, toplum önündeki duruşunu ve mesleki konuları vurguluyor. Ancak birinci evinde retro yapan Merkür ile gerçekleşen kare açı, iş hayatında yanlış anlaşılmalara kapı aralayabilir. Üstlerinle veya iş ortaklarınla konuşurken net ve sakin bir dil kullanmaya özen göster. Geçmişteki projeleri yeniden ele almak eksikleri kapatmak adına fırsatlar sunabilir. Duygusal çıkışlar yerine profesyonel yaklaşımını korumalısın.",
-   "motivation": "Olgun yaklaşım başarını pekiştirir.",
-   "basis": "Onuncu evindeki Ay, burcundaki gerileyen Merkür ile kare yapıyor.",
-   "sky_events": [
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 9°57'",
-    "Ay Aslan'da 16°39'",
-    "Merkür Akrep'te 15°02' ℞",
-    "Venüs Terazi'de 25°35' ℞",
-    "Mars Aslan'da 19°18'",
-    "Jüpiter Aslan'da 24°29'",
-    "Satürn Koç'ta 9°11' ℞",
-    "Uranüs İkizler'de 4°37' ℞",
-    "Neptün Koç'ta 2°03' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-03",
    "focus": "Kariyer Dengesi",
@@ -229,6 +205,30 @@
     "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-11",
+   "focus": "Bütçe Dengesi",
+   "short": "Maddi konuları ve günlük harcamalarını kontrol altına almak kolaylaşıyor.",
+   "text": "Kendi imkanlarını ve harcama alışkanlıklarını daha gerçekçi değerlendirdiğin bir gündesin. Günlük rutinine dahil edeceğin pratik çözümler, kişisel kaynaklarını korumana yardım eder. Hesabını bilerek hareket etmek geleceğe dair kaygılarını azaltacaktır. Bugün harcama kalemlerini yazılı hale getirmek ve gereksiz harcamaları ayıklamak iyi bir adım olabilir.",
+   "motivation": "Kaynaklarını ölçülü kullan.",
+   "basis": "Ay 2. evinde, 6. evindeki Satürn ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 18°58'",
+    "Ay Yay'da 12°20'",
+    "Merkür Akrep'te 5°32' ℞",
+    "Venüs Terazi'de 23°00' ℞",
+    "Mars Aslan'da 23°39'",
+    "Jüpiter Aslan'da 25°27'",
+    "Satürn Koç'ta 8°41' ℞",
+    "Uranüs İkizler'de 4°16' ℞",
+    "Neptün Koç'ta 1°53' ℞",
+    "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
   }
  ]
 }

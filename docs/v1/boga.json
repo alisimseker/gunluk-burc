@@ -1,32 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-03T20:00:10+03:00",
+ "updated": "2026-11-04T04:32:59+03:00",
  "days": [
-  {
-   "date": "2026-11-02",
-   "focus": "Aile ve İletişim",
-   "short": "Evindeki huzuru korumak için ikili ilişkilerde dinlemeyi seç.",
-   "text": "Dördüncü evinde yer alan Ay ile yedinci evindeki gerileyen Merkür arasındaki kare açı, aile içi sohbetlerde veya ortaklıklarda bazı anlaşmazlıkları tetikleyebilir. Eski meseleler aniden gündeme gelirse tepki vermeden önce derin bir nefes al. Evindeki konfor alanına odaklanmak zihnindeki karmaşayı yatıştırır. Yakın çevrenle empati kurarak ilerlediğinde günün sonunda ortak noktada buluşmak çok daha kolaylaşacak.",
-   "motivation": "Sükunetle dinlemek bağları onarır.",
-   "basis": "Ay ile yedinci evindeki Merkür arasında kare açı oluşuyor.",
-   "sky_events": [
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 9°57'",
-    "Ay Aslan'da 16°39'",
-    "Merkür Akrep'te 15°02' ℞",
-    "Venüs Terazi'de 25°35' ℞",
-    "Mars Aslan'da 19°18'",
-    "Jüpiter Aslan'da 24°29'",
-    "Satürn Koç'ta 9°11' ℞",
-    "Uranüs İkizler'de 4°37' ℞",
-    "Neptün Koç'ta 2°03' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-03",
    "focus": "Evde Yenilenme",
@@ -229,6 +205,30 @@
     "Plüton Kova'da 3°13'"
    ],
    "moon_phase": "Yeniay"
+  },
+  {
+   "date": "2026-11-11",
+   "focus": "İçsel Dengelenme",
+   "short": "İç dünyandaki sessizlikle yüzleşip manevi bir düzen kurabilirsin.",
+   "text": "Ortaklaşa durumlar veya duygusal bağlar üzerinde durmak isteyebilirsin. Arka planda yürüttüğün işleri toparlamak ve üzerindeki baskıyı azaltmak bugün daha kolay. Kendi içinde tuttuğun bir kaygıyı somut adımlarla hafifletebileceğini fark edeceksin. Kendine zaman ayırıp bir süre sessiz bir ortamda dinlenmek zihnini fazlasıyla rahatlatacaktır.",
+   "motivation": "Sessizlikte güç topla.",
+   "basis": "Ay 8. evinde, 12. evindeki Satürn ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 18°58'",
+    "Ay Yay'da 12°20'",
+    "Merkür Akrep'te 5°32' ℞",
+    "Venüs Terazi'de 23°00' ℞",
+    "Mars Aslan'da 23°39'",
+    "Jüpiter Aslan'da 25°27'",
+    "Satürn Koç'ta 8°41' ℞",
+    "Uranüs İkizler'de 4°16' ℞",
+    "Neptün Koç'ta 1°53' ℞",
+    "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
   }
  ]
 }
