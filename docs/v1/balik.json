@@ -1,34 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-04T20:12:50+03:00",
+ "updated": "2026-11-05T04:35:34+03:00",
  "days": [
-  {
-   "date": "2026-11-03",
-   "focus": "Günlük Rutinler",
-   "short": "İkili ilişkilerde karşı tarafı anlamaya özen göster.",
-   "text": "Ay 7. evine geçiş yaparken ilişkiler ve ortaklıklar gününün ana konusu oluyor. 4. evindeki Uranüs ile kurduğu sert açı, ev ve aile içinde ani gelişen durumlar yaratabilir. Venüs'ün 8. evindeki konumu, ortak finansal kaynaklarda veya duygusal paylaşımlarda destekleyici bir akış sunuyor. Karşılıklı anlayışla her sorunu çözebilirsin.",
-   "motivation": "Anlayışla köprüler kur.",
-   "basis": "Ay 7. evinde, 4. evindeki Uranüs ile kare açıda.",
-   "sky_events": [
-    "Ay bugün Başak'a geçiyor.",
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 10°57'",
-    "Ay Başak'ta 0°18'",
-    "Merkür Akrep'te 13°46' ℞",
-    "Venüs Terazi'de 25°09' ℞",
-    "Mars Aslan'da 19°48'",
-    "Jüpiter Aslan'da 24°36'",
-    "Satürn Koç'ta 9°08' ℞",
-    "Uranüs İkizler'de 4°35' ℞",
-    "Neptün Koç'ta 2°02' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-04",
    "focus": "İlişki Dengesi",
@@ -227,6 +201,33 @@
     "Uranüs İkizler'de 4°16' ℞",
     "Neptün Koç'ta 1°53' ℞",
     "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-12",
+   "focus": "Mesleki Gayret",
+   "short": "Sorumluluklarını düzenli yürüterek hedeflerine yaklaşabilirsin.",
+   "text": "İş hayatındaki ve toplum önündeki hedeflerine odaklanmak için verimli bir akış var. Günlük çalışma rutinlerini disipline sokmak, sorumluluklarını daha kolay tamamlamana imkan tanır. Ortaklı mali konularda dengeli kalarak kafandaki planları netleştirebilirsin. Bugün yapılacaklar listeni sadeleştirip adım adım ilerlemeyi seç.",
+   "motivation": "Disiplinini hedeflerinle buluştur.",
+   "basis": "Ay 10. evdeyken 6. evdeki Mars ile üçgen açı oluşturuyor.",
+   "sky_events": [
+    "Ay bugün Oğlak'a geçiyor.",
+    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 19°59'",
+    "Ay Yay'da 24°19'",
+    "Merkür Akrep'te 5°11' ℞",
+    "Venüs Terazi'de 22°54' ℞",
+    "Mars Aslan'da 24°07'",
+    "Jüpiter Aslan'da 25°32'",
+    "Satürn Koç'ta 8°38' ℞",
+    "Uranüs İkizler'de 4°14' ℞",
+    "Neptün Koç'ta 1°52' ℞",
+    "Plüton Kova'da 3°14'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

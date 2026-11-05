@@ -1,34 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-04T20:12:50+03:00",
+ "updated": "2026-11-05T04:35:34+03:00",
  "days": [
-  {
-   "date": "2026-11-03",
-   "focus": "Evde Yenilenme",
-   "short": "Yaşam alanındaki detayları düzenleyerek huzuru yakala.",
-   "text": "Ay'ın Başak burcuna geçişi ile birlikte 5. evindeki yaratıcı ve keyifli konular ön plana çıkıyor. Uranüs'ün burcundaki duruşuyla tetiklenen kare açı, kişisel alanında bazı ani kararlar almana neden olabilir. Venüs'ün 6. evindeki konumu, günlük işlerinde sana estetik bir dokunuş katıyor. Sakin adımlarla ilerlemek sana iyi gelecek.",
-   "motivation": "Huzurunu kendi ellerinle boya.",
-   "basis": "Ay 5. evine geçiyor, 2. evindeki Uranüs ile kare açıda.",
-   "sky_events": [
-    "Ay bugün Başak'a geçiyor.",
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 10°57'",
-    "Ay Başak'ta 0°18'",
-    "Merkür Akrep'te 13°46' ℞",
-    "Venüs Terazi'de 25°09' ℞",
-    "Mars Aslan'da 19°48'",
-    "Jüpiter Aslan'da 24°36'",
-    "Satürn Koç'ta 9°08' ℞",
-    "Uranüs İkizler'de 4°35' ℞",
-    "Neptün Koç'ta 2°02' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-04",
    "focus": "Duygusal İfade",
@@ -227,6 +201,33 @@
     "Uranüs İkizler'de 4°16' ℞",
     "Neptün Koç'ta 1°53' ℞",
     "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-12",
+   "focus": "Ev ve Denge",
+   "short": "Hane içindeki işleri pratik yollarla düzene sokabilirsin.",
+   "text": "Aileni veya yaşadığın alanı ilgilendiren konularda pratik adımlar atabileceğin bir gündesin. Birlikte karar almak, ev içindeki sorumlulukları paylaşmak zihinsel olarak rahatlamanı sağlar. Çalışma rutinlerini basitleştirerek kendine zaman yaratabilirsin. Yakın çevrenle sakince diyalog kurmak pürüzleri ortadan kaldırır.",
+   "motivation": "Huzuru kendi alanında yapılandır.",
+   "basis": "Ay 8. evdeyken 4. evdeki Jüpiter ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Oğlak'a geçiyor.",
+    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 19°59'",
+    "Ay Yay'da 24°19'",
+    "Merkür Akrep'te 5°11' ℞",
+    "Venüs Terazi'de 22°54' ℞",
+    "Mars Aslan'da 24°07'",
+    "Jüpiter Aslan'da 25°32'",
+    "Satürn Koç'ta 8°38' ℞",
+    "Uranüs İkizler'de 4°14' ℞",
+    "Neptün Koç'ta 1°52' ℞",
+    "Plüton Kova'da 3°14'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

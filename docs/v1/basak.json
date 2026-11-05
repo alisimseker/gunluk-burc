@@ -1,34 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-04T20:12:50+03:00",
+ "updated": "2026-11-05T04:35:34+03:00",
  "days": [
-  {
-   "date": "2026-11-03",
-   "focus": "Zihinsel Dinlenme",
-   "short": "Kendi burcuna geçen Ay ile kişisel hedeflerine odaklan.",
-   "text": "Ay burcuna adım atarken enerjini tamamen kendi üzerine topluyorsun. 10. evindeki Uranüs ile yaptığı kare, kariyer alanında ani bir yön değişikliği veya sürpriz bir gelişme getirebilir. Venüs'ün 2. evindeki desteği ise maddi konularda sana rahat bir nefes aldırıyor. Kendine zaman tanıyarak kararlarını gözden geçir.",
-   "motivation": "Öz güveninle adımlarını at.",
-   "basis": "Ay 1. evine geçiyor, 10. evindeki Uranüs ile kare açıda.",
-   "sky_events": [
-    "Ay bugün Başak'a geçiyor.",
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 10°57'",
-    "Ay Başak'ta 0°18'",
-    "Merkür Akrep'te 13°46' ℞",
-    "Venüs Terazi'de 25°09' ℞",
-    "Mars Aslan'da 19°48'",
-    "Jüpiter Aslan'da 24°36'",
-    "Satürn Koç'ta 9°08' ℞",
-    "Uranüs İkizler'de 4°35' ℞",
-    "Neptün Koç'ta 2°02' ℞",
-    "Plüton Kova'da 3°08'"
-   ],
-   "moon_phase": "Son Dördün"
-  },
   {
    "date": "2026-11-04",
    "focus": "Bireysel Netlik",
@@ -227,6 +201,33 @@
     "Uranüs İkizler'de 4°16' ℞",
     "Neptün Koç'ta 1°53' ℞",
     "Plüton Kova'da 3°13'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-12",
+   "focus": "İçsel Alan",
+   "short": "Kendi kabuğunda dinlenerek yaşam alanını güzelleştirebilirsin.",
+   "text": "Evinde ve iç dünyanda sakinlik arayışının öne çıktığı bir gündesin. Geçmişe yönelik zihinsel değerlendirmeleri arkanda bırakarak ana odaklanmak sana iyi gelir. Kendi imkanlarını doğru değerlendirerek evine küçük dokunuşlar yapabilirsin. Günü acele etmeden, kendi hızında yaşamak ruhsal dengeni korumanı sağlar.",
+   "motivation": "Zihnini dingin adımlarla besle.",
+   "basis": "Ay 4. evdeyken 2. evdeki Venüs ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Oğlak'a geçiyor.",
+    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 19°59'",
+    "Ay Yay'da 24°19'",
+    "Merkür Akrep'te 5°11' ℞",
+    "Venüs Terazi'de 22°54' ℞",
+    "Mars Aslan'da 24°07'",
+    "Jüpiter Aslan'da 25°32'",
+    "Satürn Koç'ta 8°38' ℞",
+    "Uranüs İkizler'de 4°14' ℞",
+    "Neptün Koç'ta 1°52' ℞",
+    "Plüton Kova'da 3°14'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }
