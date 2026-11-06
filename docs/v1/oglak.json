@@ -1,34 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-05T20:22:42+03:00",
+ "updated": "2026-11-06T04:34:53+03:00",
  "days": [
-  {
-   "date": "2026-11-04",
-   "focus": "Zihinsel Gelişim",
-   "short": "Araştırdığın konulardaki ayrıntılar, gelecek planlarına ışık tutuyor.",
-   "text": "Eğitsel işler, resmi süreçler veya uzaklarla ilgili konular bugün ön plana çıkabilir. Arkadaş çevrenden gelen fikirleri kendi süzgecinden geçirerek uzun vadeli hedeflerine entegre edebilirsin. Bilgiyi pratik bir şekilde kullanmak, vizyonunu daha gerçekçi bir zemine oturtuyor. Detaylarda boğulmadan ana fikre sadık kalarak ilerlemelisin.",
-   "motivation": "Bilgiyi pratikle harmanla.",
-   "basis": "Ay 9. evinde bulunup 11. evdeki Güneş ile altmışlık açı kuruyor.",
-   "sky_events": [
-    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 11°57'",
-    "Ay Başak'ta 13°43'",
-    "Merkür Akrep'te 12°28' ℞",
-    "Venüs Terazi'de 24°44' ℞",
-    "Mars Aslan'da 20°18'",
-    "Jüpiter Aslan'da 24°43'",
-    "Satürn Koç'ta 9°04' ℞",
-    "Uranüs İkizler'de 4°33' ℞",
-    "Neptün Koç'ta 2°01' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-05",
    "focus": "Mesleki Denge",
@@ -228,6 +202,33 @@
     "Uranüs İkizler'de 4°14' ℞",
     "Neptün Koç'ta 1°52' ℞",
     "Plüton Kova'da 3°14'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-13",
+   "focus": "Şahsi Kararlılık",
+   "short": "Arkadaş ortamındaki fikir paylaşımları kişisel adımlarını cesaretlendirecektir.",
+   "text": "Kendi duruşunu ve hedeflerini ortaya koyarken dostlarının yapıcı geri bildirimlerinden beslenebilirsin. Sosyal çevrenle yürüttüğün diyaloglarda açık fikirli olmak kişisel projelerine netlik kazandırır. Ailevi baskıların veya evdeki pürüzlerin moralini düşürmesine izin vermeden rotanda kal. Sakin ve kendinden emin adımlarınla çevrendekilere güven aşılamayı başaracaksın.",
+   "motivation": "Kararlı duruş güven verir.",
+   "basis": "1. evindeki Ay'ın 11. evdeki Merkür ile sekstil açısı.",
+   "sky_events": [
+    "Merkür bugün düz harekete geçiyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 20°59'",
+    "Ay Oğlak'ta 6°11'",
+    "Merkür Akrep'te 5°02'",
+    "Venüs Terazi'de 22°52' ℞",
+    "Mars Aslan'da 24°34'",
+    "Jüpiter Aslan'da 25°38'",
+    "Satürn Koç'ta 8°35' ℞",
+    "Uranüs İkizler'de 4°11' ℞",
+    "Neptün Koç'ta 1°51' ℞",
+    "Plüton Kova'da 3°15'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

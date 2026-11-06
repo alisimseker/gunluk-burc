@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-06T04:34:53+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 20°59'",
+   "Ay Oğlak'ta 6°11'",
+   "Merkür Akrep'te 5°02'",
+   "Venüs Terazi'de 22°52' ℞",
+   "Mars Aslan'da 24°34'",
+   "Jüpiter Aslan'da 25°38'",
+   "Satürn Koç'ta 8°35' ℞",
+   "Uranüs İkizler'de 4°11' ℞",
+   "Neptün Koç'ta 1°51' ℞",
+   "Plüton Kova'da 3°15'"
+  ],
+  "events": [
+   "Merkür bugün düz harekete geçiyor.",
+   "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Mesleki Netlik",
+   "short": "Kariyer hedeflerindeki belirsizlikler yerini somut adımlara bırakıyor.",
+   "text": "Mesleki hedeflerinde neyi nasıl yapacağını tartarken ortak kaynakları akılcı biçimde planlayabilirsin. Kendi sınırlarını zorlamak yerine görevlerini sıraya koyarak ilerlemek zihnini rahatlatır. Üstlerinle veya ortak çalıştığın kişilerle yapacağın görüşmelerde gerçekçi ayrıntılara odaklan. Şüpheleri bir yana koyup somut verilere dayandığında işlerin hızla yoluna girdiğini göreceksin.",
+   "motivation": "Net plan sağlam sonuç verir.",
+   "basis": "10. evindeki Ay ile 8. evindeki Merkür arasındaki altmışlık açı."
+  },
+  "boga": {
+   "focus": "Ufuk Çizgisi",
+   "short": "İkili diyaloglarda açık fikirli kalarak yeni bakış açıları kazanabilirsin.",
+   "text": "Uzak hedeflerin ve uzun vadeli tasarıların konusunda karşı tarafın fikirlerini dinlemek sana yepyeni bir perspektif kazandırabilir. Ortaklarınla veya eşinle paylaştığın düşünceler daha anlaşılır bir zemine oturuyor. Kendi kabuğuna çekilip kaygılanmak yerine sorularını doğrudan muhatabına yönelt. Net iletişim sayesinde hem zihnindeki kuşkuları dağıtır hem de rotanı sağlamlaştırırsın.",
+   "motivation": "Açık zihin yolu aydınlatır.",
+   "basis": "9. evindeki Ay'ın 7. evdeki Merkür ile kurduğu sekstil açı."
+  },
+  "ikizler": {
+   "focus": "Detaylı İnceleme",
+   "short": "Gündelik işlerinde yapacağın titiz düzenlemeler bütçeni toparlamana yardım eder.",
+   "text": "Paylaşılan harcamalar veya resmi evraklarla ilgili ayrıntıları gözden geçirmek için elverişli koşullar var. Çalışma ortamında yarım kalan işleri tamamlamak kafandaki yükü hafifletir. Çevrenden gelen dağınık beklentilere takılmadan kendi yapılacaklar listene sadık kal. Hesaplarını ve mesai düzenini netleştirdiğinde günün verimi hissedilir derecede artacaktır.",
+   "motivation": "Düzen zihni ferahlatır.",
+   "basis": "8. evindeki Ay ile 6. evindeki Merkür arasındaki sekstil açı."
+  },
+  "yengec": {
+   "focus": "Karşılıklı Güven",
+   "short": "Sevdiklerinle kurduğun samimi konuşmalar aradaki bağı daha da güçlendiriyor.",
+   "text": "Özel hayatında ya da ortak projelerinde hissettiklerini dolaysızca aktarmak ilişkilerini ferahlatabilir. Yaratıcı fikirlerini partnerinle paylaşarak ortak bir paydada buluşmayı deneyebilirsin. Sorumlulukların getirdiği dönemsel ağırlığı ilişkiye yansıtmak yerine açık sözlülüğü seç. Karşındakini sakince dinlediğinde aranızdaki pürüzlerin kendiliğinden eridiğine tanık olacaksın.",
+   "motivation": "İçten paylaşım güveni besler.",
+   "basis": "7. evindeki Ay'ın 5. evdeki Merkür ile sekstil açısı."
+  },
+  "aslan": {
+   "focus": "Rutin İntizamı",
+   "short": "Yaşam alanındaki küçük bir düzenleme gündelik temponu hissedilir biçimde hafifletir.",
+   "text": "Evindeki düzeni toparlamak ya da biriken rutin işleri sıraya koymak zihnini sakinleştirir. Ailenle yapacağın pratik konuşmalarla aksayan günlük işleri iş bölümü yaparak kolayca halledebilirsin. Büyüyen beklentileri kontrol altına alıp sadece önündeki somut göreve odaklanmayı dene. Fiziksel ortamını sadeleştirdikçe hem çalışma verimin artacak hem de günün karmaşasından uzaklaşacaksın.",
+   "motivation": "Sade düzen verim getirir.",
+   "basis": "6. evindeki Ay ile 4. evindeki Merkür arasındaki sekstil açı."
+  },
+  "basak": {
+   "focus": "Yaratıcı Düşünce",
+   "short": "Keyif aldığın konuları yazarak veya konuşarak aktarmak sana iyi gelecektir.",
+   "text": "Zihnindeki özgün projeleri kağıda dökmek ve yakın çevrenle paylaşmak için yapıcı bir gün. Sevdiğin şeylere vakit ayırırken aşırı mükemmeliyetçi kaygıları bir kenara bırakmayı seçebilirsin. İletişim trafiğindeki tıkanıklıklar çözülürken kendini kelimelerle ifade etmek seni rahatlatır. İçindeki hevesi somut bir uğraşa yönlendirerek günü neşeyle tamamla.",
+   "motivation": "Üretken fikirler değer bulur.",
+   "basis": "5. evindeki Ay'ın 3. evdeki Merkür ile altmışlık açısı."
+  },
+  "terazi": {
+   "focus": "Hane Dengesi",
+   "short": "Maddi imkanlarını evin ihtiyaçlarıyla dengeli biçimde buluşturabilirsin.",
+   "text": "Yaşam alanın için planladığın harcamaları daha sağlam ve gerçekçi kriterlerle değerlendirebilirsin. Bütçeni sarsmadan hane içindeki konforu artıracak pratik çözümler üretmek mümkün. İkili ilişkilerden kaynaklanan tereddütleri büyütmek yerine aile büyükleriyle açıkça konuşmayı tercih et. Somut ihtiyaçları listelediğinde harcamalarını çok daha kontrollü yürütebileceksin.",
+   "motivation": "Sağlam adımlar huzur getirir.",
+   "basis": "4. evindeki Ay ile 2. evindeki Merkür arasındaki sekstil açı."
+  },
+  "akrep": {
+   "focus": "Açık İfade",
+   "short": "Zihnindeki düşünceleri açıkça dile getirerek tereddütleri geride bırakabilirsin.",
+   "text": "Kendini anlatırken son günlerde yaşadığın kararsızlıklar yerini berrak bir bakış açısına bırakıyor. Kardeşlerinle, komşularınla veya iş arkadaşlarınla yapacağın kısa görüşmelerde net olmak işlerini hızlandırır. Günlük koşuşturmanın getirdiği yorgunlukları gözünde büyütmeden tek bir konuya odaklan. Sözlerinin arkasındaki kararlılık çevrende hak ettiğin ciddiyeti yaratacaktır.",
+   "motivation": "Sözündeki netlik yol açar.",
+   "basis": "1. evindeki Merkür'ün düz harekete geçişi ve 3. evdeki Ay ile sekstili."
+  },
+  "yay": {
+   "focus": "Maddi Muhasebe",
+   "short": "Sessizce yürüttüğün planlar bütçeni kontrol altına almanı kolaylaştıracaktır.",
+   "text": "Kişisel harcamalarını ve birikimlerini sakin kafayla gözden geçirmek sana güven verir. Başkalarına açmadığın bazı projeleri kendi içinde olgunlaştırmak için sakin bir zaman dilimindesin. Harcama hevesini tetikleyen dürtülere karşı sağduyulu davranıp ihtiyaçlarını önceliklendir. Kendi değerini dış onayda değil, ürettiğin somut istikrarda ara.",
+   "motivation": "Sağduyu bereketi çoğaltır.",
+   "basis": "2. evindeki Ay ile 12. evindeki Merkür arasındaki sekstil açı."
+  },
+  "oglak": {
+   "focus": "Şahsi Kararlılık",
+   "short": "Arkadaş ortamındaki fikir paylaşımları kişisel adımlarını cesaretlendirecektir.",
+   "text": "Kendi duruşunu ve hedeflerini ortaya koyarken dostlarının yapıcı geri bildirimlerinden beslenebilirsin. Sosyal çevrenle yürüttüğün diyaloglarda açık fikirli olmak kişisel projelerine netlik kazandırır. Ailevi baskıların veya evdeki pürüzlerin moralini düşürmesine izin vermeden rotanda kal. Sakin ve kendinden emin adımlarınla çevrendekilere güven aşılamayı başaracaksın.",
+   "motivation": "Kararlı duruş güven verir.",
+   "basis": "1. evindeki Ay'ın 11. evdeki Merkür ile sekstil açısı."
+  },
+  "kova": {
+   "focus": "İçsel Dinlenme",
+   "short": "Mesleki hedeflerini geri planda sakince değerlendirmek sana berraklık kazandırır.",
+   "text": "Kariyerindeki hedefleri ve geleceğe dönük planları gürültüden uzak bir köşede düşünmek isteyebilirsin. Üstlerinle veya çalışma hayatındaki muhataplarınla kuracağın temaslarda sağduyulu olmak kazandırır. Yakın çevrenden gelen asılsız söylentilere kulak asmadan kendi sezgilerine yaslan. Sessizce hazırladığın stratejiler zamanı geldiğinde sana büyük bir hareket alanı sağlayacaktır.",
+   "motivation": "Derin sessizlik vizyonu büyütür.",
+   "basis": "12. evindeki Ay ile 10. evindeki Merkür arasındaki sekstil açı."
+  },
+  "balik": {
+   "focus": "Gelecek Vizyonu",
+   "short": "Yeni fikirler ve uzak hedefler üzerine arkadaşlarınla sohbet etmek ufkunu açar.",
+   "text": "Katıldığın gruplarda veya dost meclislerinde bilgi ve deneyim paylaşımı yapmak gününü verimli kılar. Yeni eğitimler, seyahatler ya da kültürel konular üzerine kafa yormak sana taze bir motivasyon sağlayabilir. Parasal kaygıları büyütmek yerine elindeki somut imkanlarla uzun vadeli planlar kur. Ortak idealler etrafında buluştuğun insanlarla bağlarını güçlendirmeye bak.",
+   "motivation": "Ortak idealler rotayı güçlendirir.",
+   "basis": "11. evindeki Ay'ın 9. evdeki Merkür ile sekstil açısı."
+  }
+ }
+}

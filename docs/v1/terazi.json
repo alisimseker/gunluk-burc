@@ -1,34 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-05T20:22:42+03:00",
+ "updated": "2026-11-06T04:34:53+03:00",
  "days": [
-  {
-   "date": "2026-11-04",
-   "focus": "İçsel Temizlik",
-   "short": "Kendi kabuğuna çekilip zihnini düzenlemek, maddi konularda netlik sağlıyor.",
-   "text": "Geri planda yürüttüğün işleri toparlamak ve sessizce çalışmak bugün sana verim getirecektir. Maddi değerlerin ve birikimlerin hakkında içsel bir muhasebe yapabilir, gereksiz yüklerden arınabilirsin. Temponu biraz düşürüp dinlenmeye vakit ayırmak, zihnindeki karmaşayı çözmeni kolaylaştırır. Kendi iç sesine güvenerek plan yap.",
-   "motivation": "Sessiz analiz çözümü getirir.",
-   "basis": "Ay 12. evindeyken 2. evdeki Güneş ile altmışlık açı yapıyor.",
-   "sky_events": [
-    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 11°57'",
-    "Ay Başak'ta 13°43'",
-    "Merkür Akrep'te 12°28' ℞",
-    "Venüs Terazi'de 24°44' ℞",
-    "Mars Aslan'da 20°18'",
-    "Jüpiter Aslan'da 24°43'",
-    "Satürn Koç'ta 9°04' ℞",
-    "Uranüs İkizler'de 4°33' ℞",
-    "Neptün Koç'ta 2°01' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-05",
    "focus": "Kişisel Uyanış",
@@ -228,6 +202,33 @@
     "Uranüs İkizler'de 4°14' ℞",
     "Neptün Koç'ta 1°52' ℞",
     "Plüton Kova'da 3°14'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-13",
+   "focus": "Hane Dengesi",
+   "short": "Maddi imkanlarını evin ihtiyaçlarıyla dengeli biçimde buluşturabilirsin.",
+   "text": "Yaşam alanın için planladığın harcamaları daha sağlam ve gerçekçi kriterlerle değerlendirebilirsin. Bütçeni sarsmadan hane içindeki konforu artıracak pratik çözümler üretmek mümkün. İkili ilişkilerden kaynaklanan tereddütleri büyütmek yerine aile büyükleriyle açıkça konuşmayı tercih et. Somut ihtiyaçları listelediğinde harcamalarını çok daha kontrollü yürütebileceksin.",
+   "motivation": "Sağlam adımlar huzur getirir.",
+   "basis": "4. evindeki Ay ile 2. evindeki Merkür arasındaki sekstil açı.",
+   "sky_events": [
+    "Merkür bugün düz harekete geçiyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 20°59'",
+    "Ay Oğlak'ta 6°11'",
+    "Merkür Akrep'te 5°02'",
+    "Venüs Terazi'de 22°52' ℞",
+    "Mars Aslan'da 24°34'",
+    "Jüpiter Aslan'da 25°38'",
+    "Satürn Koç'ta 8°35' ℞",
+    "Uranüs İkizler'de 4°11' ℞",
+    "Neptün Koç'ta 1°51' ℞",
+    "Plüton Kova'da 3°15'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

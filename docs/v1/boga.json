@@ -1,34 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-05T20:22:42+03:00",
+ "updated": "2026-11-06T04:34:53+03:00",
  "days": [
-  {
-   "date": "2026-11-04",
-   "focus": "Duygusal İfade",
-   "short": "Sevdiklerinle kurduğun samimi diyaloglar, ilişkine pratik bir boyut kazandırıyor.",
-   "text": "Hobilerine zaman ayırmak ve duygularını somut yollarla ifade etmek sana çok iyi geliyor. Birlikte çalıştığın ya da ortak kararlar aldığın kişilerle geçmiş konuları konuşurken çözüme odaklanacaksın. Eleştirel tonu bir kenara koyup yapıcı adımlar attığında ilişkilerindeki bağ güçleniyor. Bugün kendine ve sevdiklerine küçük sürprizler planlayabilirsin.",
-   "motivation": "Yapıcı üslup bağları pekiştirir.",
-   "basis": "Ay 5. evinde, 7. evindeki Merkür ile altmışlık açı yapıyor.",
-   "sky_events": [
-    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 11°57'",
-    "Ay Başak'ta 13°43'",
-    "Merkür Akrep'te 12°28' ℞",
-    "Venüs Terazi'de 24°44' ℞",
-    "Mars Aslan'da 20°18'",
-    "Jüpiter Aslan'da 24°43'",
-    "Satürn Koç'ta 9°04' ℞",
-    "Uranüs İkizler'de 4°33' ℞",
-    "Neptün Koç'ta 2°01' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-05",
    "focus": "Çalışma Ritmi",
@@ -228,6 +202,33 @@
     "Uranüs İkizler'de 4°14' ℞",
     "Neptün Koç'ta 1°52' ℞",
     "Plüton Kova'da 3°14'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-13",
+   "focus": "Ufuk Çizgisi",
+   "short": "İkili diyaloglarda açık fikirli kalarak yeni bakış açıları kazanabilirsin.",
+   "text": "Uzak hedeflerin ve uzun vadeli tasarıların konusunda karşı tarafın fikirlerini dinlemek sana yepyeni bir perspektif kazandırabilir. Ortaklarınla veya eşinle paylaştığın düşünceler daha anlaşılır bir zemine oturuyor. Kendi kabuğuna çekilip kaygılanmak yerine sorularını doğrudan muhatabına yönelt. Net iletişim sayesinde hem zihnindeki kuşkuları dağıtır hem de rotanı sağlamlaştırırsın.",
+   "motivation": "Açık zihin yolu aydınlatır.",
+   "basis": "9. evindeki Ay'ın 7. evdeki Merkür ile kurduğu sekstil açı.",
+   "sky_events": [
+    "Merkür bugün düz harekete geçiyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 20°59'",
+    "Ay Oğlak'ta 6°11'",
+    "Merkür Akrep'te 5°02'",
+    "Venüs Terazi'de 22°52' ℞",
+    "Mars Aslan'da 24°34'",
+    "Jüpiter Aslan'da 25°38'",
+    "Satürn Koç'ta 8°35' ℞",
+    "Uranüs İkizler'de 4°11' ℞",
+    "Neptün Koç'ta 1°51' ℞",
+    "Plüton Kova'da 3°15'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }
