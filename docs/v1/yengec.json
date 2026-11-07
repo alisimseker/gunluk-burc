@@ -1,32 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "İçsel Sığınak",
-   "short": "Yaşam alanındaki huzuru çoğaltarak günün yorgunluğunu atabilirsin.",
-   "text": "Sabahın yoğun konuşma temposu geride kalırken, dikkatini yaşam alanına ve kişisel konforuna yöneltiyorsun. Dördüncü evine adım atan Ay, sevdiklerinle evde huzurlu bir akşam geçirme arzunu öne çıkarıyor. Venüs'ün retro hareketiyle eski bir ev dekorasyonu ya da aile meselesi yeniden gündeme gelebilir. Sakin bir çay molası eşliğinde iç sesini dinle.",
-   "motivation": "Huzuru yuvanda büyüt.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve 4. evdeki Venüs retrosu.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Ailevi Rahatlama",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "İlişki ve Yuva",
+   "short": "Ortaklıklarda beklentilerinle evdeki huzur ihtiyacın karşı karşıya gelebilir.",
+   "text": "İkili ilişkilerinde ciddi ve somut adımlar atmak isteyebilirsin. Ailevi konular veya ev yaşamındaki beklentiler, partnerinle aranda kısa süreli bir kararsızlığa yol açabilir. Hobilerine ve sana neşe veren konulara vakit ayırmak aradaki gerginliği yumuşatacaktır. Yakın çevrenle açık ve net iletişim kurarak beklentileri sadeleştirebilirsin. Bir akşam yürüyüşü zihnini berraklaştırmak için harika bir fırsattır.",
+   "motivation": "Uyum içsel huzurla başlar.",
+   "basis": "Ay 7. evinde ilerlerken 4. evindeki Venüs ile kare açı yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

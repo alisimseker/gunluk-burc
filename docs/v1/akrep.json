@@ -1,32 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "İçsel Arınma",
-   "short": "Günün yorgunluğunu sessiz bir köşede dinlenerek geride bırakabilirsin.",
-   "text": "Sosyal çevrenle planları tamamladıktan sonra günün ikinci yarısında kabuğuna çekilmek sana çok iyi gelecektir. On ikinci evine geçen Ay, iç dünyandaki kalabalığı ayıklaman ve zihnini sakinleştirmen için uygun bir alan yaratıyor. Burcundaki Güneş ve gerileyen Merkür kavuşumu, geçmiş kararlarını kendi içinde olgunlukla değerlendirmeni sağlıyor. Akşam saatlerini gürültüden uzak planla.",
-   "motivation": "Sükunet kalbini sakinleştirir.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Gizli Çözülmeler",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "İletişim ve Zihinsel Odak",
+   "short": "Düşüncelerini net bir dille aktarırken içsel huzurunu korumayı unutma.",
+   "text": "Zihnini meşgul eden fikirleri yazıya dökmek veya yakın çevrenle paylaşmak için uygun bir gün. Gizli kalan bir husus ya da iç dünyandaki çekinceler iletişim tarzına yansıyabilir. Kendi duruşundan ve hedeflerinden emin olman, çevrendekilerin güvenini kazanmanı kolaylaştırıyor. İletişimde kırıcı olmamaya özen göstererek planlarını sırayla hayata geçirebilirsin. Bir not defteri tutup fikirlerini kaydetmeyi deneyebilirsin.",
+   "motivation": "Sözlerini kararlı duruşunla destekle.",
+   "basis": "Güneş 1. evindeyken 3. evindeki Ay ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

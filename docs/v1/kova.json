@@ -1,32 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Fikir Açılımı",
-   "short": "Zihnini kalıplardan çıkarıp yeni düşüncelere cömertçe yer açabilirsin.",
-   "text": "Ortak bütçe ve sorumluluk detaylarını hallettikten sonra ruhun daha ferah alanlara ihtiyaç duyuyor. Dokuzuncu evine geçen Ay, farklı bir felsefe okumak veya seyahat planı hayal etmek için güzel bir esin veriyor. Yedinci evindeki Jüpiter'in Venüs ile uyumu, hayatındaki özel bir kişiyle geleceğe dair umut dolu fikirler paylaşmana zemin hazırlar. Zihnini rutinlerin dışına çıkar.",
-   "motivation": "Geniş bakan yolu kolay bulur.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Özgün Keşifler",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Zihinsel Dinlenme ve İnançlar",
+   "short": "İç dünyana çekilip dinlenmek isterken uzak planlar zihnini kurcalayabilir.",
+   "text": "Dış dünyanın karmaşasından biraz uzaklaşıp dinlenmeye ihtiyaç duyabilirsin. Yurt dışı, eğitim veya uzun vadeli inançlarınla ilgili konular zihinsel dinginliğini bir miktar bölebilir. Kariyerindeki Güneş desteği, gizli yürüttüğün işlerde sağlam sonuçlar almanı kolaylaştırıyor. Temponu biraz yavaşlatıp zihnini arındıracak aktiviteler seçmek sana iyi gelecektir. Erken yatıp uykunu almaya özen göster.",
+   "motivation": "Dinlenmeyi kendine hak tanıyarak ilerle.",
+   "basis": "Ay 12. evindeyken 10. evindeki Güneş ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

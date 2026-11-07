@@ -1,32 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Yaratıcı Mola",
-   "short": "Sana neşe veren uğraşlara vakit ayırıp zihnini tazeleyebilirsin.",
-   "text": "Evdeki işleri tamamladıktan sonra kendini mutlu eden uğraşlara yönelmek isteyebilirsin. Beşinci evine geçen Ay, yarım kalmış sanatsal bir hevesi veya hobiyi yeniden ele almana destek veriyor. Üçüncü evindeki Jüpiter ile Venüs'ün uyumu, keyifli bir sohbetin moralini yükselteceğini gösteriyor. Bugün kendine eğlenceli bir mola hakkı tanı.",
-   "motivation": "Neşeni üretime davet et.",
-   "basis": "Ay'ın Terazi burcuna geçmesi ve Venüs-Jüpiter sekstili.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Yaratıcı Heves",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Bütçe ve Yaratıcılık",
+   "short": "Paylaşılan kaynaklar ve hobilerin arasındaki dengeye odaklanabilirsin.",
+   "text": "Finansal konular, ödemeler veya ortak giderler zihnini meşgul edebilir. Keyifli harcamalar ile yapılması gereken zaruri ödemeler arasında kalabilirsin. Günlük iş temposundaki düzenli yaklaşımın, krizleri çabucak çözmene yardımcı oluyor. Yaratıcı projelerine ara vermeden önce bütçeni gözden geçirmeyi deneyebilirsin. Akşam saatlerinde zihnini rahatlatacak somut uğraşlara yönelmek iyi gelir.",
+   "motivation": "Harcamalarını tutkuyla değil akılla yönet.",
+   "basis": "Ay 8. evindeyken 5. evinde düz harekete geçen Venüs ile kare yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

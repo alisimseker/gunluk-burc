@@ -1,32 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Ortak Hayaller",
-   "short": "Eski dostlarla bir araya gelmek sana taze bir neşe katabilir.",
-   "text": "Mesleki hedeflerine odaklandığın yoğun sabahın ardından sosyal planlar ve dostluklar gündemine giriyor. On birinci evine geçen Ay, eski arkadaşlarla buluşmak ya da ortak bir ideali konuşmak için sıcak bir atmosfer sunuyor. Dokuzuncu evindeki Jüpiter'in Venüs ile kurduğu uyum, sohbetlerde ufkunu açan paylaşımlar getirebilir. İnsanlarla arandaki bağı güçlendirmek sana moral verecek.",
-   "motivation": "Gönülden bağlar yolu aydınlatır.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter sekstili.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Dost Meclisi",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Maddi Değerler ve Sosyal Çevre",
+   "short": "Arkadaş grubunla olan sosyal harcamalarını planlı şekilde dengelemelisin.",
+   "text": "Maddi güvence arayışın ve bütçe planlaman bugün ön planda yer alıyor. Sosyal çevrenle veya arkadaş grubunla yapacağın organizasyonlar bütçeni zorlayabilir. İç dünyanda yakaladığın dinginlik, harcama kararlarında daha mantıklı hareket etmeni sağlıyor. Birikimlerini korumak için bugün somut hedeflere yönelmek mantıklı bir tercih olacaktır. Alışveriş yapmadan önce ihtiyaç listesi hazırlayabilirsin.",
+   "motivation": "Kaynağını bilinçli tercihlerle koru.",
+   "basis": "Ay 2. evindeyken 11. evinde düz harekete geçen Venüs ile kare açı yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

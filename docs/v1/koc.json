@@ -1,32 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Birebir Uyum",
-   "short": "İkili diyaloglarda nezaketi öne alarak uyumu kolayca yakalayabilirsin.",
-   "text": "Sabah saatlerinde toparladığın işlerin ardından dikkatini ikili diyaloglara çeviriyorsun. Karşı tarafın beklentilerini sakince dinlemek, gün içinde olası pürüzleri büyümeden çözer. Yedinci evindeki gerileyen Venüs'ün Jüpiter ile kurduğu tatlı temas, eski bir anlaşmazlığı tatlı dille çözmek için zemin hazırlıyor. Akşamı sevdiğin biriyle sakince geçirmek sana iyi gelecektir.",
-   "motivation": "Nezaketle dinlemek bağı tazeler.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve Venüs-Jüpiter altmışlığı.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "İkili Anlaşmalar",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "İş ve İlişkiler",
+   "short": "Kariyer hedeflerinle ikili ilişkilerindeki beklentileri dengelemen gerekebilir.",
+   "text": "Kariyerindeki sorumluluklar ve otorite figürleriyle iletişim bugün ön planda. İş ortaklıklarında veya evlilikteki talepler, profesyonel hedeflerinle kısa süreli bir uyumsuzluk yaratabilir. Akrep'teki Güneş'in desteği sayesinde ortak bütçe ve dönüşüm konularında mantıklı çözümler üretebilirsin. İkili diyaloglarda baskıcı olmak yerine dinlemeyi seçmek işini kolaylaştırır. Gün bitmeden ortak bir kararda buluşmaya gayret et.",
+   "motivation": "Dengeyi iş birliğiyle yakala.",
+   "basis": "Ay 10. evinde ilerlerken 7. evindeki Venüs ile kare açı yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

@@ -1,32 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Kişisel Uyanış",
-   "short": "Ay burcuna geçerken kendi isteklerine alan açıp tazelenebilirsin.",
-   "text": "Birkaç gündür hissettiğin geri çekilme ihtiyacı, Ay'ın burcuna adım atmasıyla yerini canlanmaya bırakıyor. Kendi isteklerini ve görünüşünü ön plana çıkarmak için taze bir heves bulabilirsin. Burcundaki gerileyen Venüs'ün Jüpiter ile yaptığı tatlı açı, eski dostlardan gelebilecek samimi bir desteğe işaret ediyor. Kendine şefkat göstermeyi ve duruşunu tazelemeyi ihmal etme.",
-   "motivation": "Kendi varlığına şefkatle sarıl.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve burçtaki Venüs-Jüpiter sekstili.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Taze Perspektif",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Ev ve Kişisel Alan",
+   "short": "Kendi isteklerin ile ailevi sorumlulukların arasında denge arayabilirsin.",
+   "text": "Evinle ve ailenle ilgilenmek, iç dünyana çekilmek arzusu hissedebilirsin. Kendi kişisel duruşun ve beklentilerin, ev içindeki dinamiklerle zaman zaman çelişebilir. Maddi kaynaklarındaki sağlamlaşma, kendini daha güvende hissetmene katkı sunuyor. Yaşam alanında ufak tefek düzenlemeler yapmak enerjini tazeleyebilir. Aile içi görüşmelerde net ve sakin kalarak ilerlemek en iyisidir.",
+   "motivation": "Kişisel dengeni yuvanla buluştur.",
+   "basis": "Venüs 1. evinde düz harekete geçerken 4. evindeki Ay ile kare yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

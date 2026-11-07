@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-07T04:13:35+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 22°00'",
+   "Ay Oğlak'ta 17°59'",
+   "Merkür Akrep'te 5°04'",
+   "Venüs Terazi'de 22°51'",
+   "Mars Aslan'da 25°02'",
+   "Jüpiter Aslan'da 25°43'",
+   "Satürn Koç'ta 8°33' ℞",
+   "Uranüs İkizler'de 4°09' ℞",
+   "Neptün Koç'ta 1°50' ℞",
+   "Plüton Kova'da 3°16'"
+  ],
+  "events": [
+   "Venüs bugün düz harekete geçiyor.",
+   "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İş ve İlişkiler",
+   "short": "Kariyer hedeflerinle ikili ilişkilerindeki beklentileri dengelemen gerekebilir.",
+   "text": "Kariyerindeki sorumluluklar ve otorite figürleriyle iletişim bugün ön planda. İş ortaklıklarında veya evlilikteki talepler, profesyonel hedeflerinle kısa süreli bir uyumsuzluk yaratabilir. Akrep'teki Güneş'in desteği sayesinde ortak bütçe ve dönüşüm konularında mantıklı çözümler üretebilirsin. İkili diyaloglarda baskıcı olmak yerine dinlemeyi seçmek işini kolaylaştırır. Gün bitmeden ortak bir kararda buluşmaya gayret et.",
+   "motivation": "Dengeyi iş birliğiyle yakala.",
+   "basis": "Ay 10. evinde ilerlerken 7. evindeki Venüs ile kare açı yapıyor."
+  },
+  "boga": {
+   "focus": "Çalışma Düzeni ve Eğitim",
+   "short": "Günlük angaryalar geniş ufuklu planlarını aksatmasın; ritmini koru.",
+   "text": "Hayata daha geniş bir pencereden bakmak ve vizyonunu büyütmek istediğin bir gündesin. Ancak günlük rutinlerin veya çalışma ortamındaki küçük pürüzler odaklanmanı zorlaştırabilir. İlişkiler kanadındaki yapıcı diyaloglar, işlerini toparlaman için sana fırsat sunuyor. Çalışma masanı düzenleyerek zihnindeki projeleri sıraya koyabilirsin. Adımlarını netleştirip pratik konulara yönelmek fayda sağlayacak.",
+   "motivation": "Geniş vizyonunu düzenle harmanla.",
+   "basis": "Ay 9. evindeyken 7. evindeki Güneş ile altmışlık açı kuruyor."
+  },
+  "ikizler": {
+   "focus": "Bütçe ve Yaratıcılık",
+   "short": "Paylaşılan kaynaklar ve hobilerin arasındaki dengeye odaklanabilirsin.",
+   "text": "Finansal konular, ödemeler veya ortak giderler zihnini meşgul edebilir. Keyifli harcamalar ile yapılması gereken zaruri ödemeler arasında kalabilirsin. Günlük iş temposundaki düzenli yaklaşımın, krizleri çabucak çözmene yardımcı oluyor. Yaratıcı projelerine ara vermeden önce bütçeni gözden geçirmeyi deneyebilirsin. Akşam saatlerinde zihnini rahatlatacak somut uğraşlara yönelmek iyi gelir.",
+   "motivation": "Harcamalarını tutkuyla değil akılla yönet.",
+   "basis": "Ay 8. evindeyken 5. evinde düz harekete geçen Venüs ile kare yapıyor."
+  },
+  "yengec": {
+   "focus": "İlişki ve Yuva",
+   "short": "Ortaklıklarda beklentilerinle evdeki huzur ihtiyacın karşı karşıya gelebilir.",
+   "text": "İkili ilişkilerinde ciddi ve somut adımlar atmak isteyebilirsin. Ailevi konular veya ev yaşamındaki beklentiler, partnerinle aranda kısa süreli bir kararsızlığa yol açabilir. Hobilerine ve sana neşe veren konulara vakit ayırmak aradaki gerginliği yumuşatacaktır. Yakın çevrenle açık ve net iletişim kurarak beklentileri sadeleştirebilirsin. Bir akşam yürüyüşü zihnini berraklaştırmak için harika bir fırsattır.",
+   "motivation": "Uyum içsel huzurla başlar.",
+   "basis": "Ay 7. evinde ilerlerken 4. evindeki Venüs ile kare açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Günlük Rutin ve İletişim",
+   "short": "Çalışma ortamındaki düzen arayışın yakın çevrenle iletişimi zorlaştırmasın.",
+   "text": "Günlük sorumluluklarını tamamlamak ve çalışma alanını organize etmek isteyebilirsin. Yakın çevrenden gelen haberler ya da mesaj trafiği planlarını bölmeye çalışabilir. Ev ve aile hayatındaki köklü duruşun, işlerini tamamlama konusunda sana ihtiyacın olan motivasyonu sağlıyor. Sağlığın ve beslenme düzenin için pratik yenilikler planlayabilirsin. Küçük adımlarla iş listeni tamamlamaya bak.",
+   "motivation": "Detayları düzenle, zihnini rahatlat.",
+   "basis": "Ay 6. evindeyken 3. evinde düz harekete geçen Venüs ile kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "Yaratıcılık ve Harcamalar",
+   "short": "Keyfi harcamalarını kontrol altında tutarak hobilerine vakit ayırabilirsin.",
+   "text": "Kendini ifade etme arzun ve yaratıcı projelerin bugün hareket kazanıyor. Öz değerini ve bütçeni ilgilendiren konularda aşırı harcama meyli öne çıkabilir. Yakın çevrenle yapacağın verimli görüşmeler ve fikir alışverişleri ufkunu genişletecektir. Sevdiklerinle vakit geçirirken bütçe sınırlarını aşmamaya özen göstermek faydalı olur. Zihnini dinlendirecek sanatsal bir uğraş seçebilirsin.",
+   "motivation": "Üretimini öz değerinle taçlandır.",
+   "basis": "Ay 5. evindeyken 3. evindeki Güneş ile altmışlık açı yapıyor."
+  },
+  "terazi": {
+   "focus": "Ev ve Kişisel Alan",
+   "short": "Kendi isteklerin ile ailevi sorumlulukların arasında denge arayabilirsin.",
+   "text": "Evinle ve ailenle ilgilenmek, iç dünyana çekilmek arzusu hissedebilirsin. Kendi kişisel duruşun ve beklentilerin, ev içindeki dinamiklerle zaman zaman çelişebilir. Maddi kaynaklarındaki sağlamlaşma, kendini daha güvende hissetmene katkı sunuyor. Yaşam alanında ufak tefek düzenlemeler yapmak enerjini tazeleyebilir. Aile içi görüşmelerde net ve sakin kalarak ilerlemek en iyisidir.",
+   "motivation": "Kişisel dengeni yuvanla buluştur.",
+   "basis": "Venüs 1. evinde düz harekete geçerken 4. evindeki Ay ile kare yapıyor."
+  },
+  "akrep": {
+   "focus": "İletişim ve Zihinsel Odak",
+   "short": "Düşüncelerini net bir dille aktarırken içsel huzurunu korumayı unutma.",
+   "text": "Zihnini meşgul eden fikirleri yazıya dökmek veya yakın çevrenle paylaşmak için uygun bir gün. Gizli kalan bir husus ya da iç dünyandaki çekinceler iletişim tarzına yansıyabilir. Kendi duruşundan ve hedeflerinden emin olman, çevrendekilerin güvenini kazanmanı kolaylaştırıyor. İletişimde kırıcı olmamaya özen göstererek planlarını sırayla hayata geçirebilirsin. Bir not defteri tutup fikirlerini kaydetmeyi deneyebilirsin.",
+   "motivation": "Sözlerini kararlı duruşunla destekle.",
+   "basis": "Güneş 1. evindeyken 3. evindeki Ay ile altmışlık açı kuruyor."
+  },
+  "yay": {
+   "focus": "Maddi Değerler ve Sosyal Çevre",
+   "short": "Arkadaş grubunla olan sosyal harcamalarını planlı şekilde dengelemelisin.",
+   "text": "Maddi güvence arayışın ve bütçe planlaman bugün ön planda yer alıyor. Sosyal çevrenle veya arkadaş grubunla yapacağın organizasyonlar bütçeni zorlayabilir. İç dünyanda yakaladığın dinginlik, harcama kararlarında daha mantıklı hareket etmeni sağlıyor. Birikimlerini korumak için bugün somut hedeflere yönelmek mantıklı bir tercih olacaktır. Alışveriş yapmadan önce ihtiyaç listesi hazırlayabilirsin.",
+   "motivation": "Kaynağını bilinçli tercihlerle koru.",
+   "basis": "Ay 2. evindeyken 11. evinde düz harekete geçen Venüs ile kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "Kişisel Duruş ve Kariyer",
+   "short": "Kendi hedeflerinle iş hayatındaki beklentiler arasında netlik yakalamalısın.",
+   "text": "Kendi isteklerine ve kişisel imajına odaklandığın bir gündesin. Kariyer alanındaki otorite figürlerinin veya işlerin talepleri, şahsi planlarınla kısa süreli çatışabilir. Sosyal çevrenden ve dostlarından alacağın destek zihnini rahatlatacaktır. Profesyonel hedeflerini gözden geçirirken aşırı katı durmaktan kaçınmak yararına olur. Günlük planlarını sadeleştirerek kendi ihtiyaçlarına zaman ayır.",
+   "motivation": "Duruşunu profesyonel esneklikle koru.",
+   "basis": "Ay 1. evindeyken 10. evinde düz harekete geçen Venüs ile kare yapıyor."
+  },
+  "kova": {
+   "focus": "Zihinsel Dinlenme ve İnançlar",
+   "short": "İç dünyana çekilip dinlenmek isterken uzak planlar zihnini kurcalayabilir.",
+   "text": "Dış dünyanın karmaşasından biraz uzaklaşıp dinlenmeye ihtiyaç duyabilirsin. Yurt dışı, eğitim veya uzun vadeli inançlarınla ilgili konular zihinsel dinginliğini bir miktar bölebilir. Kariyerindeki Güneş desteği, gizli yürüttüğün işlerde sağlam sonuçlar almanı kolaylaştırıyor. Temponu biraz yavaşlatıp zihnini arındıracak aktiviteler seçmek sana iyi gelecektir. Erken yatıp uykunu almaya özen göster.",
+   "motivation": "Dinlenmeyi kendine hak tanıyarak ilerle.",
+   "basis": "Ay 12. evindeyken 10. evindeki Güneş ile altmışlık açı yapıyor."
+  },
+  "balik": {
+   "focus": "Sosyal Çevren ve Bütçe",
+   "short": "Gelecek hayallerin ve arkadaşlıkların için bütçeni aşmamaya gayret et.",
+   "text": "Sosyal çevren, arkadaş grupların ve gelecek umutların hareket kazanıyor. Ortak paylaşımlar veya finansal yükümlülükler, dostlarınla olan etkileşimine bir miktar gerginlik taşıyabilir. Ufkunu genişletecek yeni bilgiler öğrenmek veya araştırma yapmak zihnine çok iyi gelecektir. Grup içi dinamiklerde borç-alacak dengesine dikkat etmek huzurunu korur. Bir dostunla sakin bir sohbet planlayabilirsin.",
+   "motivation": "Paylaştıkça hafifle, sınırlarını koru.",
+   "basis": "Ay 11. evindeyken 9. evindeki Güneş ile altmışlık açı yapıyor."
+  }
+ }
+}

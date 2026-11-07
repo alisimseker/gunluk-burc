@@ -1,32 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Mesleki Denge",
-   "short": "İş ortamında sergileyeceğin diplomatik tavır kapıları kolayca açar.",
-   "text": "Zihnini genişleten araştırmaları bir kenara koyup gözünü hedeflerine çeviriyorsun. Onuncu evine ilerleyen Ay, iş ortamındaki ilişkilerde uzlaşmacı ve profesyonel bir üslup takınmanın kapılarını açıyor. Kariyer alanındaki gerileyen Venüs, geçmişte üzerinde çalıştığın bir projeyi diplomatik bir dille yeniden gündeme getirebileceğini hatırlatıyor. Sakin ve ölçülü tavrın takdir toplayacaktır.",
-   "motivation": "Ölçülü duruş saygı uyandırır.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve 10. evdeki Venüs retrosu.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Hedef ve Metot",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Kişisel Duruş ve Kariyer",
+   "short": "Kendi hedeflerinle iş hayatındaki beklentiler arasında netlik yakalamalısın.",
+   "text": "Kendi isteklerine ve kişisel imajına odaklandığın bir gündesin. Kariyer alanındaki otorite figürlerinin veya işlerin talepleri, şahsi planlarınla kısa süreli çatışabilir. Sosyal çevrenden ve dostlarından alacağın destek zihnini rahatlatacaktır. Profesyonel hedeflerini gözden geçirirken aşırı katı durmaktan kaçınmak yararına olur. Günlük planlarını sadeleştirerek kendi ihtiyaçlarına zaman ayır.",
+   "motivation": "Duruşunu profesyonel esneklikle koru.",
+   "basis": "Ay 1. evindeyken 10. evinde düz harekete geçen Venüs ile kare yapıyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

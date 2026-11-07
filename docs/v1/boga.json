@@ -1,32 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-06T19:44:10+03:00",
+ "updated": "2026-11-07T04:13:35+03:00",
  "days": [
-  {
-   "date": "2026-11-05",
-   "focus": "Çalışma Ritmi",
-   "short": "Gündelik işlerini toparlayarak zihnine ferah bir alan açabilirsin.",
-   "text": "Günün ilk yarısındaki keyifli uğraşların yerini öğleden sonra çalışma alanını toparlama isteği alıyor. Masanın üzerindeki dağınıklığı elden geçirmek ve ertelediğin detayları sıraya koymak zihnini rahatlatacak. Karşıt burcunda gerileyen Merkür'ün Güneş ile kavuşumu, ilişkilerde söylenmemiş şeyleri zarafetle dile getirme gereğine işaret ediyor. Bedenini dinlendirici küçük molalar vermeyi ihmal etme.",
-   "motivation": "Ritmini sade adımlarla bul.",
-   "basis": "Ay'ın Terazi burcuna geçişi ve Güneş-Merkür kavuşumu.",
-   "sky_events": [
-    "Ay bugün Terazi'ye geçiyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 12°57'",
-    "Ay Başak'ta 26°55'",
-    "Merkür Akrep'te 11°10' ℞",
-    "Venüs Terazi'de 24°22' ℞",
-    "Mars Aslan'da 20°47'",
-    "Jüpiter Aslan'da 24°49'",
-    "Satürn Koç'ta 9°01' ℞",
-    "Uranüs İkizler'de 4°30' ℞",
-    "Neptün Koç'ta 1°59' ℞",
-    "Plüton Kova'da 3°09'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-06",
    "focus": "Pratik Çözümler",
@@ -229,6 +205,32 @@
     "Uranüs İkizler'de 4°11' ℞",
     "Neptün Koç'ta 1°51' ℞",
     "Plüton Kova'da 3°15'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-14",
+   "focus": "Çalışma Düzeni ve Eğitim",
+   "short": "Günlük angaryalar geniş ufuklu planlarını aksatmasın; ritmini koru.",
+   "text": "Hayata daha geniş bir pencereden bakmak ve vizyonunu büyütmek istediğin bir gündesin. Ancak günlük rutinlerin veya çalışma ortamındaki küçük pürüzler odaklanmanı zorlaştırabilir. İlişkiler kanadındaki yapıcı diyaloglar, işlerini toparlaman için sana fırsat sunuyor. Çalışma masanı düzenleyerek zihnindeki projeleri sıraya koyabilirsin. Adımlarını netleştirip pratik konulara yönelmek fayda sağlayacak.",
+   "motivation": "Geniş vizyonunu düzenle harmanla.",
+   "basis": "Ay 9. evindeyken 7. evindeki Güneş ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Venüs bugün düz harekete geçiyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 22°00'",
+    "Ay Oğlak'ta 17°59'",
+    "Merkür Akrep'te 5°04'",
+    "Venüs Terazi'de 22°51'",
+    "Mars Aslan'da 25°02'",
+    "Jüpiter Aslan'da 25°43'",
+    "Satürn Koç'ta 8°33' ℞",
+    "Uranüs İkizler'de 4°09' ℞",
+    "Neptün Koç'ta 1°50' ℞",
+    "Plüton Kova'da 3°16'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }
