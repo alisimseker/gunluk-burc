@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-08T03:52:07+03:00",
+ "model": "gemini-3.7-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 23°00'",
+   "Ay Oğlak'ta 29°48'",
+   "Merkür Akrep'te 5°17'",
+   "Venüs Terazi'de 22°53'",
+   "Mars Aslan'da 25°29'",
+   "Jüpiter Aslan'da 25°48'",
+   "Satürn Koç'ta 8°30' ℞",
+   "Uranüs İkizler'de 4°06' ℞",
+   "Neptün Koç'ta 1°49' ℞",
+   "Plüton Kova'da 3°17'"
+  ],
+  "events": [
+   "Ay bugün Kova'ya geçiyor.",
+   "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Topluluk ve Paylaşım",
+   "short": "Fikirlerini topluluk içinde paylaşırken fevri çıkışlar yerine sakinliği koru.",
+   "text": "Grup çalışmalarında ya da arkadaş meclislerinde fikirlerini dile getirirken kelimelerini özenle seçmende fayda var. Ortak bütçe veya hisseli konular gündeme geldiğinde zihninde beliren ani şüpheleri büyütmek yerine somut kanıtlara odaklan. Bireysel hedeflerini takım ruhuyla birleştirebilirsen gerginlikleri kolayca aşabilirsin. Bugün aceleci tepkiler yerine dinlemeyi seçerek dengeyi koru.",
+   "motivation": "Dinlemek köprüleri sağlamlaştırır.",
+   "basis": "Ay'ın Oğlak'tan Kova'ya geçişi ve 8. evdeki Merkür ile kare açısı."
+  },
+  "boga": {
+   "focus": "Toplumsal Roller",
+   "short": "Mesleki duruşunu korurken ikili diyaloglardaki sert ifadelere kapılma.",
+   "text": "Sorumluluk aldığın alanlarda sergilediğin duruş, gün içinde ikili diyaloglarda beklenmedik pürüzlerle karşılaşabilir. Karşındaki kişinin keskin ifadeleri seni savunmaya itse de profesyonel sınırlarını korumaya çalış. Kendi emeğine ve donanımına güvenerek ilerlediğinde tartışmalar yönünü kaybeder. Fikir ayrılıklarını kişiselleştirmeden ortak zemini aramayı dene.",
+   "motivation": "Tarafsız kalmak saygınlığı pekiştirir.",
+   "basis": "Ay'ın Oğlak'tan Kova'ya geçişi ve 7. evdeki Merkür ile kare açısı."
+  },
+  "ikizler": {
+   "focus": "Derin Sezgiler",
+   "short": "Arkadaş çevrenden gelen sezgisel destekler içinizi ferahlatabilir.",
+   "text": "Güne ortaklaşa işler veya duygusal derinlik gerektiren meselelerle başlayabilirsin. Sosyal çevrenden aldığın ilham verici fikirler, zihnindeki belirsizlikleri dağıtmaya yardım ediyor. Günlük düzeninde bazı detaylar gözünden kaçabileceğinden, resmi evrakları ve yazışmaları çift kontrol etmekte fayda var. Gün sonuna doğru vizyonunu genişletecek yeni konulara zaman ayırabilirsin.",
+   "motivation": "Sezgilerine kulak vermek netlik kazandırır.",
+   "basis": "8. evdeki Ay ile 11. evindeki Neptün altmışlık açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Dengeli İfade",
+   "short": "Ortaklıklarda duygusal tepkiler yerine yapıcı söze odaklanmalısın.",
+   "text": "Partnerinle ya da yakın bir arkadaşınla yürüttüğün paylaşımlarda üslubuna dikkat etmek isteyebilirsin. Aşk hayatında veya hobilerinde duygularını ifade ederken yanlış anlaşılmalar oluşabilir. Arka planda yürüttüğün bir süreçten gelen ani bir farkındalık, olaylara daha sakin bakmanı sağlayacak. Akşam saatlerinde bütçe konularını gözden geçirmek sana güven verecektir.",
+   "motivation": "Sakin anlatım yanlış anlaşılmaları engeller.",
+   "basis": "7. evdeki Ay, 5. evdeki Merkür ile kare açı oluşturuyor."
+  },
+  "aslan": {
+   "focus": "Girişimci Ruh",
+   "short": "Kendi enerjini doğru kanala yönlendirerek hızlı sonuçlar alabilirsin.",
+   "text": "Kişisel hedeflerin adına harekete geçme isteğin bugün oldukça baskın. Ancak günlük işlerini toparlarken ailevi diyaloglarda aşırı ısrarcı olmaktan kaçınmalısın. Sosyal çevrenden alacağın sürpriz bir destek, planlarını hızlandırmana katkı sağlayacak. Günün ilerleyen vakitlerinde ikili ilişkilerde empati kurmayı seçmek uyumu korur.",
+   "motivation": "Cesur adımlar doğru kanalla büyür.",
+   "basis": "Burcundaki Mars ve Jüpiter kavuşumu sana yüksek bir eylem gücü veriyor."
+  },
+  "basak": {
+   "focus": "Yenilikçi Yöntemler",
+   "short": "İş yaşamında geliştireceğin özgün fikirler takdir toplayabilir.",
+   "text": "Hobilerin veya yaratıcı projelerin üzerinden mesleki duruşunu yenileyecek fikirler doğabilir. İletişim trafiğinin yoğun olduğu bu saatlerde, yakın çevrenle olan diyaloglarında net ifadeler seçmeye özen göstermelisin. Zihnini yoran detayları bir kenara bırakıp pratik çözümlere odaklanmak işini kolaylaştırır. Gün sonuna doğru çalışma alanını düzenlemek zihinsel bir ferahlık getirecektir.",
+   "motivation": "Pratik çözümler karmaşayı berraklaştırır.",
+   "basis": "5. evdeki Ay, 10. evdeki Uranüs ile üçgen açı oluşturuyor."
+  },
+  "terazi": {
+   "focus": "Zarif Duruş",
+   "short": "Yakın ilişkilerinde sergileyeceğin anlayışlı tavır huzuru artırır.",
+   "text": "Kendi duruşunu zarafetle sergilediğin bir gündesin. Evinde veya yaşam alanında aradığın huzuru, ilişkilerindeki empati sayesinde rahatlıkla bulabilirsin. Parasal harcamalarında biraz daha temkinli olmak, zihnindeki planları korumana yardım eder. Akşam saatlerine doğru hobilerine ve sana neşe veren konulara vakit ayırmayı ihmal etme.",
+   "motivation": "Empati ve uyum kalpleri yakınlaştırır.",
+   "basis": "Venüs senin 1. evinde ilerlerken, 4. evdeki Ay ile 7. evdeki Neptün altmışlık açıda."
+  },
+  "akrep": {
+   "focus": "Düşünsel Esneklik",
+   "short": "Fikirlerini aktarırken sabırlı davranmak olası gerilimleri önler.",
+   "text": "Zihninin son derece aktif olduğu bir gün geçirebilirsin; ancak düşüncelerini hemen eyleme dökmeden önce dinlemeye zaman ayırmalısın. Kendi görüşlerinde fazla ısrarcı olman yakın çevrenle sürdürdüğün diyalogları zorlaştırabilir. Şaşırtıcı bir haber veya bilgi, bakış açını tazelemene vesile olabilir. Günün ilerleyen saatlerinde evinde vakit geçirmek ruhuna iyi gelecektir.",
+   "motivation": "Sabırlı dinleyiş doğru kararı getirir.",
+   "basis": "Burcundaki Merkür, 3. evdeki Ay ile kare açı yapıyor."
+  },
+  "yay": {
+   "focus": "Yenilikçi İş Birliği",
+   "short": "İlişkilerinde esnek olmak beklenmedik maddi fırsatlar doğurabilir.",
+   "text": "Kendi yeteneklerini ve kazançlarını değerlendirirken ortaklıklardan sürpriz teklifler alabilirsin. İç dünyanda biriken söylenmemiş sözler zihnini kurcalayabileceği için, kararlarını aceleye getirmemek en iyisi. İletişimde abartılı yorumlardan uzak durup somut verilere odaklanmalısın. Akşam saatlerinde kısa bir yürüyüş veya zihinsel bir mola sana tazelik katacaktır.",
+   "motivation": "Somut adımlar güvenli sonuçlar üretir.",
+   "basis": "2. evdeki Ay, 7. evdeki Uranüs ile üçgen açı kuruyor."
+  },
+  "oglak": {
+   "focus": "İçsel Huzur",
+   "short": "Evindeki dinginlik, kişisel duruşunu sağlamlaştırmana destek veriyor.",
+   "text": "Güne kendi ihtiyaçlarına odaklanarak başlasan da, arkadaş gruplarındaki diyaloglarda fikir ayrılıkları yaşanabilir. Duygusal dengeni korumak adına ailenden ve evinden aldığın desteğe tutunabilirsin. Günlük iş temposunda sürpriz pratik çözümler geliştirmen mümkün. Akşam saatlerinde bütçeni ve kişisel harcamalarını gözden geçirmek için elverişli bir zemin oluşacak.",
+   "motivation": "İçsel dinginlik sağlam duruş getirir.",
+   "basis": "1. evindeki Ay, 4. evdeki Neptün ile altmışlık açı yapıyor."
+  },
+  "kova": {
+   "focus": "Kişisel Yenilenme",
+   "short": "Ruhunu dinlendirdikten sonra sahnede kendi tarzınla yer alabilirsin.",
+   "text": "Günün ilk yarısında geri planda kalıp iç dünyanı toparlamak isteyebilirsin. Yaratıcı projelerinde veya hobilerinde aniden beliren özgün fikirler zihnini renklendirecektir. Kariyer alanında üstlerinle iletişim kurarken ifadelerini açık tutmaya gayret etmelisin. Ay burcuna geçtiğinde enerjin tazelenecek ve çevrenin ilgisini kolaylıkla üzerine çekeceksin.",
+   "motivation": "Özgün tarzın yeniliklere kapı açar.",
+   "basis": "Ay günün ilerleyen saatlerinde senin burcuna geçiş yapıyor."
+  },
+  "balik": {
+   "focus": "Sezgisel Değerler",
+   "short": "Hayallerini gerçeğe dönüştürürken sezgilerine güvenmek yetecektir.",
+   "text": "Sosyal gruplar ve arkadaşlarınla bir araya geldiğin anlarda sezgisel bir uyum yakalayabilirsin. Maddi konularda hayalci olmak yerine gerçekçi adımlar atmaya özen göstermen faydalı olur. Eğitim veya uzak seyahatlerle ilgili konularda iletişim karmaşası yaşanabileceğinden detayları dikkatle incelemelisin. Günün ikinci yarısında yalnız kalarak ruhunu dinlendirmek sana güç verecektir.",
+   "motivation": "Gerçekçi hayaller sağlam temellere oturur.",
+   "basis": "11. evdeki Ay, 2. evdeki Neptün ile altmışlık açıda bulunuyor."
+  }
+ }
+}

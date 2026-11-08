@@ -1,32 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-07T18:38:59+03:00",
+ "updated": "2026-11-08T03:52:07+03:00",
  "days": [
-  {
-   "date": "2026-11-06",
-   "focus": "Paylaşılan Güven",
-   "short": "Ailevi bir destek ortak parasal kaygıları hafifletmeye yardım edebilir.",
-   "text": "Başkalarıyla ortak yürüttüğün kaynaklar veya borç-alacak dengesi bugün sürpriz bir kolaylıkla çözülebilir. Ev içindeki dinamiklerde yaşanan bir aydınlanma, maddi konularda daha rahat nefes almanı sağlayacaktır. Kendi kazancına dair gereksiz endişeleri büyütmek yerine elindeki imkanları akılcı kullanmaya odaklan. Finansal bir evrakı ya da sözleşmeyi dikkatlice incelemeyi ihmal etme.",
-   "motivation": "Çözüm sezgisel adımlarla gelir.",
-   "basis": "Ay sekizinci evinde, dördüncü evindeki Uranüs ile üçgen açıda.",
-   "sky_events": [
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 13°57'",
-    "Ay Terazi'de 9°56'",
-    "Merkür Akrep'te 9°55' ℞",
-    "Venüs Terazi'de 24°03' ℞",
-    "Mars Aslan'da 21°16'",
-    "Jüpiter Aslan'da 24°56'",
-    "Satürn Koç'ta 8°57' ℞",
-    "Uranüs İkizler'de 4°28' ℞",
-    "Neptün Koç'ta 1°58' ℞",
-    "Plüton Kova'da 3°10'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-07",
    "focus": "Bütçe İntizamı",
@@ -231,6 +207,33 @@
     "Uranüs İkizler'de 4°09' ℞",
     "Neptün Koç'ta 1°50' ℞",
     "Plüton Kova'da 3°16'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-15",
+   "focus": "Sezgisel Değerler",
+   "short": "Hayallerini gerçeğe dönüştürürken sezgilerine güvenmek yetecektir.",
+   "text": "Sosyal gruplar ve arkadaşlarınla bir araya geldiğin anlarda sezgisel bir uyum yakalayabilirsin. Maddi konularda hayalci olmak yerine gerçekçi adımlar atmaya özen göstermen faydalı olur. Eğitim veya uzak seyahatlerle ilgili konularda iletişim karmaşası yaşanabileceğinden detayları dikkatle incelemelisin. Günün ikinci yarısında yalnız kalarak ruhunu dinlendirmek sana güç verecektir.",
+   "motivation": "Gerçekçi hayaller sağlam temellere oturur.",
+   "basis": "11. evdeki Ay, 2. evdeki Neptün ile altmışlık açıda bulunuyor.",
+   "sky_events": [
+    "Ay bugün Kova'ya geçiyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 23°00'",
+    "Ay Oğlak'ta 29°48'",
+    "Merkür Akrep'te 5°17'",
+    "Venüs Terazi'de 22°53'",
+    "Mars Aslan'da 25°29'",
+    "Jüpiter Aslan'da 25°48'",
+    "Satürn Koç'ta 8°30' ℞",
+    "Uranüs İkizler'de 4°06' ℞",
+    "Neptün Koç'ta 1°49' ℞",
+    "Plüton Kova'da 3°17'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

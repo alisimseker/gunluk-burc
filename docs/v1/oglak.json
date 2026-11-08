@@ -1,32 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-07T18:38:59+03:00",
+ "updated": "2026-11-08T03:52:07+03:00",
  "days": [
-  {
-   "date": "2026-11-06",
-   "focus": "Hedef ve Metot",
-   "short": "Görevlerini yenilikçi metotlarla ele almak üstlerinin dikkatini çekebilir.",
-   "text": "Mesleki alanda uzun süredir aynı şekilde yürüttüğün bir süreci modernleştirmek sana büyük avantaj sağlayacaktır. Günlük akışında yapacağın pratik bir değişiklik, iş yükünü gözle görülür biçimde azaltabilir. Ailevi sorumlulukların getirdiği ciddiyeti profesyonel tavrınla dengelemelisin. Masandaki evrakları veya dijital dosyalarını sadeleştirerek işe başla.",
-   "motivation": "Çağdaş yöntemler başarıyı hızlandırır.",
-   "basis": "Ay onuncu evinde, altıncı evindeki Uranüs ile üçgen açıda.",
-   "sky_events": [
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 13°57'",
-    "Ay Terazi'de 9°56'",
-    "Merkür Akrep'te 9°55' ℞",
-    "Venüs Terazi'de 24°03' ℞",
-    "Mars Aslan'da 21°16'",
-    "Jüpiter Aslan'da 24°56'",
-    "Satürn Koç'ta 8°57' ℞",
-    "Uranüs İkizler'de 4°28' ℞",
-    "Neptün Koç'ta 1°58' ℞",
-    "Plüton Kova'da 3°10'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-07",
    "focus": "Stratejik Destek",
@@ -231,6 +207,33 @@
     "Uranüs İkizler'de 4°09' ℞",
     "Neptün Koç'ta 1°50' ℞",
     "Plüton Kova'da 3°16'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-15",
+   "focus": "İçsel Huzur",
+   "short": "Evindeki dinginlik, kişisel duruşunu sağlamlaştırmana destek veriyor.",
+   "text": "Güne kendi ihtiyaçlarına odaklanarak başlasan da, arkadaş gruplarındaki diyaloglarda fikir ayrılıkları yaşanabilir. Duygusal dengeni korumak adına ailenden ve evinden aldığın desteğe tutunabilirsin. Günlük iş temposunda sürpriz pratik çözümler geliştirmen mümkün. Akşam saatlerinde bütçeni ve kişisel harcamalarını gözden geçirmek için elverişli bir zemin oluşacak.",
+   "motivation": "İçsel dinginlik sağlam duruş getirir.",
+   "basis": "1. evindeki Ay, 4. evdeki Neptün ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Kova'ya geçiyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 23°00'",
+    "Ay Oğlak'ta 29°48'",
+    "Merkür Akrep'te 5°17'",
+    "Venüs Terazi'de 22°53'",
+    "Mars Aslan'da 25°29'",
+    "Jüpiter Aslan'da 25°48'",
+    "Satürn Koç'ta 8°30' ℞",
+    "Uranüs İkizler'de 4°06' ℞",
+    "Neptün Koç'ta 1°49' ℞",
+    "Plüton Kova'da 3°17'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }

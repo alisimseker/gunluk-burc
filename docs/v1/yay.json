@@ -1,32 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-07T18:38:59+03:00",
+ "updated": "2026-11-08T03:52:07+03:00",
  "days": [
-  {
-   "date": "2026-11-06",
-   "focus": "Dost Meclisi",
-   "short": "Sosyal çevrenden alacağın bir davet ikili ilişkilerine canlılık getirebilir.",
-   "text": "Geleceğe dair umutlarını paylaşabileceğin insanlarla bir araya gelmek motivasyonunu yükseltecektir. Ortaklaşa yürütülen bir projede ani bir iş birliği teklifiyle karşılaşabilirsin. Bireysel zevklerinle topluluk içindeki rollerin arasında denge kurmaya özen göstermelisin. Eski bir dostunla yapacağın kısa bir telefon görüşmesi gününe neşe katabilir.",
-   "motivation": "Birlikte kurulan hayal güçlenir.",
-   "basis": "Ay on birinci evinde, yedinci evindeki Uranüs ile üçgen açıda.",
-   "sky_events": [
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 13°57'",
-    "Ay Terazi'de 9°56'",
-    "Merkür Akrep'te 9°55' ℞",
-    "Venüs Terazi'de 24°03' ℞",
-    "Mars Aslan'da 21°16'",
-    "Jüpiter Aslan'da 24°56'",
-    "Satürn Koç'ta 8°57' ℞",
-    "Uranüs İkizler'de 4°28' ℞",
-    "Neptün Koç'ta 1°58' ℞",
-    "Plüton Kova'da 3°10'"
-   ],
-   "moon_phase": "Küçülen Hilal"
-  },
   {
    "date": "2026-11-07",
    "focus": "Ortak Vizyon",
@@ -231,6 +207,33 @@
     "Uranüs İkizler'de 4°09' ℞",
     "Neptün Koç'ta 1°50' ℞",
     "Plüton Kova'da 3°16'"
+   ],
+   "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-15",
+   "focus": "Yenilikçi İş Birliği",
+   "short": "İlişkilerinde esnek olmak beklenmedik maddi fırsatlar doğurabilir.",
+   "text": "Kendi yeteneklerini ve kazançlarını değerlendirirken ortaklıklardan sürpriz teklifler alabilirsin. İç dünyanda biriken söylenmemiş sözler zihnini kurcalayabileceği için, kararlarını aceleye getirmemek en iyisi. İletişimde abartılı yorumlardan uzak durup somut verilere odaklanmalısın. Akşam saatlerinde kısa bir yürüyüş veya zihinsel bir mola sana tazelik katacaktır.",
+   "motivation": "Somut adımlar güvenli sonuçlar üretir.",
+   "basis": "2. evdeki Ay, 7. evdeki Uranüs ile üçgen açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Kova'ya geçiyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 23°00'",
+    "Ay Oğlak'ta 29°48'",
+    "Merkür Akrep'te 5°17'",
+    "Venüs Terazi'de 22°53'",
+    "Mars Aslan'da 25°29'",
+    "Jüpiter Aslan'da 25°48'",
+    "Satürn Koç'ta 8°30' ℞",
+    "Uranüs İkizler'de 4°06' ℞",
+    "Neptün Koç'ta 1°49' ℞",
+    "Plüton Kova'da 3°17'"
    ],
    "moon_phase": "Büyüyen Hilal"
   }
