@@ -1,33 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-08T18:56:59+03:00",
+ "updated": "2026-11-09T04:07:25+03:00",
  "days": [
-  {
-   "date": "2026-11-07",
-   "focus": "Perde Arkası",
-   "short": "Hedeflerine odaklanırken geri planda stratejik hazırlıklar yapabilirsin.",
-   "text": "Dış dünyanın temposundan bir adım geri çekilip kariyer planlarını derinden düşünmek isteyebilirsin. On ikinci evindeki Ay'ın onuncu evindeki Jüpiter ile yaptığı sekstil açı, mesleki amaçların için sessizce zemin hazırlamanı kolaylaştırıyor. Sezgilerini hedeflerinle birleştirip acele etmeden strateji kurarsan, ilerleyen günlerde çok daha sağlam bir çıkış yakalayabilirsin.",
-   "motivation": "Sessiz hazırlık başarıyı olgunlaştırır.",
-   "basis": "Ay 12. evinde, Jüpiter ile altmışlık açıda.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 14°57'",
-    "Ay Terazi'de 22°46'",
-    "Merkür Akrep'te 8°44' ℞",
-    "Venüs Terazi'de 23°45' ℞",
-    "Mars Aslan'da 21°45'",
-    "Jüpiter Aslan'da 25°02'",
-    "Satürn Koç'ta 8°54' ℞",
-    "Uranüs İkizler'de 4°26' ℞",
-    "Neptün Koç'ta 1°57' ℞",
-    "Plüton Kova'da 3°11'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-08",
    "focus": "Kişisel İnisiyatif",
@@ -236,6 +211,30 @@
     "Plüton Kova'da 3°17'"
    ],
    "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-16",
+   "focus": "Evdeki Düzen",
+   "short": "Yaşam alanındaki sorumlulukları sıraya koyarak iç huzurunu pekiştiriyorsun.",
+   "text": "Yaşadığın mekandaki aksaklıkları toparlamak ve gündelik işlerini organize etmek için sağlam bir zemin buluyorsun. Kova'daki Ay'ın altıncı evindeki Satürn ile kurduğu sekstil açı, ev ortamında pratik çözümler üretmeni ve rutinlerini sadeleştirmeni kolaylaştırıyor. Ertelediğin tadilatı, temizliği ya da çalışma masanın düzenini ele alarak zihnini rahatlatabilirsin. Görevleri küçük adımlarla sıraya koymak gününü verimli kılacaktır.",
+   "motivation": "Mekanını toparla, zihnini özgürleştir.",
+   "basis": "Ay 4. evinde, 6. evindeki Satürn ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 24°00'",
+    "Ay Kova'da 11°40'",
+    "Merkür Akrep'te 5°40'",
+    "Venüs Terazi'de 22°58'",
+    "Mars Aslan'da 25°56'",
+    "Jüpiter Aslan'da 25°53'",
+    "Satürn Koç'ta 8°27' ℞",
+    "Uranüs İkizler'de 4°04' ℞",
+    "Neptün Koç'ta 1°48' ℞",
+    "Plüton Kova'da 3°17'"
+   ],
+   "moon_phase": "İlk Dördün"
   }
  ]
 }

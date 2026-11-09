@@ -1,33 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-08T18:56:59+03:00",
+ "updated": "2026-11-09T04:07:25+03:00",
  "days": [
-  {
-   "date": "2026-11-07",
-   "focus": "Neşeli Anlatım",
-   "short": "Yaratıcı projelerini canlı bir dille çevrene aktarma fırsatı bulabilirsin.",
-   "text": "Kendini ifade etme isteğin ve üretkenliğin belirgin şekilde öne çıkıyor. Beşinci evindeki Ay'ın üçüncü evindeki Jüpiter ile oluşturduğu sekstil açı, zihnindeki parlak fikirleri hevesle kelimelere dökmeni sağlıyor. Kısa yazışmalar, eğlenceli sohbetler ya da sanatsal hobilerin için verimli bir gün. Samimi anlatımın karşılık bulacaktır; aklındakileri ertelemeden paylaş.",
-   "motivation": "Yaratıcı heves paylaştıkça büyür.",
-   "basis": "Ay 5. evinde, Jüpiter ile altmışlık açıda.",
-   "sky_events": [
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 14°57'",
-    "Ay Terazi'de 22°46'",
-    "Merkür Akrep'te 8°44' ℞",
-    "Venüs Terazi'de 23°45' ℞",
-    "Mars Aslan'da 21°45'",
-    "Jüpiter Aslan'da 25°02'",
-    "Satürn Koç'ta 8°54' ℞",
-    "Uranüs İkizler'de 4°26' ℞",
-    "Neptün Koç'ta 1°57' ℞",
-    "Plüton Kova'da 3°11'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-08",
    "focus": "Gündelik Düzen",
@@ -236,6 +211,30 @@
     "Plüton Kova'da 3°17'"
    ],
    "moon_phase": "Büyüyen Hilal"
+  },
+  {
+   "date": "2026-11-16",
+   "focus": "Zihinsel Gelişim",
+   "short": "Farklı bakış açıları geleceğe dair planlarını sağlamlaştırıyor.",
+   "text": "Eğitim, seyahat veya yeni vizyonlar geliştirmek adına zihnin oldukça açık. Sosyal çevrenden aldığın fikirler ve tecrübeli dostların tavsiyeleri, bakış açını derinleştiriyor. İnandığın ilkelerin arkasında dururken gerçekçi adımlar atmayı unutma. Zihnini yeniliklere açmak sana iyi bir ivme kazandıracak.",
+   "motivation": "Fikirlerini tecrübeyle olgunlaştır.",
+   "basis": "Ay 9. evinde, 11. evindeki Satürn ile altmışlık açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 24°00'",
+    "Ay Kova'da 11°40'",
+    "Merkür Akrep'te 5°40'",
+    "Venüs Terazi'de 22°58'",
+    "Mars Aslan'da 25°56'",
+    "Jüpiter Aslan'da 25°53'",
+    "Satürn Koç'ta 8°27' ℞",
+    "Uranüs İkizler'de 4°04' ℞",
+    "Neptün Koç'ta 1°48' ℞",
+    "Plüton Kova'da 3°17'"
+   ],
+   "moon_phase": "İlk Dördün"
   }
  ]
 }
