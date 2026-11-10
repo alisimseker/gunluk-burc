@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-10T06:37:06+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 25°01'",
+   "Ay Kova'da 23°43'",
+   "Merkür Akrep'te 6°13'",
+   "Venüs Terazi'de 23°05'",
+   "Mars Aslan'da 26°22'",
+   "Jüpiter Aslan'da 25°58'",
+   "Satürn Koç'ta 8°25' ℞",
+   "Uranüs İkizler'de 4°02' ℞",
+   "Neptün Koç'ta 1°47' ℞",
+   "Plüton Kova'da 3°18'"
+  ],
+  "events": [
+   "Bugün İlk Dördün (Kova burcunda) gerçekleşiyor.",
+   "Ay ile Venüs arasında üçgen açısı bugün tam oluyor.",
+   "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "İlk Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Sosyal Dengeler",
+   "short": "Dost meclislerinde fikir ayrılıkları tatlı bir diplomasiyle çözülebilir.",
+   "text": "Topluluklar içindeki varlığın bugün belirginleşirken, arkadaşlarınla yapacağın uzlaşmacı konuşmalar havayı yumuşatıyor. Kova burcundaki İlk Dördün, geleceğe dönük planlarında seni somut bir adım atmaya davet ediyor. Gizli kalmış maddi meseleler zihnini kurcalasa da ikili temaslarında sergileyeceğin yapıcı tavır pürüzleri giderir. Sevdiklerinle ortaklaşa bir rota çizmek sana güven verecektir.",
+   "motivation": "Nezaketinle köprüler kur.",
+   "basis": "Ay'ın 11. evinde Venüs ile üçgen, Güneş ile kare açı yapması."
+  },
+  "boga": {
+   "focus": "Hedef ve Uyum",
+   "short": "İş ortamında kuracağın zarif temaslar hedeflerini hızla görünür kılacak.",
+   "text": "Mesleki alanda öne çıkmak istediğin bir gündesin. Çalışma ortamında sürdürdüğün titiz düzen, üstlerinle veya ortaklarınla yürüttüğün süreçlere olumlu yansıyor. Bugün gerçekleşen İlk Dördün, ortaklıklardan doğan gerilimleri sakinlikle yönetmeni şart koşuyor. İnatlaşmak yerine görev dağılımını yeniden yapılandırmayı seçersen günün kazananı sen olursun.",
+   "motivation": "İş birliğiyle hedefine odaklan.",
+   "basis": "10. evdeki Kova Ayı'nın 6. evdeki Venüs ile üçgen açısı."
+  },
+  "ikizler": {
+   "focus": "Perspektif Yenileme",
+   "short": "Uzak hedeflerine yönelik taze fikirler neşeni yerine getiriyor.",
+   "text": "Zihnini besleyen konulara yönelmek ve yeni şeyler keşfetmek sana ferahlık katıyor. Günlük koşturmacaların getirdiği baskıyı, keyif aldığın bir uğraşa zaman ayırarak hafifletebilirsin. Dokuzuncu evinde oluşan İlk Dördün, bakış açını tazeleyerek ertelediğin bir eğitimi veya seyahat niyetini gündeme getirebilir. İletişimde abartıdan kaçınarak adımlarını sakin tut.",
+   "motivation": "Öğrenmenin hafifliğini kalbine al.",
+   "basis": "9. evdeki Ay'ın Venüs ile üçgen açısı ve İlk Dördün fazı."
+  },
+  "yengec": {
+   "focus": "Kaynak Dengesi",
+   "short": "Bütçeni düzenlerken ailenden alacağın destek içini rahatlatacak.",
+   "text": "Maddi paylaşımlar ve bekleyen ödemeler gündeminde yer tutarken, hanendeki huzur sana sağlam bir zemin sunuyor. Kova burcundaki İlk Dördün, harcamalarını gözden geçirip gereksiz yüklerden arınman için seni harekete geçiriyor. Kendi iç sesine güvenerek gereksiz kaygıları geride bırakabilirsin. Evindeki sakin ortamda mali planını netleştirmek sana güç kazandırır.",
+   "motivation": "Huzurunu koruyarak sınır çiz.",
+   "basis": "8. evdeki Ay'ın 4. evdeki Venüs ile üçgen açısı."
+  },
+  "aslan": {
+   "focus": "Karşılıklı Adımlar",
+   "short": "Birebir görüşmelerde tatlı dille ilerlemek düğümleri çözecektir.",
+   "text": "Karşındaki insanlarla kurduğun temaslarda uyum ve anlayış ön plana geçiyor. Kova burcunda parlayan İlk Dördün, kişisel hedeflerinle birlikteliklerin arasındaki dengeyi bulmanı istiyor. Kendi bildiğini dayatmak yerine karşı tarafı dikkatle dinlediğinde ortak çözümler hızla belirecektir. Kısa bir telefon konuşması dahi aranızdaki bağı güçlendirebilir.",
+   "motivation": "Dinleyerek dengeni sağla.",
+   "basis": "7. evindeki Ay'ın 3. evdeki Venüs ile üçgen açısı."
+  },
+  "basak": {
+   "focus": "Gündelik Ahenk",
+   "short": "İşlerini toparlarken küçük dokunuşlarla ortamına konfor katabilirsin.",
+   "text": "Rutinlerini düzenlemek ve biriken görevleri sıraya koymak zihnini rahatlatacak. Emek verdiğin işlerin karşılığını almak adına adımlarını bilinçli atman gerekiyor. Altıncı evindeki İlk Dördün, bedensel sağlığına ve çalışma temposuna özen göstermen gerektiğini hatırlatıyor. Yakın çevrenden gelebilecek aceleci talepleri nazikçe sınırlandırıp kendi akışına sadık kal.",
+   "motivation": "Temponu kendi haline bırak.",
+   "basis": "6. evdeki Kova Ayı'nın 2. evdeki Venüs ile üçgen açısı."
+  },
+  "terazi": {
+   "focus": "Özgün Keyifler",
+   "short": "Kendi tarzını ortaya koyarken içindeki sevinci paylaşmaktan çekinme.",
+   "text": "Yaratıcı yönlerini görünür kılmak için gökyüzü sana samimi bir alan tanıyor. Kova burcundaki İlk Dördün, ertelediğin bir hevesini somut bir projeye dönüştürmen için tetikleyici olabilir. Harcamalar konusunda temkinli davranıp zarafetini ve neşeni üretkenliğe aktarmayı seç. Kendine değer verdiğini hissettirecek küçük bir hobiye vakit ayırmak sana iyi gelir.",
+   "motivation": "Işığını kendi renginle yansıt.",
+   "basis": "1. evindeki Venüs'ün 5. evdeki Ay ile kurduğu üçgen açı."
+  },
+  "akrep": {
+   "focus": "İçsel Zemin",
+   "short": "Özel alanına çekilip sevdiklerinle baş başa kalmak ruhunu tazeler.",
+   "text": "Dışarıdaki temponun getirdiği yorgunluğu evinde dinlenerek üzerinden atabilirsin. Dördüncü evinde beliren İlk Dördün, kişisel isteklerinle hane içindeki beklentiler arasında net bir sınır çekmeni gerektiriyor. Kendi kabuğunda sessiz kalmak, önündeki kararları çok daha sağlıklı değerlendirmeni sağlayacaktır. İç dünyanda biriktirdiğin hisleri sakince gözden geçir.",
+   "motivation": "Sessizliğinde sağlam temeller kur.",
+   "basis": "1. evindeki Güneş ile 4. evindeki Kova Ayı arasındaki kare açı."
+  },
+  "yay": {
+   "focus": "Bağlantı Ağı",
+   "short": "Dostlarla yapacağın samimi paylaşımlar yeni kapılar aralayabilir.",
+   "text": "Düşüncelerini aktarırken sergilediğin sıcaklık, sosyal çevrende takdir topluyor. Üçüncü evindeki İlk Dördün fazı, bir süredir aklında olan bir fikri eyleme dökmen için fırsat sunuyor. Geri planda kalan kaygıları bir kenara bırakıp açık diyalog kurarsan dostlarından beklemediğin güzellikte geri dönüşler alırsın. Sözlerini özenle seçerek ilerlemek fayda sağlar.",
+   "motivation": "Açık sözle kalpleri birleştir.",
+   "basis": "3. evindeki Ay'ın 11. evdeki Venüs ile üçgen açısı."
+  },
+  "oglak": {
+   "focus": "Maddi Muhakeme",
+   "short": "Emeklerinin karşılığını planlarken profesyonel duruşunu koru.",
+   "text": "Kişisel bütçeni ve birikimlerini düzenlemek adına mantıklı adımlar atabileceğin bir evredesin. İkinci evinde oluşan İlk Dördün, sosyal çevrenin getirdiği beklentilerle kendi maddi sınırların arasında denge kurmanı istiyor. Kariyerinden gelen destekle geleceğe dair somut güvenceler oluşturabilirsin. Harcamalarında gerçekçi bir tutum benimsemek içini rahatlatır.",
+   "motivation": "Kararlı adımla emeğini büyüt.",
+   "basis": "2. evindeki Kova Ayı'nın 10. evdeki Venüs ile üçgen açısı."
+  },
+  "kova": {
+   "focus": "Şahsi Kararlar",
+   "short": "Kendi isteklerini merkeze alarak geleceğine yön verme zamanı.",
+   "text": "Burcunda gerçekleşen İlk Dördün, ertelediğin bireysel kararları hayata geçirmen için güçlü bir itilim sağlıyor. Kariyerindeki yoğunluk ya da beklentiler seni biraz sıkıştırsa da duruşundan taviz vermemelisin. Yaşam felsefene ve ideallerine uyan konulara odaklandığında çevrendeki insanlarla da dengeli bir diyalog kurabilirsin. Kendi yolunu netleştirerek ilerle.",
+   "motivation": "Kendi gerçeğine sadık kal.",
+   "basis": "1. evindeki Ay'ın Güneş ile kare, Venüs ile üçgen açısı."
+  },
+  "balik": {
+   "focus": "Ruhsal Arınma",
+   "short": "Geri planda kalıp iç sesini dinlemek zihnini hafifletecektir.",
+   "text": "Gözlerden uzak kalarak düşüncelerini toparlamak sana derin bir dinginlik getirebilir. On ikinci evinde gerçekleşen İlk Dördün, uzak planlar ve inançlar konusunda zihnindeki soru işaretlerini sadeleştirmeni istiyor. Ortak paylaşımlardan gelen huzur verici gelişmeler sayesinde endişelerini geride bırakabilirsin. Kendine şefkat gösterip biraz yavaşlamayı dene.",
+   "motivation": "Ruhunu sadeleşmeyle besle.",
+   "basis": "12. evindeki Kova Ayı'nın 8. evdeki Venüs ile üçgen açısı."
+  }
+ }
+}

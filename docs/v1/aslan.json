@@ -1,33 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-09T22:46:04+03:00",
+ "updated": "2026-11-10T06:37:06+03:00",
  "days": [
-  {
-   "date": "2026-11-08",
-   "focus": "Özel Alan",
-   "short": "Ev içindeki dengeyi sağlamak için empatiyle yaklaş.",
-   "text": "Kişisel alanında ve ailevi konularda derinleşme arzusu hissedebilirsin. İkili ilişkilerden yansıyan bazı baskılar hane içindeki sükuneti zorlayabilir. Haklı çıkma dürtüsünü bir kenara bırakarak sevdiklerinin duygusal ihtiyaçlarını dinlemek ortamı rahatlatacaktır. Kendi sığınağına çekilmek enerjini tazeler.",
-   "motivation": "Huzur paylaştıkça derinleşir.",
-   "basis": "4. evdeki Ay, 7. evdeki Plüton ile tam kare oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Akrep'e geçiyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 15°58'",
-    "Ay Akrep'te 5°25'",
-    "Merkür Akrep'te 7°41' ℞",
-    "Venüs Terazi'de 23°30' ℞",
-    "Mars Aslan'da 22°14'",
-    "Jüpiter Aslan'da 25°09'",
-    "Satürn Koç'ta 8°51' ℞",
-    "Uranüs İkizler'de 4°23' ℞",
-    "Neptün Koç'ta 1°56' ℞",
-    "Plüton Kova'da 3°11'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-09",
    "focus": "Hane Düzenlemesi",
@@ -233,6 +208,32 @@
     "Uranüs İkizler'de 4°04' ℞",
     "Neptün Koç'ta 1°48' ℞",
     "Plüton Kova'da 3°17'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-17",
+   "focus": "Karşılıklı Adımlar",
+   "short": "Birebir görüşmelerde tatlı dille ilerlemek düğümleri çözecektir.",
+   "text": "Karşındaki insanlarla kurduğun temaslarda uyum ve anlayış ön plana geçiyor. Kova burcunda parlayan İlk Dördün, kişisel hedeflerinle birlikteliklerin arasındaki dengeyi bulmanı istiyor. Kendi bildiğini dayatmak yerine karşı tarafı dikkatle dinlediğinde ortak çözümler hızla belirecektir. Kısa bir telefon konuşması dahi aranızdaki bağı güçlendirebilir.",
+   "motivation": "Dinleyerek dengeni sağla.",
+   "basis": "7. evindeki Ay'ın 3. evdeki Venüs ile üçgen açısı.",
+   "sky_events": [
+    "Bugün İlk Dördün (Kova burcunda) gerçekleşiyor.",
+    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 25°01'",
+    "Ay Kova'da 23°43'",
+    "Merkür Akrep'te 6°13'",
+    "Venüs Terazi'de 23°05'",
+    "Mars Aslan'da 26°22'",
+    "Jüpiter Aslan'da 25°58'",
+    "Satürn Koç'ta 8°25' ℞",
+    "Uranüs İkizler'de 4°02' ℞",
+    "Neptün Koç'ta 1°47' ℞",
+    "Plüton Kova'da 3°18'"
    ],
    "moon_phase": "İlk Dördün"
   }
