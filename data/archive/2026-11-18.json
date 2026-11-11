@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-11T04:22:06+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 26°01'",
+   "Ay Balık'ta 6°01'",
+   "Merkür Akrep'te 6°53'",
+   "Venüs Terazi'de 23°14'",
+   "Mars Aslan'da 26°49'",
+   "Jüpiter Aslan'da 26°03'",
+   "Satürn Koç'ta 8°22' ℞",
+   "Uranüs İkizler'de 3°59' ℞",
+   "Neptün Koç'ta 1°47' ℞",
+   "Plüton Kova'da 3°19'"
+  ],
+  "events": [
+   "Ay bugün Balık'a geçiyor.",
+   "Güneş ile Jüpiter arasında kare açısı bugün tam oluyor.",
+   "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "İlk Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Zihinsel Arınma",
+   "short": "Kalabalıktan uzaklaşıp kendi düşüncelerine odaklanmak zihnini rahatlatacak.",
+   "text": "Günlük koşuşturmanın gürültüsünü ardında bırakıp biraz tek başına kalmak isteyebilirsin. Sekizinci evindeki Merkür ile temas kuran Ay, derinlerde sakladığın finansal kaygıları veya cevapsız soruları mantıkla çözümlemeni kolaylaştırıyor. İletişim trafiğindeki ani aksaklıklara takılmadan, hissettiğin sezgisel ipuçlarını pratik bir planla birleştir. Kendine sakin bir köşe yaratıp stratejilerini gözden geçirmek kafa karışıklığını giderecektir.",
+   "motivation": "Sessiz akıl doğruyu fısıldar.",
+   "basis": "Ay 12. evinde Balık'ta ilerlerken 8. evindeki Merkür ile üçgen açı kuruyor."
+  },
+  "boga": {
+   "focus": "Sosyal İletişim",
+   "short": "Dostlarınla kurduğun samimi bağlar hedeflerine güç katabilir.",
+   "text": "Dostlarınla kurduğun temaslarda anlayışlı bir dil hakim olabilir. Ortak hedefleri konuşurken muhataplarının beklentilerini kolayca kavrayabilirsin. Beklenmedik harcama fikirlerine karşı temkinli kalıp planına sadık kalman iyi olur. Fikir ayrılıklarını kişiselleştirmeden dinlemeyi tercih et.",
+   "motivation": "Gönülden iletişim rotanı berraklaştırır.",
+   "basis": "Ay 11. evinde, 7. evdeki Merkür ile üçgen açıda."
+  },
+  "ikizler": {
+   "focus": "Kariyerde Esneklik",
+   "short": "İş ortamındaki ani değişimleri esneklikle yönetebilirsin.",
+   "text": "İş yaşamında ani gelişen plan değişiklikleri karşına çıkabilir. Günlük görevlerini toparlarken üstlerinle ya da ekip arkadaşlarınla yapıcı konuşmalar yürütebilirsin. Acele kararlar vermeden önce elindeki verileri dikkatle gözden geçir. Olayları sakinlikle karşılamak sana saygınlık kazandırır.",
+   "motivation": "Esnek adımlar denge kurar.",
+   "basis": "Ay 10. evinde, 1. evindeki Uranüs ile kare açıda."
+  },
+  "yengec": {
+   "focus": "Vizyon ve İlham",
+   "short": "Fikirlerini geliştirirken aşırı harcamalara dikkat etmelisin.",
+   "text": "Zihnini besleyen derin konulara ve yaratıcı fikirlere odaklanmak isteyebilirsin. Uzun vadeli tasarıların için güçlü bir sezgisel kavrayış yakalayacaksın. Eğlence veya kişisel hevesler adına bütçeni aşırı zorlamamaya özen göstermelisin. Yeni öğrendiğin bir bilgiyi bugün hemen hayata geçirmeyi dene.",
+   "motivation": "İlhamını ölçülü adımlarla büyüt.",
+   "basis": "Güneş 5. evinde, 2. evdeki Jüpiter ile kare açıda."
+  },
+  "aslan": {
+   "focus": "Derin Paylaşımlar",
+   "short": "Ortak bütçe konularında sakin ve gerçekçi kalmaya çalış.",
+   "text": "Ev ve hane bütçesine dair konuları konuşurken duygusal bağlar güçlenebilir. Kendi beklentilerini abartmadan, ailenin sınırlarına saygı göstererek ilerlemen önemli. Ani kararlarla borç altına girmek yerine mevcut durumu korumaya odaklan. İç dünyandaki fırtınaları yapıcı bir sohbetle dindirebilirsin.",
+   "motivation": "Ölçülü duruş bağları korur.",
+   "basis": "1. evindeki Jüpiter, 4. evdeki Güneş ile kare açıda."
+  },
+  "basak": {
+   "focus": "Birebir İletişim",
+   "short": "Karşındaki insanları anlamak diyalogları yumuşatacaktır.",
+   "text": "İkili görüşmelerinde sezgisel bir anlayış geliştirmek işlerini kolaylaştırabilir. Karşındaki kişinin ne demek istediğini sözlerin ötesinde hissedebilirsin. Kariyer hedeflerindeki belirsizliklerin ilişkilerine yansımasına izin vermemelisin. Düşüncelerini net ama kırıcı olmayan bir üslupla paylaş.",
+   "motivation": "Anlayışlı dinleyiş köprü kurar.",
+   "basis": "Ay 7. evinde, 3. evdeki Merkür ile üçgen açıda."
+  },
+  "terazi": {
+   "focus": "Çalışma Temposu",
+   "short": "Günlük düzenini sağlarken kaynaklarını idareli kullan.",
+   "text": "Günlük sorumluluklarını toparlarken maddi hedeflerini göz ardı etmemen faydalı olur. Bekleyen evrakları ya da rutin işleri düzenlemek zihnini rahatlatacaktır. Sosyal hevesler için bütçeni zorlamamaya özen göstermelisin. Dağınıklığı toparlayıp iş listeni sadeleştirerek güne devam et.",
+   "motivation": "Sade adımlar huzur üretir.",
+   "basis": "Ay 6. evinde, 2. evdeki Merkür ile üçgen açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Yaratıcı Heves",
+   "short": "Fikirlerini cesaretle ifade ederken aşırılıktan kaçın.",
+   "text": "Hislerini ve orijinal fikirlerini rahatlıkla dışa vurabileceğin bir akış var. İkna gücün yüksekken iş yerinde büyük iddialar ortaya atmaktan kaçınmalısın. Beklenmedik maddi pürüzler canını sıkmasın, geçici olduğunu hatırla. Hobilerine vakit ayırıp zihnini dinlendirmek günün verimini artırır.",
+   "motivation": "Dengeli özgüven yol açar.",
+   "basis": "Burcundaki Güneş, 10. evdeki Jüpiter ile kare açıda."
+  },
+  "yay": {
+   "focus": "Evde Dinginlik",
+   "short": "Kendi özel alanında dinlenmek zihnini toparlamanı sağlar.",
+   "text": "Yaşam alanına çekilip zihnini toparlamak için güzel fırsatlar yakalayabilirsin. Aile içindeki geçmiş konuları şefkatli bir dille çözümlemek mümkün. Ancak ikili ilişkilerde ani çıkışlar yapmamaya ve büyük sözler vermemeye dikkat etmelisin. Evinde sakin bir köşe yaratıp düşüncelerini dinle.",
+   "motivation": "Kendi köşende sükuneti büyüt.",
+   "basis": "Ay 4. evinde, 7. evdeki Uranüs ile kare açıda."
+  },
+  "oglak": {
+   "focus": "Fikir Paylaşımı",
+   "short": "Yakın çevrenle samimi sohbetler yeni ufuklar sunabilir.",
+   "text": "Çevrendeki insanlarla yapıcı diyaloglar kurmak sana yeni kapılar aralayabilir. Geleceğe dair tasarılarını güvendiğin dostlarınla paylaşmak iyi sonuçlar doğurur. Günlük rutinde plan dışı gelişmeler olursa akışa uyum sağlamayı seçmelisin. Notlar alarak çalışmak odağını canlı tutacaktır.",
+   "motivation": "Paylaşılan fikir yolu netleştirir.",
+   "basis": "Ay 3. evinde, 11. evdeki Merkür ile üçgen açı kuruyor."
+  },
+  "kova": {
+   "focus": "Maddi Öncelikler",
+   "short": "Harcamalarını planlarken ani heveslere sınır koy.",
+   "text": "Bütçeni planlarken ani harcama isteklerine karşı uyanık olmanda fayda var. Kariyerinle ilgili görüşmelerde tecrübelerini akıcı bir şekilde aktarabilirsin. Ortaklı işlerde abartılı beklentilere girmeden somut duruma odaklanmalısın. Gereksiz masrafları erteleyip mevcut birikimini koru.",
+   "motivation": "Sağduyulu tercihler güvende tutar.",
+   "basis": "Ay 2. evinde, 10. evdeki Merkür ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Kişisel İfade",
+   "short": "Duygularını samimiyetle paylaşarak içsel uyumu yakala.",
+   "text": "Kendi isteklerini ve düşüncelerini açıkça dile getirmek seni rahatlatacaktır. İnançların ve uzun vadeli hedeflerin konusunda zihnin oldukça berrak çalışıyor. Ev ortamındaki anlık gerilimlere takılmadan hedeflerine doğru ilerlemelisin. Kendine zaman ayırıp iç sesinin sana söylediklerini yaz.",
+   "motivation": "Özüne sadık kalarak parla.",
+   "basis": "Ay burcuna geçiyor ve 9. evdeki Merkür ile üçgen açı yapıyor."
+  }
+ }
+}

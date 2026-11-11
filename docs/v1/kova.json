@@ -1,33 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-10T20:00:20+03:00",
+ "updated": "2026-11-11T04:22:06+03:00",
  "days": [
-  {
-   "date": "2026-11-09",
-   "focus": "Kariyer Hamlesi",
-   "short": "Mesleki adımlarını atarken ortaklıklarında sakin kalmaya çalış.",
-   "text": "Kariyer evinde gerçekleşen Akrep Yeniayı, mesleki duruşunu ve toplumsal hedeflerini tazelemek adına kuvvetli bir başlangıç sunuyor. Karşıt evindeki Mars'ın bu noktaya yaptığı kare açı, ortakların ya da partnerinle güç mücadelelerine çekilebileceğini vurguluyor. Dışarıdan gelen meydan okumalara fevri karşılık vermek yerine işine odaklanmalısın. Kendi profesyonel sınırlarını koruyarak ilerlemek uzun vadede saygınlık getirecektir.",
-   "motivation": "Duruşunu profesyonellikle güçlendir.",
-   "basis": "Onuncu evinde gerçekleşen Yeniay, yedinci evindeki Mars ile kare açı yapıyor.",
-   "sky_events": [
-    "Bugün Yeniay (Akrep burcunda) gerçekleşiyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 16°58'",
-    "Ay Akrep'te 17°54'",
-    "Merkür Akrep'te 6°47' ℞",
-    "Venüs Terazi'de 23°17' ℞",
-    "Mars Aslan'da 22°43'",
-    "Jüpiter Aslan'da 25°15'",
-    "Satürn Koç'ta 8°47' ℞",
-    "Uranüs İkizler'de 4°21' ℞",
-    "Neptün Koç'ta 1°55' ℞",
-    "Plüton Kova'da 3°12'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-10",
    "focus": "Sosyal Çalışmalar",
@@ -234,6 +209,33 @@
     "Uranüs İkizler'de 4°02' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°18'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-18",
+   "focus": "Maddi Öncelikler",
+   "short": "Harcamalarını planlarken ani heveslere sınır koy.",
+   "text": "Bütçeni planlarken ani harcama isteklerine karşı uyanık olmanda fayda var. Kariyerinle ilgili görüşmelerde tecrübelerini akıcı bir şekilde aktarabilirsin. Ortaklı işlerde abartılı beklentilere girmeden somut duruma odaklanmalısın. Gereksiz masrafları erteleyip mevcut birikimini koru.",
+   "motivation": "Sağduyulu tercihler güvende tutar.",
+   "basis": "Ay 2. evinde, 10. evdeki Merkür ile üçgen açıda.",
+   "sky_events": [
+    "Ay bugün Balık'a geçiyor.",
+    "Güneş ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 26°01'",
+    "Ay Balık'ta 6°01'",
+    "Merkür Akrep'te 6°53'",
+    "Venüs Terazi'de 23°14'",
+    "Mars Aslan'da 26°49'",
+    "Jüpiter Aslan'da 26°03'",
+    "Satürn Koç'ta 8°22' ℞",
+    "Uranüs İkizler'de 3°59' ℞",
+    "Neptün Koç'ta 1°47' ℞",
+    "Plüton Kova'da 3°19'"
    ],
    "moon_phase": "İlk Dördün"
   }
