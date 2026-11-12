@@ -1,36 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "İçsel Muhasebe",
-   "short": "Biraz yavaşlamak ve zihnini boşaltmak sana güç verecek.",
-   "text": "On ikinci evine geçen Ay, dış dünyanın gürültüsünden uzaklaşıp kendi kabuğuna çekilme ihtiyacını vurguluyor. Dördüncü evindeki Neptün ile kurulan üçgen açı, evinde dinlenmenin ve geçmiş yükleri affetmenin ruhuna iyi geleceğine işaret ediyor. Kariyer evindeki retro Venüs ile sekizinci evindeki Mars arasındaki sekstil, mesleki iş birliklerinde alttan alta yürüyen pürüzleri çözme fırsatı veriyor. Kendine dinlenme alanı aç.",
-   "motivation": "Yavaşlamak gücü geri kazandırır.",
-   "basis": "Ay on ikinci evine geçiş yaparak dördüncü evindeki Neptün ile üçgen açı kuruyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Dinlenme ve Arınma",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "İletişim ve Paylaşım",
+   "short": "Fikirlerini paylaşırken ortak maddi konulardaki gerilimleri uzağında tut.",
+   "text": "Yakın çevrenle diyalog kurmak ve kısa seyahatler yapmak zihnini canlandırabilir. Sosyal gruplar veya arkadaş çevrenle planlar yaparken ortak bütçeler ya da paylaşımlı harcamalar üzerine ısrarcı olmaktan kaçınmalısın. Diyaloglarda net ama esnek bir duruş sergilemek fayda sağlar. Zihinsel odağını yapıcı ve somut projelere yönlendirmelisin.",
+   "motivation": "Esneklik zihinsel berraklık sağlar.",
+   "basis": "11. evindeki Güneş ile 8. evindeki Mars arasındaki kare açı kesinleşiyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

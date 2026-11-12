@@ -1,36 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Sosyal Çalışmalar",
-   "short": "Grup dinamiklerinde gücünü yapıcı biçimde sergileyebilirsin.",
-   "text": "Günün akışında dâhil olduğun topluluklar ve arkadaş grupları ön plana çıkıyor. Kendi potansiyelini sergilerken çevrene ilham verebilir, ortak projelerde yönlendirici bir rol üstlenebilirsin. Ekip çalışmalarında büyük vaatler yerine somut adımlara odaklanmak faydalı olur. Zihnini taze tutmak için dostlarınla samimi bir paylaşımda bulunabilirsin.",
-   "motivation": "Yapıcı duruş güven uyandırır.",
-   "basis": "Ay 11. evine girerken 1. evindeki Plüton ile sekstil açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Planlı Sosyalleşme",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Kazançlar ve Ortaklıklar",
+   "short": "Parasal önceliklerini belirlerken ikili ilişkilerde sert adımlardan kaçın.",
+   "text": "Kendi öz değerine ve bütçene odaklanmak önceliğin olmalı. Mesleki hedeflerin doğrultusunda adımlar atarken, ortaklarınla veya partnerinle yaşanabilecek fikir ayrılıklarını rekabete dönüştürmemelisin. Karşındaki insanlarla konuşurken uzlaşmacı bir dille hareket etmek işlerini kolaylaştırır. Kaynaklarını koruyarak kararlı adımlarla devam et.",
+   "motivation": "Uzlaşmacı yaklaşım kapıları açar.",
+   "basis": "10. evindeki Güneş ile 7. evindeki Mars bugün kare açı yapıyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

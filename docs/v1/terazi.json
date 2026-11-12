@@ -1,36 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Yakın İletişim",
-   "short": "Görüşmelerinde zarafetini koruyarak ortak fikirler üretebilirsin.",
-   "text": "Yakın çevrenle yürüttüğün konuşmalarda yapıcı ve birleştirici bir dil kullanabilirsin. Birinci evindeki Venüs ile sosyal çevrendeki Mars arasında kurulan uyumlu bağ, kendini rahatça ortaya koymana destek veriyor. Fikir alışverişi yaparken samimiyeti korumak kapıları kolayca açacaktır. Günlük planlarında zihnini yormayacak küçük molalar vermeyi ihmal etme.",
-   "motivation": "Zarif üslup yolları açar.",
-   "basis": "1. evindeki Venüs ile 11. evindeki Mars arasındaki sekstil açı bugün kesinleşiyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Yapıcı Diyalog",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Günlük Düzen",
+   "short": "Günlük işlerini toparlarken sosyal çevrenle maddi sınırlarını iyi çizmelisin.",
+   "text": "İş ortamındaki görevlerini ve günlük rutinlerini sıraya koymak zihnini hafifletecektir. Parasal kazançların veya öz değerinle ilgili konularda arkadaş çevrenin beklentileri seni aceleci adımlara itebilir. Harcamalarını ve hedeflerini başkalarının temposuna göre değil, kendi planına göre şekillendir. Sağlam bir iş disiplini üretkenliğini pekiştirecektir.",
+   "motivation": "Önceliklerini belirlemek ferahlık verir.",
+   "basis": "2. evindeki Güneş ile 11. evindeki Mars bugün kare açı yapıyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

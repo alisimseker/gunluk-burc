@@ -1,36 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Kişisel Çıkış",
-   "short": "Kendi isteklerini merkeze alırken abartıdan sakınmalısın.",
-   "text": "Ay bugün burcuna yerleşerek iç dünyandaki durgunluğu dağıtıyor ve seni taze bir hevesle dolduruyor. Beşinci evindeki geri giden Neptün ile oluşan üçgen açı, hayal gücünü beslerken sanatsal ya da romantik konularda ilham veriyor. Dokuzuncu evindeki Jüpiter ile oluşan kare açı ise boyunu aşan sözler vermene ya da gereğinden büyük hedefler koymana zemin hazırlayabilir. Planlarını somut ve uygulanabilir düzeyde tut.",
-   "motivation": "Sakin özgüven rotanı netleştirir.",
-   "basis": "Ay Yay burcuna geçiyor ve dokuzuncu evindeki Jüpiter ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Şahsi Sorumluluk",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "İç Huzur",
+   "short": "Evindeki sakinliği korurken uzak hedeflerin için sabırsızlık yapmamalısın.",
+   "text": "Kendi kabuğunda kalmak, evde vakit geçirmek ve ruhsal olarak tazelenmek sana iyi gelecek. İç dünyanda netleştirmeye çalıştığın konular, inançların veya uzak planların hususunda katı düşüncelere kapılmana yol açabilir. Fikirlerini savunurken sakin kalmayı ve olaylara geniş açıdan bakmayı sürdür. Yaşam alanını düzene sokmak zihnini yatıştıracaktır.",
+   "motivation": "Zamanın ritmine güvenmek güçlendirir.",
+   "basis": "12. evindeki Güneş ile 9. evindeki Mars kare açı yapıyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

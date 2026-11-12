@@ -1,36 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Maddi Paylaşımlar",
-   "short": "Kaynak yönetiminde abartıdan uzak durmak içini ferahlatacak.",
-   "text": "Günün ilerleyen saatlerinde sekizinci evine yerleşen Ay, ortaklaşa yürütülen bütçeleri ve karşılıklı güveni ön plana taşıyor. Aslan burcundaki Jüpiter ile oluşan kare açı, harcamalarda ya da maddi beklentilerde sınırları aşma eğilimi yaratabilir. Altıncı evindeki gerileyen Venüs ile dördüncü evindeki Mars'ın desteği, ev içindeki işleri toparlaman için gereken pratik gücü sana veriyor. Hesaplarını net tutarak ilerle.",
-   "motivation": "Ölçülü adımlar bereketi korur.",
-   "basis": "Yay burcundaki Ay ile dördüncü evindeki Jüpiter arasında kare açı gerçekleşiyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "İçsel Dengelenme",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "İlişki ve Yuva",
+   "short": "İkili ilişkilerde ev ve aile odaklı gerilimlerden sakınmak için esnek olmalısın.",
+   "text": "Sosyal grupların ve arkadaşlarınla diyalogların günü renklendirebilir. İkili ilişkilerinde partnerinle veya ortaklarınla konuşurken ev yaşamından kaynaklanan huzursuzlukları diyaloglara taşımamaya gayret et. Karşı tarafın bakış açısını dinlemek gereksiz tartışmaların önüne geçer. Sakin bir yaklaşımla ortak kararlar almak kolaylaşacaktır.",
+   "motivation": "Anlayışlı tutum gerginliği eritir.",
+   "basis": "7. evindeki Güneş ile 4. evindeki Mars bugün kare açı yapıyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

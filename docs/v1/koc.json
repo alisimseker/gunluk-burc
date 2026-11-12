@@ -1,36 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Zihinsel Ufuklar",
-   "short": "Geniş perspektiften bakarak yeni öğrenme fırsatlarına odaklanabilirsin.",
-   "text": "Güne başlarken zihnini kurcalayan dar kalıpları bir kenara bırakıp büyük resmi görmeye yönelebilirsin. Eğitim, araştırma ya da yeni bir vizyon geliştirme hususunda adımlar atmak sana iyi gelebilir. Ancak heyecanla aşırı büyük sözler vermemeye özen göstermeli, adımlarını ölçülü tutmalısın. Gün içinde sezgilerine kulak vermek, karmaşık meseleleri çözmeni kolaylaştıracaktır.",
-   "motivation": "Geniş bakış açısı çözümü getirir.",
-   "basis": "Ay 9. evine geçerken 1. evindeki Neptün ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Gelecek Vizyonu",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "İçsel Sınırlar",
+   "short": "İç dünyana çekilerek aşırı harcama ve heves riskini kontrol altında tutabilirsin.",
+   "text": "Günü biraz daha sakince geçirmek ve iç sesini dinlemek sana iyi gelebilir. Yaratıcı projelerinde veya sosyal aktivitelerinde aniden yükselen heyecanını bütçene göre dengelemelisin. Riskli adımlar atmak yerine elimdekileri değerlendirmek daha güvenli bir seçenek. Arka planda yürüttüğün işleri aceleye getirmeden, kendi temponda ilerlet.",
+   "motivation": "Sessiz adımlar sağlam zemin yaratır.",
+   "basis": "8. evindeki Güneş ile 5. evindeki Mars arasındaki kare açı kesinleşiyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

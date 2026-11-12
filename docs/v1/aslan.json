@@ -1,36 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "İlham ve Heves",
-   "short": "Yaratıcı işlerinde coşkunu dengede tutarak adımlar atabilirsin.",
-   "text": "Günün gelişiyle birlikte keyif aldığın işlere odaklanma arzun artabilir. Kendini ifade ederken güçlü bir çekim yaratıyorsun, ancak enerjini aynı anda çok fazla yere bölmemeye dikkat etmelisin. Sanatsal veya kişisel projelerinde ölçülü ilerlemek hevesinin uzun soluklu olmasını sağlar. İçinden gelen yaratıcı kıvılcımı sabırla işleyebilirsin.",
-   "motivation": "Ölçülü heyecan istikrar getirir.",
-   "basis": "Ay 5. evinde ilerlerken 1. evindeki Jüpiter ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Yaratıcı Olgunluk",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Duygusal Odak",
+   "short": "Kendi arzularınla ailevi beklentiler arasında sakin bir denge kurmalısın.",
+   "text": "Ortaklı kaynaklar ve derin düşünceler günün ana konusunu oluşturuyor. Kendi isteklerin doğrultusunda hızlıca eyleme geçme arzun, aile veya ev yaşamındaki durumlarla çelişebilir. Tepkilerini kontrol ederek adımlarını atman, olası anlaşmazlıkları başlamadan engeller. Kendi iç dengeni korumak günün sonunda huzur bulmanı kolaylaştırır.",
+   "motivation": "Sakin güç doğru yönü buldurur.",
+   "basis": "4. evindeki Güneş ile 1. evindeki Mars kare açı yapıyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

@@ -1,36 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Karşılıklı Denge",
-   "short": "İlişkilerinde abartılı beklentilerden kaçınıp sakinlikle uyum yakalayabilirsin.",
-   "text": "Bugün muhatap olduğun kişilerle ilişkilerinde dengeyi korumak önem kazanıyor. Karşındaki insanla ortak bir paydada buluşmak için esneklik göstermek işleri kolaylaştıracaktır. İletişimde aşırı coşkulu veya abartılı tepkiler vermek yerine daha makul bir üslup benimsemelisin. Empati kurarak ilerlediğinde aradaki bağların ne kadar güçlendiğini fark edeceksin.",
-   "motivation": "Uyumlu diyalog güven tazeler.",
-   "basis": "Ay 7. evinde ilerlerken 3. evindeki Jüpiter ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Ortak Paydalar",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Kariyer ve İletişim",
+   "short": "İş hayatındaki hedeflerini kovalamak için zihinsel enerjini doğru yönetmelisin.",
+   "text": "Günün odağında mesleki hedeflerin ve toplum önündeki duruşun bulunuyor. Günlük iş temposundaki yoğunluk, yakın çevrenle yürüttüğün diyaloglarda aceleci ifadeler kullanmana yol açabilir. Mesajlarını iletirken sakin kalmayı ve detayları gözden kaçırmamayı seçmelisin. Sistemli hareket ettiğinde iş akışın hız kazanacaktır.",
+   "motivation": "Planlı iletişim engelleri kaldırır.",
+   "basis": "6. evdeki Güneş ile 3. evdeki Mars arasındaki kare açı kesinleşiyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

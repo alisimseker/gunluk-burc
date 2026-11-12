@@ -1,36 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Maddi Çerçeve",
-   "short": "Harcama dengeni korumak bütçene nefes aldıracak.",
-   "text": "Ay burcundan ayrılarak ikinci evine geçerken, somut kaynakların ve öz değerin ön plana çıkıyor. Altıncı evindeki Neptün ile kurulan üçgen açı, mesleki süreçlerde iç sesine kulak vererek pratik kararlar alabileceğini fısıldıyor. Onuncu evindeki Mars ile on ikinci evindeki Venüs arasındaki olumlu açı ise hedeflerin doğrultusunda gizli bir destek bulabileceğini gösteriyor. Aşırı harcama hevesini dizginleyip mevcut olanı koru.",
-   "motivation": "Kanaat güveni sağlamlaştırır.",
-   "basis": "Ay ikinci evine geçerek altıncı evindeki retro Neptün ile üçgen açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Bütçe Dengesi",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Hedefler ve İfade",
+   "short": "Kendi hedeflerinle kariyerindeki beklentileri çatıştırmadan yönetmeye bak.",
+   "text": "Yaratıcı yönlerini ortaya koymak ve kendini rahatça ifade etmek sana moral verecektir. Kendi bireysel duruşunu ve isteklerini öne çıkarırken, üstlerinle veya mesleki hedeflerinle ilgili aceleci tavırlardan uzak kalmalısın. Gücünü rekabet yerine stratejik planlamaya yönlendirmek başarı şansını yükseltir. Hevesini doğru kanala aktararak ilerleyebilirsin.",
+   "motivation": "Stratejik sabır başarıyı taşır.",
+   "basis": "1. evindeki Güneş ile 10. evindeki Mars kare açı oluşturuyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

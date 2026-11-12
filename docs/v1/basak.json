@@ -1,36 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-11T20:05:49+03:00",
+ "updated": "2026-11-12T05:23:20+03:00",
  "days": [
-  {
-   "date": "2026-11-10",
-   "focus": "Hane Düzeni",
-   "short": "Kendi özel alanında kuracağın intizam zihnini toparlar.",
-   "text": "Dördüncü evine geçiş yapan Ay ile birlikte dikkatin yaşam alanına ve içsel güvenliğine kayıyor. Sekizinci evindeki Neptün ile kurulan üçgen açı, ailevi meselelerde hislerine güvenebileceğini ve empati kurmanın kolaylaşacağını gösteriyor. İkinci evindeki retro Venüs ile on ikinci evindeki Mars arasındaki sekstil, geçmişten gelen maddi bir konuyu sessizce çözüme kavuşturman için uygun bir zemin sunuyor. Sakinliğe alan tanı.",
-   "motivation": "İç huzuru sükunetle besle.",
-   "basis": "Ay dördüncü evine geçerek sekizinci evindeki Neptün ile üçgen açı kuruyor.",
-   "sky_events": [
-    "Ay bugün Yay'a geçiyor.",
-    "Venüs ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 17°58'",
-    "Ay Yay'da 0°12'",
-    "Merkür Akrep'te 6°04' ℞",
-    "Venüs Terazi'de 23°07' ℞",
-    "Mars Aslan'da 23°11'",
-    "Jüpiter Aslan'da 25°21'",
-    "Satürn Koç'ta 8°44' ℞",
-    "Uranüs İkizler'de 4°19' ℞",
-    "Neptün Koç'ta 1°54' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Yeniay"
-  },
   {
    "date": "2026-11-11",
    "focus": "Yuva Emniyeti",
@@ -236,6 +208,30 @@
     "Uranüs İkizler'de 3°59' ℞",
     "Neptün Koç'ta 1°47' ℞",
     "Plüton Kova'da 3°19'"
+   ],
+   "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-19",
+   "focus": "Yakın Diyaloglar",
+   "short": "İlişkilerinde empatiyle yaklaşarak arka plandaki huzursuzlukları aşabilirsin.",
+   "text": "Birebir diyaloglarında ve ortaklı işlerinde karşı tarafın ihtiyaçlarına kulak vermek ön plana çıkıyor. İletişim trafiğinin yoğunlaştığı bu günde, içsel sabırsızlığını sözlerine yansıtmamaya dikkat etmelisin. Zihnini yoran söylenmemiş düşünceleri net ama kırıcı olmadan ifade etmek rahatlama sağlar. Yakın çevrenle iş birliği içinde kalmak verimini artıracaktır.",
+   "motivation": "Dinlemek uyumu güçlendirir.",
+   "basis": "3. evindeki Güneş ile 12. evindeki Mars arasındaki kare açı kesinleşiyor.",
+   "sky_events": [
+    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 27°02'",
+    "Ay Balık'ta 18°39'",
+    "Merkür Akrep'te 7°40'",
+    "Venüs Terazi'de 23°25'",
+    "Mars Aslan'da 27°15'",
+    "Jüpiter Aslan'da 26°07'",
+    "Satürn Koç'ta 8°20' ℞",
+    "Uranüs İkizler'de 3°57' ℞",
+    "Neptün Koç'ta 1°46' ℞",
+    "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
   }

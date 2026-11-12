@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-12T05:23:20+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 27°02'",
+   "Ay Balık'ta 18°39'",
+   "Merkür Akrep'te 7°40'",
+   "Venüs Terazi'de 23°25'",
+   "Mars Aslan'da 27°15'",
+   "Jüpiter Aslan'da 26°07'",
+   "Satürn Koç'ta 8°20' ℞",
+   "Uranüs İkizler'de 3°57' ℞",
+   "Neptün Koç'ta 1°46' ℞",
+   "Plüton Kova'da 3°20'"
+  ],
+  "events": [
+   "Güneş ile Mars arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "İlk Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "İçsel Sınırlar",
+   "short": "İç dünyana çekilerek aşırı harcama ve heves riskini kontrol altında tutabilirsin.",
+   "text": "Günü biraz daha sakince geçirmek ve iç sesini dinlemek sana iyi gelebilir. Yaratıcı projelerinde veya sosyal aktivitelerinde aniden yükselen heyecanını bütçene göre dengelemelisin. Riskli adımlar atmak yerine elimdekileri değerlendirmek daha güvenli bir seçenek. Arka planda yürüttüğün işleri aceleye getirmeden, kendi temponda ilerlet.",
+   "motivation": "Sessiz adımlar sağlam zemin yaratır.",
+   "basis": "8. evindeki Güneş ile 5. evindeki Mars arasındaki kare açı kesinleşiyor."
+  },
+  "boga": {
+   "focus": "İlişki ve Yuva",
+   "short": "İkili ilişkilerde ev ve aile odaklı gerilimlerden sakınmak için esnek olmalısın.",
+   "text": "Sosyal grupların ve arkadaşlarınla diyalogların günü renklendirebilir. İkili ilişkilerinde partnerinle veya ortaklarınla konuşurken ev yaşamından kaynaklanan huzursuzlukları diyaloglara taşımamaya gayret et. Karşı tarafın bakış açısını dinlemek gereksiz tartışmaların önüne geçer. Sakin bir yaklaşımla ortak kararlar almak kolaylaşacaktır.",
+   "motivation": "Anlayışlı tutum gerginliği eritir.",
+   "basis": "7. evindeki Güneş ile 4. evindeki Mars bugün kare açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Kariyer ve İletişim",
+   "short": "İş hayatındaki hedeflerini kovalamak için zihinsel enerjini doğru yönetmelisin.",
+   "text": "Günün odağında mesleki hedeflerin ve toplum önündeki duruşun bulunuyor. Günlük iş temposundaki yoğunluk, yakın çevrenle yürüttüğün diyaloglarda aceleci ifadeler kullanmana yol açabilir. Mesajlarını iletirken sakin kalmayı ve detayları gözden kaçırmamayı seçmelisin. Sistemli hareket ettiğinde iş akışın hız kazanacaktır.",
+   "motivation": "Planlı iletişim engelleri kaldırır.",
+   "basis": "6. evdeki Güneş ile 3. evdeki Mars arasındaki kare açı kesinleşiyor."
+  },
+  "yengec": {
+   "focus": "Keyif ve Bütçe",
+   "short": "Ufku genişleten fikirlere odaklanırken harcama dengeni korumaya özen göster.",
+   "text": "Yeni şeyler öğrenmek, seyahat planları yapmak veya zihnini besleyen alanlara yönelmek için güzel bir gün. Ancak keyifli uğraşların ya da hobilerin için yapacağın harcamalarda bütçeni aşmamaya dikkat etmelisin. Maddi konularda ani kararlar vermek yerine uzun vadeli planlar yapmak zihnini rahatlatır. Özgün yeteneklerini pratik işlere dönüştürebilirsin.",
+   "motivation": "Bilinçli adımlar kararlılık getirir.",
+   "basis": "5. evindeki Güneş ile 2. evindeki Mars bugün kare açı kuruyor."
+  },
+  "aslan": {
+   "focus": "Duygusal Odak",
+   "short": "Kendi arzularınla ailevi beklentiler arasında sakin bir denge kurmalısın.",
+   "text": "Ortaklı kaynaklar ve derin düşünceler günün ana konusunu oluşturuyor. Kendi isteklerin doğrultusunda hızlıca eyleme geçme arzun, aile veya ev yaşamındaki durumlarla çelişebilir. Tepkilerini kontrol ederek adımlarını atman, olası anlaşmazlıkları başlamadan engeller. Kendi iç dengeni korumak günün sonunda huzur bulmanı kolaylaştırır.",
+   "motivation": "Sakin güç doğru yönü buldurur.",
+   "basis": "4. evindeki Güneş ile 1. evindeki Mars kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "Yakın Diyaloglar",
+   "short": "İlişkilerinde empatiyle yaklaşarak arka plandaki huzursuzlukları aşabilirsin.",
+   "text": "Birebir diyaloglarında ve ortaklı işlerinde karşı tarafın ihtiyaçlarına kulak vermek ön plana çıkıyor. İletişim trafiğinin yoğunlaştığı bu günde, içsel sabırsızlığını sözlerine yansıtmamaya dikkat etmelisin. Zihnini yoran söylenmemiş düşünceleri net ama kırıcı olmadan ifade etmek rahatlama sağlar. Yakın çevrenle iş birliği içinde kalmak verimini artıracaktır.",
+   "motivation": "Dinlemek uyumu güçlendirir.",
+   "basis": "3. evindeki Güneş ile 12. evindeki Mars arasındaki kare açı kesinleşiyor."
+  },
+  "terazi": {
+   "focus": "Günlük Düzen",
+   "short": "Günlük işlerini toparlarken sosyal çevrenle maddi sınırlarını iyi çizmelisin.",
+   "text": "İş ortamındaki görevlerini ve günlük rutinlerini sıraya koymak zihnini hafifletecektir. Parasal kazançların veya öz değerinle ilgili konularda arkadaş çevrenin beklentileri seni aceleci adımlara itebilir. Harcamalarını ve hedeflerini başkalarının temposuna göre değil, kendi planına göre şekillendir. Sağlam bir iş disiplini üretkenliğini pekiştirecektir.",
+   "motivation": "Önceliklerini belirlemek ferahlık verir.",
+   "basis": "2. evindeki Güneş ile 11. evindeki Mars bugün kare açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Hedefler ve İfade",
+   "short": "Kendi hedeflerinle kariyerindeki beklentileri çatıştırmadan yönetmeye bak.",
+   "text": "Yaratıcı yönlerini ortaya koymak ve kendini rahatça ifade etmek sana moral verecektir. Kendi bireysel duruşunu ve isteklerini öne çıkarırken, üstlerinle veya mesleki hedeflerinle ilgili aceleci tavırlardan uzak kalmalısın. Gücünü rekabet yerine stratejik planlamaya yönlendirmek başarı şansını yükseltir. Hevesini doğru kanala aktararak ilerleyebilirsin.",
+   "motivation": "Stratejik sabır başarıyı taşır.",
+   "basis": "1. evindeki Güneş ile 10. evindeki Mars kare açı oluşturuyor."
+  },
+  "yay": {
+   "focus": "İç Huzur",
+   "short": "Evindeki sakinliği korurken uzak hedeflerin için sabırsızlık yapmamalısın.",
+   "text": "Kendi kabuğunda kalmak, evde vakit geçirmek ve ruhsal olarak tazelenmek sana iyi gelecek. İç dünyanda netleştirmeye çalıştığın konular, inançların veya uzak planların hususunda katı düşüncelere kapılmana yol açabilir. Fikirlerini savunurken sakin kalmayı ve olaylara geniş açıdan bakmayı sürdür. Yaşam alanını düzene sokmak zihnini yatıştıracaktır.",
+   "motivation": "Zamanın ritmine güvenmek güçlendirir.",
+   "basis": "12. evindeki Güneş ile 9. evindeki Mars kare açı yapıyor."
+  },
+  "oglak": {
+   "focus": "İletişim ve Paylaşım",
+   "short": "Fikirlerini paylaşırken ortak maddi konulardaki gerilimleri uzağında tut.",
+   "text": "Yakın çevrenle diyalog kurmak ve kısa seyahatler yapmak zihnini canlandırabilir. Sosyal gruplar veya arkadaş çevrenle planlar yaparken ortak bütçeler ya da paylaşımlı harcamalar üzerine ısrarcı olmaktan kaçınmalısın. Diyaloglarda net ama esnek bir duruş sergilemek fayda sağlar. Zihinsel odağını yapıcı ve somut projelere yönlendirmelisin.",
+   "motivation": "Esneklik zihinsel berraklık sağlar.",
+   "basis": "11. evindeki Güneş ile 8. evindeki Mars arasındaki kare açı kesinleşiyor."
+  },
+  "kova": {
+   "focus": "Kazançlar ve Ortaklıklar",
+   "short": "Parasal önceliklerini belirlerken ikili ilişkilerde sert adımlardan kaçın.",
+   "text": "Kendi öz değerine ve bütçene odaklanmak önceliğin olmalı. Mesleki hedeflerin doğrultusunda adımlar atarken, ortaklarınla veya partnerinle yaşanabilecek fikir ayrılıklarını rekabete dönüştürmemelisin. Karşındaki insanlarla konuşurken uzlaşmacı bir dille hareket etmek işlerini kolaylaştırır. Kaynaklarını koruyarak kararlı adımlarla devam et.",
+   "motivation": "Uzlaşmacı yaklaşım kapıları açar.",
+   "basis": "10. evindeki Güneş ile 7. evindeki Mars bugün kare açı yapıyor."
+  },
+  "balik": {
+   "focus": "Kişisel Yenilenme",
+   "short": "Kendi ihtiyaçlarına zaman ayırırken günlük iş temposunda kendini yorma.",
+   "text": "Ay burcunda ilerlerken sezgilerin ve kişisel isteklerin ön plana çıkıyor. Hayata dair vizyonunu genişletmek isterken günlük rutinlerindeki aşırı temponun seni bedenen ve zihnen yormasına izin vermemelisin. İşlerini tek tek ve acele etmeden ele almak verimini artıracaktır. Kendine şefkat göstererek temponu dengelemeyi seç.",
+   "motivation": "Kendi temponu bulmak denge getirir.",
+   "basis": "9. evindeki Güneş ile 6. evindeki Mars arasındaki kare açı kesinleşiyor."
+  }
+ }
+}
