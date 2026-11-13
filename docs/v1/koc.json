@@ -1,32 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-12T20:34:12+03:00",
+ "updated": "2026-11-13T05:14:20+03:00",
  "days": [
-  {
-   "date": "2026-11-11",
-   "focus": "Gelecek Vizyonu",
-   "short": "Uzak planlarında uzun vadeli ve sağlam adımlarla ilerleyebilirsin.",
-   "text": "Yeni şeyler öğrenmek veya ileriye dönük projeler tasarlamak isteyebilirsin. Kendi yeteneklerine duyduğun güven, uzun soluklu kararlar almanı kolaylaştırıyor. Acele etmeden, tecrübelerine dayanarak hareket ettiğinde zihnindeki karmaşa kendiliğinden dağılıyor. Bugün ufkunu genişletecek bir kitap okumak ya da bir eğitim fikrini olgunlaştırmak zihnine tazelik katabilir.",
-   "motivation": "Deneyimlerin sana yön göstersin.",
-   "basis": "Ay 9. evinde, 1. evindeki Satürn ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 18°58'",
-    "Ay Yay'da 12°20'",
-    "Merkür Akrep'te 5°32' ℞",
-    "Venüs Terazi'de 23°00' ℞",
-    "Mars Aslan'da 23°39'",
-    "Jüpiter Aslan'da 25°27'",
-    "Satürn Koç'ta 8°41' ℞",
-    "Uranüs İkizler'de 4°16' ℞",
-    "Neptün Koç'ta 1°53' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-12",
    "focus": "Yaratıcı Hamleler",
@@ -234,6 +210,33 @@
     "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-20",
+   "focus": "Kişisel Atılım",
+   "short": "Benliğin öne çıkıyor, yeni adımlar için istekli bir ritim yakalıyorsun.",
+   "text": "Kabuğundan çıkıp kendi arzularına odaklanmak isteyeceğin dinamik bir gündesin. Sosyal çevrenden gelen fikirler veya beklenmedik haberler, planlarını tazelemen için fırsat sunabilir. İçindeki cesareti doğrudan eyleme dökerken duygusal dengeni korumaya dikkat et. Kendini rahatça ifade edebileceğin pratik bir yol seç.",
+   "motivation": "Cesaretini yapıcı eylemlerle taçlandır.",
+   "basis": "Ay burcuna geçerek 1. evinde konumlanıyor.",
+   "sky_events": [
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 28°02'",
+    "Ay Koç'ta 1°43'",
+    "Merkür Akrep'te 8°35'",
+    "Venüs Terazi'de 23°38'",
+    "Mars Aslan'da 27°40'",
+    "Jüpiter Aslan'da 26°12'",
+    "Satürn Koç'ta 8°18' ℞",
+    "Uranüs İkizler'de 3°54' ℞",
+    "Neptün Koç'ta 1°45' ℞",
+    "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
   }
  ]
 }

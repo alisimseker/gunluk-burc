@@ -1,32 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-12T20:34:12+03:00",
+ "updated": "2026-11-13T05:14:20+03:00",
  "days": [
-  {
-   "date": "2026-11-11",
-   "focus": "Yuva Emniyeti",
-   "short": "Evinize ve ailenize dair sorumlulukları sakince ele alabilirsiniz.",
-   "text": "Yaşam alanındaki düzen ve huzur ihtiyacı bugün belirginleşiyor. Ailevi paylaşımlarda veya evle ilgili konularda geçmişten gelen bir meseleyi olgunlukla çözüme kavuşturabilirsin. Köklerine ve güvenli alanına odaklanmak duygusal olarak kendini daha emniyette hissettirir. Bugün evdeki eksikleri listelemek ve aile bireyleriyle ortak kararlar almak içini rahatlatacaktır.",
-   "motivation": "Yuvandaki huzura sahip çık.",
-   "basis": "Ay 4. evinde, 8. evindeki Satürn ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 18°58'",
-    "Ay Yay'da 12°20'",
-    "Merkür Akrep'te 5°32' ℞",
-    "Venüs Terazi'de 23°00' ℞",
-    "Mars Aslan'da 23°39'",
-    "Jüpiter Aslan'da 25°27'",
-    "Satürn Koç'ta 8°41' ℞",
-    "Uranüs İkizler'de 4°16' ℞",
-    "Neptün Koç'ta 1°53' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-12",
    "focus": "İçsel Alan",
@@ -234,6 +210,33 @@
     "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-20",
+   "focus": "Derin Dönüşüm",
+   "short": "Bütçe ve ortak kaynaklar konusunda net adımlar atabilirsin.",
+   "text": "Zihnini meşgul eden bütçe konuları veya finansal planlamalar bugün ön plana geçiyor. Günlük çalışma rutininde yapacağın ufak düzenlemeler, iş yükünü hafifletmene katkı sağlayacak. Yakın çevrenle yürüttüğün yapıcı diyaloglar sayesinde karmaşık meseleleri rahatça çözebilirsin. İşlerini sadelikle ele al.",
+   "motivation": "Karmaşayı sadeleştirerek dengeni koru.",
+   "basis": "Ay 8. evine geçerek 6. evdeki Plüton ile sekstil yapıyor.",
+   "sky_events": [
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 28°02'",
+    "Ay Koç'ta 1°43'",
+    "Merkür Akrep'te 8°35'",
+    "Venüs Terazi'de 23°38'",
+    "Mars Aslan'da 27°40'",
+    "Jüpiter Aslan'da 26°12'",
+    "Satürn Koç'ta 8°18' ℞",
+    "Uranüs İkizler'de 3°54' ℞",
+    "Neptün Koç'ta 1°45' ℞",
+    "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
   }
  ]
 }

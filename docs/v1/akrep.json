@@ -1,32 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-12T20:34:12+03:00",
+ "updated": "2026-11-13T05:14:20+03:00",
  "days": [
-  {
-   "date": "2026-11-11",
-   "focus": "Bütçe Dengesi",
-   "short": "Maddi konuları ve günlük harcamalarını kontrol altına almak kolaylaşıyor.",
-   "text": "Kendi imkanlarını ve harcama alışkanlıklarını daha gerçekçi değerlendirdiğin bir gündesin. Günlük rutinine dahil edeceğin pratik çözümler, kişisel kaynaklarını korumana yardım eder. Hesabını bilerek hareket etmek geleceğe dair kaygılarını azaltacaktır. Bugün harcama kalemlerini yazılı hale getirmek ve gereksiz harcamaları ayıklamak iyi bir adım olabilir.",
-   "motivation": "Kaynaklarını ölçülü kullan.",
-   "basis": "Ay 2. evinde, 6. evindeki Satürn ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 18°58'",
-    "Ay Yay'da 12°20'",
-    "Merkür Akrep'te 5°32' ℞",
-    "Venüs Terazi'de 23°00' ℞",
-    "Mars Aslan'da 23°39'",
-    "Jüpiter Aslan'da 25°27'",
-    "Satürn Koç'ta 8°41' ℞",
-    "Uranüs İkizler'de 4°16' ℞",
-    "Neptün Koç'ta 1°53' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-12",
    "focus": "Maddi Yapılanma",
@@ -234,6 +210,33 @@
     "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-20",
+   "focus": "Günlük Düzen",
+   "short": "Çalışma alanını ve yapılacaklar listeni derleyip toplama vakti.",
+   "text": "Temponun arttığı ve detay gerektiren işlerin hız kazandığı bir gün yaşayabilirsin. Yaşam alanında veya çalışma masanda yapacağın pratik düzenlemeler zihnini ferahlatacak. Bireysel hedeflerini günlük sorumluluklarınla uyumlu şekilde yürütmeye özen göster. Kendine küçük molalar vermeyi unutma.",
+   "motivation": "Pratik adımlar verimliliği artırır.",
+   "basis": "Ay 6. evine geçerek 1. evindeki Güneş ile üçgen açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 28°02'",
+    "Ay Koç'ta 1°43'",
+    "Merkür Akrep'te 8°35'",
+    "Venüs Terazi'de 23°38'",
+    "Mars Aslan'da 27°40'",
+    "Jüpiter Aslan'da 26°12'",
+    "Satürn Koç'ta 8°18' ℞",
+    "Uranüs İkizler'de 3°54' ℞",
+    "Neptün Koç'ta 1°45' ℞",
+    "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
   }
  ]
 }

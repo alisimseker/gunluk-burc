@@ -1,32 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-12T20:34:12+03:00",
+ "updated": "2026-11-13T05:14:20+03:00",
  "days": [
-  {
-   "date": "2026-11-11",
-   "focus": "Yapıcı Diyalog",
-   "short": "İletişimde ciddi ve yapıcı bir tutum sergileyerek uzlaşma sağlayabilirsin.",
-   "text": "Yakın çevren, kardeşlerin veya komşularınla olan diyaloglarında netlik arayışındasın. İkili ilişkilerinde sergileyeceğin olgun tavır, yanlış anlaşılmaların önüne geçer. Düşüncelerini bir sıraya koyup aktardığında muhataplarının sana saygı duyması kolaylaşıyor. Bir süredir ertelediğin bir görüşmeyi bugün yapabilir veya önemli bir yazışmayı sonlandırabilirsin.",
-   "motivation": "Açık sözlülük sağlam bağlar kurar.",
-   "basis": "Ay 3. evinde, 7. evindeki Satürn ile üçgen açı oluşturuyor.",
-   "sky_events": [
-    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 18°58'",
-    "Ay Yay'da 12°20'",
-    "Merkür Akrep'te 5°32' ℞",
-    "Venüs Terazi'de 23°00' ℞",
-    "Mars Aslan'da 23°39'",
-    "Jüpiter Aslan'da 25°27'",
-    "Satürn Koç'ta 8°41' ℞",
-    "Uranüs İkizler'de 4°16' ℞",
-    "Neptün Koç'ta 1°53' ℞",
-    "Plüton Kova'da 3°13'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-12",
    "focus": "Diyalog ve Bağlar",
@@ -234,6 +210,33 @@
     "Plüton Kova'da 3°20'"
    ],
    "moon_phase": "İlk Dördün"
+  },
+  {
+   "date": "2026-11-20",
+   "focus": "İlişkide Denge",
+   "short": "Ortaklıklarda ve ikili temaslarda empati ön plana çıkıyor.",
+   "text": "Karşındaki kişilerle birebir diyalog kurmak ve ortak paydada buluşmak kolaylaşıyor. Yaratıcı fikirlerini partnerinle veya yakın bir dostunla paylaşmak ilişkine derinlik katacaktır. Kendi öz değerini korurken karşı tarafın beklentilerini de dinlemeyi ihmal etme. Yapıcı sohbetlerle bağlarını pekiştir.",
+   "motivation": "Anlayışlı tutum diyalogları besler.",
+   "basis": "Ay 7. evine geçerek 2. evdeki Güneş ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Koç'a geçiyor.",
+    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Akrep'te 28°02'",
+    "Ay Koç'ta 1°43'",
+    "Merkür Akrep'te 8°35'",
+    "Venüs Terazi'de 23°38'",
+    "Mars Aslan'da 27°40'",
+    "Jüpiter Aslan'da 26°12'",
+    "Satürn Koç'ta 8°18' ℞",
+    "Uranüs İkizler'de 3°54' ℞",
+    "Neptün Koç'ta 1°45' ℞",
+    "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
   }
  ]
 }
