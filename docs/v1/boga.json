@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Ev ve Denge",
-   "short": "Hane içindeki işleri pratik yollarla düzene sokabilirsin.",
-   "text": "Aileni veya yaşadığın alanı ilgilendiren konularda pratik adımlar atabileceğin bir gündesin. Birlikte karar almak, ev içindeki sorumlulukları paylaşmak zihinsel olarak rahatlamanı sağlar. Çalışma rutinlerini basitleştirerek kendine zaman yaratabilirsin. Yakın çevrenle sakince diyalog kurmak pürüzleri ortadan kaldırır.",
-   "motivation": "Huzuru kendi alanında yapılandır.",
-   "basis": "Ay 8. evdeyken 4. evdeki Jüpiter ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Ufuk Çizgisi",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Sessiz Düzenleme",
+   "short": "Yakın bağlarında sükuneti koruyarak iç dünyandaki karmaşayı yatıştırabilirsin.",
+   "text": "Ay'ın arka planındaki hareketi zihnini dinlendirme ihtiyacını öne çıkarıyor. İkili ilişkilerinde partnerinle veya ortağınla yapacağın konuşmalarda, ev içi meselelerin getirdiği gerilimi yansıtmamaya özen göstermelisin. 4. evdeki Mars ile 7. evdeki Güneş arasındaki kare, aile ile ortaklıklar arasında bir denge kurmanı talep ediyor. Sakin bir ortamda yalnız kalıp zihinsel bir toparlanma yapmak sana çok iyi gelecektir.",
+   "motivation": "Sakinlik en karmaşık düğümü çözer.",
+   "basis": "Ay 12. evinde, 7. evdeki Güneş ile 4. evdeki Mars kare açı yapıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

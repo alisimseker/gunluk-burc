@@ -1,35 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Ekip Çalışması",
-   "short": "Arkadaşlarınla güç birliği yaparak projelerini ilerletebilirsin.",
-   "text": "Geleceğe dönük hedeflerinde dostlarının ve dahil olduğun grupların desteğini hissedebilirsin. İkili ilişkilerinde adil ve yapıcı bir tutum sergilemek ortak projelerde hız kazanmanı sağlar. Farklı görüşlere açık olarak zengin fikirler üretebilirsin. Zihnindeki fikirleri pratik bir plana dökerek adım at.",
-   "motivation": "Birlikte üretmenin gücüne güven.",
-   "basis": "Ay 11. evdeyken 7. evdeki Mars ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "İçsel Dinlenme",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "İletişim Trafiği",
+   "short": "İletişimdeki hızını ikili ilişkilerde yapıcı bir dille harmanlamalısın.",
+   "text": "Düşüncelerini aktarma, kısa yolculuklar yapma ve zihinsel projeler üretme hızın yüksek. 7. evindeki Mars-Jüpiter kavuşumu ikili ilişkilerde ve ortaklıklarda yoğun bir dinamizm yaratırken, 10. evdeki Güneş ile oluşan kare açı iş hayatındaki hedeflerinle partnerinin beklentilerini karşı karşıya getirebilir. İletişimde kırıcı veya iddialı olmaktan kaçınıp uzlaşmacı bir hat çekmelisin. Zihnindeki fikirleri net ifadelerle aktarmak kapıları açar.",
+   "motivation": "Yapıcı diyaloglar engelleri aşmanı sağlar.",
+   "basis": "Ay 3. evinde, 7. evdeki Mars ile 10. evdeki Güneş kare açıda.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

@@ -1,35 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Şahsi İfade",
-   "short": "Kendi tarzını ortaya koyarak keyif aldığın işlere odaklanabilirsin.",
-   "text": "Yaratıcılığını ve neşeni dış dünyaya yansıtmak bugün sana kendimi çok daha canlı hissettirebilir. İletişim kurarken sergileyeceğin sıcak tutum, çevrendeki insanlarla bağlarını güçlendirir. İlgilendiğin hobilere veya kişisel projelerine vakit ayırmak motivasyonunu tazeler. Kendi ritmine güvenerek hareket etmeyi seç.",
-   "motivation": "Coşkunu kararlı adımlarınla birleştir.",
-   "basis": "Ay 5. evdeyken 1. evdeki Jüpiter ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Rutin İntizamı",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Vizyon ve Duruş",
+   "short": "Yeni hedeflere yönelirken evindeki ve ailendeki dengeyi gözetmelisin.",
+   "text": "Yeni şeyler keşfetme ve bakış açını genişletme isteğin oldukça güçlü. Kendi burcundaki Mars ve Jüpiter birleşimi sana yüksek bir eylem gücü sağlarken, 4. evdeki Güneş ile kurulan kare açı ailevi kararlarda veya ev düzeninde sabırsız davranmana yol açabilir. Kendi isteklerini vurgularken evdeki huzuru kaçırmayacak yapıcı bir üslup benimsemelisin. Geniş vizyonunu evine ve köklerine saygı duyarak hayata geçir.",
+   "motivation": "Liderliğini anlayışlı tutumunla güçlendir.",
+   "basis": "Ay 9. evinde, 1. evindeki Mars ile 4. evdeki Güneş kare açıda.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

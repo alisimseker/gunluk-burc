@@ -1,35 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Karşılıklı Görüşmeler",
-   "short": "Fikirlerini açıkça ifade ederek ilişkilerinde uyum yakalayabilirsin.",
-   "text": "İkili temaslarda ve ortaklaşa konularda samimi bir dil kullanmak sana kapıları açıyor. Sevdiklerinle yapacağın net konuşmalar, kafandaki belirsizlikleri gidermene yardımcı olur. Yaratıcı projelerinle ilgili düşüncelerini çevrenle paylaşmaktan çekinme. Karşındakini dinlemeye odaklanarak uzlaşı ortamı yaratabilirsin. Yapıcı tavrın süreçleri hızlandıracaktır.",
-   "motivation": "Niyetini net sözlerle aktar.",
-   "basis": "Ay 7. evde ilerlerken 5. evdeki Venüs ile altmışlık açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Detaylı İnceleme",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Sosyal Fikirler",
+   "short": "Ekip içindeki parlak fikirlerini günlük çalışma disiplininle birleştirmelisin.",
+   "text": "Geleceğe dair hedeflerin ve arkadaş grupların içindeki konumun hareket kazanıyor. 3. evindeki Mars-Jüpiter yakınlaşması konuşmalarına büyük bir heves katarken, 6. evdeki Güneş ile oluşan kare açı günlük iş ortamındaki detayları gözden kaçırmana neden olabilir. Dostlarınla yapacağın planlarda verilen sözlerin uygulanabilirliğini denetlemelisin. Temponu hırsla değil, adımları tek tek atarak ayarlamak başarını pekiştirir.",
+   "motivation": "Büyük fikirleri pratik adımlarla besle.",
+   "basis": "Ay 11. evinde, 3. evdeki Mars ile 6. evdeki Güneş kare açı yapıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

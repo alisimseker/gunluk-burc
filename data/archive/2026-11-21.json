@@ -1,0 +1,107 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-14T04:38:23+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Akrep'te 29°03'",
+   "Ay Koç'ta 15°16'",
+   "Merkür Akrep'te 9°34'",
+   "Venüs Terazi'de 23°54'",
+   "Mars Aslan'da 28°06'",
+   "Jüpiter Aslan'da 26°16'",
+   "Satürn Koç'ta 8°16' ℞",
+   "Uranüs İkizler'de 3°52' ℞",
+   "Neptün Koç'ta 1°44' ℞",
+   "Plüton Kova'da 3°22'"
+  ],
+  "events": [],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Duygusal Cesaret",
+   "short": "Kendi isteklerini hevesle öne sürerken bütçeni ve risk sınırlarını gözetmelisin.",
+   "text": "Büyüyen Ay senin burcunda ilerlerken doğrudan eyleme geçme isteğin artıyor. Ancak 5. evindeki Mars ve Jüpiter coşkusuyla 8. evdeki Güneş arasındaki sert açı, eğlenceli ya da yaratıcı işlerde risk alma meylini yükseltebilir. Sahneye koyduğun projelerde ya da özel hayatındaki heyecanlı adımlarda duygusal harcamaları dengede tutman faydalı olur. Heyecanını disiplinli bir takvimle birleştir.",
+   "motivation": "Cesur adımlarını özdenetimle harmanla.",
+   "basis": "Ay 1. evinde, 5. evdeki Mars-Jüpiter kavuşumu 8. evdeki Güneş ile kare açıda."
+  },
+  "boga": {
+   "focus": "Sessiz Düzenleme",
+   "short": "Yakın bağlarında sükuneti koruyarak iç dünyandaki karmaşayı yatıştırabilirsin.",
+   "text": "Ay'ın arka planındaki hareketi zihnini dinlendirme ihtiyacını öne çıkarıyor. İkili ilişkilerinde partnerinle veya ortağınla yapacağın konuşmalarda, ev içi meselelerin getirdiği gerilimi yansıtmamaya özen göstermelisin. 4. evdeki Mars ile 7. evdeki Güneş arasındaki kare, aile ile ortaklıklar arasında bir denge kurmanı talep ediyor. Sakin bir ortamda yalnız kalıp zihinsel bir toparlanma yapmak sana çok iyi gelecektir.",
+   "motivation": "Sakinlik en karmaşık düğümü çözer.",
+   "basis": "Ay 12. evinde, 7. evdeki Güneş ile 4. evdeki Mars kare açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Sosyal Fikirler",
+   "short": "Ekip içindeki parlak fikirlerini günlük çalışma disiplininle birleştirmelisin.",
+   "text": "Geleceğe dair hedeflerin ve arkadaş grupların içindeki konumun hareket kazanıyor. 3. evindeki Mars-Jüpiter yakınlaşması konuşmalarına büyük bir heves katarken, 6. evdeki Güneş ile oluşan kare açı günlük iş ortamındaki detayları gözden kaçırmana neden olabilir. Dostlarınla yapacağın planlarda verilen sözlerin uygulanabilirliğini denetlemelisin. Temponu hırsla değil, adımları tek tek atarak ayarlamak başarını pekiştirir.",
+   "motivation": "Büyük fikirleri pratik adımlarla besle.",
+   "basis": "Ay 11. evinde, 3. evdeki Mars ile 6. evdeki Güneş kare açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Kariyer ve Kaynaklar",
+   "short": "İşindeki ivmeyi korurken kişisel kaynaklarını tutarlı yönetmelisin.",
+   "text": "İş hayatında veya toplum önündeki duruşunda görünürlüğün artıyor. Maddi alandaki hırslı hareketlerin, hobilerine veya keyfi harcamalarına ayırdığın payla çatışabilir. 2. evindeki Mars ve Jüpiter'in 5. evdeki Güneş ile yaptığı sert açı, özgüvenli adımlar atarken aşırı harcama meylini besleyebilir. Hedeflerini gerçekleştirmek için öncelik listeni netleştirip finansal sınırlarını korumaya özen göster.",
+   "motivation": "Özgüvenini planlı kararlarla taçlandır.",
+   "basis": "Ay 10. evinde, 2. evdeki Mars ile 5. evdeki Güneş kare açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Vizyon ve Duruş",
+   "short": "Yeni hedeflere yönelirken evindeki ve ailendeki dengeyi gözetmelisin.",
+   "text": "Yeni şeyler keşfetme ve bakış açını genişletme isteğin oldukça güçlü. Kendi burcundaki Mars ve Jüpiter birleşimi sana yüksek bir eylem gücü sağlarken, 4. evdeki Güneş ile kurulan kare açı ailevi kararlarda veya ev düzeninde sabırsız davranmana yol açabilir. Kendi isteklerini vurgularken evdeki huzuru kaçırmayacak yapıcı bir üslup benimsemelisin. Geniş vizyonunu evine ve köklerine saygı duyarak hayata geçir.",
+   "motivation": "Liderliğini anlayışlı tutumunla güçlendir.",
+   "basis": "Ay 9. evinde, 1. evindeki Mars ile 4. evdeki Güneş kare açıda."
+  },
+  "basak": {
+   "focus": "İçsel Muhasebe",
+   "short": "İç dünyandaki dalgalanmaları konuşmalarına yansıtmadan yönetmelisin.",
+   "text": "Ortaklı bütçe, ödemeler veya derin duygusal bağlar odağında yer alıyor. 12. evindeki Mars-Jüpiter birleşimi gizli bir huzursuzluk yaratabilir ve 3. evdeki Güneş ile yaptığı kare açı yakın çevrenle olan diyaloglarına aniden yansıyabilir. Zihnini yoran konuları doğrudan tartışmak yerine önce kendi içinde süzgeçten geçirmelisin. Sezgilerini pratik mantığınla harmanlayarak kararlarını netleştirebilirsin.",
+   "motivation": "Sakin zihin doğru kararları doğurur.",
+   "basis": "Ay 8. evinde, 12. evdeki Mars ile 3. evdeki Güneş kare açı oluşturuyor."
+  },
+  "terazi": {
+   "focus": "İkili İlişkiler",
+   "short": "Birebir bağlarında uyumu ararken bütçene dair ilkelerinden ödün verme.",
+   "text": "Birebir ilişkilerinde ve ortaklıklarında dinamik bir gün seni bekliyor. Sosyal çevrende veya dâhil olduğun gruplarda liderlik etme isteğin artarken, 2. evdeki Güneş ile 11. evdeki Mars arasındaki kare açı maddi konularda arkadaşlarınla fikir ayrılığı yaşamana neden olabilir. Kendi duruşunu korurken karşındaki kişilerin ihtiyaçlarını da dinlemeyi seçmelisin. İlişkilerde zarafeti esnetmeden net sınırlar çizmek yararına olur.",
+   "motivation": "Zarafetini net kararlarınla tamamla.",
+   "basis": "Ay 7. evinde, 11. evdeki Mars ile 2. evdeki Güneş kare açıda."
+  },
+  "akrep": {
+   "focus": "Sorumluluk ve Denge",
+   "short": "Çalışma rutininde verim sağlarken mesleki hırslarını dengede tutmalısın.",
+   "text": "Günlük işlerini organize etmek ve bedenine özen göstermek için hareketli bir gündesin. Burcundaki Güneş, 10. evindeki Mars ve Jüpiter birleşimiyle sert bir açı yapıyor; bu durum kariyer hedeflerinle kişisel duruşun arasında bir güç çekişmesi yaratabilir. İş ortamındaki sorumluluklarını yerine getirirken aşırı kontrolcü olmamaya özen göstermelisin. Temponu sistemli bir şekilde ayarlayarak verimini artırabilirsin.",
+   "motivation": "Hırsını disiplinli emekle şekillendir.",
+   "basis": "Ay 6. evinde, 1. evindeki Güneş ile 10. evdeki Mars kare açı yapıyor."
+  },
+  "yay": {
+   "focus": "Yaratıcı İlham",
+   "short": "Keyif aldığın alanlarda ilerlerken içsel farkındalığını yüksek tutmalısın.",
+   "text": "Yaratıcı projelere vakit ayırmak, hobilerinle ilgilenmek veya sevdiklerinle zaman geçirmek seni canlandırıyor. 9. evindeki Mars-Jüpiter ivmesi inançlarını ve fikirlerini coşkuyla savunmanı sağlarken, 12. evdeki Güneş ile oluşan kare açı arka planda gözden kaçırdığın bazı detayları hatırlatabilir. Neşeli adımlar atarken içsel sezgilerini göz ardı etmemelisin. Kendini ifade ederken abartıdan uzak kalmak sana kazandırır.",
+   "motivation": "Coşkunu derin sezgilerinle dengele.",
+   "basis": "Ay 5. evinde, 9. evdeki Mars ile 12. evdeki Güneş kare açıda."
+  },
+  "oglak": {
+   "focus": "Ev ve Aile",
+   "short": "Yuvandaki düzeni korurken ortaklı finansal kararlarda sakin kalmalısın.",
+   "text": "Evinle, ailenle veya yaşadığın alanın ihtiyaçlarıyla ilgilenmek ön planda. 8. evindeki Mars ve Jüpiter birleşimi ortaklı finansal konularda hızlı hareket etme arzusu getirirken, 11. evdeki Güneş ile yapılan kare açı sosyal çevren veya gelecek planlarınla çelişebilir. Aile içi paylaşımlarda ya da bütçe kararlarında aceleci davranmaktan kaçınmalısın. Yaşam alanındaki huzuru korumak için duygusal sınırlarını netleştirmelisin.",
+   "motivation": "İstikrarını sağduyulu tutumunla besle.",
+   "basis": "Ay 4. evinde, 8. evdeki Mars ile 11. evdeki Güneş kare açı yapıyor."
+  },
+  "kova": {
+   "focus": "İletişim Trafiği",
+   "short": "İletişimdeki hızını ikili ilişkilerde yapıcı bir dille harmanlamalısın.",
+   "text": "Düşüncelerini aktarma, kısa yolculuklar yapma ve zihinsel projeler üretme hızın yüksek. 7. evindeki Mars-Jüpiter kavuşumu ikili ilişkilerde ve ortaklıklarda yoğun bir dinamizm yaratırken, 10. evdeki Güneş ile oluşan kare açı iş hayatındaki hedeflerinle partnerinin beklentilerini karşı karşıya getirebilir. İletişimde kırıcı veya iddialı olmaktan kaçınıp uzlaşmacı bir hat çekmelisin. Zihnindeki fikirleri net ifadelerle aktarmak kapıları açar.",
+   "motivation": "Yapıcı diyaloglar engelleri aşmanı sağlar.",
+   "basis": "Ay 3. evinde, 7. evdeki Mars ile 10. evdeki Güneş kare açıda."
+  },
+  "balik": {
+   "focus": "Bütçe ve Emek",
+   "short": "Maddi güvenliğini yapılandırırken günlük temponda aşırıya kaçmamalısın.",
+   "text": "Kendi kaynaklarını değerlendirme ve maddi güvenliğini sağlama arzusu ön plana çıkıyor. 6. evindeki Mars ve Jüpiter yoğun bir günlük çalışma temposu getirirken, 9. evdeki Güneş ile kurulan kare açı inandığın vizyonlarla günlük angaryalar arasında sıkışmana neden olabilir. Harcamalarında ve emek harcadığın alanlarda somut kriterler belirlemelisin. Öz değerini koruyarak günlük düzenine pratik çözümler katmak sana huzur verir.",
+   "motivation": "Emeğini gerçekçi hedeflerle kıymetlendir.",
+   "basis": "Ay 2. evinde, 6. evdeki Mars ile 9. evdeki Güneş kare açıda."
+  }
+ }
+}

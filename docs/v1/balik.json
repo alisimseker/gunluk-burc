@@ -1,35 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Mesleki Gayret",
-   "short": "Sorumluluklarını düzenli yürüterek hedeflerine yaklaşabilirsin.",
-   "text": "İş hayatındaki ve toplum önündeki hedeflerine odaklanmak için verimli bir akış var. Günlük çalışma rutinlerini disipline sokmak, sorumluluklarını daha kolay tamamlamana imkan tanır. Ortaklı mali konularda dengeli kalarak kafandaki planları netleştirebilirsin. Bugün yapılacaklar listeni sadeleştirip adım adım ilerlemeyi seç.",
-   "motivation": "Disiplinini hedeflerinle buluştur.",
-   "basis": "Ay 10. evdeyken 6. evdeki Mars ile üçgen açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Gelecek Vizyonu",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Bütçe ve Emek",
+   "short": "Maddi güvenliğini yapılandırırken günlük temponda aşırıya kaçmamalısın.",
+   "text": "Kendi kaynaklarını değerlendirme ve maddi güvenliğini sağlama arzusu ön plana çıkıyor. 6. evindeki Mars ve Jüpiter yoğun bir günlük çalışma temposu getirirken, 9. evdeki Güneş ile kurulan kare açı inandığın vizyonlarla günlük angaryalar arasında sıkışmana neden olabilir. Harcamalarında ve emek harcadığın alanlarda somut kriterler belirlemelisin. Öz değerini koruyarak günlük düzenine pratik çözümler katmak sana huzur verir.",
+   "motivation": "Emeğini gerçekçi hedeflerle kıymetlendir.",
+   "basis": "Ay 2. evinde, 6. evdeki Mars ile 9. evdeki Güneş kare açıda.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

@@ -1,35 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Diyalog ve Bağlar",
-   "short": "Sosyal çevrenle iletişim kurarak ortak fikirler üretebilirsin.",
-   "text": "Yakın çevrenle ve arkadaşlarınla yürüttüğün paylaşımlar yeni bakış açıları kazanmana yardımcı olur. Kendini doğru ve samimi şekilde ifade etmek ilişkilerindeki güveni pekiştirir. Ortak geleceğe dair konuşmalar yaparken yapıcı tavrını koruyabilirsin. Gün içinde birikmiş kısa mesajları veya aramaları tamamlamak zihnini hafifletir.",
-   "motivation": "Samimiyetini sözlerine yansıtmayı seç.",
-   "basis": "Ay 3. evde ilerlerken 1. evdeki Venüs ile altmışlık açı kuruyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Hane Dengesi",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "İkili İlişkiler",
+   "short": "Birebir bağlarında uyumu ararken bütçene dair ilkelerinden ödün verme.",
+   "text": "Birebir ilişkilerinde ve ortaklıklarında dinamik bir gün seni bekliyor. Sosyal çevrende veya dâhil olduğun gruplarda liderlik etme isteğin artarken, 2. evdeki Güneş ile 11. evdeki Mars arasındaki kare açı maddi konularda arkadaşlarınla fikir ayrılığı yaşamana neden olabilir. Kendi duruşunu korurken karşındaki kişilerin ihtiyaçlarını da dinlemeyi seçmelisin. İlişkilerde zarafeti esnetmeden net sınırlar çizmek yararına olur.",
+   "motivation": "Zarafetini net kararlarınla tamamla.",
+   "basis": "Ay 7. evinde, 11. evdeki Mars ile 2. evdeki Güneş kare açıda.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

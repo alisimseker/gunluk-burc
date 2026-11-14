@@ -1,35 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Maddi Yapılanma",
-   "short": "Bütçeni inceleyerek kariyer hedeflerine uygun adımlar atabilirsin.",
-   "text": "Bütçeni ve kişisel kaynaklarını gözden geçirmek adına uygun bir gündesin. İş hayatındaki gayretinin somut karşılıklarını planlamak sana kendimi daha güvende hissettirecektir. Sezgi gücünü pratik akılla birleştirerek kararlar alabilirsin. Bekleyen işlerini adım adım tamamlamak üzerindeki baskıyı hafifletir.",
-   "motivation": "Güvenini somut adımlarla pekiştir.",
-   "basis": "Ay 2. evdeyken 10. evdeki Mars ile üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Açık İfade",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Sorumluluk ve Denge",
+   "short": "Çalışma rutininde verim sağlarken mesleki hırslarını dengede tutmalısın.",
+   "text": "Günlük işlerini organize etmek ve bedenine özen göstermek için hareketli bir gündesin. Burcundaki Güneş, 10. evindeki Mars ve Jüpiter birleşimiyle sert bir açı yapıyor; bu durum kariyer hedeflerinle kişisel duruşun arasında bir güç çekişmesi yaratabilir. İş ortamındaki sorumluluklarını yerine getirirken aşırı kontrolcü olmamaya özen göstermelisin. Temponu sistemli bir şekilde ayarlayarak verimini artırabilirsin.",
+   "motivation": "Hırsını disiplinli emekle şekillendir.",
+   "basis": "Ay 6. evinde, 1. evindeki Güneş ile 10. evdeki Mars kare açı yapıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

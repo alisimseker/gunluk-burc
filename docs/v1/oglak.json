@@ -1,35 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "Zihinsel Hazırlık",
-   "short": "Planlarını gözden geçirerek zihinsel olarak tazelenebilirsin.",
-   "text": "Geri planda kalarak içsel bir değerlendirme yapmak gününü daha verimli kılar. Kariyer hedeflerinle ilgili detayları sessizce olgunlaştırmak sana stratejik bir avantaj sağlar. Ortaklı işlerde birikmiş pürüzleri çözmek için sakin kalmayı tercih edebilirsin. Temponu biraz yavaşlatıp enerjini toparlamaya öncelik ver.",
-   "motivation": "Sakin adımlarla geleceğini şekillendir.",
-   "basis": "Ay 12. evdeyken 10. evdeki Venüs ile altmışlık açı oluşturuyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Şahsi Kararlılık",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "Ev ve Aile",
+   "short": "Yuvandaki düzeni korurken ortaklı finansal kararlarda sakin kalmalısın.",
+   "text": "Evinle, ailenle veya yaşadığın alanın ihtiyaçlarıyla ilgilenmek ön planda. 8. evindeki Mars ve Jüpiter birleşimi ortaklı finansal konularda hızlı hareket etme arzusu getirirken, 11. evdeki Güneş ile yapılan kare açı sosyal çevren veya gelecek planlarınla çelişebilir. Aile içi paylaşımlarda ya da bütçe kararlarında aceleci davranmaktan kaçınmalısın. Yaşam alanındaki huzuru korumak için duygusal sınırlarını netleştirmelisin.",
+   "motivation": "İstikrarını sağduyulu tutumunla besle.",
+   "basis": "Ay 4. evinde, 8. evdeki Mars ile 11. evdeki Güneş kare açı yapıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

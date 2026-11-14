@@ -1,35 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-13T20:11:04+03:00",
+ "updated": "2026-11-14T04:38:23+03:00",
  "days": [
-  {
-   "date": "2026-11-12",
-   "focus": "İçsel Alan",
-   "short": "Kendi kabuğunda dinlenerek yaşam alanını güzelleştirebilirsin.",
-   "text": "Evinde ve iç dünyanda sakinlik arayışının öne çıktığı bir gündesin. Geçmişe yönelik zihinsel değerlendirmeleri arkanda bırakarak ana odaklanmak sana iyi gelir. Kendi imkanlarını doğru değerlendirerek evine küçük dokunuşlar yapabilirsin. Günü acele etmeden, kendi hızında yaşamak ruhsal dengeni korumanı sağlar.",
-   "motivation": "Zihnini dingin adımlarla besle.",
-   "basis": "Ay 4. evdeyken 2. evdeki Venüs ile altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Oğlak'a geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 19°59'",
-    "Ay Yay'da 24°19'",
-    "Merkür Akrep'te 5°11' ℞",
-    "Venüs Terazi'de 22°54' ℞",
-    "Mars Aslan'da 24°07'",
-    "Jüpiter Aslan'da 25°32'",
-    "Satürn Koç'ta 8°38' ℞",
-    "Uranüs İkizler'de 4°14' ℞",
-    "Neptün Koç'ta 1°52' ℞",
-    "Plüton Kova'da 3°14'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-13",
    "focus": "Yaratıcı Düşünce",
@@ -235,6 +208,28 @@
     "Uranüs İkizler'de 3°54' ℞",
     "Neptün Koç'ta 1°45' ℞",
     "Plüton Kova'da 3°21'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-21",
+   "focus": "İçsel Muhasebe",
+   "short": "İç dünyandaki dalgalanmaları konuşmalarına yansıtmadan yönetmelisin.",
+   "text": "Ortaklı bütçe, ödemeler veya derin duygusal bağlar odağında yer alıyor. 12. evindeki Mars-Jüpiter birleşimi gizli bir huzursuzluk yaratabilir ve 3. evdeki Güneş ile yaptığı kare açı yakın çevrenle olan diyaloglarına aniden yansıyabilir. Zihnini yoran konuları doğrudan tartışmak yerine önce kendi içinde süzgeçten geçirmelisin. Sezgilerini pratik mantığınla harmanlayarak kararlarını netleştirebilirsin.",
+   "motivation": "Sakin zihin doğru kararları doğurur.",
+   "basis": "Ay 8. evinde, 12. evdeki Mars ile 3. evdeki Güneş kare açı oluşturuyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Akrep'te 29°03'",
+    "Ay Koç'ta 15°16'",
+    "Merkür Akrep'te 9°34'",
+    "Venüs Terazi'de 23°54'",
+    "Mars Aslan'da 28°06'",
+    "Jüpiter Aslan'da 26°16'",
+    "Satürn Koç'ta 8°16' ℞",
+    "Uranüs İkizler'de 3°52' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°22'"
    ],
    "moon_phase": "Büyüyen Ay"
   }
