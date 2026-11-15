@@ -1,35 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-14T18:46:59+03:00",
+ "updated": "2026-11-15T04:21:15+03:00",
  "days": [
-  {
-   "date": "2026-11-13",
-   "focus": "Gelecek Vizyonu",
-   "short": "Yeni fikirler ve uzak hedefler üzerine arkadaşlarınla sohbet etmek ufkunu açar.",
-   "text": "Katıldığın gruplarda veya dost meclislerinde bilgi ve deneyim paylaşımı yapmak gününü verimli kılar. Yeni eğitimler, seyahatler ya da kültürel konular üzerine kafa yormak sana taze bir motivasyon sağlayabilir. Parasal kaygıları büyütmek yerine elindeki somut imkanlarla uzun vadeli planlar kur. Ortak idealler etrafında buluştuğun insanlarla bağlarını güçlendirmeye bak.",
-   "motivation": "Ortak idealler rotayı güçlendirir.",
-   "basis": "11. evindeki Ay'ın 9. evdeki Merkür ile sekstil açısı.",
-   "sky_events": [
-    "Merkür bugün düz harekete geçiyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 20°59'",
-    "Ay Oğlak'ta 6°11'",
-    "Merkür Akrep'te 5°02'",
-    "Venüs Terazi'de 22°52' ℞",
-    "Mars Aslan'da 24°34'",
-    "Jüpiter Aslan'da 25°38'",
-    "Satürn Koç'ta 8°35' ℞",
-    "Uranüs İkizler'de 4°11' ℞",
-    "Neptün Koç'ta 1°51' ℞",
-    "Plüton Kova'da 3°15'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-14",
    "focus": "Sosyal Çevren ve Bütçe",

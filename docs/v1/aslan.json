@@ -1,35 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-14T18:46:59+03:00",
+ "updated": "2026-11-15T04:21:15+03:00",
  "days": [
-  {
-   "date": "2026-11-13",
-   "focus": "Rutin İntizamı",
-   "short": "Yaşam alanındaki küçük bir düzenleme gündelik temponu hissedilir biçimde hafifletir.",
-   "text": "Evindeki düzeni toparlamak ya da biriken rutin işleri sıraya koymak zihnini sakinleştirir. Ailenle yapacağın pratik konuşmalarla aksayan günlük işleri iş bölümü yaparak kolayca halledebilirsin. Büyüyen beklentileri kontrol altına alıp sadece önündeki somut göreve odaklanmayı dene. Fiziksel ortamını sadeleştirdikçe hem çalışma verimin artacak hem de günün karmaşasından uzaklaşacaksın.",
-   "motivation": "Sade düzen verim getirir.",
-   "basis": "6. evindeki Ay ile 4. evindeki Merkür arasındaki sekstil açı.",
-   "sky_events": [
-    "Merkür bugün düz harekete geçiyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 20°59'",
-    "Ay Oğlak'ta 6°11'",
-    "Merkür Akrep'te 5°02'",
-    "Venüs Terazi'de 22°52' ℞",
-    "Mars Aslan'da 24°34'",
-    "Jüpiter Aslan'da 25°38'",
-    "Satürn Koç'ta 8°35' ℞",
-    "Uranüs İkizler'de 4°11' ℞",
-    "Neptün Koç'ta 1°51' ℞",
-    "Plüton Kova'da 3°15'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-14",
    "focus": "Günlük Rutin ve İletişim",

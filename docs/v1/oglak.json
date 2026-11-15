@@ -1,35 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-14T18:46:59+03:00",
+ "updated": "2026-11-15T04:21:15+03:00",
  "days": [
-  {
-   "date": "2026-11-13",
-   "focus": "Şahsi Kararlılık",
-   "short": "Arkadaş ortamındaki fikir paylaşımları kişisel adımlarını cesaretlendirecektir.",
-   "text": "Kendi duruşunu ve hedeflerini ortaya koyarken dostlarının yapıcı geri bildirimlerinden beslenebilirsin. Sosyal çevrenle yürüttüğün diyaloglarda açık fikirli olmak kişisel projelerine netlik kazandırır. Ailevi baskıların veya evdeki pürüzlerin moralini düşürmesine izin vermeden rotanda kal. Sakin ve kendinden emin adımlarınla çevrendekilere güven aşılamayı başaracaksın.",
-   "motivation": "Kararlı duruş güven verir.",
-   "basis": "1. evindeki Ay'ın 11. evdeki Merkür ile sekstil açısı.",
-   "sky_events": [
-    "Merkür bugün düz harekete geçiyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 20°59'",
-    "Ay Oğlak'ta 6°11'",
-    "Merkür Akrep'te 5°02'",
-    "Venüs Terazi'de 22°52' ℞",
-    "Mars Aslan'da 24°34'",
-    "Jüpiter Aslan'da 25°38'",
-    "Satürn Koç'ta 8°35' ℞",
-    "Uranüs İkizler'de 4°11' ℞",
-    "Neptün Koç'ta 1°51' ℞",
-    "Plüton Kova'da 3°15'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-14",
    "focus": "Kişisel Duruş ve Kariyer",

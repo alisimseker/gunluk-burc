@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-14T18:46:59+03:00",
+ "updated": "2026-11-15T04:21:15+03:00",
  "days": [
-  {
-   "date": "2026-11-13",
-   "focus": "Ufuk Çizgisi",
-   "short": "İkili diyaloglarda açık fikirli kalarak yeni bakış açıları kazanabilirsin.",
-   "text": "Uzak hedeflerin ve uzun vadeli tasarıların konusunda karşı tarafın fikirlerini dinlemek sana yepyeni bir perspektif kazandırabilir. Ortaklarınla veya eşinle paylaştığın düşünceler daha anlaşılır bir zemine oturuyor. Kendi kabuğuna çekilip kaygılanmak yerine sorularını doğrudan muhatabına yönelt. Net iletişim sayesinde hem zihnindeki kuşkuları dağıtır hem de rotanı sağlamlaştırırsın.",
-   "motivation": "Açık zihin yolu aydınlatır.",
-   "basis": "9. evindeki Ay'ın 7. evdeki Merkür ile kurduğu sekstil açı.",
-   "sky_events": [
-    "Merkür bugün düz harekete geçiyor.",
-    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 20°59'",
-    "Ay Oğlak'ta 6°11'",
-    "Merkür Akrep'te 5°02'",
-    "Venüs Terazi'de 22°52' ℞",
-    "Mars Aslan'da 24°34'",
-    "Jüpiter Aslan'da 25°38'",
-    "Satürn Koç'ta 8°35' ℞",
-    "Uranüs İkizler'de 4°11' ℞",
-    "Neptün Koç'ta 1°51' ℞",
-    "Plüton Kova'da 3°15'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-14",
    "focus": "Çalışma Düzeni ve Eğitim",
