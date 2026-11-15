@@ -1,7 +1,7 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-15T04:21:15+03:00",
+ "updated": "2026-11-15T19:27:08+03:00",
  "days": [
   {
    "date": "2026-11-14",
@@ -203,6 +203,34 @@
     "Uranüs İkizler'de 3°52' ℞",
     "Neptün Koç'ta 1°44' ℞",
     "Plüton Kova'da 3°22'"
+   ],
+   "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-22",
+   "focus": "Yaratıcı Rahatlama",
+   "short": "İç dünyana çekilip sevdiğin uğraşlarla ruhunu besleyebilirsin.",
+   "text": "Güneş on ikinci evine geçerken bir süreliğine kalabalıklardan uzaklaşıp zihnini dinleme arzusunu pekiştiriyor. Ay'ın Boğa burcuna geçişi ise hobilerine ve seni mutlu eden ayrıntılara zaman ayırman için destekleyici bir zemin hazırlıyor. Maddi konularda ani kararlar vermekten kaçınarak elindeki planlara sadık kalmalısın. Akşam saatlerinde bir kurgu kitap okumak veya sanatla ilgilenmek sana iyi gelir.",
+   "motivation": "Sessizlikte ilhamını keşfet.",
+   "basis": "Güneş'in 12. evine geçişi ve Ay'ın 5. evine (Boğa) adımı.",
+   "sky_events": [
+    "Güneş bugün Yay'a geçiyor.",
+    "Ay bugün Boğa'ya geçiyor.",
+    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 0°04'",
+    "Ay Koç'ta 29°18'",
+    "Merkür Akrep'te 10°39'",
+    "Venüs Terazi'de 24°11'",
+    "Mars Aslan'da 28°31'",
+    "Jüpiter Aslan'da 26°20'",
+    "Satürn Koç'ta 8°14' ℞",
+    "Uranüs İkizler'de 3°49' ℞",
+    "Neptün Koç'ta 1°44' ℞",
+    "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
   }

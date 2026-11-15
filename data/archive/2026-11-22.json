@@ -1,0 +1,113 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-15T19:27:08+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 0°04'",
+   "Ay Koç'ta 29°18'",
+   "Merkür Akrep'te 10°39'",
+   "Venüs Terazi'de 24°11'",
+   "Mars Aslan'da 28°31'",
+   "Jüpiter Aslan'da 26°20'",
+   "Satürn Koç'ta 8°14' ℞",
+   "Uranüs İkizler'de 3°49' ℞",
+   "Neptün Koç'ta 1°44' ℞",
+   "Plüton Kova'da 3°23'"
+  ],
+  "events": [
+   "Güneş bugün Yay'a geçiyor.",
+   "Ay bugün Boğa'ya geçiyor.",
+   "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Büyüyen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Ufuk Çizgisi",
+   "short": "Merak ettiğin konulara odaklanıp bakış açını yenilemek sana ferahlık katar.",
+   "text": "Güneş'in Yay burcuna geçişiyle beraber zihninde yeni keşiflere yer açma isteği belirginleşiyor. Alışılmış rutinlerin dışına çıkıp yeni konular öğrenmek ya da uzak rotaları araştırmak sana canlılık katabilir. Beşinci evde parlayan Mars'ın sunduğu destek, yaratıcı projelerde hevesini somut bir sonuca dönüştürmene yardım ediyor. Fikirlerini aceleyle paylaşmak yerine önce kendi içinde olgunlaştırmayı dene.",
+   "motivation": "Merakını somut adımlarla canlı tut.",
+   "basis": "Güneş'in Yay burcuna geçişi ve 9. evi aydınlatması."
+  },
+  "boga": {
+   "focus": "Bireysel Tazelenme",
+   "short": "Kendi ritmine dönmek ve bedeninin ihtiyaçlarını gözetmek gününü kolaylaştırır.",
+   "text": "Ay'ın gün içinde senin burcuna geçişi, önceliği tamamen kendi gereksinimlerine vermeni fısıldıyor. Ev ve aile alanındaki Mars etkisiyle iç huzurunu koruma arzun artarken, ani çıkışlardan kaçınmak yerinde olur. Kendi isteklerini sakin bir üslupla ifade ettiğinde çevrenle uyumun kendiliğinden şekillenecektir. Bugün aynanın karşısına geçip kendine küçük bir özen saati ayırabilirsin.",
+   "motivation": "Kendi alanına nazikçe sahip çık.",
+   "basis": "Ay'ın Boğa burcuna geçişi."
+  },
+  "ikizler": {
+   "focus": "Karşılıklı Anlayış",
+   "short": "İlişkilerinde açık sözlülük ve zarafet aradığın bir döngü başlıyor.",
+   "text": "Güneş karşıt burcuna adım atarken birebir temaslarda iş birliği yapma arzun kuvvetleniyor. Ay'ın Koç burcundan çıkıp Boğa'ya geçmesi ise gün boyunca dışarıdaki hareketlilikten ziyade kendi köşende dinlenme ihtiyacı doğurabilir. Yakın çevrenle iletişim kurarken gösterdiğin heves, karşındaki kişilerin beklentileriyle dengelenmeli. Akşam saatlerini zihnini yormayan sakin uğraşlara ayırabilirsin.",
+   "motivation": "Sözlerinde ölçüyü koru.",
+   "basis": "Güneş'in 7. evine geçişi ve Ay'ın Boğa burcuna ilerlemesi."
+  },
+  "yengec": {
+   "focus": "Çalışma Ritmi",
+   "short": "Görevlerini toparlarken dostlarının desteğini arkana alabilirsin.",
+   "text": "Güneş altıncı evine geçerek günlük rutinlerini ve çalışma alanını düzenleme isteğini pekiştiriyor. Onuncu evden ayrılıp Boğa'ya yönelen Ay ise sosyal bağlarını canlandırman için sağlam bir alan açıyor. Maddi konularda ani harcama dürtüsüyle karşılaşsan da elindeki birikimi gözeterek hareket etmelisin. Gün içinde masanı sadeleştirmek veya yapılacaklar listeni gözden geçirmek işlerini belirgin biçimde kolaylaştırır.",
+   "motivation": "Rutinlerini özenle yapılandır.",
+   "basis": "Güneş'in 6. evine adımı ve Ay'ın Boğa burcuna geçişi."
+  },
+  "aslan": {
+   "focus": "Yaratıcı Heves",
+   "short": "Yeteneklerini sergilemek ve keyif aldığın şeylere zaman ayırmak sana güç verir.",
+   "text": "Güneş'in beşinci evine adım atmasıyla birlikte hayattan keyif alma ve yeteneklerini sergileme isteğin katlanıyor. Burcunda ilerleyen Mars'ın getirdiği dinamizm, kendine olan inancını pekiştirirken üretken yönünü görünür kılmana olanak tanıyor. İkili temaslarda aşırı baskıcı ya da denetleyici bir tavır takınmak yerine yapıcı bir paylaşımı seçmen gününü rahatlatacaktır. Sevdiğin bir hobiye veya sanatsal bir uğraşa odaklanabilirsin.",
+   "motivation": "İçindeki neşeli kıvılcımı özgür bırak.",
+   "basis": "Güneş'in Yay burcuna, 5. evine geçişi."
+  },
+  "basak": {
+   "focus": "Evde Ferahlık",
+   "short": "Yaşam alanındaki huzuru büyütürken zihnini dinlendirmeye bak.",
+   "text": "Güneş dördüncü evine adım atarak ailene ve yaşadığın mekana dair konuları önceliğin haline getiriyor. Ay'ın Boğa burcuna geçmesi ise zihnini genişleten, yeni bakış açıları sunan bir sakinlik kazandırıyor. Günlük koşturmacanın getirdiği gerginlikleri bertaraf etmek için evinde kendine ait bir köşe yaratabilirsin. Pratik detaylara boğulmadan, sadece anın getirdiği sadeliğin tadını çıkar.",
+   "motivation": "Sakinlikle alanını güzelleştir.",
+   "basis": "Güneş'in 4. evine geçişi ve Ay'ın Boğa burcuna ilerlemesi."
+  },
+  "terazi": {
+   "focus": "Zihinsel Canlılık",
+   "short": "Yeni bilgiler edinmeye hevesli olduğun hareketli bir gün seni bekliyor.",
+   "text": "Üçüncü evine giren Güneş, öğrenme merakını ve konuşma isteğini canlı tutuyor. Burcundaki Venüs'ün getirdiği zarafet, kurduğun diyaloglarda yumuşak bir denge yakalamanı sağlıyor. Ay'ın Boğa'ya geçişiyle birlikte ortak kaynaklar veya borç-alacak dengesi üzerine daha temkinli düşünmeye başlayabilirsin. Fikirlerini aktarırken karşı tarafın sınırlarına saygı duymak bağlarını güçlendirir.",
+   "motivation": "Merakını nezaketle birleştir.",
+   "basis": "Güneş'in 3. evine geçişi ve Venüs'ün Terazi burcundaki konumu."
+  },
+  "akrep": {
+   "focus": "Karşılıklı Güven",
+   "short": "İlişkilerinde netlik ararken bütçeni sağduyuyla yönet.",
+   "text": "Güneş ikinci evine geçiş yaparak yeteneklerini değerlendirme ve kazancını gözetme konusunu öne çıkarıyor. Ay'ın karşıt burcun Boğa'ya geçmesi ise partnerinle ya da ortağınla olan temaslarında sabırlı bir tutum takınmanı gerektiriyor. Kariyerdeki yoğunluğun ev hayatına yansımasına izin vermemeli, sakinliğini muhafaza etmelisin. Karşındakini can kulağıyla dinlemek olası pürüzleri büyümeden çözer.",
+   "motivation": "Sağduyunla ilişkilerini besle.",
+   "basis": "Güneş'in 2. evine geçişi ve Ay'ın 7. eve (Boğa) ilerleyişi."
+  },
+  "yay": {
+   "focus": "Kişisel Tazelenme",
+   "short": "Güneş burcuna geçerken hayatına yeni bir canlılık ve netlik katıyor.",
+   "text": "Bugün Güneş senin burcuna adım atıyor ve kendine olan inancını tazeleyen güçlü bir dönemi başlatıyor. Koç'taki Ay'ın Aslan burcundaki Mars ile kurduğu olumlu etkileşim, seni yeni ufuklara açılmak için heveslendiriyor. Ancak iletişimde ani çıkışlar yapmaktan kaçınarak kelimelerini özenle seçmelisin. Günün ikinci yarısında çalışma ortamını toparlamak sana belirgin bir zihinsel berraklık kazandırır.",
+   "motivation": "Işığını samimiyetinle yansıt.",
+   "basis": "Güneş'in Yay burcuna geçişi ve Ay'ın 9. evdeki Mars ile üçgeni."
+  },
+  "oglak": {
+   "focus": "Yaratıcı Rahatlama",
+   "short": "İç dünyana çekilip sevdiğin uğraşlarla ruhunu besleyebilirsin.",
+   "text": "Güneş on ikinci evine geçerken bir süreliğine kalabalıklardan uzaklaşıp zihnini dinleme arzusunu pekiştiriyor. Ay'ın Boğa burcuna geçişi ise hobilerine ve seni mutlu eden ayrıntılara zaman ayırman için destekleyici bir zemin hazırlıyor. Maddi konularda ani kararlar vermekten kaçınarak elindeki planlara sadık kalmalısın. Akşam saatlerinde bir kurgu kitap okumak veya sanatla ilgilenmek sana iyi gelir.",
+   "motivation": "Sessizlikte ilhamını keşfet.",
+   "basis": "Güneş'in 12. evine geçişi ve Ay'ın 5. evine (Boğa) adımı."
+  },
+  "kova": {
+   "focus": "Gelecek Umutları",
+   "short": "Dostlarınla ideallerini paylaşırken evindeki huzuru koru.",
+   "text": "Güneş'in on birinci evine geçmesi sosyal çevrende yeni hedefler belirlemeni ve ortak hayaller kurmanı kolaylaştırıyor. Burcundaki Plüton ile Ay arasındaki sert temas, gün içinde kontrolcü davranma eğilimini tetikleyebilir; esnek kalmaya gayret et. Ay'ın Boğa burcuna geçmesiyle birlikte odağın evine, ailene ve kişisel alanına doğru yönelecektir. Yaşadığın ortamı sadeleştirmek ruhunu dinlendirir.",
+   "motivation": "İdeallerini esneklikle büyüt.",
+   "basis": "Güneş'in 11. evine geçişi ve Ay'ın burcundaki Plüton ile kare açısı."
+  },
+  "balik": {
+   "focus": "Mesleki Görünürlük",
+   "short": "Hedeflerine odaklanırken düşüncelerini net ve sakin aktar.",
+   "text": "Güneş onuncu evine geçiş yaparak toplum önündeki duruşunu ve mesleki ideallerini görünür kılmaya başlıyor. Ay'ın Boğa burcuna geçmesi, kardeşlerinle veya yakınlarınla yapacağın görüşmelerde daha güven verici ve yapıcı bir dil kullanmanı sağlar. Günlük sorumlulukların getirdiği yorgunluğu hafifletmek için işlerini parçalara bölerek ilerlemelisin. Fikirlerini yazılı hale getirmek geleceğe dönük planlarını somutlaştırır.",
+   "motivation": "Düşüncelerini güvenle paylaş.",
+   "basis": "Güneş'in 10. evine adımı ve Ay'ın 3. evine (Boğa) geçişi."
+  }
+ }
+}
