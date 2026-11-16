@@ -1,0 +1,107 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-16T04:06:45+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 1°04'",
+   "Ay Boğa'da 13°47'",
+   "Merkür Akrep'te 11°48'",
+   "Venüs Terazi'de 24°31'",
+   "Mars Aslan'da 28°56'",
+   "Jüpiter Aslan'da 26°24'",
+   "Satürn Koç'ta 8°12' ℞",
+   "Uranüs İkizler'de 3°46' ℞",
+   "Neptün Koç'ta 1°43' ℞",
+   "Plüton Kova'da 3°24'"
+  ],
+  "events": [],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Maddi Denge",
+   "short": "Harcamalarında somut ihtiyaçlara odaklanmak bütçeni korur.",
+   "text": "Kişisel bütçenle ortaklaşa ödemeler arasında bir çekişme hissettiğinde aceleci davranmamalısın. Kendi kazancını güvenceye alma arzun, başkalarıyla paylaştığın kaynakları gözden geçirmene zemin hazırlıyor. Bugün hesap kitap yaparken ayrıntıları atlamadan, rakamları netleştirerek hareket etmen fayda sağlar. Ani kararlar yerine sakin bir değerlendirme seni rahatlatacaktır.",
+   "motivation": "Ölçülü adımlar kazancı korur.",
+   "basis": "Boğa burcundaki Ay, sekizinci evindeki Merkür ile karşıt açı oluşturuyor."
+  },
+  "boga": {
+   "focus": "Öz Farkındalık",
+   "short": "İlişkilerde kendi sesini duyururken esnek kalmayı dene.",
+   "text": "Kendi beklentilerin ile karşındaki insanların talepleri gün boyunca karşı karşıya gelebilir. Sözlerini tartarak seçmek, ikili diyaloglarda gereksiz inatlaşmaların önüne geçer. Karşındakinin niyetini sorgulamak yerine kendi isteklerini net bir dille izah etmen çok daha yapıcı sonuçlar doğuracaktır. Bedensel konforuna alan açıp sakin kalmak gününü kolaylaştırır.",
+   "motivation": "Kendi dengenle çevreni aydınlat.",
+   "basis": "Burcundaki Ay, yedinci evindeki Merkür ile karşıt konuma geçiyor."
+  },
+  "ikizler": {
+   "focus": "Zihinsel Mola",
+   "short": "Günlük telaşı hafifletip iç sesine kulak ver.",
+   "text": "Bedenini dinlendirme ihtiyacı hissederken günlük angaryalar zihnini kurcalayabilir. Yapılacak işleri yetiştirme telaşına kapılmadan, sadece öncelikli olanları tamamlayıp geri kalanını zamana yaymalısın. İç dünyana çekilip sessiz kalmak, karışık görünen meseleleri çözümlemeni kolaylaştırır. Kendine yüklenmek yerine hafif bir tempoyu tercih et.",
+   "motivation": "Sükunetin ritmine teslim ol.",
+   "basis": "On ikinci evindeki Ay, altıncı evindeki Merkür ile karşıt açı kuruyor."
+  },
+  "yengec": {
+   "focus": "Gelecek Planları",
+   "short": "Sosyal çevrendeki fikir ayrılıklarını olgunlukla karşıla.",
+   "text": "Arkadaş meclislerinde konuşulan konularla kendi bireysel zevklerin arasında bir zıtlık oluşabilir. Bir gruba ait olma isteğin ile yaratıcı fikirlerini serbestçe savunma arzun seni ikiye bölebilir. Çevrendeki insanların yorumlarını kişiselleştirmeden dinlemek, hedeflerini daha sağlam bir çerçeveye oturtmana yardım eder. Net bir sınır çizmek bağlarını korur.",
+   "motivation": "Özgün duruşunla yol al.",
+   "basis": "On birinci evindeki Ay, beşinci evindeki Merkür ile karşıt açıda bulunuyor."
+  },
+  "aslan": {
+   "focus": "Kariyer Dengesi",
+   "short": "Mesleki hedeflerinde soğukkanlılığı elden bırakma.",
+   "text": "İş ortamındaki görünür sorumlulukların ile ev ortamındaki meseleler aynı anda ilgi bekleyebilir. Profesyonel duruşunu sergilerken geçmişten gelen alışkanlıkların seni yavaşlatmasına izin vermemelisin. Otorite figürleriyle iletişim kurarken duygusal tepkiler yerine somut verilere odaklanman takdir toplar. Sabırla hareket ettiğinde taşlar yerine oturacaktır.",
+   "motivation": "Hedefe vakarla odaklan.",
+   "basis": "Onuncu evindeki Ay, dördüncü evindeki Merkür ile karşıt açı yapıyor."
+  },
+  "basak": {
+   "focus": "Zihinsel Ufuklar",
+   "short": "Geniş vizyonunu yakın çevre temaslarıyla harmanla.",
+   "text": "Büyük planlar ve uzun vadeli hedefler zihnini meşgul ederken küçük detayların pürüz çıkarması olasıdır. Seyahat, eğitim veya resmî işlerde ayrıntıları iki kez kontrol etmek seni olası karışıklıklardan korur. Kendi doğrularını savunurken karşındakinin bakış açısına da alan tanımalısın. Bilgiyi pratik bir faydaya dönüştürmek günün verimini artırır.",
+   "motivation": "Kapsamlı düşün, net uygula.",
+   "basis": "Dokuzuncu evindeki Ay, üçüncü evindeki Merkür ile karşıt açı kuruyor."
+  },
+  "terazi": {
+   "focus": "Paylaşımlı Kaynaklar",
+   "short": "Mali başlıklarda şeffaf ve kararlı tutum sergile.",
+   "text": "Kendi kazancın ile ortaklaşa yürütülen bütçeler arasında denge kurmak önem kazanıyor. Alacak verecek konularında sözlü mutabakatlar yerine yazılı ve net anlaşmaları tercih etmelisin. Karşı tarafla yüzleşmekten çekinmeden ihtiyaçlarını dürüstçe ortaya koyman gerginlikleri dağıtır. Maddi sınırlarını korumak özgüvenini de pekiştirecektir.",
+   "motivation": "Açıklık güvenceyi beraberinde taşır.",
+   "basis": "Sekizinci evindeki Ay, ikinci evindeki Merkür ile karşıt açı oluşturuyor."
+  },
+  "akrep": {
+   "focus": "Birebir Diyaloglar",
+   "short": "Karşındaki insanı dinlerken peşin hükümden kaçın.",
+   "text": "Kişisel düşüncelerini ifade etme isteğin çok güçlü olsa da karşındakinin duygusal beklentilerini göz ardı etmemelisin. Ortaklıklarda ya da ilişkilerde ipleri elinde tutma arzusu gereksiz tartışmaları tetikleyebilir. Konuşmaları derinleştirmek yerine yapıcı ve uzlaşmacı bir noktada buluşmak ilişkini ferahlatır. Esnek bir yaklaşım çözüme hız katar.",
+   "motivation": "Esneklik köprüleri korur.",
+   "basis": "Yedinci evindeki Ay, burcundaki Merkür ile karşıt açıda yer alıyor."
+  },
+  "yay": {
+   "focus": "Günlük Rutin",
+   "short": "Bedensel ihtiyaçlarını ihmal etmeden işlerini yürüt.",
+   "text": "Çalışma ortamındaki fiziksel düzen ve sağlık konuları günün ana temposunu belirliyor. Zihninde arka planda dönüp duran kaygıları bir kenara bırakıp önündeki somut görevlere odaklanmalısın. Beslenme ve uyku saatlerine dikkat etmek gün içindeki verimini doğrudan etkiler. Dağınıklığı toparlamak adına küçük bir plan hazırlamak yükünü hafifletir.",
+   "motivation": "Bedenine özenle kulak ver.",
+   "basis": "Altıncı evindeki Ay, on ikinci evindeki Merkür ile karşıt konumda."
+  },
+  "oglak": {
+   "focus": "Keyif ve Hobiler",
+   "short": "Kendine ayırdığın zamanı sosyal taleplerle bölme.",
+   "text": "Yaratıcı heveslerin ve kişisel zevklerin bugün ön plana çıkmak isteyebilir. Arkadaş gruplarının beklentileri ile kendi başına kalıp bir uğraşa odaklanma ihtiyacın arasında kalabilirsin. Başkalarını memnun etmek adına kendi neşeni ertelemek yerine önceliği kendi yaratımına vermelisin. Eğlendiğin alanlara vakit ayırmak üretkenliğini canlandırır.",
+   "motivation": "Neşeni yaşamına davet et.",
+   "basis": "Beşinci evindeki Ay, on birinci evindeki Merkür ile karşıt açı oluşturuyor."
+  },
+  "kova": {
+   "focus": "Aile ve Yuva",
+   "short": "Ev içindeki düzeni kurarken sakinliği ön planda tut.",
+   "text": "Kariyerindeki beklentilerin yoğunluğu hane içindeki sorumluluklarla çelişebilir. Aile üyeleriyle yapılacak konuşmalarda keskin ifadelerden kaçınmak evin huzurunu korur. Yaşadığın alanı düzenlemek ve içsel olarak güven tazelemek dışarıdaki mücadelelerin için sana güç verir. Önceliğini temel ihtiyaçlarına vererek günü hafiflet.",
+   "motivation": "Köklerine saygıyla sarıl.",
+   "basis": "Dördüncü evindeki Ay, onuncu evindeki Merkür ile karşıt konumda."
+  },
+  "balik": {
+   "focus": "İletişim Akışı",
+   "short": "Fikirlerini aktarırken gerçekçi detaylara tutun.",
+   "text": "Geniş fikirler ve uzak ihtimaller yerine elindeki mevcut bilgilere odaklanman gereken bir gündesin. Yakın çevrenle yapacağın görüşmelerde yanlış anlamalara meydan vermemek adına açık konuşmalısın. Kardeşler veya komşularla ilişkilerde küçük meseleleri büyütmeden pratik çözümler üretmek zihnini rahatlatır. Not alarak ilerlemek işleri kolaylaştırır.",
+   "motivation": "Somut kelimelerle bağ kur.",
+   "basis": "Üçüncü evindeki Ay, dokuzuncu evindeki Merkür ile karşıt açıda."
+  }
+ }
+}

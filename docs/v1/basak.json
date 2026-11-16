@@ -1,34 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Yaratıcılık ve Harcamalar",
-   "short": "Keyfi harcamalarını kontrol altında tutarak hobilerine vakit ayırabilirsin.",
-   "text": "Kendini ifade etme arzun ve yaratıcı projelerin bugün hareket kazanıyor. Öz değerini ve bütçeni ilgilendiren konularda aşırı harcama meyli öne çıkabilir. Yakın çevrenle yapacağın verimli görüşmeler ve fikir alışverişleri ufkunu genişletecektir. Sevdiklerinle vakit geçirirken bütçe sınırlarını aşmamaya özen göstermek faydalı olur. Zihnini dinlendirecek sanatsal bir uğraş seçebilirsin.",
-   "motivation": "Üretimini öz değerinle taçlandır.",
-   "basis": "Ay 5. evindeyken 3. evindeki Güneş ile altmışlık açı yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Yenilikçi Yöntemler",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Zihinsel Ufuklar",
+   "short": "Geniş vizyonunu yakın çevre temaslarıyla harmanla.",
+   "text": "Büyük planlar ve uzun vadeli hedefler zihnini meşgul ederken küçük detayların pürüz çıkarması olasıdır. Seyahat, eğitim veya resmî işlerde ayrıntıları iki kez kontrol etmek seni olası karışıklıklardan korur. Kendi doğrularını savunurken karşındakinin bakış açısına da alan tanımalısın. Bilgiyi pratik bir faydaya dönüştürmek günün verimini artırır.",
+   "motivation": "Kapsamlı düşün, net uygula.",
+   "basis": "Dokuzuncu evindeki Ay, üçüncü evindeki Merkür ile karşıt açı kuruyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

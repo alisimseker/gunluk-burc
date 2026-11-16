@@ -1,34 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Günlük Rutin ve İletişim",
-   "short": "Çalışma ortamındaki düzen arayışın yakın çevrenle iletişimi zorlaştırmasın.",
-   "text": "Günlük sorumluluklarını tamamlamak ve çalışma alanını organize etmek isteyebilirsin. Yakın çevrenden gelen haberler ya da mesaj trafiği planlarını bölmeye çalışabilir. Ev ve aile hayatındaki köklü duruşun, işlerini tamamlama konusunda sana ihtiyacın olan motivasyonu sağlıyor. Sağlığın ve beslenme düzenin için pratik yenilikler planlayabilirsin. Küçük adımlarla iş listeni tamamlamaya bak.",
-   "motivation": "Detayları düzenle, zihnini rahatlat.",
-   "basis": "Ay 6. evindeyken 3. evinde düz harekete geçen Venüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Girişimci Ruh",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Kariyer Dengesi",
+   "short": "Mesleki hedeflerinde soğukkanlılığı elden bırakma.",
+   "text": "İş ortamındaki görünür sorumlulukların ile ev ortamındaki meseleler aynı anda ilgi bekleyebilir. Profesyonel duruşunu sergilerken geçmişten gelen alışkanlıkların seni yavaşlatmasına izin vermemelisin. Otorite figürleriyle iletişim kurarken duygusal tepkiler yerine somut verilere odaklanman takdir toplar. Sabırla hareket ettiğinde taşlar yerine oturacaktır.",
+   "motivation": "Hedefe vakarla odaklan.",
+   "basis": "Onuncu evindeki Ay, dördüncü evindeki Merkür ile karşıt açı yapıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

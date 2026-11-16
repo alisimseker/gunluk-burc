@@ -1,34 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Bütçe ve Yaratıcılık",
-   "short": "Paylaşılan kaynaklar ve hobilerin arasındaki dengeye odaklanabilirsin.",
-   "text": "Finansal konular, ödemeler veya ortak giderler zihnini meşgul edebilir. Keyifli harcamalar ile yapılması gereken zaruri ödemeler arasında kalabilirsin. Günlük iş temposundaki düzenli yaklaşımın, krizleri çabucak çözmene yardımcı oluyor. Yaratıcı projelerine ara vermeden önce bütçeni gözden geçirmeyi deneyebilirsin. Akşam saatlerinde zihnini rahatlatacak somut uğraşlara yönelmek iyi gelir.",
-   "motivation": "Harcamalarını tutkuyla değil akılla yönet.",
-   "basis": "Ay 8. evindeyken 5. evinde düz harekete geçen Venüs ile kare yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Derin Sezgiler",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Zihinsel Mola",
+   "short": "Günlük telaşı hafifletip iç sesine kulak ver.",
+   "text": "Bedenini dinlendirme ihtiyacı hissederken günlük angaryalar zihnini kurcalayabilir. Yapılacak işleri yetiştirme telaşına kapılmadan, sadece öncelikli olanları tamamlayıp geri kalanını zamana yaymalısın. İç dünyana çekilip sessiz kalmak, karışık görünen meseleleri çözümlemeni kolaylaştırır. Kendine yüklenmek yerine hafif bir tempoyu tercih et.",
+   "motivation": "Sükunetin ritmine teslim ol.",
+   "basis": "On ikinci evindeki Ay, altıncı evindeki Merkür ile karşıt açı kuruyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

@@ -1,34 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Kişisel Duruş ve Kariyer",
-   "short": "Kendi hedeflerinle iş hayatındaki beklentiler arasında netlik yakalamalısın.",
-   "text": "Kendi isteklerine ve kişisel imajına odaklandığın bir gündesin. Kariyer alanındaki otorite figürlerinin veya işlerin talepleri, şahsi planlarınla kısa süreli çatışabilir. Sosyal çevrenden ve dostlarından alacağın destek zihnini rahatlatacaktır. Profesyonel hedeflerini gözden geçirirken aşırı katı durmaktan kaçınmak yararına olur. Günlük planlarını sadeleştirerek kendi ihtiyaçlarına zaman ayır.",
-   "motivation": "Duruşunu profesyonel esneklikle koru.",
-   "basis": "Ay 1. evindeyken 10. evinde düz harekete geçen Venüs ile kare yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "İçsel Huzur",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Keyif ve Hobiler",
+   "short": "Kendine ayırdığın zamanı sosyal taleplerle bölme.",
+   "text": "Yaratıcı heveslerin ve kişisel zevklerin bugün ön plana çıkmak isteyebilir. Arkadaş gruplarının beklentileri ile kendi başına kalıp bir uğraşa odaklanma ihtiyacın arasında kalabilirsin. Başkalarını memnun etmek adına kendi neşeni ertelemek yerine önceliği kendi yaratımına vermelisin. Eğlendiğin alanlara vakit ayırmak üretkenliğini canlandırır.",
+   "motivation": "Neşeni yaşamına davet et.",
+   "basis": "Beşinci evindeki Ay, on birinci evindeki Merkür ile karşıt açı oluşturuyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

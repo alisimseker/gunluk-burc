@@ -1,34 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Maddi Değerler ve Sosyal Çevre",
-   "short": "Arkadaş grubunla olan sosyal harcamalarını planlı şekilde dengelemelisin.",
-   "text": "Maddi güvence arayışın ve bütçe planlaman bugün ön planda yer alıyor. Sosyal çevrenle veya arkadaş grubunla yapacağın organizasyonlar bütçeni zorlayabilir. İç dünyanda yakaladığın dinginlik, harcama kararlarında daha mantıklı hareket etmeni sağlıyor. Birikimlerini korumak için bugün somut hedeflere yönelmek mantıklı bir tercih olacaktır. Alışveriş yapmadan önce ihtiyaç listesi hazırlayabilirsin.",
-   "motivation": "Kaynağını bilinçli tercihlerle koru.",
-   "basis": "Ay 2. evindeyken 11. evinde düz harekete geçen Venüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Yenilikçi İş Birliği",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Günlük Rutin",
+   "short": "Bedensel ihtiyaçlarını ihmal etmeden işlerini yürüt.",
+   "text": "Çalışma ortamındaki fiziksel düzen ve sağlık konuları günün ana temposunu belirliyor. Zihninde arka planda dönüp duran kaygıları bir kenara bırakıp önündeki somut görevlere odaklanmalısın. Beslenme ve uyku saatlerine dikkat etmek gün içindeki verimini doğrudan etkiler. Dağınıklığı toparlamak adına küçük bir plan hazırlamak yükünü hafifletir.",
+   "motivation": "Bedenine özenle kulak ver.",
+   "basis": "Altıncı evindeki Ay, on ikinci evindeki Merkür ile karşıt konumda.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

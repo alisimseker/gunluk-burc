@@ -1,34 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "İletişim ve Zihinsel Odak",
-   "short": "Düşüncelerini net bir dille aktarırken içsel huzurunu korumayı unutma.",
-   "text": "Zihnini meşgul eden fikirleri yazıya dökmek veya yakın çevrenle paylaşmak için uygun bir gün. Gizli kalan bir husus ya da iç dünyandaki çekinceler iletişim tarzına yansıyabilir. Kendi duruşundan ve hedeflerinden emin olman, çevrendekilerin güvenini kazanmanı kolaylaştırıyor. İletişimde kırıcı olmamaya özen göstererek planlarını sırayla hayata geçirebilirsin. Bir not defteri tutup fikirlerini kaydetmeyi deneyebilirsin.",
-   "motivation": "Sözlerini kararlı duruşunla destekle.",
-   "basis": "Güneş 1. evindeyken 3. evindeki Ay ile altmışlık açı kuruyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Düşünsel Esneklik",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Birebir Diyaloglar",
+   "short": "Karşındaki insanı dinlerken peşin hükümden kaçın.",
+   "text": "Kişisel düşüncelerini ifade etme isteğin çok güçlü olsa da karşındakinin duygusal beklentilerini göz ardı etmemelisin. Ortaklıklarda ya da ilişkilerde ipleri elinde tutma arzusu gereksiz tartışmaları tetikleyebilir. Konuşmaları derinleştirmek yerine yapıcı ve uzlaşmacı bir noktada buluşmak ilişkini ferahlatır. Esnek bir yaklaşım çözüme hız katar.",
+   "motivation": "Esneklik köprüleri korur.",
+   "basis": "Yedinci evindeki Ay, burcundaki Merkür ile karşıt açıda yer alıyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

@@ -1,34 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "İlişki ve Yuva",
-   "short": "Ortaklıklarda beklentilerinle evdeki huzur ihtiyacın karşı karşıya gelebilir.",
-   "text": "İkili ilişkilerinde ciddi ve somut adımlar atmak isteyebilirsin. Ailevi konular veya ev yaşamındaki beklentiler, partnerinle aranda kısa süreli bir kararsızlığa yol açabilir. Hobilerine ve sana neşe veren konulara vakit ayırmak aradaki gerginliği yumuşatacaktır. Yakın çevrenle açık ve net iletişim kurarak beklentileri sadeleştirebilirsin. Bir akşam yürüyüşü zihnini berraklaştırmak için harika bir fırsattır.",
-   "motivation": "Uyum içsel huzurla başlar.",
-   "basis": "Ay 7. evinde ilerlerken 4. evindeki Venüs ile kare açı yapıyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Dengeli İfade",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Gelecek Planları",
+   "short": "Sosyal çevrendeki fikir ayrılıklarını olgunlukla karşıla.",
+   "text": "Arkadaş meclislerinde konuşulan konularla kendi bireysel zevklerin arasında bir zıtlık oluşabilir. Bir gruba ait olma isteğin ile yaratıcı fikirlerini serbestçe savunma arzun seni ikiye bölebilir. Çevrendeki insanların yorumlarını kişiselleştirmeden dinlemek, hedeflerini daha sağlam bir çerçeveye oturtmana yardım eder. Net bir sınır çizmek bağlarını korur.",
+   "motivation": "Özgün duruşunla yol al.",
+   "basis": "On birinci evindeki Ay, beşinci evindeki Merkür ile karşıt açıda bulunuyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }

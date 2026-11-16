@@ -1,34 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-15T19:27:08+03:00",
+ "updated": "2026-11-16T04:06:45+03:00",
  "days": [
-  {
-   "date": "2026-11-14",
-   "focus": "Çalışma Düzeni ve Eğitim",
-   "short": "Günlük angaryalar geniş ufuklu planlarını aksatmasın; ritmini koru.",
-   "text": "Hayata daha geniş bir pencereden bakmak ve vizyonunu büyütmek istediğin bir gündesin. Ancak günlük rutinlerin veya çalışma ortamındaki küçük pürüzler odaklanmanı zorlaştırabilir. İlişkiler kanadındaki yapıcı diyaloglar, işlerini toparlaman için sana fırsat sunuyor. Çalışma masanı düzenleyerek zihnindeki projeleri sıraya koyabilirsin. Adımlarını netleştirip pratik konulara yönelmek fayda sağlayacak.",
-   "motivation": "Geniş vizyonunu düzenle harmanla.",
-   "basis": "Ay 9. evindeyken 7. evindeki Güneş ile altmışlık açı kuruyor.",
-   "sky_events": [
-    "Venüs bugün düz harekete geçiyor.",
-    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 22°00'",
-    "Ay Oğlak'ta 17°59'",
-    "Merkür Akrep'te 5°04'",
-    "Venüs Terazi'de 22°51'",
-    "Mars Aslan'da 25°02'",
-    "Jüpiter Aslan'da 25°43'",
-    "Satürn Koç'ta 8°33' ℞",
-    "Uranüs İkizler'de 4°09' ℞",
-    "Neptün Koç'ta 1°50' ℞",
-    "Plüton Kova'da 3°16'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-15",
    "focus": "Toplumsal Roller",
@@ -233,6 +207,28 @@
     "Plüton Kova'da 3°23'"
    ],
    "moon_phase": "Büyüyen Ay"
+  },
+  {
+   "date": "2026-11-23",
+   "focus": "Öz Farkındalık",
+   "short": "İlişkilerde kendi sesini duyururken esnek kalmayı dene.",
+   "text": "Kendi beklentilerin ile karşındaki insanların talepleri gün boyunca karşı karşıya gelebilir. Sözlerini tartarak seçmek, ikili diyaloglarda gereksiz inatlaşmaların önüne geçer. Karşındakinin niyetini sorgulamak yerine kendi isteklerini net bir dille izah etmen çok daha yapıcı sonuçlar doğuracaktır. Bedensel konforuna alan açıp sakin kalmak gününü kolaylaştırır.",
+   "motivation": "Kendi dengenle çevreni aydınlat.",
+   "basis": "Burcundaki Ay, yedinci evindeki Merkür ile karşıt konuma geçiyor.",
+   "sky_events": [],
+   "sky_summary": [
+    "Güneş Yay'da 1°04'",
+    "Ay Boğa'da 13°47'",
+    "Merkür Akrep'te 11°48'",
+    "Venüs Terazi'de 24°31'",
+    "Mars Aslan'da 28°56'",
+    "Jüpiter Aslan'da 26°24'",
+    "Satürn Koç'ta 8°12' ℞",
+    "Uranüs İkizler'de 3°46' ℞",
+    "Neptün Koç'ta 1°43' ℞",
+    "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
   }
  ]
 }
