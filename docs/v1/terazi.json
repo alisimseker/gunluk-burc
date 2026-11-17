@@ -1,7 +1,7 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-17T06:57:06+03:00",
+ "updated": "2026-11-17T21:39:20+03:00",
  "days": [
   {
    "date": "2026-11-16",
@@ -200,6 +200,36 @@
     "Uranüs İkizler'de 3°46' ℞",
     "Neptün Koç'ta 1°43' ℞",
     "Plüton Kova'da 3°24'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-24",
+   "focus": "Paylaşımlı Kaynaklar",
+   "short": "Ortaklaşa konuları netleştirmek bugün zihnini oldukça rahatlatabilir.",
+   "text": "Finansal konular veya ortaklı işlerde yeni bir sayfa açılıyor. Dolunay, bir dönüşüm sürecini tetikleyebilir. İletişim dilini yumuşak tutmak, karşındaki kişilerle uzlaşmanı kolaylaştıracaktır. Neptün'ün etkisiyle sezgisel kararlar almaktan korkma, içgüdülerin seni doğru yere götürecektir.",
+   "motivation": "Sezgilerinle hareket etmek güven verir.",
+   "basis": "Ay 8. evden 9. eve geçiyor, Neptün ile sekstil açıda.",
+   "sky_events": [
+    "Bugün Dolunay (İkizler burcunda) gerçekleşiyor.",
+    "Ay bugün İkizler'e geçiyor.",
+    "Güneş ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Mars arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 2°05'",
+    "Ay Boğa'da 28°39'",
+    "Merkür Akrep'te 13°00'",
+    "Venüs Terazi'de 24°52'",
+    "Mars Aslan'da 29°21'",
+    "Jüpiter Aslan'da 26°27'",
+    "Satürn Koç'ta 8°10' ℞",
+    "Uranüs İkizler'de 3°44' ℞",
+    "Neptün Koç'ta 1°42' ℞",
+    "Plüton Kova'da 3°25'"
    ],
    "moon_phase": "Dolunay"
   }

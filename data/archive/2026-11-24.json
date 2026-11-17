@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-17T21:39:20+03:00",
+ "model": "gemini-3.1-flash-lite",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 2°05'",
+   "Ay Boğa'da 28°39'",
+   "Merkür Akrep'te 13°00'",
+   "Venüs Terazi'de 24°52'",
+   "Mars Aslan'da 29°21'",
+   "Jüpiter Aslan'da 26°27'",
+   "Satürn Koç'ta 8°10' ℞",
+   "Uranüs İkizler'de 3°44' ℞",
+   "Neptün Koç'ta 1°42' ℞",
+   "Plüton Kova'da 3°25'"
+  ],
+  "events": [
+   "Bugün Dolunay (İkizler burcunda) gerçekleşiyor.",
+   "Ay bugün İkizler'e geçiyor.",
+   "Güneş ile Neptün arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Mars arasında kare açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Maddi Denge",
+   "short": "Harcamalarını dengelerken zihinsel bir ferahlık içine girebilirsin.",
+   "text": "Bugün elindeki maddi kaynaklarla ilgili hızlı kararlar vermekten kaçınmanda fayda var. Dolunay enerjisi zihnini hareketlendirirken, beklenmedik fikirler arasında kalabilirsin. Neptün'ün desteği sezgilerini güçlendirerek sana doğru yolu fısıldayacaktır. Küçük bir mola verip düşüncelerini sakinleştirmek en iyisi.",
+   "motivation": "Sakin zihin kararları berraklaştırır.",
+   "basis": "Ay 2. evden 3. eve geçiyor, Dolunay gerçekleşiyor."
+  },
+  "boga": {
+   "focus": "Bireysel Tazelenme",
+   "short": "Kendine odaklandığın bu günü, kişisel alanını güzelleştirerek geçirebilirsin.",
+   "text": "Duygusal dünyanda yeni bir döngü başlıyor. Kendini nasıl ifade ettiğin ve nerede durduğun bugün ana gündemin olabilir. Neptün'ün etkisiyle sezgilerin, ailevi konularda daha huzurlu çözümler bulmanı sağlayacak. Kendi değerini yeniden tanımlamak için güzel bir gün.",
+   "motivation": "Öz farkındalık iç huzuru besler.",
+   "basis": "Ay 1. evden 2. eve geçiyor, Neptün ile altmışlık açıda."
+  },
+  "ikizler": {
+   "focus": "Zihinsel Mola",
+   "short": "İç dünyana çekilmek ve kendini dinlemek zihnini berraklaştırabilir.",
+   "text": "Dolunay senin burcunda gerçekleşirken yoğun bir içsel farkındalık yaşayabilirsin. Kariyerindeki gelişmeler ve sosyal beklentilerin arasında denge kurmak önem kazanıyor. Güneş ve Neptün arasındaki uyum, sana biraz yalnız kalarak güç toplamanı öneriyor. Kendi içindeki sesi duymaya çalış.",
+   "motivation": "Sessizlik en iyi rehberdir.",
+   "basis": "Ay 12. evden 1. eve geçiyor, senin burcunda Dolunay var."
+  },
+  "yengec": {
+   "focus": "Gelecek Planları",
+   "short": "Sosyal beklentilerini biraz askıya alıp iç dünyana vakit ayırabilirsin.",
+   "text": "Arkadaş çevrenle ilgili konular bugün daha yoğun bir gündem yaratabilir. Dolunay etkisiyle içsel bir dinlenme ihtiyacı hissetmen oldukça doğal. Neptün, hedeflerine ulaşma konusunda sana ilham vererek yardımcı olacak. Akışta kalmak ve zorlamamak senin için en sağlıklısı.",
+   "motivation": "Akışa güvenmek huzuru getirir.",
+   "basis": "Ay 11. evden 12. eve geçiyor, Neptün ile altmışlık açıda."
+  },
+  "aslan": {
+   "focus": "Kariyer Dengesi",
+   "short": "İş hayatındaki hedeflerinle sosyal çevren arasındaki dengeyi korumalısın.",
+   "text": "Kariyerinde öne çıkma arzun bugün oldukça yüksek. Ay'ın geçişi, arkadaşlarınla olan ilişkilerinde daha fazla esneklik göstermen gerektiğini vurguluyor. Güneş ve Neptün'ün uyumlu açısı, vizyonunu genişletmek adına sana ilham veriyor. Büyük adımlar atmadan önce biraz daha gözlem yap.",
+   "motivation": "Denge, kalıcı başarı getirir.",
+   "basis": "Ay 10. evden 11. eve geçiyor, Mars ile kare açıda."
+  },
+  "basak": {
+   "focus": "Zihinsel Ufuklar",
+   "short": "Uzun vadeli planlarını kariyerindeki hedeflerinle birleştirebilirsin.",
+   "text": "Yeni bilgiler öğrenmek veya uzak ufuklara açılmak bugün oldukça cazip görünebilir. Dolunay, kariyerindeki bir konunun netleşmesine yardımcı olacak. Neptün'ün destekleyici açısı, sezgilerini profesyonel hayatında kullanman için sana kapı açıyor. Detaylarda boğulmak yerine büyük resme odaklan.",
+   "motivation": "Vizyonu geniş tutmak yolu açar.",
+   "basis": "Ay 9. evden 10. eve geçiyor, Güneş ile 4. evde üçgen var."
+  },
+  "terazi": {
+   "focus": "Paylaşımlı Kaynaklar",
+   "short": "Ortaklaşa konuları netleştirmek bugün zihnini oldukça rahatlatabilir.",
+   "text": "Finansal konular veya ortaklı işlerde yeni bir sayfa açılıyor. Dolunay, bir dönüşüm sürecini tetikleyebilir. İletişim dilini yumuşak tutmak, karşındaki kişilerle uzlaşmanı kolaylaştıracaktır. Neptün'ün etkisiyle sezgisel kararlar almaktan korkma, içgüdülerin seni doğru yere götürecektir.",
+   "motivation": "Sezgilerinle hareket etmek güven verir.",
+   "basis": "Ay 8. evden 9. eve geçiyor, Neptün ile sekstil açıda."
+  },
+  "akrep": {
+   "focus": "Birebir Diyaloglar",
+   "short": "İlişkilerinde netleşmek ve ortak hedeflere odaklanmak için ideal bir zaman.",
+   "text": "Partnerinle veya yakın çevrenle olan diyaloglarında bugün daha derin bir anlayış yakalayabilirsin. Ay'ın geçişi, ortaklıklarda yeni sorumluluklar getirebilir. Neptün'ün yardımıyla günlük rutinlerinde daha akışkan ve huzurlu olabilirsin. Karşılıklı güveni inşa etmek önceliğin olsun.",
+   "motivation": "Güven, huzurlu bağlar kurar.",
+   "basis": "Ay 7. evden 8. eve geçiyor, Neptün ile sekstil açıda."
+  },
+  "yay": {
+   "focus": "Günlük Rutin",
+   "short": "İşlerini düzenlerken kendi ihtiyaçlarını da ön planda tutmayı ihmal etme.",
+   "text": "Güneş'in burcundaki konumu, kişisel enerjini yenilemen için harika bir zemin sunuyor. Dolunay, günlük işlerin ve sağlık rutinlerin konusunda bir farkındalık getirebilir. İkili ilişkilerde dengeyi bulmak bugün biraz çaba isteyebilir. Kendine vakit ayırarak bu enerjiyi dengeleyebilirsin.",
+   "motivation": "Kendine iyi bakmak güçlendirir.",
+   "basis": "Ay 6. evden 7. eve geçiyor, Güneş 1. evde parlıyor."
+  },
+  "oglak": {
+   "focus": "Keyif ve Hobiler",
+   "short": "Yaratıcı yönünü ortaya çıkarmak bugünkü yorgunluğunu unutturabilir.",
+   "text": "Keyifli hobilerine veya çocuklarla ilgili konulara vakit ayırmak sana çok iyi gelecektir. Dolunay, hayatındaki yaratıcı süreci tetikliyor. Neptün'ün etkisiyle iç dünyanda huzuru yakalamak daha kolay olacak. Rutin işlerinin seni kısıtlamasına izin vermeden biraz nefes almaya çalış.",
+   "motivation": "Yaratıcılık ruhu neşeyle besler.",
+   "basis": "Ay 5. evden 6. eve geçiyor, Neptün ile altmışlık açıda."
+  },
+  "kova": {
+   "focus": "Aile ve Yuva",
+   "short": "Ev içindeki düzeni sağlarken kendini de biraz şımartmayı unutma.",
+   "text": "Yuvanla ilgili konular bugün oldukça ön planda. Dolunay, aile içi iletişimde yeni bir dönemi başlatabilir. Sosyal beklentiler ve grup çalışmaları arasında kendi iç huzurunu korumak senin elinde. Neptün'ün katkısıyla sezgilerin, doğru kararları vermen için sana yol gösterecektir.",
+   "motivation": "Huzur, içsel dengeden doğar.",
+   "basis": "Ay 4. evden 5. eve geçiyor, Neptün ile sekstil açıda."
+  },
+  "balik": {
+   "focus": "İletişim Akışı",
+   "short": "İfade etmek istediğin düşüncelerini sakinlikle aktarmayı tercih et.",
+   "text": "Bugün iletişimin yoğun olduğu bir gün geçirebilirsin. Dolunay, yakın çevrenle olan diyaloglarında bazı şeyleri netleştirmeni sağlıyor. Kariyer hedeflerin ile ev içindeki huzurun arasında denge kurmak önem kazanıyor. Kendi içindeki dinginliği koruyarak hareket etmek sana en büyük başarıyı getirecektir.",
+   "motivation": "Sakin ifade bağları güçlendirir.",
+   "basis": "Ay 3. evden 4. eve geçiyor, Güneş 10. evde."
+  }
+ }
+}
