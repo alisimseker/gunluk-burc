@@ -1,35 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-16T22:33:37+03:00",
+ "updated": "2026-11-17T06:57:06+03:00",
  "days": [
-  {
-   "date": "2026-11-15",
-   "focus": "Düşünsel Esneklik",
-   "short": "Fikirlerini aktarırken sabırlı davranmak olası gerilimleri önler.",
-   "text": "Zihninin son derece aktif olduğu bir gün geçirebilirsin; ancak düşüncelerini hemen eyleme dökmeden önce dinlemeye zaman ayırmalısın. Kendi görüşlerinde fazla ısrarcı olman yakın çevrenle sürdürdüğün diyalogları zorlaştırabilir. Şaşırtıcı bir haber veya bilgi, bakış açını tazelemene vesile olabilir. Günün ilerleyen saatlerinde evinde vakit geçirmek ruhuna iyi gelecektir.",
-   "motivation": "Sabırlı dinleyiş doğru kararı getirir.",
-   "basis": "Burcundaki Merkür, 3. evdeki Ay ile kare açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Kova'ya geçiyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 23°00'",
-    "Ay Oğlak'ta 29°48'",
-    "Merkür Akrep'te 5°17'",
-    "Venüs Terazi'de 22°53'",
-    "Mars Aslan'da 25°29'",
-    "Jüpiter Aslan'da 25°48'",
-    "Satürn Koç'ta 8°30' ℞",
-    "Uranüs İkizler'de 4°06' ℞",
-    "Neptün Koç'ta 1°49' ℞",
-    "Plüton Kova'da 3°17'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-16",
    "focus": "Evdeki Düzen",

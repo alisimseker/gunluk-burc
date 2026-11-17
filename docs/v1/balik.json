@@ -1,35 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-16T22:33:37+03:00",
+ "updated": "2026-11-17T06:57:06+03:00",
  "days": [
-  {
-   "date": "2026-11-15",
-   "focus": "Sezgisel Değerler",
-   "short": "Hayallerini gerçeğe dönüştürürken sezgilerine güvenmek yetecektir.",
-   "text": "Sosyal gruplar ve arkadaşlarınla bir araya geldiğin anlarda sezgisel bir uyum yakalayabilirsin. Maddi konularda hayalci olmak yerine gerçekçi adımlar atmaya özen göstermen faydalı olur. Eğitim veya uzak seyahatlerle ilgili konularda iletişim karmaşası yaşanabileceğinden detayları dikkatle incelemelisin. Günün ikinci yarısında yalnız kalarak ruhunu dinlendirmek sana güç verecektir.",
-   "motivation": "Gerçekçi hayaller sağlam temellere oturur.",
-   "basis": "11. evdeki Ay, 2. evdeki Neptün ile altmışlık açıda bulunuyor.",
-   "sky_events": [
-    "Ay bugün Kova'ya geçiyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 23°00'",
-    "Ay Oğlak'ta 29°48'",
-    "Merkür Akrep'te 5°17'",
-    "Venüs Terazi'de 22°53'",
-    "Mars Aslan'da 25°29'",
-    "Jüpiter Aslan'da 25°48'",
-    "Satürn Koç'ta 8°30' ℞",
-    "Uranüs İkizler'de 4°06' ℞",
-    "Neptün Koç'ta 1°49' ℞",
-    "Plüton Kova'da 3°17'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-16",
    "focus": "İçsel Dinlenme",

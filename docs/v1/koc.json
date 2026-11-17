@@ -1,35 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-16T22:33:37+03:00",
+ "updated": "2026-11-17T06:57:06+03:00",
  "days": [
-  {
-   "date": "2026-11-15",
-   "focus": "Topluluk ve Paylaşım",
-   "short": "Fikirlerini topluluk içinde paylaşırken fevri çıkışlar yerine sakinliği koru.",
-   "text": "Grup çalışmalarında ya da arkadaş meclislerinde fikirlerini dile getirirken kelimelerini özenle seçmende fayda var. Ortak bütçe veya hisseli konular gündeme geldiğinde zihninde beliren ani şüpheleri büyütmek yerine somut kanıtlara odaklan. Bireysel hedeflerini takım ruhuyla birleştirebilirsen gerginlikleri kolayca aşabilirsin. Bugün aceleci tepkiler yerine dinlemeyi seçerek dengeyi koru.",
-   "motivation": "Dinlemek köprüleri sağlamlaştırır.",
-   "basis": "Ay'ın Oğlak'tan Kova'ya geçişi ve 8. evdeki Merkür ile kare açısı.",
-   "sky_events": [
-    "Ay bugün Kova'ya geçiyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 23°00'",
-    "Ay Oğlak'ta 29°48'",
-    "Merkür Akrep'te 5°17'",
-    "Venüs Terazi'de 22°53'",
-    "Mars Aslan'da 25°29'",
-    "Jüpiter Aslan'da 25°48'",
-    "Satürn Koç'ta 8°30' ℞",
-    "Uranüs İkizler'de 4°06' ℞",
-    "Neptün Koç'ta 1°49' ℞",
-    "Plüton Kova'da 3°17'"
-   ],
-   "moon_phase": "Büyüyen Hilal"
-  },
   {
    "date": "2026-11-16",
    "focus": "Ekip Çalışması",
