@@ -1,32 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-17T21:39:20+03:00",
+ "updated": "2026-11-18T21:16:57+03:00",
  "days": [
-  {
-   "date": "2026-11-16",
-   "focus": "Finansal İntizam",
-   "short": "Ortak kaynakları ve bütçeni disiplinli bir bakışla düzenliyorsun.",
-   "text": "Ortaklı ödemeler veya maddi düzenlemeler üzerinde durman gerekebilir. Kariyerinde üstlendiğin sorumluluklar, parasal kararlarında daha temkinli ve akılcı hareket etmeni sağlıyor. Duygusal veya maddi yüklerini hafifletmek için stratejik düşünmek işini kolaylaştıracaktır. Güven duyduğun alanlara yönel.",
-   "motivation": "Dengeyi akılcı kararlarla sağla.",
-   "basis": "Ay 8. evinde, 10. evindeki Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 24°00'",
-    "Ay Kova'da 11°40'",
-    "Merkür Akrep'te 5°40'",
-    "Venüs Terazi'de 22°58'",
-    "Mars Aslan'da 25°56'",
-    "Jüpiter Aslan'da 25°53'",
-    "Satürn Koç'ta 8°27' ℞",
-    "Uranüs İkizler'de 4°04' ℞",
-    "Neptün Koç'ta 1°48' ℞",
-    "Plüton Kova'da 3°17'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-17",
    "focus": "Kaynak Dengesi",
@@ -230,6 +206,31 @@
     "Uranüs İkizler'de 3°44' ℞",
     "Neptün Koç'ta 1°42' ℞",
     "Plüton Kova'da 3°25'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-25",
+   "focus": "İçsel Sükunet",
+   "short": "Zihnini toparlamak için kendi alanına çekilip düzenlemeler yapabilirsin.",
+   "text": "Kendi iç dünyanda arka planda kalan meseleleri olgun bir kabulle ele alıyorsun. Görünürde olan sorumluluklarını aksatmadan, yalnız kaldığın anlarda zihinsel bir toparlanma süreci yaşayabilirsin. Kariyerine dair sorumluluklarınla içsel huzurun arasında sağlam bir denge kurman mümkün. Akşam saatlerini sakin tamamlamak seni rahatlatır.",
+   "motivation": "Sakinliğinde güç toplayarak ilerle.",
+   "basis": "Ay 12. evinde, Satürn ile altmışlık açıda.",
+   "sky_events": [
+    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 3°05'",
+    "Ay İkizler'de 13°43'",
+    "Merkür Akrep'te 14°16'",
+    "Venüs Terazi'de 25°16'",
+    "Mars Aslan'da 29°45'",
+    "Jüpiter Aslan'da 26°31'",
+    "Satürn Koç'ta 8°08' ℞",
+    "Uranüs İkizler'de 3°41' ℞",
+    "Neptün Koç'ta 1°42' ℞",
+    "Plüton Kova'da 3°26'"
    ],
    "moon_phase": "Dolunay"
   }

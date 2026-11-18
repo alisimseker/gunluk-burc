@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-18T21:16:57+03:00",
+ "model": "gemini-3.5-flash-lite",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 3°05'",
+   "Ay İkizler'de 13°43'",
+   "Merkür Akrep'te 14°16'",
+   "Venüs Terazi'de 25°16'",
+   "Mars Aslan'da 29°45'",
+   "Jüpiter Aslan'da 26°31'",
+   "Satürn Koç'ta 8°08' ℞",
+   "Uranüs İkizler'de 3°41' ℞",
+   "Neptün Koç'ta 1°42' ℞",
+   "Plüton Kova'da 3°26'"
+  ],
+  "events": [
+   "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Dolunay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Zihinsel netlik",
+   "short": "Fikir alışverişleri ve kısa görüşmelerde disiplinli ol.",
+   "text": "Üçüncü evindeki Ay ile birinci evindeki Satürn bugün destekleyici bir açı kuruyor. Bildiklerini paylaşırken veya yeni konular öğrenirken daha disiplinli ve odaklanmış hissedebilirsin. Zihninden geçenleri sadeleştirerek ifade etmek, günün akışını kolaylaştıracaktır. Uzaklardaki hedeflerinle ilgili aldığın haberleri mantık süzgecinden geçirmekte fayda var.",
+   "motivation": "Disiplinli adımlar zihni netleştirir.",
+   "basis": "Ay İkizler'de, 3. evinde; Satürn Koç'taki 1. evinde, altmışlık açıda."
+  },
+  "boga": {
+   "focus": "Bütçe ve Kaynaklar",
+   "short": "Maddi konuları toparlarken geçmiş birikimlerin yol gösterici olabilir.",
+   "text": "Gelir ve giderlerini ele alırken gerçekçi bir bakış açısıyla hareket etmen mümkün. Parasal planlamalarında harcamaları dengeye oturtmak adına kalıcı adımlar atabilirsin. Sahip olduğun birikimleri koruma ve harcama alışkanlıklarını gözden geçirme konusunda zihninde net kararlar şekillenebilir. Alışveriş yapmadan önce ihtiyaç listeni tekrar gözden geçir.",
+   "motivation": "Kendi kaynağına akılla yön ver.",
+   "basis": "Ay 2. evinde, Satürn ile altmışlık açıda."
+  },
+  "ikizler": {
+   "focus": "Kişisel Netlik",
+   "short": "Kendi duruşunu belirlerken sosyal çevrenden destek alman kolaylaşıyor.",
+   "text": "Bireysel hedeflerin konusunda son derece tutarlı davranabileceğin bir akış var. Duygusal anlamda kendini rahatça ifade ederken arkadaş grubunun tecrübelerine kulak verebilirsin. Kararlarını alırken aceleci tavırları kenara bırakıp uzun vadeli adımlara odaklanmak zihnini rahatlatacaktır. Bugün bekleyen kişisel işlerini sıraya koy.",
+   "motivation": "Kararlılığını kendi duruşunla belirle.",
+   "basis": "Ay 1. evinde, Satürn ile altmışlık açıda."
+  },
+  "yengec": {
+   "focus": "İçsel Sükunet",
+   "short": "Zihnini toparlamak için kendi alanına çekilip düzenlemeler yapabilirsin.",
+   "text": "Kendi iç dünyanda arka planda kalan meseleleri olgun bir kabulle ele alıyorsun. Görünürde olan sorumluluklarını aksatmadan, yalnız kaldığın anlarda zihinsel bir toparlanma süreci yaşayabilirsin. Kariyerine dair sorumluluklarınla içsel huzurun arasında sağlam bir denge kurman mümkün. Akşam saatlerini sakin tamamlamak seni rahatlatır.",
+   "motivation": "Sakinliğinde güç toplayarak ilerle.",
+   "basis": "Ay 12. evinde, Satürn ile altmışlık açıda."
+  },
+  "aslan": {
+   "focus": "Sosyal İletişim",
+   "short": "Geleceğe dönük hedeflerini arkadaşlarınla paylaşırken sağlam kararlar alabilirsin.",
+   "text": "Sosyal gruplar ve arkadaş çevren içinde sözlerinle ciddiyet kazanıyorsun. Ortaklaşa yürütülen umut ve projelerde uzun vadeli sorumluluklar üstlenmekten çekinmeyeceksin. İnançlarını ve tecrübelerini dostlarınla paylaşırken olgun bir rehber rolüne bürünebilirsin. Katılacağın bir sohbet ortamında yapıcı fikirlerini ortaya koy.",
+   "motivation": "Paylaşımlarını olgun adımlarla taçlandır.",
+   "basis": "Ay 11. evinde, Satürn ile altmışlık açıda."
+  },
+  "basak": {
+   "focus": "Sorumluluk ve Statü",
+   "short": "İş hayatındaki hedeflerinde net ve disiplinli duruşun öne çıkıyor.",
+   "text": "Toplumsal hedeflerin ve mesleki duruşun üzerine odaklandığın bir zamandasın. Üstlendiğin görevleri titizlikle tamamlamak saygınlığını pekiştirme imkanı tanıyor. İçsel gücünü çalışkanlığınla birleştirerek bekleyen evrak veya projeleri sonlandırabilirsin. Bugün tamamlanması gereken işlerde erteleme yapmadan ilerlemeyi seç.",
+   "motivation": "Disiplinini kararlı sonuçlara dönüştür.",
+   "basis": "Ay 10. evinde, Satürn ile altmışlık açıda."
+  },
+  "terazi": {
+   "focus": "Bakış Açısı",
+   "short": "Ufkunu genişletecek planlar yaparken sağlam ikili ilişkilerden destek alabilirsin.",
+   "text": "Hayat görüşünü ve eğitim ya da seyahat planlarını masaya yatırmak için net bir zemin buluyorsun. Karşındaki insanlarla kurduğun mantıklı diyaloglar yeni hedeflerini biçimlendirmene yardımcı olabilir. Geçmiş tecrübelerden ders alarak geleceğe dair kararlarını somut kılmak isteyeceksin. Uzak mesafeli işlerin için bugün organize ol.",
+   "motivation": "Öğrendiklerini sağlam kararlarla birleştir.",
+   "basis": "Ay 9. evinde, Satürn ile altmışlık açıda."
+  },
+  "akrep": {
+   "focus": "Derin Paylaşımlar",
+   "short": "Ortak bütçe ve borç detaylarında gerçekçi çözümler üretebilirsin.",
+   "text": "Maddi veya manevi ortaklıklarında gözden kaçan detayları net bir şekilde düzenleme fırsatı buluyorsun. Günlük düzenini aksatmadan alacak ve borç dengesini kontrol altına alabilirsin. Karşılıklı güvene dayalı meselelerde soğukkanlı tavrın düğümleri çözmeni kolaylaştırır. Hesaplarını detaylıca inceleyerek planlama yap.",
+   "motivation": "Gerçeklerle yüzleşip hafiflemeyi seç.",
+   "basis": "Ay 8. evinde, Satürn ile altmışlık açıda."
+  },
+  "yay": {
+   "focus": "Ortaklık Bağları",
+   "short": "Birebir diyaloglarında ciddi ve net bir tutum takınmak güven tazeler.",
+   "text": "İlişkilerinde veya ortak yürütülen işlerde net ve olgun davranma imkanı buluyorsun. Karşındaki kişiyle açık ve mantıklı iletişim kurarak var olan pürüzleri giderebilirsin. Birbirinize verdiğiniz sözlerin sorumluluğunu almak ilişkiyi daha sağlam bir zemine oturtacaktır. Karşılıklı beklentilerinizi sakince masaya yatırın.",
+   "motivation": "Netliğini ilişkinin temeline yerleştir.",
+   "basis": "Ay 7. evinde, Satürn ile altmışlık açıda."
+  },
+  "oglak": {
+   "focus": "İş Düzeni",
+   "short": "Günlük işlerini planlarken ev hayatındaki sorumlulukları da gözetebilirsin.",
+   "text": "Çalışma alanındaki ayrıntıları toparlamak ve sağlık rutinlerini gözden geçirmek adına oldukça elverişli bir zamandasın. Evdeki düzeninle iş yaşamındaki görevlerin arasında pratik bir denge kurabilirsin. Biriken küçük işleri sırayla tamamlayarak zihinsel rahatlama yakalaman mümkün. Masanı ve yapılacaklar listeni güncelle.",
+   "motivation": "Özenli adımlarla düzenini pekiştir.",
+   "basis": "Ay 6. evinde, Satürn ile altmışlık açıda."
+  },
+  "kova": {
+   "focus": "Yaratıcı Yetenekler",
+   "short": "İlgilendiğin hobilerde veya sanatsal işlerde ciddiyetle yol alabilirsin.",
+   "text": "Keyif aldığın konulara ve yaratıcı projelere daha disiplinli yaklaşma imkanı yakalıyorsun. İletişim yeteneğini becerilerinle harmanlayarak somut çıktılar elde edebilirsin. Çocuklarla veya sevdiklerinle olan paylaşımlarında dinleyici ve yapıcı tarafın öne çıkabilir. Yarım kalan bir hobine bugün vakit ayırarak ilerleme kaydet.",
+   "motivation": "Üretimini kararlı bir hevesle büyüt.",
+   "basis": "Ay 5. evinde, Satürn ile altmışlık açıda."
+  },
+  "balik": {
+   "focus": "Hane Düzenlemesi",
+   "short": "Ev içindeki düzeni sağlarken bütçene uygun adımlar atabilirsin.",
+   "text": "Aileni ilgilendiren konularda ve yaşam alanında yapılması gereken düzenlemelerde sağlam kararlar alıyorsun. Maddi kaynaklarını göz önünde bulundurarak ev için gerekli harcamaları planlamak seni güvende hissettirecektir. Köklerinle ve geçmişinle barışık bir tutum sergilemek zihinsel dinginlik yaratır. Evindeki eksikleri listeleyip planlı davran.",
+   "motivation": "Huzurunu sağlam temellerle koru.",
+   "basis": "Ay 4. evinde, Satürn ile altmışlık açıda."
+  }
+ }
+}

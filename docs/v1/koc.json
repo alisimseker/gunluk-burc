@@ -1,32 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-17T21:39:20+03:00",
+ "updated": "2026-11-18T21:16:57+03:00",
  "days": [
-  {
-   "date": "2026-11-16",
-   "focus": "Ekip Çalışması",
-   "short": "Sosyal çevrendeki dostluklar kişisel hedeflerine güç katıyor.",
-   "text": "Ekip çalışmalarında veya dâhil olduğun gruplarda tecrübenle öne çıkıyorsun. Geçmişten getirdiğin olgunluk, arkadaşlarınla birlikte yürüteceğin projelerde sana sağlam bir zemin sunuyor. Uzun vadeli hayallerini somut adımlara dönüştürmek için çevrenin desteğini yanına alabilirsin. Fikirlerini net bir şekilde paylaşmaktan çekinme.",
-   "motivation": "Tecrübeni ortak hedeflerle birleştir.",
-   "basis": "Ay 11. evinde, 1. evindeki Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 24°00'",
-    "Ay Kova'da 11°40'",
-    "Merkür Akrep'te 5°40'",
-    "Venüs Terazi'de 22°58'",
-    "Mars Aslan'da 25°56'",
-    "Jüpiter Aslan'da 25°53'",
-    "Satürn Koç'ta 8°27' ℞",
-    "Uranüs İkizler'de 4°04' ℞",
-    "Neptün Koç'ta 1°48' ℞",
-    "Plüton Kova'da 3°17'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-17",
    "focus": "Sosyal Dengeler",
@@ -230,6 +206,31 @@
     "Uranüs İkizler'de 3°44' ℞",
     "Neptün Koç'ta 1°42' ℞",
     "Plüton Kova'da 3°25'"
+   ],
+   "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-25",
+   "focus": "Zihinsel netlik",
+   "short": "Fikir alışverişleri ve kısa görüşmelerde disiplinli ol.",
+   "text": "Üçüncü evindeki Ay ile birinci evindeki Satürn bugün destekleyici bir açı kuruyor. Bildiklerini paylaşırken veya yeni konular öğrenirken daha disiplinli ve odaklanmış hissedebilirsin. Zihninden geçenleri sadeleştirerek ifade etmek, günün akışını kolaylaştıracaktır. Uzaklardaki hedeflerinle ilgili aldığın haberleri mantık süzgecinden geçirmekte fayda var.",
+   "motivation": "Disiplinli adımlar zihni netleştirir.",
+   "basis": "Ay İkizler'de, 3. evinde; Satürn Koç'taki 1. evinde, altmışlık açıda.",
+   "sky_events": [
+    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 3°05'",
+    "Ay İkizler'de 13°43'",
+    "Merkür Akrep'te 14°16'",
+    "Venüs Terazi'de 25°16'",
+    "Mars Aslan'da 29°45'",
+    "Jüpiter Aslan'da 26°31'",
+    "Satürn Koç'ta 8°08' ℞",
+    "Uranüs İkizler'de 3°41' ℞",
+    "Neptün Koç'ta 1°42' ℞",
+    "Plüton Kova'da 3°26'"
    ],
    "moon_phase": "Dolunay"
   }
