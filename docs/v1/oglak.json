@@ -1,34 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-18T21:16:57+03:00",
+ "updated": "2026-11-19T05:59:02+03:00",
  "days": [
-  {
-   "date": "2026-11-17",
-   "focus": "Maddi Muhakeme",
-   "short": "Emeklerinin karşılığını planlarken profesyonel duruşunu koru.",
-   "text": "Kişisel bütçeni ve birikimlerini düzenlemek adına mantıklı adımlar atabileceğin bir evredesin. İkinci evinde oluşan İlk Dördün, sosyal çevrenin getirdiği beklentilerle kendi maddi sınırların arasında denge kurmanı istiyor. Kariyerinden gelen destekle geleceğe dair somut güvenceler oluşturabilirsin. Harcamalarında gerçekçi bir tutum benimsemek içini rahatlatır.",
-   "motivation": "Kararlı adımla emeğini büyüt.",
-   "basis": "2. evindeki Kova Ayı'nın 10. evdeki Venüs ile üçgen açısı.",
-   "sky_events": [
-    "Bugün İlk Dördün (Kova burcunda) gerçekleşiyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 25°01'",
-    "Ay Kova'da 23°43'",
-    "Merkür Akrep'te 6°13'",
-    "Venüs Terazi'de 23°05'",
-    "Mars Aslan'da 26°22'",
-    "Jüpiter Aslan'da 25°58'",
-    "Satürn Koç'ta 8°25' ℞",
-    "Uranüs İkizler'de 4°02' ℞",
-    "Neptün Koç'ta 1°47' ℞",
-    "Plüton Kova'da 3°18'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-18",
    "focus": "Fikir Paylaşımı",
@@ -233,6 +207,35 @@
     "Plüton Kova'da 3°26'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-26",
+   "focus": "İkili İlişkiler",
+   "short": "Ortaklıklar, evlilik ve birebir anlaşmalar ön plana çıkıyor.",
+   "text": "Gün boyunca karşılıklı diyaloglar, iş birlikleri ve yakın ilişkiler hayatının merkezinde yer alacak. Uzak seyahatler, eğitimler veya felsefi konularla ilgili yeni kararlar almak için uygun bir zaman dilimindesin. Mesleki alanda elde ettiğin başarılar moralini yükseltirken, sosyal ilişkilerinde de dengeyi koruyabilirsin. Karşılıklı anlayışı elden bırakmadan hareket et.",
+   "motivation": "Uyumlu ilişkilerle gücünü artır.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Venüs üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yengeç'e geçiyor.",
+    "Mars bugün Başak'a geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 4°06'",
+    "Ay İkizler'de 28°50'",
+    "Merkür Akrep'te 15°35'",
+    "Venüs Terazi'de 25°41'",
+    "Mars Başak'ta 0°09'",
+    "Jüpiter Aslan'da 26°34'",
+    "Satürn Koç'ta 8°07' ℞",
+    "Uranüs İkizler'de 3°39' ℞",
+    "Neptün Koç'ta 1°41' ℞",
+    "Plüton Kova'da 3°28'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

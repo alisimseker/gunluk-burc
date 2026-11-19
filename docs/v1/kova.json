@@ -1,34 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-18T21:16:57+03:00",
+ "updated": "2026-11-19T05:59:02+03:00",
  "days": [
-  {
-   "date": "2026-11-17",
-   "focus": "Şahsi Kararlar",
-   "short": "Kendi isteklerini merkeze alarak geleceğine yön verme zamanı.",
-   "text": "Burcunda gerçekleşen İlk Dördün, ertelediğin bireysel kararları hayata geçirmen için güçlü bir itilim sağlıyor. Kariyerindeki yoğunluk ya da beklentiler seni biraz sıkıştırsa da duruşundan taviz vermemelisin. Yaşam felsefene ve ideallerine uyan konulara odaklandığında çevrendeki insanlarla da dengeli bir diyalog kurabilirsin. Kendi yolunu netleştirerek ilerle.",
-   "motivation": "Kendi gerçeğine sadık kal.",
-   "basis": "1. evindeki Ay'ın Güneş ile kare, Venüs ile üçgen açısı.",
-   "sky_events": [
-    "Bugün İlk Dördün (Kova burcunda) gerçekleşiyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 25°01'",
-    "Ay Kova'da 23°43'",
-    "Merkür Akrep'te 6°13'",
-    "Venüs Terazi'de 23°05'",
-    "Mars Aslan'da 26°22'",
-    "Jüpiter Aslan'da 25°58'",
-    "Satürn Koç'ta 8°25' ℞",
-    "Uranüs İkizler'de 4°02' ℞",
-    "Neptün Koç'ta 1°47' ℞",
-    "Plüton Kova'da 3°18'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-18",
    "focus": "Maddi Öncelikler",
@@ -233,6 +207,35 @@
     "Plüton Kova'da 3°26'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-26",
+   "focus": "Günlük Düzen",
+   "short": "Sağlık, çalışma koşulları ve günlük işler hız kazanıyor.",
+   "text": "Zihinsel olarak hareketli bir sabahtan sonra, iş arkadaşlarınla uyumlu çalışabileceğin ve rutinlerini toparlayabileceğin bir sürece geçiyorsun. Ortak finansal konular veya başkalarından elde edilen gelirler konusunda dikkatli ve stratejik kararlar alabilirsin. Yaratıcı fikirlerini iş hayatına entegre ederek verimliliğini artırman mümkün. Günlük akışını sadeleştirerek huzur bulabilirsin.",
+   "motivation": "Rutini düzenle, zihnini rahatlat.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yengeç'e geçiyor.",
+    "Mars bugün Başak'a geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 4°06'",
+    "Ay İkizler'de 28°50'",
+    "Merkür Akrep'te 15°35'",
+    "Venüs Terazi'de 25°41'",
+    "Mars Başak'ta 0°09'",
+    "Jüpiter Aslan'da 26°34'",
+    "Satürn Koç'ta 8°07' ℞",
+    "Uranüs İkizler'de 3°39' ℞",
+    "Neptün Koç'ta 1°41' ℞",
+    "Plüton Kova'da 3°28'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }

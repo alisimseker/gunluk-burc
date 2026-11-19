@@ -1,0 +1,114 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-19T05:59:02+03:00",
+ "model": "gemini-3.5-flash-lite",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 4°06'",
+   "Ay İkizler'de 28°50'",
+   "Merkür Akrep'te 15°35'",
+   "Venüs Terazi'de 25°41'",
+   "Mars Başak'ta 0°09'",
+   "Jüpiter Aslan'da 26°34'",
+   "Satürn Koç'ta 8°07' ℞",
+   "Uranüs İkizler'de 3°39' ℞",
+   "Neptün Koç'ta 1°41' ℞",
+   "Plüton Kova'da 3°28'"
+  ],
+  "events": [
+   "Ay bugün Yengeç'e geçiyor.",
+   "Mars bugün Başak'a geçiyor.",
+   "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+   "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Ev ve İş Dengesi",
+   "short": "Evine dönerken işlerini yoluna koy.",
+   "text": "Ay'ın Yengeç burcuna geçişiyle birlikte odağın tamamen yuva, aile ve iç huzur konularına kayıyor. Aynı zamanda Mars'ın çalışma alanına geçişi, günlük işlerini ve sorumluluklarını hızla organize etmen için seni destekliyor. Yakın ilişkilerinden aldığın destekle evdeki düzeni yenileyebilir, iş ve yaşam alanın arasında keyifli bir köprü kurabilirsin.",
+   "motivation": "Düzenli çaba huzuru getirir.",
+   "basis": "Ay Yengeç burcuna geçiyor ve Mars Başak burcuna geçerek günlük işler alanını etkiliyor."
+  },
+  "boga": {
+   "focus": "İletişim Trafiği",
+   "short": "Fikirlerini paylaşmak ve kısa yolculuklar yapmak için elverişli bir zaman.",
+   "text": "Gün boyunca zihinsel olarak oldukça aktifsin; yeni fikirler üretmek ve yakın çevrenle bilgi alışverişinde bulunmak sana keyif verecek. Yaratıcı projelerine zaman ayırmak ve günlük akışındaki işleri pratik yöntemlerle çözmek kolaylaşacak. Ancak hayal kırıklığına açık olabilecek bazı ufak tefek yanılsamalara karşı dikkatli olmanda fayda var. Net ve anlaşılır bir ifade tarzı benimsersen günün kazananı sen olursun.",
+   "motivation": "Merakını pratik adımlarla besle.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Maddi Değerler",
+   "short": "Kazançlarını artırma yolları ve öz değer konuları gündeminde.",
+   "text": "Günün ilk yarısındaki kişisel yoğunluğun ardından, maddi kaynaklarını ve bütçeni yapılandırmak üzere harekete geçiyorsun. Ev ve aile hayatında atacağın pratik adımlar, içsel olarak güvende hissetmeni sağlayacak. Duygusal dalgalanmalar yaşayabileceğin anlarda sezgilerine güvenebilir, harcamalarını daha dengeli bir gözle inceleyebilirsin. Elindeki imkanları akıllıca yönetmek için küçük bir plan yap.",
+   "motivation": "Kaynaklarını bilinçli tercihlerle yönet.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Jüpiter altmışlık açı yapıyor."
+  },
+  "yengec": {
+   "focus": "Kişisel Yenilenme",
+   "short": "Günün ilerleyen saatlerinde tüm dikkatler senin üzerine çevriliyor.",
+   "text": "Güne iç dünyandaki sakinliği arayarak başlasan da, gün ilerledikçe kendi isteklerini ve görünüşünü ön plana koyma isteğin artacak. İletişim trafiğinin hızlanmasıyla birlikte kardeşler veya yakın çevrenle olan diyalogların canlanıyor. Hedeflerini netleştirmek ve kendi kabuğundan çıkıp adımlar atmak için cesur hissedebilirsin. Akşam saatlerinde acele kararlar almaktan kaçınarak dengede kal.",
+   "motivation": "Öz güvenini yapıcı adımlarla göster.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Dinlenme ve İç Dünya",
+   "short": "Kabuğuna çekilmek ve arka plandaki işleri tamamlamak iyi gelecek.",
+   "text": "Sosyal çevrenin ve kalabalık grupların enerjisinden biraz uzaklaşarak kendi iç sesini dinlemek isteyeceğin bir döneme adım atıyorsun. Maddi kaynaklarını gözden geçirmek ve kazançlarını artıracak stratejik planlar yapmak adına elverişli bir zaman dilimindesin. Rüyalarına ve sezgilerine kulak vererek zihnini yoran detayları geride bırakabilirsin. Kendine şefkat göstermeyi ve dinlenmeyi ihmal etme.",
+   "motivation": "İçsel sükunetini koruyarak dinlen.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Jüpiter altmışlık açı yapıyor."
+  },
+  "basak": {
+   "focus": "Sosyal Çevre",
+   "short": "Gelecek hedeflerin ve arkadaşlık ilişkilerin hareket kazanıyor.",
+   "text": "Kişisel enerjinin ve motivasyonunun yükseldiği, kendini çok daha doğrudan ifade edebileceğin bir sürece giriyorsun. İş ortamındaki sorumluluklarını geride bırakıp sosyal gruplarla bir araya gelmek ve ortak umutlar üzerine konuşmak sana iyi gelecek. Gün içinde karşına çıkabilecek belirsizlikleri mantıklı süzgecinden geçirerek rahatlıkla aşabilirsin. Hedeflerin doğrultusunda çevrenle uyumlu bir diyalog kur.",
+   "motivation": "Becerilerini sosyal projelerle buluştur.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "terazi": {
+   "focus": "Kariyer Hedefleri",
+   "short": "İş yaşamında ve toplumsal statüde görünürlüğün artıyor.",
+   "text": "Üstlendiğin görevleri başarıyla tamamlarken, günün ilerleyen saatlerinde kariyerine dair somut adımlar atmak önceliğin haline geliyor. Sosyal çevrenden alacağın destekler sayesinde uzun vadeli planlarını yeniden gözden geçirebilirsin. İçsel dünyanda yaşayabileceğin ufak aksilikleri veya kafa karışıklıklarını sevdiklerinle paylaşarak hafifleyebilirsin. Profesyonel duruşunu nazik bir tutumla harmanla.",
+   "motivation": "Vakarla çalış, hedefine odaklan.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Jüpiter altmışlık açı yapıyor."
+  },
+  "akrep": {
+   "focus": "Ufuklar ve İnançlar",
+   "short": "Yeni eğitimler, uzak planlar ve hayat felsefen odak noktan oluyor.",
+   "text": "Bakış açını genişletecek konulara yönelmek, zihnen tazeleyici bir etki yaratacak. Sosyal bağlarını güçlendiren gruplar içinde aktif rol alabilir, geleceğe yönelik heyecan verici planlar yapabilirsin. Günlük rutinlerin getirdiği küçük karmaşaları esnek bir zihinle çözmek işini kolaylaştıracak. Bildiklerini paylaşarak çevrendekilere ilham vermekten çekinme.",
+   "motivation": "Merakını taze tutarak ilerle.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "yay": {
+   "focus": "Ortak Kaynaklar",
+   "short": "Finansal paylaşımlar ve derin dönüşümler günün ana teması.",
+   "text": "Ortak kazançlar, borçlar veya yatırımlar konusunda atılması gereken adımlar gündeminde yer alıyor. Kariyer alanında göstereceğin disiplinli yaklaşım, uzun vadeli başarılar için sağlam bir zemin hazırlayacak. Sosyal ilişkilerde keyifli paylaşımlar öne çıkarken, harcamalarında ölçülü olmaya özen göstermelisin. İçindeki coşkuyu gerçekçi planlarla destekleyerek ilerle.",
+   "motivation": "Maddi konularda tedbirli adımlar at.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "oglak": {
+   "focus": "İkili İlişkiler",
+   "short": "Ortaklıklar, evlilik ve birebir anlaşmalar ön plana çıkıyor.",
+   "text": "Gün boyunca karşılıklı diyaloglar, iş birlikleri ve yakın ilişkiler hayatının merkezinde yer alacak. Uzak seyahatler, eğitimler veya felsefi konularla ilgili yeni kararlar almak için uygun bir zaman dilimindesin. Mesleki alanda elde ettiğin başarılar moralini yükseltirken, sosyal ilişkilerinde de dengeyi koruyabilirsin. Karşılıklı anlayışı elden bırakmadan hareket et.",
+   "motivation": "Uyumlu ilişkilerle gücünü artır.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Venüs üçgen açı yapıyor."
+  },
+  "kova": {
+   "focus": "Günlük Düzen",
+   "short": "Sağlık, çalışma koşulları ve günlük işler hız kazanıyor.",
+   "text": "Zihinsel olarak hareketli bir sabahtan sonra, iş arkadaşlarınla uyumlu çalışabileceğin ve rutinlerini toparlayabileceğin bir sürece geçiyorsun. Ortak finansal konular veya başkalarından elde edilen gelirler konusunda dikkatli ve stratejik kararlar alabilirsin. Yaratıcı fikirlerini iş hayatına entegre ederek verimliliğini artırman mümkün. Günlük akışını sadeleştirerek huzur bulabilirsin.",
+   "motivation": "Rutini düzenle, zihnini rahatlat.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor."
+  },
+  "balik": {
+   "focus": "Yaratıcı Keyifler",
+   "short": "Sanatsal uğraşlar, aşk hayatı ve hobiler gününü renklendiriyor.",
+   "text": "İçindeki neşeyi ve üretkenliği ortaya çıkaracak aktivitelere yönelmek için harika bir gün. İkili ilişkilerde ve ortaklık kurduğun kişilerle olan bağlarını güçlendirecek yapıcı adımlar atabilirsin. Günlük işlerin getirdiği sorumlulukları sevdiklerinle paylaşarak hafifleyebilir, zihnini dinlendirecek hobilerle vakit geçirebilirsin. Kalbinin sesini dinleyerek yaratıcı ilhamını besle.",
+   "motivation": "İlhamını sevgiyle harmanla.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Venüs üçgen açı yapıyor."
+  }
+ }
+}

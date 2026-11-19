@@ -1,34 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-18T21:16:57+03:00",
+ "updated": "2026-11-19T05:59:02+03:00",
  "days": [
-  {
-   "date": "2026-11-17",
-   "focus": "Bağlantı Ağı",
-   "short": "Dostlarla yapacağın samimi paylaşımlar yeni kapılar aralayabilir.",
-   "text": "Düşüncelerini aktarırken sergilediğin sıcaklık, sosyal çevrende takdir topluyor. Üçüncü evindeki İlk Dördün fazı, bir süredir aklında olan bir fikri eyleme dökmen için fırsat sunuyor. Geri planda kalan kaygıları bir kenara bırakıp açık diyalog kurarsan dostlarından beklemediğin güzellikte geri dönüşler alırsın. Sözlerini özenle seçerek ilerlemek fayda sağlar.",
-   "motivation": "Açık sözle kalpleri birleştir.",
-   "basis": "3. evindeki Ay'ın 11. evdeki Venüs ile üçgen açısı.",
-   "sky_events": [
-    "Bugün İlk Dördün (Kova burcunda) gerçekleşiyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 25°01'",
-    "Ay Kova'da 23°43'",
-    "Merkür Akrep'te 6°13'",
-    "Venüs Terazi'de 23°05'",
-    "Mars Aslan'da 26°22'",
-    "Jüpiter Aslan'da 25°58'",
-    "Satürn Koç'ta 8°25' ℞",
-    "Uranüs İkizler'de 4°02' ℞",
-    "Neptün Koç'ta 1°47' ℞",
-    "Plüton Kova'da 3°18'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-18",
    "focus": "Evde Dinginlik",
@@ -233,6 +207,35 @@
     "Plüton Kova'da 3°26'"
    ],
    "moon_phase": "Dolunay"
+  },
+  {
+   "date": "2026-11-26",
+   "focus": "Ortak Kaynaklar",
+   "short": "Finansal paylaşımlar ve derin dönüşümler günün ana teması.",
+   "text": "Ortak kazançlar, borçlar veya yatırımlar konusunda atılması gereken adımlar gündeminde yer alıyor. Kariyer alanında göstereceğin disiplinli yaklaşım, uzun vadeli başarılar için sağlam bir zemin hazırlayacak. Sosyal ilişkilerde keyifli paylaşımlar öne çıkarken, harcamalarında ölçülü olmaya özen göstermelisin. İçindeki coşkuyu gerçekçi planlarla destekleyerek ilerle.",
+   "motivation": "Maddi konularda tedbirli adımlar at.",
+   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Yengeç'e geçiyor.",
+    "Mars bugün Başak'a geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 4°06'",
+    "Ay İkizler'de 28°50'",
+    "Merkür Akrep'te 15°35'",
+    "Venüs Terazi'de 25°41'",
+    "Mars Başak'ta 0°09'",
+    "Jüpiter Aslan'da 26°34'",
+    "Satürn Koç'ta 8°07' ℞",
+    "Uranüs İkizler'de 3°39' ℞",
+    "Neptün Koç'ta 1°41' ℞",
+    "Plüton Kova'da 3°28'"
+   ],
+   "moon_phase": "Küçülen Ay"
   }
  ]
 }
