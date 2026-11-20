@@ -1,35 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-19T21:14:39+03:00",
+ "updated": "2026-11-20T05:21:51+03:00",
  "days": [
-  {
-   "date": "2026-11-18",
-   "focus": "Maddi Öncelikler",
-   "short": "Harcamalarını planlarken ani heveslere sınır koy.",
-   "text": "Bütçeni planlarken ani harcama isteklerine karşı uyanık olmanda fayda var. Kariyerinle ilgili görüşmelerde tecrübelerini akıcı bir şekilde aktarabilirsin. Ortaklı işlerde abartılı beklentilere girmeden somut duruma odaklanmalısın. Gereksiz masrafları erteleyip mevcut birikimini koru.",
-   "motivation": "Sağduyulu tercihler güvende tutar.",
-   "basis": "Ay 2. evinde, 10. evdeki Merkür ile üçgen açıda.",
-   "sky_events": [
-    "Ay bugün Balık'a geçiyor.",
-    "Güneş ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 26°01'",
-    "Ay Balık'ta 6°01'",
-    "Merkür Akrep'te 6°53'",
-    "Venüs Terazi'de 23°14'",
-    "Mars Aslan'da 26°49'",
-    "Jüpiter Aslan'da 26°03'",
-    "Satürn Koç'ta 8°22' ℞",
-    "Uranüs İkizler'de 3°59' ℞",
-    "Neptün Koç'ta 1°47' ℞",
-    "Plüton Kova'da 3°19'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-19",
    "focus": "Kazançlar ve Ortaklıklar",
@@ -234,6 +207,31 @@
     "Uranüs İkizler'de 3°39' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°28'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-27",
+   "focus": "Çalışma Disiplini",
+   "short": "Günlük işlerini titizlikle tamamlayıp hedefine sadık kal.",
+   "text": "Mesleki hedeflerini günlük iş akışınla uyumlu hale getirmek için sezgisel ve pratik bir zemin bulabilirsin. Yakın çevrenden gelen katı eleştiriler veya iletişimdeki pürüzler hevesini kırmasın. Görevlerini adım adım tamamlamak zihinsel yorgunluğunu bertaraf edecektir. Sağlığına ve bedeninin ihtiyaçlarına kulak verip çalışma masanı düzenlemek sana hafiflik kazandırır.",
+   "motivation": "Adım adım düzen kur.",
+   "basis": "6. evindeki Ay'ın 10. evdeki Merkür ile üçgen ve 3. evdeki Satürn ile kare açısı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 5°07'",
+    "Ay Yengeç'te 13°50'",
+    "Merkür Akrep'te 16°55'",
+    "Venüs Terazi'de 26°08'",
+    "Mars Başak'ta 0°33'",
+    "Jüpiter Aslan'da 26°37'",
+    "Satürn Koç'ta 8°05' ℞",
+    "Uranüs İkizler'de 3°36' ℞",
+    "Neptün Koç'ta 1°41' ℞",
+    "Plüton Kova'da 3°29'"
    ],
    "moon_phase": "Küçülen Ay"
   }

@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-20T05:21:51+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 5°07'",
+   "Ay Yengeç'te 13°50'",
+   "Merkür Akrep'te 16°55'",
+   "Venüs Terazi'de 26°08'",
+   "Mars Başak'ta 0°33'",
+   "Jüpiter Aslan'da 26°37'",
+   "Satürn Koç'ta 8°05' ℞",
+   "Uranüs İkizler'de 3°36' ℞",
+   "Neptün Koç'ta 1°41' ℞",
+   "Plüton Kova'da 3°29'"
+  ],
+  "events": [
+   "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Duygusal Paylaşımlar",
+   "short": "Hane içindeki konuşmalarda açık ve yapıcı bir tutum benimse.",
+   "text": "Hane içinde geçmişten kalan meseleleri konuşmak için sezgisel bir açıklık yakalayabilirsin. Kendi sınırlarını koruma arzunla sevdiklerinin beklentileri zaman zaman çatışabilir. Katı bir tavır almak yerine duygularını samimiyetle ifade etmek düğümleri çözecektir. Gün boyu evinde dinlenmeye ve iç huzuruna küçük bir alan açmaya özen göster.",
+   "motivation": "Şefkatli dille sınırını belirle.",
+   "basis": "4. evindeki Ay'ın 8. evdeki Merkür ile üçgen ve 1. evindeki Satürn ile kare açısı."
+  },
+  "boga": {
+   "focus": "Anlaşmalar ve Diyalog",
+   "short": "İkili görüşmelerinde açık sözlülük sağlam bağlar kurmanı kolaylaştırır.",
+   "text": "Ortaklarınla ya da hayatındaki kişiyle yürüttüğün diyaloglarda sezgilerin yol gösterici olabilir. Zihnini kurcalayan gizli endişeler sözlerine gölge düşürmesin. Düşüncelerini netlikle paylaştığında karşındaki kişinin seni daha derinlemesine anladığını fark edebilirsin. Kısa bir yürüyüş yapmak ya da önemli bir notu temize çekmek kafanı toparlamana yardım eder.",
+   "motivation": "Sezgini sözlerine incelikle aktar.",
+   "basis": "3. evindeki Ay'ın 7. evdeki Merkür ile üçgen ve 12. evdeki Satürn ile kare açısı."
+  },
+  "ikizler": {
+   "focus": "Çalışma ve Kazanç",
+   "short": "Emeğinin karşılığını planlı ve titiz adımlarla büyütebilirsin.",
+   "text": "Günlük işlerini rayına oturturken maddi konulara mantıklı çözümler üretebilirsin. Ekip çalışmalarında üstlenilen sorumlulukların getirdiği yük bazen bütçeni ya da emeğini sorgulatabilir. Detaylara gösterdiğin özen, iş ortamındaki pürüzleri hızla giderecektir. Önemsiz harcamaları erteleyip mevcut düzenini sağlamlaştırmak günü daha verimli kılar.",
+   "motivation": "Emeğine değer verip ilerle.",
+   "basis": "2. evindeki Ay'ın 6. evdeki Merkür ile üçgen ve 11. evdeki Satürn ile kare açısı."
+  },
+  "yengec": {
+   "focus": "Yaratıcı İfade",
+   "short": "Kendi hislerine kulak vererek yaratıcı tarafını görünür kıl.",
+   "text": "Kendi isteklerine ve sana keyif veren yaratıcı uğraşlara odaklanmak ruhunu canlandırabilir. Kariyerinde hissettiğin görev baskısı seni kısıtlamış gibi hissettirse de yaratıcılığın çıkış kapısı sunuyor. Fikirlerini ertelemeden kağıda dökmek veya sevdiklerinle paylaşmak rahatlatıcı olacaktır. Görevlerinle kişisel tutkuların arasında makul bir denge kurmaya çalış.",
+   "motivation": "İçindeki coşkuyu ciddiyetle besle.",
+   "basis": "1. evindeki Ay'ın 5. evdeki Merkür ile üçgen ve 10. evdeki Satürn ile kare açısı."
+  },
+  "aslan": {
+   "focus": "İçsel Arınma",
+   "short": "Zihnindeki ağırlıkları bırakıp evinde huzurlu anlar yarat.",
+   "text": "Kendi kabuğuna çekilip ailevi meseleleri ya da geçmiş duyguları sakince gözden geçirmek isteyebilirsin. Uzak hedefler veya katı inançlar zihninde baskı yaratabilir; olayları akışına bırakmayı dene. Evinde oluşturacağın sakin bir köşe, düşüncelerini toparlaman için gereken alanı sağlayacaktır. Birtakım kararları aceleye getirmeden iç sesini dinlemek en doğrusu olur.",
+   "motivation": "İç sesine alan aç.",
+   "basis": "12. evindeki Ay'ın 4. evdeki Merkür ile üçgen ve 9. evdeki Satürn ile kare açısı."
+  },
+  "basak": {
+   "focus": "Dostluk ve Fikirler",
+   "short": "Fikirlerini güvendiğin dostlarınla paylaşarak hafifle.",
+   "text": "Arkadaşlarınla yapacağın samimi sohbetler yeni bakış açıları kazanmana zemin hazırlayabilir. Paylaşılan ortak sorumluluklar ya da maddi yükümlülükler zaman zaman üzerinde ağırlık hissettirebilir. İletişimde yapıcı ve çözüm odaklı kaldığında pürüzleri aşmak oldukça kolaylaşır. Geleceğe yönelik projelerini güven duyduğun bir dostunla istişare etmek zihnini berraklaştırır.",
+   "motivation": "Samimi paylaşımlarla yolunu aç.",
+   "basis": "11. evindeki Ay'ın 3. evdeki Merkür ile üçgen ve 8. evdeki Satürn ile kare açısı."
+  },
+  "terazi": {
+   "focus": "Mesleki Değerler",
+   "short": "Hedeflerini kendi değerinle örtüşen temeller üzerine kur.",
+   "text": "Toplumsal duruşun ve hedeflerinle ilgili konularda maddi güvenliğini gözeten kararlar alabilirsin. İkili ilişkilerinde ya da ortaklıklarda karşılaştığın katı talepler seni zorlayabilir; sakinliğini korumalısın. Kendi yeteneklerini ve değerini doğru tanımlayarak iş görüşmelerinde sağlam bir zemin bulabilirsin. Profesyonel adımlarını ölçülü ve net tutman fayda sağlar.",
+   "motivation": "Duruşunla değerine sahip çık.",
+   "basis": "10. evindeki Ay'ın 2. evdeki Merkür ile üçgen ve 7. evdeki Satürn ile kare açısı."
+  },
+  "akrep": {
+   "focus": "Yeni Perspektifler",
+   "short": "Zihnini genişleten konulara odaklanıp günlük yükleri hafiflet.",
+   "text": "Yaşama bakışını tazeleyecek bilgiler edinmek ve kendini açıkça ifade etmek sana güç katabilir. Günlük işlerin yoğunluğu veya sorumlulukların getirdiği yorgunluk zihnini daraltmaya çalışabilir. Rutinlerini aksatmadan yeni bir şeyler öğrenmeye küçük bir vakit ayırmak tazelenmeni sağlayacaktır. Düşüncelerini net bir dille aktardığında çevrende güçlü bir etki bırakırsın.",
+   "motivation": "Bakışını tazele, ufkunu genişlet.",
+   "basis": "9. evindeki Ay'ın 1. evdeki Merkür ile üçgen ve 6. evdeki Satürn ile kare açısı."
+  },
+  "yay": {
+   "focus": "İçsel Dönüşüm",
+   "short": "Derin duygularını sessizce çözümleyerek hafifleyebilirsin.",
+   "text": "Bilinçaltında kalan endişeleri anlamlandırmak ve sezgisel derinliğini fark etmek için sakin bir gün. Yaratıcı heveslerin ya da keyif arayışın sorumlulukların ağırlığıyla çatışabilir, kendini kısıtlanmış hissetme. Paylaşamadığın içsel meseleleri yazıya dökmek ya da sessizce tefekkür etmek yükünü azaltacaktır. Finansal veya duygusal ortaklıklarda dürüstlük ferahlık getirir.",
+   "motivation": "İçsel yükleri sakince bırak.",
+   "basis": "8. evindeki Ay'ın 12. evdeki Merkür ile üçgen ve 5. evdeki Satürn ile kare açısı."
+  },
+  "oglak": {
+   "focus": "Ortak Hedefler",
+   "short": "İş birliklerinde yapıcı kalarak evdeki dengeyi gözet.",
+   "text": "Sosyal çevrenle ve iş birliklerinde kurduğun temaslarda anlayışlı bir dil hakim olabilir. Ev içindeki sorumluluklar ya da ailevi talepler ile karşındaki insanların beklentileri arasında kalabilirsin. Herkesi aynı anda memnun etmeye çalışmak yerine önceliklerini netleştirmelisin. İkili bir diyaloğu dostça bir zeminde sürdürmek sana manevi destek sunacaktır.",
+   "motivation": "Önceliklerini bilerek köprüler kur.",
+   "basis": "7. evindeki Ay'ın 11. evdeki Merkür ile üçgen ve 4. evdeki Satürn ile kare açısı."
+  },
+  "kova": {
+   "focus": "Çalışma Disiplini",
+   "short": "Günlük işlerini titizlikle tamamlayıp hedefine sadık kal.",
+   "text": "Mesleki hedeflerini günlük iş akışınla uyumlu hale getirmek için sezgisel ve pratik bir zemin bulabilirsin. Yakın çevrenden gelen katı eleştiriler veya iletişimdeki pürüzler hevesini kırmasın. Görevlerini adım adım tamamlamak zihinsel yorgunluğunu bertaraf edecektir. Sağlığına ve bedeninin ihtiyaçlarına kulak verip çalışma masanı düzenlemek sana hafiflik kazandırır.",
+   "motivation": "Adım adım düzen kur.",
+   "basis": "6. evindeki Ay'ın 10. evdeki Merkür ile üçgen ve 3. evdeki Satürn ile kare açısı."
+  },
+  "balik": {
+   "focus": "İlham ve İfade",
+   "short": "Maddi kaygılara takılmadan sevdiğin uğraşlara vakit ayır.",
+   "text": "Sanatsal eğilimlerin, sevdiğin uğraşlar ve geniş ufuklu düşünceler bugün birbirini besliyor. Maddi konulardaki kısıtlamalar veya bütçe kaygıları içindeki neşeyi gölgelemeye çalışabilir. Keyif aldığın şeyleri üretirken büyük harcamalara ihtiyaç olmadığını kendine hatırlat. Kendine ayıracağın küçük bir hobi vakti ruhuna tazelik katacaktır.",
+   "motivation": "İlhamını sade sevinçlerle yaşat.",
+   "basis": "5. evindeki Ay'ın 9. evdeki Merkür ile üçgen ve 2. evdeki Satürn ile kare açısı."
+  }
+ }
+}

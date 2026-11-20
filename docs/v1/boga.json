@@ -1,35 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-19T21:14:39+03:00",
+ "updated": "2026-11-20T05:21:51+03:00",
  "days": [
-  {
-   "date": "2026-11-18",
-   "focus": "Sosyal İletişim",
-   "short": "Dostlarınla kurduğun samimi bağlar hedeflerine güç katabilir.",
-   "text": "Dostlarınla kurduğun temaslarda anlayışlı bir dil hakim olabilir. Ortak hedefleri konuşurken muhataplarının beklentilerini kolayca kavrayabilirsin. Beklenmedik harcama fikirlerine karşı temkinli kalıp planına sadık kalman iyi olur. Fikir ayrılıklarını kişiselleştirmeden dinlemeyi tercih et.",
-   "motivation": "Gönülden iletişim rotanı berraklaştırır.",
-   "basis": "Ay 11. evinde, 7. evdeki Merkür ile üçgen açıda.",
-   "sky_events": [
-    "Ay bugün Balık'a geçiyor.",
-    "Güneş ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 26°01'",
-    "Ay Balık'ta 6°01'",
-    "Merkür Akrep'te 6°53'",
-    "Venüs Terazi'de 23°14'",
-    "Mars Aslan'da 26°49'",
-    "Jüpiter Aslan'da 26°03'",
-    "Satürn Koç'ta 8°22' ℞",
-    "Uranüs İkizler'de 3°59' ℞",
-    "Neptün Koç'ta 1°47' ℞",
-    "Plüton Kova'da 3°19'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-19",
    "focus": "İlişki ve Yuva",
@@ -234,6 +207,31 @@
     "Uranüs İkizler'de 3°39' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°28'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-27",
+   "focus": "Anlaşmalar ve Diyalog",
+   "short": "İkili görüşmelerinde açık sözlülük sağlam bağlar kurmanı kolaylaştırır.",
+   "text": "Ortaklarınla ya da hayatındaki kişiyle yürüttüğün diyaloglarda sezgilerin yol gösterici olabilir. Zihnini kurcalayan gizli endişeler sözlerine gölge düşürmesin. Düşüncelerini netlikle paylaştığında karşındaki kişinin seni daha derinlemesine anladığını fark edebilirsin. Kısa bir yürüyüş yapmak ya da önemli bir notu temize çekmek kafanı toparlamana yardım eder.",
+   "motivation": "Sezgini sözlerine incelikle aktar.",
+   "basis": "3. evindeki Ay'ın 7. evdeki Merkür ile üçgen ve 12. evdeki Satürn ile kare açısı.",
+   "sky_events": [
+    "Ay ile Merkür arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Satürn arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 5°07'",
+    "Ay Yengeç'te 13°50'",
+    "Merkür Akrep'te 16°55'",
+    "Venüs Terazi'de 26°08'",
+    "Mars Başak'ta 0°33'",
+    "Jüpiter Aslan'da 26°37'",
+    "Satürn Koç'ta 8°05' ℞",
+    "Uranüs İkizler'de 3°36' ℞",
+    "Neptün Koç'ta 1°41' ℞",
+    "Plüton Kova'da 3°29'"
    ],
    "moon_phase": "Küçülen Ay"
   }
