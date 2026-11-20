@@ -17,8 +17,13 @@ import 'dart:io';
 const appName = 'Burç Atlası';
 const project = 'gunluk_burc';
 const org = 'com.alisimseker';
-// AdMob uygulama kimlikleri: Android gerçek; iOS hâlâ Google'ın test kimliği (iOS sürümünde değiştir).
-const admobAndroidAppId = 'ca-app-pub-8986045384678938~2742906265';
+// GERÇEK REKLAM ANAHTARI: false = test reklamları. Yayın günü true yap
+// (app/overlay/lib/config.dart'taki kGercekReklam ile birlikte).
+const kGercekReklam = true;
+// AdMob uygulama kimlikleri. iOS hâlâ Google'ın test kimliği (iOS sürümünde değiştir).
+const admobAndroidAppId = kGercekReklam
+    ? 'ca-app-pub-8986045384678938~2742906265'
+    : 'ca-app-pub-3940256099942544~3347511713';
 const admobIosAppId = 'ca-app-pub-3940256099942544~1458002511';
 const kotlinDir = 'android/app/src/main/kotlin/com/alisimseker/gunluk_burc';
 
