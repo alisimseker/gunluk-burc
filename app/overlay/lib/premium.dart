@@ -83,8 +83,8 @@ class PremiumService extends ChangeNotifier {
     if (!_storeAvailable) return;
 
     _sub ??= _iap.purchaseStream.listen(_onPurchases, onError: (Object e) {
-      lastError = '$e';
-      notifyListeners();
+      lastError = 'Satın alma tamamlanamadı. Lütfen biraz sonra tekrar dene.';
+      _setBusy(false);
     });
     await _loadProducts();
     await refresh();
@@ -137,21 +137,55 @@ class PremiumService extends ChangeNotifier {
     notifyListeners();
   }
 
+  Timer? _busyGuard;
+
+  /// Satın alma düğmesinin "yükleniyor" durumu. Mağaza hiç yanıt vermese bile düğme
+  /// en geç 45 saniye sonra yeniden basılabilir hale gelir (asla sonsuza kadar dönmez).
+  void _setBusy(bool v) {
+    _busy = v;
+    _busyGuard?.cancel();
+    if (v) {
+      _busyGuard = Timer(const Duration(seconds: 45), () {
+        if (_busy) {
+          _busy = false;
+          notifyListeners();
+        }
+      });
+    }
+    notifyListeners();
+  }
+
   Future<void> _onPurchases(List<PurchaseDetails> list) async {
     for (final p in list) {
-      if (!productIds.contains(p.productID)) continue;
+      // Google Play hata ya da iptal bildirdiğinde ürün kimliği boş gelebilir: yine de düğmeyi serbest bırak.
+      if (!productIds.contains(p.productID)) {
+        if (p.status == PurchaseStatus.error) {
+          lastError = _friendlyError(p.error);
+          _setBusy(false);
+        } else if (p.status == PurchaseStatus.canceled) {
+          _setBusy(false);
+        }
+        if (p.pendingCompletePurchase) {
+          try {
+            await _iap.completePurchase(p);
+          } catch (_) {}
+        }
+        continue;
+      }
       switch (p.status) {
         case PurchaseStatus.purchased:
         case PurchaseStatus.restored:
           await _setActive(p.productID);
-          _busy = false;
+          lastError = null;
+          _setBusy(false);
         case PurchaseStatus.error:
-          lastError = p.error?.message ?? 'Satın alma tamamlanamadı.';
-          _busy = false;
+          lastError = _friendlyError(p.error);
+          _setBusy(false);
         case PurchaseStatus.canceled:
-          _busy = false;
+          _setBusy(false);
         case PurchaseStatus.pending:
-          _busy = true;
+          lastError = 'Ödemen onay bekliyor. Onaylanınca Premium kendiliğinden açılır.';
+          _setBusy(false);
       }
       if (p.pendingCompletePurchase) {
         try {
@@ -160,6 +194,17 @@ class PremiumService extends ChangeNotifier {
       }
     }
     notifyListeners();
+  }
+
+  String _friendlyError(IAPError? e) {
+    final m = (e?.message ?? '').toLowerCase();
+    if (m.contains('already') || m.contains('owned')) {
+      return 'Bu üyelik zaten hesabında görünüyor. "Satın alımları geri yükle"ye dokun.';
+    }
+    if (m.contains('unavailable') || m.contains('network') || m.contains('service')) {
+      return 'Google Play\'e şu an ulaşılamıyor. İnternet bağlantını kontrol edip tekrar dene.';
+    }
+    return 'Satın alma tamamlanamadı. Lütfen biraz sonra tekrar dene.';
   }
 
   Future<bool> buy(String productId) async {
@@ -176,14 +221,17 @@ class PremiumService extends ChangeNotifier {
       notifyListeners();
       return false;
     }
-    _busy = true;
-    notifyListeners();
+    _setBusy(true);
     try {
-      return await _iap.buyNonConsumable(purchaseParam: PurchaseParam(productDetails: prod));
+      final started = await _iap.buyNonConsumable(purchaseParam: PurchaseParam(productDetails: prod));
+      if (!started) {
+        lastError = 'Satın alma başlatılamadı. Lütfen tekrar dene.';
+        _setBusy(false);
+      }
+      return started;
     } catch (e) {
-      _busy = false;
-      lastError = '$e';
-      notifyListeners();
+      lastError = 'Satın alma başlatılamadı. Lütfen tekrar dene.';
+      _setBusy(false);
       return false;
     }
   }
