@@ -1,0 +1,113 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-21T05:26:20+03:00",
+ "model": "gemini-3.7-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 6°08'",
+   "Ay Yengeç'te 28°34'",
+   "Merkür Akrep'te 18°18'",
+   "Venüs Terazi'de 26°37'",
+   "Mars Başak'ta 0°56'",
+   "Jüpiter Aslan'da 26°40'",
+   "Satürn Koç'ta 8°04' ℞",
+   "Uranüs İkizler'de 3°34' ℞",
+   "Neptün Koç'ta 1°40' ℞",
+   "Plüton Kova'da 3°30'"
+  ],
+  "events": [
+   "Ay bugün Aslan'a geçiyor.",
+   "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Venüs arasında kare açısı bugün tam oluyor.",
+   "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+   "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Aşk ve Paylaşım",
+   "short": "İlişkilerinde tatlı bir uyum ve sevinç arayışı belirginleşiyor.",
+   "text": "Venüs ile Jüpiter arasındaki uyumlu temas, ikili ilişkilerine neşeli ve cömert bir soluk getiriyor. Karşındaki insanla bir süredir konuşamadığın tatlı planları masaya yatırabilir, birlikte vakit geçirmek için fırsat yaratabilirsin. Günün ikinci yarısında duygusal dalgalanmalardan uzaklaşıp kendini daha canlı hissedeceksin. Birlikte gülümseyebileceğiniz küçük bir etkinlik planlamak aranızdaki bağı tazeleyecektir.",
+   "motivation": "Sevgini cesurca paylaşarak canlandır.",
+   "basis": "Yedinci evdeki Venüs ile beşinci evdeki Jüpiter arasındaki sekstil açı."
+  },
+  "boga": {
+   "focus": "Evde Dinginlik",
+   "short": "Günün temposunu yavaşlatıp kendi yaşam alanında sükunet bulabilirsin.",
+   "text": "Sabah saatlerindeki zihinsel hareketlilik yerini yuvanın sıcaklığına bırakıyor. Çalışma alanını güzelleştirmek veya aile fertleriyle keyifli bir sofra etrafında toplanmak içini ısıtabilir. Günlük sorumlulukların getirdiği yorgunluğu evindeki rahat köşende dinlenerek atlatmayı seçebilirsin. Akşam saatlerinde sevdiğin bir müzik eşliğinde mekanını toparlamak sana huzur verecektir.",
+   "motivation": "Huzuru kendi sığınağında büyüt.",
+   "basis": "Ay'ın gün içinde dördüncü eve geçişi ve Venüs-Jüpiter sekstili."
+  },
+  "ikizler": {
+   "focus": "Yaratıcı Paylaşımlar",
+   "short": "Yaratıcı fikirlerini neşeyle dile getirmek gününe ferahlık katıyor.",
+   "text": "Zihnindeki parlak fikirleri dışa vurmak ve sevdiğin uğraşlara vakit ayırmak bugün sana canlandırıcı bir hafiflik katabilir. Beşinci evindeki Venüs ile üçüncü evindeki Jüpiter arasındaki uyumlu açı, sözcüklerine sıcaklık ve sanatsal bir çekicilik kazandırıyor. İlhamını yazarak, konuşarak ya da sevdiklerinle paylaşarak somutlaştırabilirsin. Harcamalarında ani heveslere kapılmamak adına bütçeni kontrol altında tutmanda fayda var. Kendini samimiyetle ifade etmek, gün boyu neşeni taze tutacaktır.",
+   "motivation": "Sözcüklerini içten bir neşeyle süsle.",
+   "basis": "5. evindeki Venüs ile 3. evindeki Jüpiter sekstil açıda."
+  },
+  "yengec": {
+   "focus": "Öz Değer ve Bütçe",
+   "short": "Kendi yeteneklerine güven duydukça emeklerin değer kazanıyor.",
+   "text": "Güne başlarken hissettiğin duygusal yoğunluk, gün ilerledikçe somut ihtiyaçlara ve kendi değerine odaklanmanı sağlıyor. Evdeki düzeni güzelleştirmek için yapacağın harcamalarda makul kalmaya özen gösterebilirsin. Kendi yeteneklerine değer verdikçe maddi konulardaki duruşun da netleşecektir. Bugün sahip olduğun imkanları gözden geçirip küçük bir birikim adımı planlayabilirsin.",
+   "motivation": "Değerini içsel inancınla mühürle.",
+   "basis": "Ay'ın birinci evden ayrılarak ikinci eve geçişi."
+  },
+  "aslan": {
+   "focus": "Kendini Gösterme",
+   "short": "Kabuğundan sıyrılıp kendi ışığını ortaya koyma vaktin geldi.",
+   "text": "Sabahın içe dönük havası, Ay'ın senin burcuna geçişiyle yerini taze bir canlılığa bırakıyor. Burcundaki Jüpiter'in Venüs ile kurduğu zarif bağ, çevrenle kurduğun bağlarda samimiyeti ve tatlı dili artırıyor. Kendi arzularını ertelemek yerine, seni mutlu eden bir uğraşa yönelmek motivasyonunu yükseltecektir. Bugün aynaya bakıp kendine olan inancını tazeleyebilir, yeni bir niyete adım atabilirsin.",
+   "motivation": "Varlığını içtenlikle dünyaya aç.",
+   "basis": "Ay'ın Aslan burcuna geçişi ve Jüpiter ile Venüs arasındaki sekstil açı."
+  },
+  "basak": {
+   "focus": "Ruhsal Mola",
+   "short": "Koşturmacayı durdurup zihnini sakin bir köşede dinlendirmelisin.",
+   "text": "Sosyal ortamlardaki telaş yerini biraz geri çekilme ihtiyacına bırakıyor. Burcundaki Mars seni sürekli üretmeye itse de, günün ikinci yarısında dinlenmeye alan açmak iyi gelecektir. Maddi konularda arka planda gelişen olumlu gelişmeler seni rahatlatabilir. Birkaç saatliğine telefon bildirimlerinden uzaklaşıp zihnini sadece kendi iç sesinle baş başa bırakmayı dene.",
+   "motivation": "Sessizlikte kendini yeniden toparla.",
+   "basis": "Ay'ın on ikinci eve geçmesi ve Mars'ın birinci evdeki konumu."
+  },
+  "terazi": {
+   "focus": "Gelecek Umutları",
+   "short": "Sosyal bağların güçlenirken geleceğe daha umutla bakıyorsun.",
+   "text": "Burcundaki Venüs'ün Jüpiter ile oluşturduğu tatlı açı, çevrene yaydığın zarafeti ve kabulü artırıyor. Arkadaş gruplarınla bir araya gelebilir, uzun süredir konuşulmayan ortak bir hayali yeniden gündeme taşıyabilirsin. Kariyerindeki yoğunluğun baskısını dost meclisinde hafifletmek mümkün. Sevdiğin insanlarla ortak bir plan yapmak gününü çok daha anlamlı kılacaktır.",
+   "motivation": "Zarafetinle çevrene neşe kat.",
+   "basis": "Burcundaki Venüs ile on birinci evdeki Jüpiter arasındaki sekstil açı."
+  },
+  "akrep": {
+   "focus": "Kariyer Odağı",
+   "short": "Mesleki hedeflerinde netleşmek görünürlüğünü artıracaktır.",
+   "text": "Günün ilk saatlerindeki uzak hevesler, Ay'ın tepe noktana geçişiyle somut sorumluluklara dönüşüyor. Burcundaki Merkür düşüncelerini derinleştirirken, iş ortamında kararlı duruşunla dikkat çekebilirsin. İç dünyanda çözümlenmemiş konuları profesyonel hayatına yansıtmamaya dikkat etmen fayda sağlar. Önündeki en önemli görevi belirleyip ona odaklanmak başarını pekiştirecektir.",
+   "motivation": "Hedefine sessiz bir inançla yürü.",
+   "basis": "Ay'ın onuncu eve geçişi ve Merkür'ün Akrep burcundaki konumu."
+  },
+  "yay": {
+   "focus": "Hayat Sevinci",
+   "short": "İçindeki keşfetme arzusu yeni hedeflerle birleşiyor.",
+   "text": "Burcundaki Güneş sana hayat canlılığı verirken, Venüs ile Jüpiter arasındaki uyumlu açı sosyal çevrende keyifli fırsatlar doğuruyor. Gün ilerledikçe zihnin yeni bilgiler öğrenmeye, seyahat planları yapmaya veya farklı bakış açıları kazanmaya son derece açık hale geliyor. Arkadaşlarınla fikirlerini paylaşırken abartıya kaçmadan net kalmaya özen göster. İlgi duyduğun bir konuda araştırma yapmak sana ilham verecektir.",
+   "motivation": "Ufkunu neşeyle adımlayarak genişlet.",
+   "basis": "Güneş'in Yay'daki konumu ile Venüs-Jüpiter sekstili."
+  },
+  "oglak": {
+   "focus": "Duygusal Derinlik",
+   "short": "Birebir bağlarda güveni ve içtenliği sağlamlaştırma zamanı.",
+   "text": "İlişkilerinde yüzeysel yaklaşımlardan ziyade samimi güven bağları önem kazanıyor. Onuncu evindeki Venüs'ün Jüpiter ile kurduğu olumlu temas, ortaklaşa yürütülen işlerde ve finansal konularda destek bulabileceğini gösteriyor. Ancak karşı tarafın sınırlarına saygı duymak ve beklentileri dengede tutmak şart. Birlikte paylaşılan bir bütçeyi ya da konuyu sakinlikle ele almak sorunları çözecektir.",
+   "motivation": "Güveni dürüst paylaşımla inşa et.",
+   "basis": "Onuncu evdeki Venüs ile sekizinci evdeki Jüpiter arasındaki sekstil açı."
+  },
+  "kova": {
+   "focus": "İkili Dengeler",
+   "short": "Karşındaki insanı dinlemek birlikteliklere yeni bir ahenk katıyor.",
+   "text": "Gündelik işlerin getirdiği koşturmaca günün ilerleyen saatlerinde yerini ikili diyaloglara bırakıyor. Ay'ın karşıt burcuna geçişiyle birlikte sevdiklerinin düşüncelerine kulak vermek aranızdaki bağı güçlendirebilir. Uzaklardan gelen güzel bir haber ya da yeni bir bakış açısı ufkunu genişletebilir. Birlikte olduğun kişiyle ortak bir karar alırken kendi önceliklerini de nazikçe dile getirmeyi unutma.",
+   "motivation": "İlişkilerinde samimi dinleyici ol.",
+   "basis": "Ay'ın yedinci eve geçişi ve Venüs-Jüpiter sekstili."
+  },
+  "balik": {
+   "focus": "Gündelik Düzen",
+   "short": "Bedenine kulak verip rutinlerini düzenlemek sana ferahlık verir.",
+   "text": "Keyif ve eğlenceye odaklandığın saatlerin ardından, gündelik yaşamın gereksinimleri öne çıkıyor. Ay'ın altıncı evine geçişi, yarım kalan işleri toparlamak ve beslenme düzenine özen göstermek için seni teşvik ediyor. Ortak paylaşımlardan gelen ufak bir rahatlama hissiyatı günün temposunu hafifletebilir. Masanın üzerini düzenlemek ve günlük planını sadeleştirmek zihnini fazlasıyla rahatlatacaktır.",
+   "motivation": "Bedenine özenle yaklaşarak tazelen.",
+   "basis": "Ay'ın altıncı eve geçişi ve Venüs ile Jüpiter arasındaki sekstil açı."
+  }
+ }
+}

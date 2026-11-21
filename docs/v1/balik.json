@@ -1,32 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-20T20:46:21+03:00",
+ "updated": "2026-11-21T05:26:20+03:00",
  "days": [
-  {
-   "date": "2026-11-19",
-   "focus": "Kişisel Yenilenme",
-   "short": "Kendi ihtiyaçlarına zaman ayırırken günlük iş temposunda kendini yorma.",
-   "text": "Ay burcunda ilerlerken sezgilerin ve kişisel isteklerin ön plana çıkıyor. Hayata dair vizyonunu genişletmek isterken günlük rutinlerindeki aşırı temponun seni bedenen ve zihnen yormasına izin vermemelisin. İşlerini tek tek ve acele etmeden ele almak verimini artıracaktır. Kendine şefkat göstererek temponu dengelemeyi seç.",
-   "motivation": "Kendi temponu bulmak denge getirir.",
-   "basis": "9. evindeki Güneş ile 6. evindeki Mars arasındaki kare açı kesinleşiyor.",
-   "sky_events": [
-    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 27°02'",
-    "Ay Balık'ta 18°39'",
-    "Merkür Akrep'te 7°40'",
-    "Venüs Terazi'de 23°25'",
-    "Mars Aslan'da 27°15'",
-    "Jüpiter Aslan'da 26°07'",
-    "Satürn Koç'ta 8°20' ℞",
-    "Uranüs İkizler'de 3°57' ℞",
-    "Neptün Koç'ta 1°46' ℞",
-    "Plüton Kova'da 3°20'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-20",
    "focus": "Öz Değer ve Bütçe",
@@ -232,6 +208,34 @@
     "Uranüs İkizler'de 3°36' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°29'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-28",
+   "focus": "Gündelik Düzen",
+   "short": "Bedenine kulak verip rutinlerini düzenlemek sana ferahlık verir.",
+   "text": "Keyif ve eğlenceye odaklandığın saatlerin ardından, gündelik yaşamın gereksinimleri öne çıkıyor. Ay'ın altıncı evine geçişi, yarım kalan işleri toparlamak ve beslenme düzenine özen göstermek için seni teşvik ediyor. Ortak paylaşımlardan gelen ufak bir rahatlama hissiyatı günün temposunu hafifletebilir. Masanın üzerini düzenlemek ve günlük planını sadeleştirmek zihnini fazlasıyla rahatlatacaktır.",
+   "motivation": "Bedenine özenle yaklaşarak tazelen.",
+   "basis": "Ay'ın altıncı eve geçişi ve Venüs ile Jüpiter arasındaki sekstil açı.",
+   "sky_events": [
+    "Ay bugün Aslan'a geçiyor.",
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 6°08'",
+    "Ay Yengeç'te 28°34'",
+    "Merkür Akrep'te 18°18'",
+    "Venüs Terazi'de 26°37'",
+    "Mars Başak'ta 0°56'",
+    "Jüpiter Aslan'da 26°40'",
+    "Satürn Koç'ta 8°04' ℞",
+    "Uranüs İkizler'de 3°34' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°30'"
    ],
    "moon_phase": "Küçülen Ay"
   }

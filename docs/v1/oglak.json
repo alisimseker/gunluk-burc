@@ -1,32 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-20T20:46:21+03:00",
+ "updated": "2026-11-21T05:26:20+03:00",
  "days": [
-  {
-   "date": "2026-11-19",
-   "focus": "İletişim ve Paylaşım",
-   "short": "Fikirlerini paylaşırken ortak maddi konulardaki gerilimleri uzağında tut.",
-   "text": "Yakın çevrenle diyalog kurmak ve kısa seyahatler yapmak zihnini canlandırabilir. Sosyal gruplar veya arkadaş çevrenle planlar yaparken ortak bütçeler ya da paylaşımlı harcamalar üzerine ısrarcı olmaktan kaçınmalısın. Diyaloglarda net ama esnek bir duruş sergilemek fayda sağlar. Zihinsel odağını yapıcı ve somut projelere yönlendirmelisin.",
-   "motivation": "Esneklik zihinsel berraklık sağlar.",
-   "basis": "11. evindeki Güneş ile 8. evindeki Mars arasındaki kare açı kesinleşiyor.",
-   "sky_events": [
-    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 27°02'",
-    "Ay Balık'ta 18°39'",
-    "Merkür Akrep'te 7°40'",
-    "Venüs Terazi'de 23°25'",
-    "Mars Aslan'da 27°15'",
-    "Jüpiter Aslan'da 26°07'",
-    "Satürn Koç'ta 8°20' ℞",
-    "Uranüs İkizler'de 3°57' ℞",
-    "Neptün Koç'ta 1°46' ℞",
-    "Plüton Kova'da 3°20'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-20",
    "focus": "Yuva ve Odak",
@@ -232,6 +208,34 @@
     "Uranüs İkizler'de 3°36' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°29'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-28",
+   "focus": "Duygusal Derinlik",
+   "short": "Birebir bağlarda güveni ve içtenliği sağlamlaştırma zamanı.",
+   "text": "İlişkilerinde yüzeysel yaklaşımlardan ziyade samimi güven bağları önem kazanıyor. Onuncu evindeki Venüs'ün Jüpiter ile kurduğu olumlu temas, ortaklaşa yürütülen işlerde ve finansal konularda destek bulabileceğini gösteriyor. Ancak karşı tarafın sınırlarına saygı duymak ve beklentileri dengede tutmak şart. Birlikte paylaşılan bir bütçeyi ya da konuyu sakinlikle ele almak sorunları çözecektir.",
+   "motivation": "Güveni dürüst paylaşımla inşa et.",
+   "basis": "Onuncu evdeki Venüs ile sekizinci evdeki Jüpiter arasındaki sekstil açı.",
+   "sky_events": [
+    "Ay bugün Aslan'a geçiyor.",
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 6°08'",
+    "Ay Yengeç'te 28°34'",
+    "Merkür Akrep'te 18°18'",
+    "Venüs Terazi'de 26°37'",
+    "Mars Başak'ta 0°56'",
+    "Jüpiter Aslan'da 26°40'",
+    "Satürn Koç'ta 8°04' ℞",
+    "Uranüs İkizler'de 3°34' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°30'"
    ],
    "moon_phase": "Küçülen Ay"
   }

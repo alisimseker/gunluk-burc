@@ -1,32 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-20T20:46:21+03:00",
+ "updated": "2026-11-21T05:26:20+03:00",
  "days": [
-  {
-   "date": "2026-11-19",
-   "focus": "Keyif ve Bütçe",
-   "short": "Ufku genişleten fikirlere odaklanırken harcama dengeni korumaya özen göster.",
-   "text": "Yeni şeyler öğrenmek, seyahat planları yapmak veya zihnini besleyen alanlara yönelmek için güzel bir gün. Ancak keyifli uğraşların ya da hobilerin için yapacağın harcamalarda bütçeni aşmamaya dikkat etmelisin. Maddi konularda ani kararlar vermek yerine uzun vadeli planlar yapmak zihnini rahatlatır. Özgün yeteneklerini pratik işlere dönüştürebilirsin.",
-   "motivation": "Bilinçli adımlar kararlılık getirir.",
-   "basis": "5. evindeki Güneş ile 2. evindeki Mars bugün kare açı kuruyor.",
-   "sky_events": [
-    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 27°02'",
-    "Ay Balık'ta 18°39'",
-    "Merkür Akrep'te 7°40'",
-    "Venüs Terazi'de 23°25'",
-    "Mars Aslan'da 27°15'",
-    "Jüpiter Aslan'da 26°07'",
-    "Satürn Koç'ta 8°20' ℞",
-    "Uranüs İkizler'de 3°57' ℞",
-    "Neptün Koç'ta 1°46' ℞",
-    "Plüton Kova'da 3°20'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-20",
    "focus": "Kariyer Odaklı Adımlar",
@@ -232,6 +208,34 @@
     "Uranüs İkizler'de 3°36' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°29'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-28",
+   "focus": "Öz Değer ve Bütçe",
+   "short": "Kendi yeteneklerine güven duydukça emeklerin değer kazanıyor.",
+   "text": "Güne başlarken hissettiğin duygusal yoğunluk, gün ilerledikçe somut ihtiyaçlara ve kendi değerine odaklanmanı sağlıyor. Evdeki düzeni güzelleştirmek için yapacağın harcamalarda makul kalmaya özen gösterebilirsin. Kendi yeteneklerine değer verdikçe maddi konulardaki duruşun da netleşecektir. Bugün sahip olduğun imkanları gözden geçirip küçük bir birikim adımı planlayabilirsin.",
+   "motivation": "Değerini içsel inancınla mühürle.",
+   "basis": "Ay'ın birinci evden ayrılarak ikinci eve geçişi.",
+   "sky_events": [
+    "Ay bugün Aslan'a geçiyor.",
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 6°08'",
+    "Ay Yengeç'te 28°34'",
+    "Merkür Akrep'te 18°18'",
+    "Venüs Terazi'de 26°37'",
+    "Mars Başak'ta 0°56'",
+    "Jüpiter Aslan'da 26°40'",
+    "Satürn Koç'ta 8°04' ℞",
+    "Uranüs İkizler'de 3°34' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°30'"
    ],
    "moon_phase": "Küçülen Ay"
   }

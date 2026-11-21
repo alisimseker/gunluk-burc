@@ -1,32 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-20T20:46:21+03:00",
+ "updated": "2026-11-21T05:26:20+03:00",
  "days": [
-  {
-   "date": "2026-11-19",
-   "focus": "Yakın Diyaloglar",
-   "short": "İlişkilerinde empatiyle yaklaşarak arka plandaki huzursuzlukları aşabilirsin.",
-   "text": "Birebir diyaloglarında ve ortaklı işlerinde karşı tarafın ihtiyaçlarına kulak vermek ön plana çıkıyor. İletişim trafiğinin yoğunlaştığı bu günde, içsel sabırsızlığını sözlerine yansıtmamaya dikkat etmelisin. Zihnini yoran söylenmemiş düşünceleri net ama kırıcı olmadan ifade etmek rahatlama sağlar. Yakın çevrenle iş birliği içinde kalmak verimini artıracaktır.",
-   "motivation": "Dinlemek uyumu güçlendirir.",
-   "basis": "3. evindeki Güneş ile 12. evindeki Mars arasındaki kare açı kesinleşiyor.",
-   "sky_events": [
-    "Güneş ile Mars arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 27°02'",
-    "Ay Balık'ta 18°39'",
-    "Merkür Akrep'te 7°40'",
-    "Venüs Terazi'de 23°25'",
-    "Mars Aslan'da 27°15'",
-    "Jüpiter Aslan'da 26°07'",
-    "Satürn Koç'ta 8°20' ℞",
-    "Uranüs İkizler'de 3°57' ℞",
-    "Neptün Koç'ta 1°46' ℞",
-    "Plüton Kova'da 3°20'"
-   ],
-   "moon_phase": "İlk Dördün"
-  },
   {
    "date": "2026-11-20",
    "focus": "Derin Dönüşüm",
@@ -232,6 +208,34 @@
     "Uranüs İkizler'de 3°36' ℞",
     "Neptün Koç'ta 1°41' ℞",
     "Plüton Kova'da 3°29'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-28",
+   "focus": "Ruhsal Mola",
+   "short": "Koşturmacayı durdurup zihnini sakin bir köşede dinlendirmelisin.",
+   "text": "Sosyal ortamlardaki telaş yerini biraz geri çekilme ihtiyacına bırakıyor. Burcundaki Mars seni sürekli üretmeye itse de, günün ikinci yarısında dinlenmeye alan açmak iyi gelecektir. Maddi konularda arka planda gelişen olumlu gelişmeler seni rahatlatabilir. Birkaç saatliğine telefon bildirimlerinden uzaklaşıp zihnini sadece kendi iç sesinle baş başa bırakmayı dene.",
+   "motivation": "Sessizlikte kendini yeniden toparla.",
+   "basis": "Ay'ın on ikinci eve geçmesi ve Mars'ın birinci evdeki konumu.",
+   "sky_events": [
+    "Ay bugün Aslan'a geçiyor.",
+    "Venüs ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında kare açısı bugün tam oluyor.",
+    "Ay ile Neptün arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 6°08'",
+    "Ay Yengeç'te 28°34'",
+    "Merkür Akrep'te 18°18'",
+    "Venüs Terazi'de 26°37'",
+    "Mars Başak'ta 0°56'",
+    "Jüpiter Aslan'da 26°40'",
+    "Satürn Koç'ta 8°04' ℞",
+    "Uranüs İkizler'de 3°34' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°30'"
    ],
    "moon_phase": "Küçülen Ay"
   }
