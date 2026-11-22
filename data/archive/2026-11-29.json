@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-29",
+ "generated_at": "2026-11-22T04:31:47+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 7°08'",
+   "Ay Aslan'da 12°58'",
+   "Merkür Akrep'te 19°42'",
+   "Venüs Terazi'de 27°07'",
+   "Mars Başak'ta 1°19'",
+   "Jüpiter Aslan'da 26°43'",
+   "Satürn Koç'ta 8°03' ℞",
+   "Uranüs İkizler'de 3°31' ℞",
+   "Neptün Koç'ta 1°40' ℞",
+   "Plüton Kova'da 3°31'"
+  ],
+  "events": [
+   "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+   "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Ay"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Yaratıcı Cesaret",
+   "short": "Kendi yeteneklerine güvenerek hedeflerine güçlü adımlarla yönelebilirsin.",
+   "text": "Beşinci evindeki Ay ile burcundaki Satürn arasındaki uyumlu üçgen açı, kendini ifade ederken sana olgun bir güven veriyor. Yay burcundaki Güneş'in desteğiyle uzun vadeli fikirlerini somutlaştıracak cesareti içinde bulabilirsin. Hevesle başladığın işleri yarım bırakmak yerine sistemli şekilde ilerletmeyi seç. Bugün sanatsal bir uğraşa veya sevdiğin bir projeye ciddiyetle odaklanmak sana kalıcı bir tatmin sağlayacaktır.",
+   "motivation": "Yaratıcılığına disiplin kat.",
+   "basis": "Ay beşinci evinde, birinci evindeki retro Satürn ile üçgen açıda."
+  },
+  "boga": {
+   "focus": "Hane Sükuneti",
+   "short": "İç dünyanda kurduğun düzen, ailevi konularda güven hissini artırıyor.",
+   "text": "Dördüncü evinde parlayan Ay, on ikinci evindeki Satürn ile tam üçgen açı yaparak iç dünyanda derin bir rahatlama sağlıyor. Sekizinci evdeki Güneş'in desteğiyle maddi ve manevi paylaşımlarda sezgilerine rahatça güvenebilirsin. Evindeki dağınıklığı toplamak veya aile bireyleriyle sakin bir konuşma yapmak zihnini berraklaştırır. Geçmişten gelen sorumlulukları olgunlukla kabullenmek sana dingin bir güç kazandıracaktır.",
+   "motivation": "İçindeki güveni koru.",
+   "basis": "Ay dördüncü evinde, on ikinci evindeki Satürn ile üçgen açıda."
+  },
+  "ikizler": {
+   "focus": "Fikir Birliği",
+   "short": "Düşüncelerini netlikle aktararak çevrendekilerle ortak kararlara varabilirsin.",
+   "text": "Üçüncü evindeki Ay ile yedinci evindeki Güneş arasındaki üçgen açı, ikili diyaloglarda samimi ve güçlü bir uyum yakalamanı sağlıyor. On birinci evindeki Satürn'ün etkisiyle paylaştığın her düşünce sosyal çevrende ciddiyetle karşılık bulabilir. Görüşmelerinde dürüst ve doğrudan bir tutum sergilemek işlerini kolaylaştırır. Önemli bir anlaşma veya ortak bir plan için zihnindeki fikirleri bugün açıkça masaya yatırabilirsin.",
+   "motivation": "Açık sözle uzlaş.",
+   "basis": "Ay üçüncü evinde, yedinci evindeki Güneş ile üçgen açıda."
+  },
+  "yengec": {
+   "focus": "Somut Güvence",
+   "short": "Kişisel bütçeni ve çalışma düzenini sağlam prensiplerle güçlendirebilirsin.",
+   "text": "İkinci evindeki Ay'ın onuncu evindeki Satürn ile kurduğu üçgen açı, maddi konularda ayaklarını yere çok daha sağlam basmanı sağlıyor. Altıncı evdeki Güneş ise mesleki sorumluluklarını özenle yürütmen adına sana gereken canlılığı sunuyor. Emek verdiğin işlerin karşılığını almak için bütçe planını gözden geçirebilirsin. Harcamalarında temkinli kalıp verimliliğini artıracak adımlar atmak gününü hafifletecektir.",
+   "motivation": "Emeğini bilinçle büyüt.",
+   "basis": "Ay ikinci evinde, onuncu evindeki Satürn ile üçgen açıda."
+  },
+  "aslan": {
+   "focus": "Bireysel Duruş",
+   "short": "Kendine duyduğun saygı, hedeflerine doğru kararlılıkla yol almanı destekliyor.",
+   "text": "Burcunda ilerleyen Ay, beşinci evindeki Güneş ile kusursuz bir üçgen oluşturarak seni merkezine alıyor. Dokuzuncu evindeki Satürn ise heveslerine sağlam bir hayat felsefesi ve ciddiyet katıyor. Yapmak istediğin girişimlerde hem heyecanını koruyabilir hem de gerçekçi planlar yapabilirsin. Kişisel hedeflerini hayata geçirmek için ertelediğin adımları bugün vakit kaybetmeden başlat.",
+   "motivation": "Kendi yolunu ciddiyetle çiz.",
+   "basis": "Ay birinci evinde, beşinci evindeki Güneş ile üçgen açıda."
+  },
+  "basak": {
+   "focus": "Dingin Farkındalık",
+   "short": "Kendi kabuğuna çekilip iç sesini dinlemek günün karmaşasını hafifletir.",
+   "text": "On ikinci evindeki Ay ile sekizinci evindeki Satürn arasındaki üçgen açı, ruhsal olarak kendini toparlamana fırsat tanıyor. Dördüncü evindeki Güneş'in sağladığı destek, aile ve ev alanında huzuru yakalamanı kolaylaştırıyor. Dış dünyanın gürültüsünden biraz uzaklaşıp zihnini toparlamayı denemelisin. Bugün acele kararlar almak yerine yalnız kalıp enerjini tazelemeyi tercih et.",
+   "motivation": "Sessizce dengeni bul.",
+   "basis": "Ay on ikinci evinde, sekizinci evindeki Satürn ile üçgen açıda."
+  },
+  "terazi": {
+   "focus": "Ortak Projeler",
+   "short": "Dost meclislerinde kurduğun yapıcı diyaloglar hedeflerine güç katıyor.",
+   "text": "Sosyal çevrende üstlendiğin roller ve ortaklaşa yürütülen hedefler bugün sağlam bir desteğe kavuşuyor. Birebir ilişkilerinde sergilediğin net ve olgun tavır, arkadaş gruplarınla yürüttüğün planlara pratik bir yön kazandırabilir. Fikirlerini doğrudan ve cana yakın bir üslupla paylaşmak, çevrendekilerin güvenini kazanmanı kolaylaştıracak. Bir ekip çalışmasında sorumlulukları açıkça bölüştürerek günü çok daha verimli kılabilirsin.",
+   "motivation": "İşbirliklerine içtenlikle yön ver.",
+   "basis": "Ay 11. evinde yer alırken 7. evindeki Satürn ve 3. evindeki Güneş ile üçgen açıda."
+  },
+  "akrep": {
+   "focus": "Hedefe Sadakat",
+   "short": "Mesleki adımlarında sergilediğin disiplin, üstlendiğin görevlerde güven yaratır.",
+   "text": "Onuncu evindeki Ay ile altıncı evindeki Satürn arasındaki üçgen açı, iş hayatında güçlü bir intiba bırakmana zemin hazırlıyor. İkinci evindeki Güneş ise yeteneklerinin maddi ve manevi değerini somut biçimde fark ettiriyor. Ayrıntılarla uğraşırken sabırlı davranman, üstlerinin gözünde seni çok daha güvenilir kılacaktır. Yarım kalan görevleri tek tek tamamlayarak hedeflerine doğru sakinlikle ilerle.",
+   "motivation": "Sorumluluğu başarıya çevir.",
+   "basis": "Ay onuncu evinde, altıncı evindeki Satürn ile üçgen açıda."
+  },
+  "yay": {
+   "focus": "Vizyon ve Kararlılık",
+   "short": "Ufkunu açan düşünceleri gerçekçi bir yaklaşımla hayatına dahil edebilirsin.",
+   "text": "Dokuzuncu evindeki Ay'ın burcundaki Güneş ile tam üçgen açı yapması, yaşam enerjini ve inancını pekiştiriyor. Beşinci evindeki Satürn ise bu iyimserliği somut projelere dönüştürmen için sana zihinsel bir omurga sağlıyor. Yeni bir eğitime başlamak, seyahat planı yapmak veya bir hedefini yapılandırmak adına şartlar son derece elverişli. İnandığın değerleri lafta bırakmayıp eyleme dökmekten çekinme.",
+   "motivation": "İnancını pratikle taçlandır.",
+   "basis": "Ay dokuzuncu evinde, birinci evindeki Güneş ile üçgen açıda."
+  },
+  "oglak": {
+   "focus": "Paylaşılan Güven",
+   "short": "Birlikte yönettiğin kaynaklarda dürüst yaklaşımlar yüklerini hafifletir.",
+   "text": "Sekizinci evindeki Ay ile dördüncü evindeki yönetici gezegenin Satürn arasındaki üçgen açı, ortaklı konularda sağlam adımlar atmanı kolaylaştırıyor. On ikinci evdeki Güneş ise içsel kaygılarını yatıştırarak sezgilerini berraklaştırıyor. Borçlar, alacaklar ya da ortak harcamalar konusunda net kararlar alabilirsin. Duygularını bastırmak yerine sakin bir dille ifade etmek ilişkilerindeki güveni pekiştirecektir.",
+   "motivation": "Dürüstlükle güven inşa et.",
+   "basis": "Ay sekizinci evinde, dördüncü evindeki Satürn ile üçgen açıda."
+  },
+  "kova": {
+   "focus": "Karşılıklı Güven",
+   "short": "Ortaklıklarında açık ve net iletişim kurarak bağlarını sağlamlaştırabilirsin.",
+   "text": "Yedinci evindeki Ay, üçüncü evindeki Satürn ile üçgen açı oluşturarak ikili ilişkilerinde mantıklı ve olgun konuşmaları destekliyor. On birinci evindeki Güneş'in katkısıyla toplumsal bağların ve gelecek hedeflerin canlanıyor. Karşındaki insanları dikkatle dinleyip ortak paydada buluşmak sana güç katacaktır. Birebir yürüttüğün projelerde karşılıklı beklentileri netleştirmek için bugün adım at.",
+   "motivation": "Sözlerinde tutarlılığı koru.",
+   "basis": "Ay yedinci evinde, üçüncü evindeki Satürn ile üçgen açıda."
+  },
+  "balik": {
+   "focus": "Çalışma Disiplini",
+   "short": "Günlük işlerini titizlikle organize ederek iş ortamında rahat bir nefes alabilirsin.",
+   "text": "Altıncı evindeki Ay ile ikinci evindeki Satürn arasındaki üçgen açı, gündelik koşturmacayı düzene koyman için sana pratik bir güç veriyor. Onuncu evindeki Güneş ise mesleki duruşunu güçlendirerek emeklerinin görünür olmasını sağlıyor. Çalışma masanı düzenlemek, bedensel ihtiyaçlarına kulak vermek ve işlerini sıraya koymak gününü verimli kılar. Küçük adımlarla başladığın bir düzenlemeyi bugün tamamla.",
+   "motivation": "Emeğine titizlikle sahip çık.",
+   "basis": "Ay altıncı evinde, ikinci evindeki Satürn ile üçgen açıda."
+  }
+ }
+}

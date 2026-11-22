@@ -1,35 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Zihinsel Akış",
-   "short": "İletişim trafiğin hızlanıyor, düşüncelerini netçe aktarıyorsun.",
-   "text": "Yakın çevrenle görüşmeler, kısa yolculuklar veya öğrenme süreçleri gündeme gelebilir. Kendi özgün fikirlerini seslendirirken güçlü bir ikna kabiliyeti sergileyebilirsin. Mesleki hedeflerinle uyumlu görüşmeler yapmak ufkunu açacaktır. Düşüncelerini bir kağıda dökerek netleş.",
-   "motivation": "İletişimde netlik fikirlere güç katar.",
-   "basis": "Ay 3. evine geçerek 1. evindeki Plüton ile sekstil açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "İletişim Trafiği",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Karşılıklı Güven",
+   "short": "Ortaklıklarında açık ve net iletişim kurarak bağlarını sağlamlaştırabilirsin.",
+   "text": "Yedinci evindeki Ay, üçüncü evindeki Satürn ile üçgen açı oluşturarak ikili ilişkilerinde mantıklı ve olgun konuşmaları destekliyor. On birinci evindeki Güneş'in katkısıyla toplumsal bağların ve gelecek hedeflerin canlanıyor. Karşındaki insanları dikkatle dinleyip ortak paydada buluşmak sana güç katacaktır. Birebir yürüttüğün projelerde karşılıklı beklentileri netleştirmek için bugün adım at.",
+   "motivation": "Sözlerinde tutarlılığı koru.",
+   "basis": "Ay yedinci evinde, üçüncü evindeki Satürn ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }

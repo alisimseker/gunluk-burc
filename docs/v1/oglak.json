@@ -1,35 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Yuva ve Odak",
-   "short": "Evin ve ailenle ilgili konular öncelik kazanıyor.",
-   "text": "Kendi yaşam alanında vakit geçirmek ve iç huzurunu sağlamlaştırmak isteyebilirsin. Maddi konulardaki kararlı tutumun, evdeki düzeni veya bütçeyi daha sağlıklı yönetmene yardım edecek. Sosyal çevrenden aldığın moral desteğiyle kişisel alanını güzelleştirebilirsin. Yaşadığın mekanı toparlamak sana iyi gelebilir.",
-   "motivation": "İçsel alanını güvenle yapılandır.",
-   "basis": "Ay 4. evine geçerek 2. evdeki Plüton ile sekstil yapıyor.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "Ev ve Aile",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Paylaşılan Güven",
+   "short": "Birlikte yönettiğin kaynaklarda dürüst yaklaşımlar yüklerini hafifletir.",
+   "text": "Sekizinci evindeki Ay ile dördüncü evindeki yönetici gezegenin Satürn arasındaki üçgen açı, ortaklı konularda sağlam adımlar atmanı kolaylaştırıyor. On ikinci evdeki Güneş ise içsel kaygılarını yatıştırarak sezgilerini berraklaştırıyor. Borçlar, alacaklar ya da ortak harcamalar konusunda net kararlar alabilirsin. Duygularını bastırmak yerine sakin bir dille ifade etmek ilişkilerindeki güveni pekiştirecektir.",
+   "motivation": "Dürüstlükle güven inşa et.",
+   "basis": "Ay sekizinci evinde, dördüncü evindeki Satürn ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }

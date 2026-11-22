@@ -1,35 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Sosyal Paylaşımlar",
-   "short": "Geleceğe dönük umutların ve yeni fikirlerin gündemini canlandırıyor.",
-   "text": "Ekip çalışmaları ve arkadaş çevrenle yürüttüğün projeler hareket kazanıyor. Özgür düşüncelerini paylaşmak ve farklı bakış açılarına açık olmak sana taze bir ilham verecek. Günlük sorumluluklarını aksatmadan sosyal alanda aktif olmak modunu yükseltir. Ortak hedefler etrafında toplanarak adımlarını at.",
-   "motivation": "Fikir alışverişi ufkunu genişletir.",
-   "basis": "Ay 11. evine geçiyor ve 1. evindeki Uranüs ile sekstil yapmaktadır.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "Sosyal Fikirler",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Fikir Birliği",
+   "short": "Düşüncelerini netlikle aktararak çevrendekilerle ortak kararlara varabilirsin.",
+   "text": "Üçüncü evindeki Ay ile yedinci evindeki Güneş arasındaki üçgen açı, ikili diyaloglarda samimi ve güçlü bir uyum yakalamanı sağlıyor. On birinci evindeki Satürn'ün etkisiyle paylaştığın her düşünce sosyal çevrende ciddiyetle karşılık bulabilir. Görüşmelerinde dürüst ve doğrudan bir tutum sergilemek işlerini kolaylaştırır. Önemli bir anlaşma veya ortak bir plan için zihnindeki fikirleri bugün açıkça masaya yatırabilirsin.",
+   "motivation": "Açık sözle uzlaş.",
+   "basis": "Ay üçüncü evinde, yedinci evindeki Güneş ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }

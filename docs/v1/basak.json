@@ -1,35 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Derin Dönüşüm",
-   "short": "Bütçe ve ortak kaynaklar konusunda net adımlar atabilirsin.",
-   "text": "Zihnini meşgul eden bütçe konuları veya finansal planlamalar bugün ön plana geçiyor. Günlük çalışma rutininde yapacağın ufak düzenlemeler, iş yükünü hafifletmene katkı sağlayacak. Yakın çevrenle yürüttüğün yapıcı diyaloglar sayesinde karmaşık meseleleri rahatça çözebilirsin. İşlerini sadelikle ele al.",
-   "motivation": "Karmaşayı sadeleştirerek dengeni koru.",
-   "basis": "Ay 8. evine geçerek 6. evdeki Plüton ile sekstil yapıyor.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "İçsel Muhasebe",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Dingin Farkındalık",
+   "short": "Kendi kabuğuna çekilip iç sesini dinlemek günün karmaşasını hafifletir.",
+   "text": "On ikinci evindeki Ay ile sekizinci evindeki Satürn arasındaki üçgen açı, ruhsal olarak kendini toparlamana fırsat tanıyor. Dördüncü evindeki Güneş'in sağladığı destek, aile ve ev alanında huzuru yakalamanı kolaylaştırıyor. Dış dünyanın gürültüsünden biraz uzaklaşıp zihnini toparlamayı denemelisin. Bugün acele kararlar almak yerine yalnız kalıp enerjini tazelemeyi tercih et.",
+   "motivation": "Sessizce dengeni bul.",
+   "basis": "Ay on ikinci evinde, sekizinci evindeki Satürn ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }

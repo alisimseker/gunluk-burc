@@ -1,35 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Yaratıcı Canlılık",
-   "short": "Hobilerine ve sana keyif veren konulara vakit ayırabilirsin.",
-   "text": "İçindeki coşkuyu dışarı yansıtmak ve üretken projelere odaklanmak isteyeceğin bir gündesin. Yakın çevrenle olan sürpriz diyaloglar keyfini artırabilir ve yeni fikirler doğurabilir. İç dünyandaki dinginliği yaratıcı ifadeye dönüştürmek sana neşe verecektir. Sevdiklerinle eğlenceli bir aktivite planla.",
-   "motivation": "Coşkunu üretkenlikle buluştur.",
-   "basis": "Ay 5. evine geçerek 3. evdeki Plüton ile sekstil açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "Yaratıcı İlham",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Vizyon ve Kararlılık",
+   "short": "Ufkunu açan düşünceleri gerçekçi bir yaklaşımla hayatına dahil edebilirsin.",
+   "text": "Dokuzuncu evindeki Ay'ın burcundaki Güneş ile tam üçgen açı yapması, yaşam enerjini ve inancını pekiştiriyor. Beşinci evindeki Satürn ise bu iyimserliği somut projelere dönüştürmen için sana zihinsel bir omurga sağlıyor. Yeni bir eğitime başlamak, seyahat planı yapmak veya bir hedefini yapılandırmak adına şartlar son derece elverişli. İnandığın değerleri lafta bırakmayıp eyleme dökmekten çekinme.",
+   "motivation": "İnancını pratikle taçlandır.",
+   "basis": "Ay dokuzuncu evinde, birinci evindeki Güneş ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }

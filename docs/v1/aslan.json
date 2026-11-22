@@ -1,35 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-21T19:45:56+03:00",
+ "updated": "2026-11-22T04:31:47+03:00",
  "days": [
-  {
-   "date": "2026-11-20",
-   "focus": "Ufku Genişletmek",
-   "short": "Zihnini taze fikirlere açarak geleceğe dair vizyonunu tazeleyebilirsin.",
-   "text": "Bugün yeni düşünceler keşfetmek ve bakış açını zenginleştirmek adına motive olabilirsin. Farklı konular, eğitim fırsatları veya yolculuk planları zihninde geniş yer tutabilir. İlişkilerinden veya sosyal çevrenden gelen sıradışı fikirler, hayata bakışını olumlu anlamda tazeleyebilir. İç dünyandan aldığın güçle öğrenme hevesini eyleme dönüştürebilirsin.",
-   "motivation": "Yeni ufuklara merakla odaklan.",
-   "basis": "Koç burcundaki Ay'ın Plüton ve Uranüs ile yaptığı altmışlık açılar yenilik hissi katıyor.",
-   "sky_events": [
-    "Ay bugün Koç'a geçiyor.",
-    "Ay ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Uranüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Akrep'te 28°02'",
-    "Ay Koç'ta 1°43'",
-    "Merkür Akrep'te 8°35'",
-    "Venüs Terazi'de 23°38'",
-    "Mars Aslan'da 27°40'",
-    "Jüpiter Aslan'da 26°12'",
-    "Satürn Koç'ta 8°18' ℞",
-    "Uranüs İkizler'de 3°54' ℞",
-    "Neptün Koç'ta 1°45' ℞",
-    "Plüton Kova'da 3°21'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-21",
    "focus": "Vizyon ve Duruş",
@@ -236,6 +209,31 @@
     "Uranüs İkizler'de 3°34' ℞",
     "Neptün Koç'ta 1°40' ℞",
     "Plüton Kova'da 3°30'"
+   ],
+   "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-29",
+   "focus": "Bireysel Duruş",
+   "short": "Kendine duyduğun saygı, hedeflerine doğru kararlılıkla yol almanı destekliyor.",
+   "text": "Burcunda ilerleyen Ay, beşinci evindeki Güneş ile kusursuz bir üçgen oluşturarak seni merkezine alıyor. Dokuzuncu evindeki Satürn ise heveslerine sağlam bir hayat felsefesi ve ciddiyet katıyor. Yapmak istediğin girişimlerde hem heyecanını koruyabilir hem de gerçekçi planlar yapabilirsin. Kişisel hedeflerini hayata geçirmek için ertelediğin adımları bugün vakit kaybetmeden başlat.",
+   "motivation": "Kendi yolunu ciddiyetle çiz.",
+   "basis": "Ay birinci evinde, beşinci evindeki Güneş ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında üçgen açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 7°08'",
+    "Ay Aslan'da 12°58'",
+    "Merkür Akrep'te 19°42'",
+    "Venüs Terazi'de 27°07'",
+    "Mars Başak'ta 1°19'",
+    "Jüpiter Aslan'da 26°43'",
+    "Satürn Koç'ta 8°03' ℞",
+    "Uranüs İkizler'de 3°31' ℞",
+    "Neptün Koç'ta 1°40' ℞",
+    "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
   }
