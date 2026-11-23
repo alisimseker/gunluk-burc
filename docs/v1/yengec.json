@@ -1,30 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-22T20:07:17+03:00",
+ "updated": "2026-11-23T04:58:47+03:00",
  "days": [
-  {
-   "date": "2026-11-21",
-   "focus": "Kariyer ve Kaynaklar",
-   "short": "İşindeki ivmeyi korurken kişisel kaynaklarını tutarlı yönetmelisin.",
-   "text": "İş hayatında veya toplum önündeki duruşunda görünürlüğün artıyor. Maddi alandaki hırslı hareketlerin, hobilerine veya keyfi harcamalarına ayırdığın payla çatışabilir. 2. evindeki Mars ve Jüpiter'in 5. evdeki Güneş ile yaptığı sert açı, özgüvenli adımlar atarken aşırı harcama meylini besleyebilir. Hedeflerini gerçekleştirmek için öncelik listeni netleştirip finansal sınırlarını korumaya özen göster.",
-   "motivation": "Özgüvenini planlı kararlarla taçlandır.",
-   "basis": "Ay 10. evinde, 2. evdeki Mars ile 5. evdeki Güneş kare açı yapıyor.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Akrep'te 29°03'",
-    "Ay Koç'ta 15°16'",
-    "Merkür Akrep'te 9°34'",
-    "Venüs Terazi'de 23°54'",
-    "Mars Aslan'da 28°06'",
-    "Jüpiter Aslan'da 26°16'",
-    "Satürn Koç'ta 8°16' ℞",
-    "Uranüs İkizler'de 3°52' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°22'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-22",
    "focus": "Çalışma Ritmi",
@@ -236,6 +214,33 @@
     "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-30",
+   "focus": "Bütçe ve İletişim",
+   "short": "Harcamalar ve keyfi planlar arasında denge kurmaya çalış.",
+   "text": "Maddi konularda zihninden geçen fikirlerle duygusal isteklerin çatışabilir. Sevdiklerinle harcama ya da eğlence konularını konuşurken kelimelerini dikkatle seçmen gerekebilir. Çalışma ortamındaki disiplinin kariyer hedeflerini destekliyor. Günün ilerleyen saatlerinde yakın çevrenle kısa bir sohbet planlayarak zihnini tazeleyebilirsin.",
+   "motivation": "Dengeli kararlarla huzurunu koru.",
+   "basis": "2. evindeki Ay, 5. evindeki Merkür ile kare açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Güneş ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 8°09'",
+    "Ay Aslan'da 27°00'",
+    "Merkür Akrep'te 21°08'",
+    "Venüs Terazi'de 27°39'",
+    "Mars Başak'ta 1°42'",
+    "Jüpiter Aslan'da 26°45'",
+    "Satürn Koç'ta 8°01' ℞",
+    "Uranüs İkizler'de 3°29' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

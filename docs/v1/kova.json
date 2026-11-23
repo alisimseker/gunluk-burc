@@ -1,30 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-22T20:07:17+03:00",
+ "updated": "2026-11-23T04:58:47+03:00",
  "days": [
-  {
-   "date": "2026-11-21",
-   "focus": "İletişim Trafiği",
-   "short": "İletişimdeki hızını ikili ilişkilerde yapıcı bir dille harmanlamalısın.",
-   "text": "Düşüncelerini aktarma, kısa yolculuklar yapma ve zihinsel projeler üretme hızın yüksek. 7. evindeki Mars-Jüpiter kavuşumu ikili ilişkilerde ve ortaklıklarda yoğun bir dinamizm yaratırken, 10. evdeki Güneş ile oluşan kare açı iş hayatındaki hedeflerinle partnerinin beklentilerini karşı karşıya getirebilir. İletişimde kırıcı veya iddialı olmaktan kaçınıp uzlaşmacı bir hat çekmelisin. Zihnindeki fikirleri net ifadelerle aktarmak kapıları açar.",
-   "motivation": "Yapıcı diyaloglar engelleri aşmanı sağlar.",
-   "basis": "Ay 3. evinde, 7. evdeki Mars ile 10. evdeki Güneş kare açıda.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Akrep'te 29°03'",
-    "Ay Koç'ta 15°16'",
-    "Merkür Akrep'te 9°34'",
-    "Venüs Terazi'de 23°54'",
-    "Mars Aslan'da 28°06'",
-    "Jüpiter Aslan'da 26°16'",
-    "Satürn Koç'ta 8°16' ℞",
-    "Uranüs İkizler'de 3°52' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°22'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-22",
    "focus": "Gelecek Umutları",
@@ -236,6 +214,33 @@
     "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-30",
+   "focus": "Sosyal Diyaloglar",
+   "short": "Geleceğe dönük fikirlerini yakın çevrenle paylaşarak olgunlaştır.",
+   "text": "Arkadaşlarınla birlikte yürüttüğün fikirler ve projeler bugün somut bir zemin kazanabilir. Yakın çevren ve kardeşlerinle ilişkilerinde sergileyeceğin olgun tutum, sana olan güveni artıracaktır. İş hayatındaki bazı belirsizlikler zihnini kurcalayabilir; hemen tepki vermek yerine gözlemde kal. Akşamüstü ortaklaşa konuları toparlayabilirsin.",
+   "motivation": "Fikirlerini sabırlı bir mantıkla inşa et.",
+   "basis": "11. evindeki Güneş, 3. evindeki Satürn ile üçgen açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Güneş ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 8°09'",
+    "Ay Aslan'da 27°00'",
+    "Merkür Akrep'te 21°08'",
+    "Venüs Terazi'de 27°39'",
+    "Mars Başak'ta 1°42'",
+    "Jüpiter Aslan'da 26°45'",
+    "Satürn Koç'ta 8°01' ℞",
+    "Uranüs İkizler'de 3°29' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

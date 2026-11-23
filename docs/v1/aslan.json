@@ -1,30 +1,8 @@
 {
  "sign": "aslan",
  "name": "Aslan",
- "updated": "2026-11-22T20:07:17+03:00",
+ "updated": "2026-11-23T04:58:47+03:00",
  "days": [
-  {
-   "date": "2026-11-21",
-   "focus": "Vizyon ve Duruş",
-   "short": "Yeni hedeflere yönelirken evindeki ve ailendeki dengeyi gözetmelisin.",
-   "text": "Yeni şeyler keşfetme ve bakış açını genişletme isteğin oldukça güçlü. Kendi burcundaki Mars ve Jüpiter birleşimi sana yüksek bir eylem gücü sağlarken, 4. evdeki Güneş ile kurulan kare açı ailevi kararlarda veya ev düzeninde sabırsız davranmana yol açabilir. Kendi isteklerini vurgularken evdeki huzuru kaçırmayacak yapıcı bir üslup benimsemelisin. Geniş vizyonunu evine ve köklerine saygı duyarak hayata geçir.",
-   "motivation": "Liderliğini anlayışlı tutumunla güçlendir.",
-   "basis": "Ay 9. evinde, 1. evindeki Mars ile 4. evdeki Güneş kare açıda.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Akrep'te 29°03'",
-    "Ay Koç'ta 15°16'",
-    "Merkür Akrep'te 9°34'",
-    "Venüs Terazi'de 23°54'",
-    "Mars Aslan'da 28°06'",
-    "Jüpiter Aslan'da 26°16'",
-    "Satürn Koç'ta 8°16' ℞",
-    "Uranüs İkizler'de 3°52' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°22'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-22",
    "focus": "Yaratıcı Heves",
@@ -236,6 +214,33 @@
     "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-30",
+   "focus": "Yaratıcı Disiplin",
+   "short": "Yaratıcı yeteneklerini sağlam bir eğitim ya da vizyonla harmanla.",
+   "text": "Keyif aldığın uğraşlara ve kişisel projelere zaman ayırmak bugün sana özgüven kazandıracak. Uzak hedeflerin ya da öğrenme süreçlerinle ilgili konularda daha disiplinli hareket edebilirsin. Ev içinde gelişen diyaloglarda duygusal çıkışlar yapmamaya özen göster. Günün ikinci yarısında yeteneklerini somut kazançlara dönüştürme fikri ağır basabilir.",
+   "motivation": "İlhamını kararlı bir duruşla şekillendir.",
+   "basis": "5. evindeki Güneş, 9. evindeki Satürn ile üçgen açı oluşturuyor.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Güneş ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 8°09'",
+    "Ay Aslan'da 27°00'",
+    "Merkür Akrep'te 21°08'",
+    "Venüs Terazi'de 27°39'",
+    "Mars Başak'ta 1°42'",
+    "Jüpiter Aslan'da 26°45'",
+    "Satürn Koç'ta 8°01' ℞",
+    "Uranüs İkizler'de 3°29' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }

@@ -1,30 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-22T20:07:17+03:00",
+ "updated": "2026-11-23T04:58:47+03:00",
  "days": [
-  {
-   "date": "2026-11-21",
-   "focus": "İkili İlişkiler",
-   "short": "Birebir bağlarında uyumu ararken bütçene dair ilkelerinden ödün verme.",
-   "text": "Birebir ilişkilerinde ve ortaklıklarında dinamik bir gün seni bekliyor. Sosyal çevrende veya dâhil olduğun gruplarda liderlik etme isteğin artarken, 2. evdeki Güneş ile 11. evdeki Mars arasındaki kare açı maddi konularda arkadaşlarınla fikir ayrılığı yaşamana neden olabilir. Kendi duruşunu korurken karşındaki kişilerin ihtiyaçlarını da dinlemeyi seçmelisin. İlişkilerde zarafeti esnetmeden net sınırlar çizmek yararına olur.",
-   "motivation": "Zarafetini net kararlarınla tamamla.",
-   "basis": "Ay 7. evinde, 11. evdeki Mars ile 2. evdeki Güneş kare açıda.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Akrep'te 29°03'",
-    "Ay Koç'ta 15°16'",
-    "Merkür Akrep'te 9°34'",
-    "Venüs Terazi'de 23°54'",
-    "Mars Aslan'da 28°06'",
-    "Jüpiter Aslan'da 26°16'",
-    "Satürn Koç'ta 8°16' ℞",
-    "Uranüs İkizler'de 3°52' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°22'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-22",
    "focus": "Zihinsel Canlılık",
@@ -236,6 +214,33 @@
     "Plüton Kova'da 3°31'"
    ],
    "moon_phase": "Küçülen Ay"
+  },
+  {
+   "date": "2026-11-30",
+   "focus": "Sosyal Uyum",
+   "short": "Arkadaş çevrenle kuracağın sıcak bağlar gününü güzelleştiriyor.",
+   "text": "Çevrenle uyumlu diyaloglar geliştirmek ve ortak hayalleri paylaşmak bugün sana büyük bir moral verecek. İkili ilişkilerinde sergileyeceğin yapıcı ve olgun duruş, partnerinle arandaki güveni tazeleyebilir. Finansal kararlar alırken aceleci davranmak yerine detayları iyice incelemelisin. Gün sonunda dinlenmeye zaman ayırmak sana çok iyi gelir.",
+   "motivation": "Zarafetinle çevrene uyum ve sıcaklık saç.",
+   "basis": "1. evindeki Venüs, 11. evindeki Ay ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Başak'a geçiyor.",
+    "Güneş ile Satürn arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Venüs arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Merkür arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 8°09'",
+    "Ay Aslan'da 27°00'",
+    "Merkür Akrep'te 21°08'",
+    "Venüs Terazi'de 27°39'",
+    "Mars Başak'ta 1°42'",
+    "Jüpiter Aslan'da 26°45'",
+    "Satürn Koç'ta 8°01' ℞",
+    "Uranüs İkizler'de 3°29' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
   }
  ]
 }
