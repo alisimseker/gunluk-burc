@@ -1,36 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Çalışma Ritmi",
-   "short": "Görevlerini toparlarken dostlarının desteğini arkana alabilirsin.",
-   "text": "Güneş altıncı evine geçerek günlük rutinlerini ve çalışma alanını düzenleme isteğini pekiştiriyor. Onuncu evden ayrılıp Boğa'ya yönelen Ay ise sosyal bağlarını canlandırman için sağlam bir alan açıyor. Maddi konularda ani harcama dürtüsüyle karşılaşsan da elindeki birikimi gözeterek hareket etmelisin. Gün içinde masanı sadeleştirmek veya yapılacaklar listeni gözden geçirmek işlerini belirgin biçimde kolaylaştırır.",
-   "motivation": "Rutinlerini özenle yapılandır.",
-   "basis": "Güneş'in 6. evine adımı ve Ay'ın Boğa burcuna geçişi.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Gelecek Planları",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "İletişim Detayları",
+   "short": "Sözlerinde fazla eleştirel olmadan net mesajlar vermeye gayret göster.",
+   "text": "Günlük planların ve iletişim trafiğin beklenenden hızlı seyredebilir. Zihnindeki fikirleri toparlayıp yazıya dökmek veya yapılacaklar listesi hazırlamak seni rahatlatacaktır. Yakın çevrenle konuşurken detaylara takılıp ana konuyu kaçırmamaya dikkat etmelisin. Kısa bir yürüyüş zihnini tazeleyebilir.",
+   "motivation": "Net sözler doğru anlaşılma getirir.",
+   "basis": "Ay 3. evinde Başak burcunda konumlanıyor ve Güneş ile kare açı oluşturuyor.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

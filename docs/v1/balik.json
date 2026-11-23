@@ -1,36 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Mesleki Görünürlük",
-   "short": "Hedeflerine odaklanırken düşüncelerini net ve sakin aktar.",
-   "text": "Güneş onuncu evine geçiş yaparak toplum önündeki duruşunu ve mesleki ideallerini görünür kılmaya başlıyor. Ay'ın Boğa burcuna geçmesi, kardeşlerinle veya yakınlarınla yapacağın görüşmelerde daha güven verici ve yapıcı bir dil kullanmanı sağlar. Günlük sorumlulukların getirdiği yorgunluğu hafifletmek için işlerini parçalara bölerek ilerlemelisin. Fikirlerini yazılı hale getirmek geleceğe dönük planlarını somutlaştırır.",
-   "motivation": "Düşüncelerini güvenle paylaş.",
-   "basis": "Güneş'in 10. evine adımı ve Ay'ın 3. evine (Boğa) geçişi.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "İletişim Akışı",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Ortaklık Kararları",
+   "short": "İlişkilerindeki detaycı yaklaşımı bir kenara bırakıp empatiyi öne çıkar.",
+   "text": "Karşılıklı ilişkilerinde eleştirel bir ton benimsemek gerginlik yaratabilir. 7. evinde gerçekleşen Son Dördün, partnerin veya ortağınla arandaki pürüzleri gidermek için uygun bir fırsat. Kariyer baskısını ikili ilişkilere yansıtmadan dinleyici kalmayı tercih edebilirsin. Anlaşmazlıkları açık diyalogla çöz.",
+   "motivation": "Yapıcı diyalog uyumu yeniden kurar.",
+   "basis": "Ay 7. evinde Başak burcunda ve Güneş 10. evinde kare açı yapıyor.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

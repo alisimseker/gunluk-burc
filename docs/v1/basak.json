@@ -1,36 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Evde Ferahlık",
-   "short": "Yaşam alanındaki huzuru büyütürken zihnini dinlendirmeye bak.",
-   "text": "Güneş dördüncü evine adım atarak ailene ve yaşadığın mekana dair konuları önceliğin haline getiriyor. Ay'ın Boğa burcuna geçmesi ise zihnini genişleten, yeni bakış açıları sunan bir sakinlik kazandırıyor. Günlük koşturmacanın getirdiği gerginlikleri bertaraf etmek için evinde kendine ait bir köşe yaratabilirsin. Pratik detaylara boğulmadan, sadece anın getirdiği sadeliğin tadını çıkar.",
-   "motivation": "Sakinlikle alanını güzelleştir.",
-   "basis": "Güneş'in 4. evine geçişi ve Ay'ın Boğa burcuna ilerlemesi.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Zihinsel Ufuklar",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Kişisel Kararlar",
+   "short": "Kendi burcundaki Son Dördün ile eski alışkanlıkları geride bırakıyorsun.",
+   "text": "Kendi burcunda gerçekleşen Son Dördün, kişisel önceliklerini gözden geçirmeni gerektiriyor. Ailevi beklentilerle kendi ihtiyaçların arasında kalırsan önceliği kendi iç dengene vermelisin. Bedenini dinlendirmek ve sana artık fayda sağlamayan alışkanlıkları sonlandırmak için harekete geçebilirsin. Küçük adımlarla yenilen.",
+   "motivation": "Eski yükleri bırakmak hafifletir.",
+   "basis": "Ay senin burcunda 1. evinde ve Yay'daki Güneş ile kare açıda.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

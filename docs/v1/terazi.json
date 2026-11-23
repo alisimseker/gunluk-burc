@@ -1,36 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Zihinsel Canlılık",
-   "short": "Yeni bilgiler edinmeye hevesli olduğun hareketli bir gün seni bekliyor.",
-   "text": "Üçüncü evine giren Güneş, öğrenme merakını ve konuşma isteğini canlı tutuyor. Burcundaki Venüs'ün getirdiği zarafet, kurduğun diyaloglarda yumuşak bir denge yakalamanı sağlıyor. Ay'ın Boğa'ya geçişiyle birlikte ortak kaynaklar veya borç-alacak dengesi üzerine daha temkinli düşünmeye başlayabilirsin. Fikirlerini aktarırken karşı tarafın sınırlarına saygı duymak bağlarını güçlendirir.",
-   "motivation": "Merakını nezaketle birleştir.",
-   "basis": "Güneş'in 3. evine geçişi ve Venüs'ün Terazi burcundaki konumu.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Paylaşımlı Kaynaklar",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Zihinsel Dinlenme",
+   "short": "Arka planda kalan endişeleri kenara bırakıp kendi kabuğunda dinlen.",
+   "text": "Zihninin derinliklerindeki karmaşayı sakinleştirmek için yalnız kalmaya ihtiyaç duyabilirsin. 12. evinde gerçekleşen Son Dördün, zihinsel bir detoks sürecine işaret ediyor. İletişim trafiğinin yarattığı yorgunluğu dinlenerek ve kendinle kalarak atlatabilirsin. Sezgilerine güven ve tempoyu biraz düşür.",
+   "motivation": "Sessizlik ruhu yeniden yapılandırır.",
+   "basis": "Ay 12. evinde Başak burcunda ve Güneş ile kare açıda.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

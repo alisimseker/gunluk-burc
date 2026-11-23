@@ -1,36 +1,8 @@
 {
  "sign": "koc",
  "name": "Koç",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Ufuk Çizgisi",
-   "short": "Merak ettiğin konulara odaklanıp bakış açını yenilemek sana ferahlık katar.",
-   "text": "Güneş'in Yay burcuna geçişiyle beraber zihninde yeni keşiflere yer açma isteği belirginleşiyor. Alışılmış rutinlerin dışına çıkıp yeni konular öğrenmek ya da uzak rotaları araştırmak sana canlılık katabilir. Beşinci evde parlayan Mars'ın sunduğu destek, yaratıcı projelerde hevesini somut bir sonuca dönüştürmene yardım ediyor. Fikirlerini aceleyle paylaşmak yerine önce kendi içinde olgunlaştırmayı dene.",
-   "motivation": "Merakını somut adımlarla canlı tut.",
-   "basis": "Güneş'in Yay burcuna geçişi ve 9. evi aydınlatması.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Maddi Denge",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Çalışma Temposu",
+   "short": "Masandaki birikmiş evrakları ve işleri ayıklamak sana hafiflik getirebilir.",
+   "text": "Günlük akışındaki detaylar ile büyük hedeflerin arasında sıkışmış hissedebilirsin. Başak burcundaki Son Dördün, tamamlanması gereken pratik işlere odaklanmanı istiyor. Yarım kalmış küçük görevleri sırayla bitirmek kafandaki karmaşayı hızla dağıtacaktır. Bugün enerjini dağıtmak yerine listene sadık kalmayı dene.",
+   "motivation": "Tamamlanan küçük işler özgürleştirir.",
+   "basis": "Başak burcunda 6. evinde gerçekleşen Son Dördün ve Yay'daki Güneş ile Ay arasındaki kare.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

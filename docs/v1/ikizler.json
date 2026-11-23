@@ -1,36 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Karşılıklı Anlayış",
-   "short": "İlişkilerinde açık sözlülük ve zarafet aradığın bir döngü başlıyor.",
-   "text": "Güneş karşıt burcuna adım atarken birebir temaslarda iş birliği yapma arzun kuvvetleniyor. Ay'ın Koç burcundan çıkıp Boğa'ya geçmesi ise gün boyunca dışarıdaki hareketlilikten ziyade kendi köşende dinlenme ihtiyacı doğurabilir. Yakın çevrenle iletişim kurarken gösterdiğin heves, karşındaki kişilerin beklentileriyle dengelenmeli. Akşam saatlerini zihnini yormayan sakin uğraşlara ayırabilirsin.",
-   "motivation": "Sözlerinde ölçüyü koru.",
-   "basis": "Güneş'in 7. evine geçişi ve Ay'ın Boğa burcuna ilerlemesi.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Zihinsel Mola",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Yaşam Alanı Dengesi",
+   "short": "Evindeki ertelediğin işleri ele alarak zihnini rahatlatabilirsin.",
+   "text": "Özel hayatın ve ikili ilişkilerin arasında kalan bazı konular bugün senden net adımlar bekleyebilir. Yaşam alanında biriken pürüzleri temizlemek, zihninde uzun süredir taşıdığın ağırlıkları hafifletmene yardımcı olacaktır. Karşı tarafın beklentileriyle kendi konfor alanın arasında makul bir denge kurmaya odaklanabilirsin. Evindeki pratik düzenlemeleri tamamlamak günün sonunda sana aradığın huzuru sunacaktır.",
+   "motivation": "Yaşam alanını sadeleştirmek zihni tazeler.",
+   "basis": "Başak burcundaki Son Dördün, 4. evindeki Ay ile 7. evindeki Güneş'in karesiyle şekilleniyor.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }

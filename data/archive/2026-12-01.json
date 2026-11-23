@@ -1,0 +1,110 @@
+{
+ "date": "2026-12-01",
+ "generated_at": "2026-11-24T00:23:19+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 9°10'",
+   "Ay Başak'ta 10°39'",
+   "Merkür Akrep'te 22°35'",
+   "Venüs Terazi'de 28°12'",
+   "Mars Başak'ta 2°04'",
+   "Jüpiter Aslan'da 26°48'",
+   "Satürn Koç'ta 8°00' ℞",
+   "Uranüs İkizler'de 3°26' ℞",
+   "Neptün Koç'ta 1°39' ℞",
+   "Plüton Kova'da 3°33'"
+  ],
+  "events": [
+   "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+   "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Son Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Çalışma Temposu",
+   "short": "Masandaki birikmiş evrakları ve işleri ayıklamak sana hafiflik getirebilir.",
+   "text": "Günlük akışındaki detaylar ile büyük hedeflerin arasında sıkışmış hissedebilirsin. Başak burcundaki Son Dördün, tamamlanması gereken pratik işlere odaklanmanı istiyor. Yarım kalmış küçük görevleri sırayla bitirmek kafandaki karmaşayı hızla dağıtacaktır. Bugün enerjini dağıtmak yerine listene sadık kalmayı dene.",
+   "motivation": "Tamamlanan küçük işler özgürleştirir.",
+   "basis": "Başak burcunda 6. evinde gerçekleşen Son Dördün ve Yay'daki Güneş ile Ay arasındaki kare."
+  },
+  "boga": {
+   "focus": "Keyif ve Bütçe",
+   "short": "Yaratıcı projelerine zaman ayırırken harcamalarını kontrol altında tutmalısın.",
+   "text": "Eğlenceli uğraşlara vakit ayırmak isterken bütçeni zorlama riski taşıyorsun. 5. evinde ilerleyen Ay, yeteneklerini sergileme arzunu öne çıkarırken Güneş'in karesi bütçe dengeni sarsabilir. Kendine küçük ve maliyetsiz bir mola alanı yaratmak iyi bir çözüm olabilir. Sahip olduklarınla yetinip üretmeye devam et.",
+   "motivation": "Sade zevkler en büyük zenginliktir.",
+   "basis": "Ay Başak burcunda 5. evinde ve Güneş ile kare açı yapıyor."
+  },
+  "ikizler": {
+   "focus": "Yaşam Alanı Dengesi",
+   "short": "Evindeki ertelediğin işleri ele alarak zihnini rahatlatabilirsin.",
+   "text": "Özel hayatın ve ikili ilişkilerin arasında kalan bazı konular bugün senden net adımlar bekleyebilir. Yaşam alanında biriken pürüzleri temizlemek, zihninde uzun süredir taşıdığın ağırlıkları hafifletmene yardımcı olacaktır. Karşı tarafın beklentileriyle kendi konfor alanın arasında makul bir denge kurmaya odaklanabilirsin. Evindeki pratik düzenlemeleri tamamlamak günün sonunda sana aradığın huzuru sunacaktır.",
+   "motivation": "Yaşam alanını sadeleştirmek zihni tazeler.",
+   "basis": "Başak burcundaki Son Dördün, 4. evindeki Ay ile 7. evindeki Güneş'in karesiyle şekilleniyor."
+  },
+  "yengec": {
+   "focus": "İletişim Detayları",
+   "short": "Sözlerinde fazla eleştirel olmadan net mesajlar vermeye gayret göster.",
+   "text": "Günlük planların ve iletişim trafiğin beklenenden hızlı seyredebilir. Zihnindeki fikirleri toparlayıp yazıya dökmek veya yapılacaklar listesi hazırlamak seni rahatlatacaktır. Yakın çevrenle konuşurken detaylara takılıp ana konuyu kaçırmamaya dikkat etmelisin. Kısa bir yürüyüş zihnini tazeleyebilir.",
+   "motivation": "Net sözler doğru anlaşılma getirir.",
+   "basis": "Ay 3. evinde Başak burcunda konumlanıyor ve Güneş ile kare açı oluşturuyor."
+  },
+  "aslan": {
+   "focus": "Harcama Dengesi",
+   "short": "Kendi değerini harcamalarınla değil, ürettiğin işlerle ölçmeyi dene.",
+   "text": "Maddi kaynaklarını düzenlemek ve lüzumsuz harcamaları kesmek için uygun bir zaman dilimindesin. Harcama isteğin ile bütçen arasındaki dengeyi kurarken aşırıya kaçmamaya bak. Yeteneklerine odaklanıp pratik çözümler ürettikçe özgüvenin artacaktır. Gelir gider dengeni kontrol etmek sana kontrol hissi kazandırır.",
+   "motivation": "Bilinçli bütçe özgür adımlar demektir.",
+   "basis": "Ay 2. evinde Başak burcunda ve Güneş ile kare açı yapıyor."
+  },
+  "basak": {
+   "focus": "Kişisel Kararlar",
+   "short": "Kendi burcundaki Son Dördün ile eski alışkanlıkları geride bırakıyorsun.",
+   "text": "Kendi burcunda gerçekleşen Son Dördün, kişisel önceliklerini gözden geçirmeni gerektiriyor. Ailevi beklentilerle kendi ihtiyaçların arasında kalırsan önceliği kendi iç dengene vermelisin. Bedenini dinlendirmek ve sana artık fayda sağlamayan alışkanlıkları sonlandırmak için harekete geçebilirsin. Küçük adımlarla yenilen.",
+   "motivation": "Eski yükleri bırakmak hafifletir.",
+   "basis": "Ay senin burcunda 1. evinde ve Yay'daki Güneş ile kare açıda."
+  },
+  "terazi": {
+   "focus": "Zihinsel Dinlenme",
+   "short": "Arka planda kalan endişeleri kenara bırakıp kendi kabuğunda dinlen.",
+   "text": "Zihninin derinliklerindeki karmaşayı sakinleştirmek için yalnız kalmaya ihtiyaç duyabilirsin. 12. evinde gerçekleşen Son Dördün, zihinsel bir detoks sürecine işaret ediyor. İletişim trafiğinin yarattığı yorgunluğu dinlenerek ve kendinle kalarak atlatabilirsin. Sezgilerine güven ve tempoyu biraz düşür.",
+   "motivation": "Sessizlik ruhu yeniden yapılandırır.",
+   "basis": "Ay 12. evinde Başak burcunda ve Güneş ile kare açıda."
+  },
+  "akrep": {
+   "focus": "Ekip Çalışması",
+   "short": "Sosyal projelerde detaycı olmak yerine iş birliğine odaklanmayı seç.",
+   "text": "Gelecek planların ve dâhil olduğun gruplar içinde küçük krizler baş gösterebilir. Arkadaşlarından gelen eleştirileri kişisel almadan, yapıcı kısımlarını almayı başarmalısın. Bütçeni veya hedeflerini gözden geçirerek daha uygulanabilir adımlara yönelmek fayda getirir. Planlarını sadeleştir.",
+   "motivation": "Ortak akıl karmaşayı sadeleştirir.",
+   "basis": "Ay 11. evinde Başak burcunda Son Dördün fazında."
+  },
+  "yay": {
+   "focus": "Mesleki Sorumluluklar",
+   "short": "Kariyerindeki detayları toparlamak kişisel duruşunu sağlamlaştırır.",
+   "text": "İmajın ve mesleki hedeflerin arasında bir denge kurman gereken bir gündesin. Burcundaki Güneş ile Başak Ay'ının karesi, iş ortamında daha planlı hareket etmeni söylüyor. Görünür işlerini eksiksiz tamamlamak üstlerinin takdirini kazanmanı sağlayabilir. Beklentilerini gerçekçi tutarak ilerlemelisin.",
+   "motivation": "Planlı emek başarıyı görünür kılar.",
+   "basis": "Güneş burcunda 1. evinde, Ay 10. evinde Son Dördün fazında."
+  },
+  "oglak": {
+   "focus": "Fikirleri Ayıklama",
+   "short": "Hayat görüşünü esnetmek ve gereksiz takıntıları bırakmak seni rahatlatır.",
+   "text": "Zihninde büyüttüğün inançlar veya uzak hedefler pratik engellerle karşılaşabilir. 9. evindeki Ay, öğrenme ve araştırma arzulunu desteklerken Son Dördün fazı gereksiz detaylardan arınmanı istiyor. Büyük resmi gözden kaçırmadan elindeki bilgileri düzenlemelisin. Zihnini gereksiz karmaşadan arındır.",
+   "motivation": "Esnek zihin doğru bilgiye ulaşır.",
+   "basis": "Ay 9. evinde Başak burcunda konumlanıyor ve Güneş ile kare açı kuruyor."
+  },
+  "kova": {
+   "focus": "Derin Paylaşımlar",
+   "short": "Ortak finansal konuları açıkça konuşarak zihnindeki soru işaretlerini sil.",
+   "text": "Paylaşılan kaynaklar veya duygusal yükler konusunda bir temizlik dönemi yaşıyorsun. Sosyal hedeflerinle uyuşmayan harcamaları ya da borçları düzene sokmak için harekete geçebilirsin. İç dünyanda seni zorlayan meselelerle yüzleşmek sana uzun vadeli rahatlama getirecektir. Şeffaf olmak dengeni korur.",
+   "motivation": "Yüzleşilen gerçek hafiflik sunar.",
+   "basis": "Ay 8. evinde Başak burcunda Son Dördün fazında gerçekleşiyor."
+  },
+  "balik": {
+   "focus": "Ortaklık Kararları",
+   "short": "İlişkilerindeki detaycı yaklaşımı bir kenara bırakıp empatiyi öne çıkar.",
+   "text": "Karşılıklı ilişkilerinde eleştirel bir ton benimsemek gerginlik yaratabilir. 7. evinde gerçekleşen Son Dördün, partnerin veya ortağınla arandaki pürüzleri gidermek için uygun bir fırsat. Kariyer baskısını ikili ilişkilere yansıtmadan dinleyici kalmayı tercih edebilirsin. Anlaşmazlıkları açık diyalogla çöz.",
+   "motivation": "Yapıcı diyalog uyumu yeniden kurar.",
+   "basis": "Ay 7. evinde Başak burcunda ve Güneş 10. evinde kare açı yapıyor."
+  }
+ }
+}

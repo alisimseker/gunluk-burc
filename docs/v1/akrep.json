@@ -1,36 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-23T04:58:47+03:00",
+ "updated": "2026-11-24T00:23:19+03:00",
  "days": [
-  {
-   "date": "2026-11-22",
-   "focus": "Karşılıklı Güven",
-   "short": "İlişkilerinde netlik ararken bütçeni sağduyuyla yönet.",
-   "text": "Güneş ikinci evine geçiş yaparak yeteneklerini değerlendirme ve kazancını gözetme konusunu öne çıkarıyor. Ay'ın karşıt burcun Boğa'ya geçmesi ise partnerinle ya da ortağınla olan temaslarında sabırlı bir tutum takınmanı gerektiriyor. Kariyerdeki yoğunluğun ev hayatına yansımasına izin vermemeli, sakinliğini muhafaza etmelisin. Karşındakini can kulağıyla dinlemek olası pürüzleri büyümeden çözer.",
-   "motivation": "Sağduyunla ilişkilerini besle.",
-   "basis": "Güneş'in 2. evine geçişi ve Ay'ın 7. eve (Boğa) ilerleyişi.",
-   "sky_events": [
-    "Güneş bugün Yay'a geçiyor.",
-    "Ay bugün Boğa'ya geçiyor.",
-    "Ay ile Mars arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında kare açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 0°04'",
-    "Ay Koç'ta 29°18'",
-    "Merkür Akrep'te 10°39'",
-    "Venüs Terazi'de 24°11'",
-    "Mars Aslan'da 28°31'",
-    "Jüpiter Aslan'da 26°20'",
-    "Satürn Koç'ta 8°14' ℞",
-    "Uranüs İkizler'de 3°49' ℞",
-    "Neptün Koç'ta 1°44' ℞",
-    "Plüton Kova'da 3°23'"
-   ],
-   "moon_phase": "Büyüyen Ay"
-  },
   {
    "date": "2026-11-23",
    "focus": "Birebir Diyaloglar",
@@ -239,6 +211,31 @@
     "Uranüs İkizler'de 3°29' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°32'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-01",
+   "focus": "Ekip Çalışması",
+   "short": "Sosyal projelerde detaycı olmak yerine iş birliğine odaklanmayı seç.",
+   "text": "Gelecek planların ve dâhil olduğun gruplar içinde küçük krizler baş gösterebilir. Arkadaşlarından gelen eleştirileri kişisel almadan, yapıcı kısımlarını almayı başarmalısın. Bütçeni veya hedeflerini gözden geçirerek daha uygulanabilir adımlara yönelmek fayda getirir. Planlarını sadeleştir.",
+   "motivation": "Ortak akıl karmaşayı sadeleştirir.",
+   "basis": "Ay 11. evinde Başak burcunda Son Dördün fazında.",
+   "sky_events": [
+    "Bugün Son Dördün (Başak burcunda) gerçekleşiyor.",
+    "Güneş ile Ay arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 9°10'",
+    "Ay Başak'ta 10°39'",
+    "Merkür Akrep'te 22°35'",
+    "Venüs Terazi'de 28°12'",
+    "Mars Başak'ta 2°04'",
+    "Jüpiter Aslan'da 26°48'",
+    "Satürn Koç'ta 8°00' ℞",
+    "Uranüs İkizler'de 3°26' ℞",
+    "Neptün Koç'ta 1°39' ℞",
+    "Plüton Kova'da 3°33'"
    ],
    "moon_phase": "Son Dördün"
   }
