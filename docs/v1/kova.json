@@ -1,30 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-24T23:08:08+03:00",
+ "updated": "2026-11-25T07:25:18+03:00",
  "days": [
-  {
-   "date": "2026-11-23",
-   "focus": "Aile ve Yuva",
-   "short": "Ev içindeki düzeni kurarken sakinliği ön planda tut.",
-   "text": "Kariyerindeki beklentilerin yoğunluğu hane içindeki sorumluluklarla çelişebilir. Aile üyeleriyle yapılacak konuşmalarda keskin ifadelerden kaçınmak evin huzurunu korur. Yaşadığın alanı düzenlemek ve içsel olarak güven tazelemek dışarıdaki mücadelelerin için sana güç verir. Önceliğini temel ihtiyaçlarına vererek günü hafiflet.",
-   "motivation": "Köklerine saygıyla sarıl.",
-   "basis": "Dördüncü evindeki Ay, onuncu evindeki Merkür ile karşıt konumda.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Yay'da 1°04'",
-    "Ay Boğa'da 13°47'",
-    "Merkür Akrep'te 11°48'",
-    "Venüs Terazi'de 24°31'",
-    "Mars Aslan'da 28°56'",
-    "Jüpiter Aslan'da 26°24'",
-    "Satürn Koç'ta 8°12' ℞",
-    "Uranüs İkizler'de 3°46' ℞",
-    "Neptün Koç'ta 1°43' ℞",
-    "Plüton Kova'da 3°24'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-24",
    "focus": "Aile ve Yuva",
@@ -236,6 +214,31 @@
     "Uranüs İkizler'de 3°26' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°33'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-02",
+   "focus": "Vizyon ve Hedefler",
+   "short": "Mesleki alandaki tecrübelerini yeni öğrenme fırsatlarıyla birleştirebilirsin.",
+   "text": "Ortaklaşa finansal veya duygusal meseleleri çözüme kavuşturduktan sonra ufku genişletme zamanı. Kariyerinde üstlendiğin sorumlulukları ifade ederken vizyoner bir yaklaşım benimseyebilirsin. Eğitim, seyahat veya yeni konulara odaklanmak zihnine tazelik katacaktır. İletişiminde açık ve adil bir tutum sergilemek kapıları kolayca açar.",
+   "motivation": "Yeni perspektifler zihni canlandırır.",
+   "basis": "Terazi'ye geçen Ay'ın 10. evdeki Merkür ile yaptığı altmışlık açı.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 10°11'",
+    "Ay Başak'ta 23°58'",
+    "Merkür Akrep'te 24°03'",
+    "Venüs Terazi'de 28°47'",
+    "Mars Başak'ta 2°26'",
+    "Jüpiter Aslan'da 26°50'",
+    "Satürn Koç'ta 7°59' ℞",
+    "Uranüs İkizler'de 3°24' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°35'"
    ],
    "moon_phase": "Son Dördün"
   }

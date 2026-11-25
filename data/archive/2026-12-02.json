@@ -1,0 +1,110 @@
+{
+ "date": "2026-12-02",
+ "generated_at": "2026-11-25T07:25:18+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 10°11'",
+   "Ay Başak'ta 23°58'",
+   "Merkür Akrep'te 24°03'",
+   "Venüs Terazi'de 28°47'",
+   "Mars Başak'ta 2°26'",
+   "Jüpiter Aslan'da 26°50'",
+   "Satürn Koç'ta 7°59' ℞",
+   "Uranüs İkizler'de 3°24' ℞",
+   "Neptün Koç'ta 1°38' ℞",
+   "Plüton Kova'da 3°35'"
+  ],
+  "events": [
+   "Ay bugün Terazi'ye geçiyor.",
+   "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Son Dördün"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Ortak İletişim",
+   "short": "İkili ilişkilerinde net ve derinlikli bir iletişim kurma fırsatı yakalayabilirsin.",
+   "text": "Günlük koşturmacanın detaylarından sıyrılıp birebir ilişkilerine odaklanmak sana ferahlık getirebilir. Karşındaki kişiyle gizli kalmış veya teferruatlı bir finansal konuyu konuşmak için uygun şartlar oluşuyor. Düşüncelerini aktarırken incelikli ve yapıcı bir dille ilerlemeyi seçebilirsin. Ortaklıklarda sükuneti korumak atacağın adımları kolaylaştıracaktır.",
+   "motivation": "Samimi diyaloglar dengeli bağlar örer.",
+   "basis": "Ay'ın Başak'tan Terazi'ye geçişi ve Akrep'teki Merkür ile altmışlık açısı."
+  },
+  "boga": {
+   "focus": "Ortak Heyecanlar",
+   "short": "Partnerinle yaratıcı fikirlerini paylaşıp ortak paydada buluşabilirsin.",
+   "text": "Sevdiğin kişiyle veya yakın bir ortağınla zihnindekileri rahatça paylaşabileceğin bir gündesin. Hobilerini, sanatsal projelerini ya da eğlenceli planlarını karşındaki insana aktarırken oldukça ikna edicisin. Duygularını kelimelere dökerken sergilediğin samimiyet, aranızdaki bağı güçlendiriyor. Bugün ani tepkilerden kaçınıp dinlemeye de zaman ayırırsan diyalogların çok daha verimli ilerler.",
+   "motivation": "İçten kelimeler uyumu tazeler.",
+   "basis": "5. evdeki Ay'ın 7. evdeki Merkür ile yaptığı altmışlık açı bugün kesinleşiyor."
+  },
+  "ikizler": {
+   "focus": "Yaratıcı Çözümler",
+   "short": "Yaşam alanındaki huzuru yaratıcı projelerine yansıtarak hafifleyebilirsin.",
+   "text": "İç dünyandaki dinginliği hobilerine ve seni mutlu eden uğraşlara aktarmak isteyeceksin. Günlük sorumluluklarını tamamlarken zihnindeki özgün fikirlerden yararlanabilirsin. Yakın ilişkilerinde tatlı bir üslup kullanman sevdiklerinle arandaki bağı güçlendirebilir. Bugün kendine ve sevdiklerine vakit ayırarak zihnini tazeleyebilirsin.",
+   "motivation": "Neşeyle atılan adımlar ilham verir.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Akrep'teki Merkür ile kurduğu sekstil açı."
+  },
+  "yengec": {
+   "focus": "Düşünceleri Paylaşmak",
+   "short": "Kardeşlerinle veya yakın dostlarınla keyifli projelere zemin hazırlayabilirsin.",
+   "text": "Zihninde dolanan yaratıcı düşünceleri yakın çevrene rahatlıkla açabilirsin. Kelimelerinle ilham yayabilir, içindeki neşeyi yazarak ya da konuşarak dışarı aktarabilirsin. Kısa yolculuklar veya sanatsal uğraşlar zihnini rahatlatabilir. Sevdiklerinle yapacağın samimi sohbetler sayesinde hem eğlenebilir hem de yeni fikirler üretebilirsin.",
+   "motivation": "Samimiyet düşüncelere renk katar.",
+   "basis": "3. evdeki Ay'ın 5. evdeki Merkür ile kurduğu sekstil açı tamlaşıyor."
+  },
+  "aslan": {
+   "focus": "Fikir Alışverişi",
+   "short": "Yakın çevren ve ailenle yapacağın konuşmalar yeni kararları netleştirir.",
+   "text": "Maddi konulara pratik çözümler aradıktan sonra zihinsel olarak iletişime ve öğrenmeye yöneleceksin. Ev veya aile konularında birikmiş bir meseleyi tatlılıkla masaya yatırabilirsin. Sözlerine yansıtacağın netlik karşındakilerin seni daha iyi anlamasını sağlayacaktır. Kısa yolculuklar veya küçük yazışmalar gününe hareket katabilir.",
+   "motivation": "Dürüst diyalog zihni özgürleştirir.",
+   "basis": "Ay'ın Terazi burcuna ilerlemesi ve 4. evdeki Merkür ile altmışlık açısı."
+  },
+  "basak": {
+   "focus": "Net İletişim",
+   "short": "Düşüncelerini net bir dille aktararak etrafında merak uyandırabilirsin.",
+   "text": "Kendini ifade etme arzunun yükseldiği bir gündesin. Aklındaki projeleri, öğrenmek istediğin konuları veya kardeşlerinle olan diyalogları rahatça yönetebilirsin. Kararlarını alırken detayları gözden geçirmek zihnini rahatlatacaktır. Kendi ihtiyaçlarını yapıcı bir üslupla dile getirdiğinde çevrenden destek görmen kolaylaşır.",
+   "motivation": "Açık ifade yolları berraklaştırır.",
+   "basis": "1. evinde ilerleyen Ay'ın 3. evdeki Merkür ile yaptığı sekstil açı bugün aktif."
+  },
+  "terazi": {
+   "focus": "Öz Değer ve Yenilenme",
+   "short": "Kendi kabuğundan çıkıp tazelenmiş bir anlayışla hareket etmek isteyeceksin.",
+   "text": "İç dünyandaki sessizliği geride bırakıp kendi ihtiyaçlarını öne çıkaracağın bir zamandasın. Maddi kaynakların veya öz değerin üzerine düşünürken sezgilerin sana yön gösterebilir. Kendine olan güvenini kibar ve kararlı bir dille ifade etmek çevrenin takdirini toplar. Kişisel bakımın veya duruşun için vakit ayırmak sana iyi gelecektir.",
+   "motivation": "Kendi değerini zarafetle kucakla.",
+   "basis": "Ay'ın senin burcuna geçişi ve Akrep'teki Merkür ile yaptığı sekstil açı."
+  },
+  "akrep": {
+   "focus": "Grup İçi İletişim",
+   "short": "Arkadaşlarınla bir araya gelip özgün fikirlerini güvenle paylaşabilirsin.",
+   "text": "Topluluklar veya arkadaş çevren içinde sözlerinle dikkat çekeceğin bir gündesin. Kendi duruşunu ve fikirlerini çekinmeden dile getirirken çevrendekilerin de desteğini alabilirsin. Geleceğe dair hedeflerini konuşmak zihnindeki belirsizlikleri dağıtmaya yardımcı olur. İletişimde dengeli bir dil kullanmak ortak projeleri kolaylaştırır.",
+   "motivation": "Özgün kelimeler güveni pekiştirir.",
+   "basis": "11. evindeki Ay ile 1. evinde duran Merkür bugün sekstil açı oluşturuyor."
+  },
+  "yay": {
+   "focus": "Sosyal Çevre ve Sezgi",
+   "short": "Toplumsal hedeflerini arkadaş gruplarınla paylaşarak destek bulabilirsin.",
+   "text": "Kariyerindeki detayları tamamladıktan sonra yönünü sosyal projelere ve dostluklara çevirebilirsin. Arka planda yürüttüğün zihinsel çalışmalar gruplar içinde daha net ifade sunmana yardımcı olur. Sezgilerine güvenerek kalabalıklar içinde yapıcı bir rol üstlenebilirsin. Geleceğe dair hedeflerini samimi sohbetlerle şekillendirebilirsin.",
+   "motivation": "Ortak hedefler dostlukla büyür.",
+   "basis": "Ay'ın Terazi burcuna geçişi ve Akrep'teki Merkür ile altmışlık açısı."
+  },
+  "oglak": {
+   "focus": "Mesleki İletişim",
+   "short": "Kariyer hedeflerinde sosyal çevrenin bilgi birikiminden faydalanabilirsin.",
+   "text": "Bakış açını genişleten fikirleri toplumsal imajına entegre etmek için uygun bir gün. Arkadaş çevren veya dahil olduğun topluluklarla yapacağın bilgi alışverişi işlerini kolaylaştırır. Hedeflerine emin adımlarla yürürken diplomasiyi ve nezaketi elden bırakmamalısın. Mesleki alanda atacağın pratik adımlar saygınlığını artırabilir.",
+   "motivation": "Sağlam ilişkiler başarıyı destekler.",
+   "basis": "Ay'ın 9. evden 10. eve geçişi ve 11. evdeki Merkür ile altmışlık açısı."
+  },
+  "kova": {
+   "focus": "Vizyon ve Hedefler",
+   "short": "Mesleki alandaki tecrübelerini yeni öğrenme fırsatlarıyla birleştirebilirsin.",
+   "text": "Ortaklaşa finansal veya duygusal meseleleri çözüme kavuşturduktan sonra ufku genişletme zamanı. Kariyerinde üstlendiğin sorumlulukları ifade ederken vizyoner bir yaklaşım benimseyebilirsin. Eğitim, seyahat veya yeni konulara odaklanmak zihnine tazelik katacaktır. İletişiminde açık ve adil bir tutum sergilemek kapıları kolayca açar.",
+   "motivation": "Yeni perspektifler zihni canlandırır.",
+   "basis": "Terazi'ye geçen Ay'ın 10. evdeki Merkür ile yaptığı altmışlık açı."
+  },
+  "balik": {
+   "focus": "Ortak Paylaşımlar",
+   "short": "İkili ilişkilerinde güven ve derinlik arayışını samimi dille ifade et.",
+   "text": "Birebir diyaloglarında uyum yakaladıktan sonra ortak kaynaklar veya duygusal bağlar üzerine yoğunlaşabilirsin. Uzaklarla ilgili planlar veya akademik konular zihninde berraklaşabilir. Yakın bulduğun insanlarla derin sohbetler gerçekleştirmek zihinsel ferahlık getirecektir. Paylaşımlarında dengeli ve anlayışlı kalmak süreci kolaylaştırır.",
+   "motivation": "Anlayışlı diyalog derin güven örer.",
+   "basis": "Ay'ın Başak'tan Terazi'ye geçişi ve 9. evdeki Merkür ile sekstil açısı."
+  }
+ }
+}

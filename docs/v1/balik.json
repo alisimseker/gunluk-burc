@@ -1,30 +1,8 @@
 {
  "sign": "balik",
  "name": "Balık",
- "updated": "2026-11-24T23:08:08+03:00",
+ "updated": "2026-11-25T07:25:18+03:00",
  "days": [
-  {
-   "date": "2026-11-23",
-   "focus": "İletişim Akışı",
-   "short": "Fikirlerini aktarırken gerçekçi detaylara tutun.",
-   "text": "Geniş fikirler ve uzak ihtimaller yerine elindeki mevcut bilgilere odaklanman gereken bir gündesin. Yakın çevrenle yapacağın görüşmelerde yanlış anlamalara meydan vermemek adına açık konuşmalısın. Kardeşler veya komşularla ilişkilerde küçük meseleleri büyütmeden pratik çözümler üretmek zihnini rahatlatır. Not alarak ilerlemek işleri kolaylaştırır.",
-   "motivation": "Somut kelimelerle bağ kur.",
-   "basis": "Üçüncü evindeki Ay, dokuzuncu evindeki Merkür ile karşıt açıda.",
-   "sky_events": [],
-   "sky_summary": [
-    "Güneş Yay'da 1°04'",
-    "Ay Boğa'da 13°47'",
-    "Merkür Akrep'te 11°48'",
-    "Venüs Terazi'de 24°31'",
-    "Mars Aslan'da 28°56'",
-    "Jüpiter Aslan'da 26°24'",
-    "Satürn Koç'ta 8°12' ℞",
-    "Uranüs İkizler'de 3°46' ℞",
-    "Neptün Koç'ta 1°43' ℞",
-    "Plüton Kova'da 3°24'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-24",
    "focus": "İletişim Akışı",
@@ -236,6 +214,31 @@
     "Uranüs İkizler'de 3°26' ℞",
     "Neptün Koç'ta 1°39' ℞",
     "Plüton Kova'da 3°33'"
+   ],
+   "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-02",
+   "focus": "Ortak Paylaşımlar",
+   "short": "İkili ilişkilerinde güven ve derinlik arayışını samimi dille ifade et.",
+   "text": "Birebir diyaloglarında uyum yakaladıktan sonra ortak kaynaklar veya duygusal bağlar üzerine yoğunlaşabilirsin. Uzaklarla ilgili planlar veya akademik konular zihninde berraklaşabilir. Yakın bulduğun insanlarla derin sohbetler gerçekleştirmek zihinsel ferahlık getirecektir. Paylaşımlarında dengeli ve anlayışlı kalmak süreci kolaylaştırır.",
+   "motivation": "Anlayışlı diyalog derin güven örer.",
+   "basis": "Ay'ın Başak'tan Terazi'ye geçişi ve 9. evdeki Merkür ile sekstil açısı.",
+   "sky_events": [
+    "Ay bugün Terazi'ye geçiyor.",
+    "Ay ile Merkür arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 10°11'",
+    "Ay Başak'ta 23°58'",
+    "Merkür Akrep'te 24°03'",
+    "Venüs Terazi'de 28°47'",
+    "Mars Başak'ta 2°26'",
+    "Jüpiter Aslan'da 26°50'",
+    "Satürn Koç'ta 7°59' ℞",
+    "Uranüs İkizler'de 3°24' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°35'"
    ],
    "moon_phase": "Son Dördün"
   }
