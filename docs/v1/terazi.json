@@ -1,38 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-25T22:13:16+03:00",
+ "updated": "2026-11-26T06:43:31+03:00",
  "days": [
-  {
-   "date": "2026-11-24",
-   "focus": "Paylaşımlı Kaynaklar",
-   "short": "Ortaklaşa konuları netleştirmek bugün zihnini oldukça rahatlatabilir.",
-   "text": "Finansal konular veya ortaklı işlerde yeni bir sayfa açılıyor. Dolunay, bir dönüşüm sürecini tetikleyebilir. İletişim dilini yumuşak tutmak, karşındaki kişilerle uzlaşmanı kolaylaştıracaktır. Neptün'ün etkisiyle sezgisel kararlar almaktan korkma, içgüdülerin seni doğru yere götürecektir.",
-   "motivation": "Sezgilerinle hareket etmek güven verir.",
-   "basis": "Ay 8. evden 9. eve geçiyor, Neptün ile sekstil açıda.",
-   "sky_events": [
-    "Bugün Dolunay (İkizler burcunda) gerçekleşiyor.",
-    "Ay bugün İkizler'e geçiyor.",
-    "Güneş ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 2°05'",
-    "Ay Boğa'da 28°39'",
-    "Merkür Akrep'te 13°00'",
-    "Venüs Terazi'de 24°52'",
-    "Mars Aslan'da 29°21'",
-    "Jüpiter Aslan'da 26°27'",
-    "Satürn Koç'ta 8°10' ℞",
-    "Uranüs İkizler'de 3°44' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°25'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-25",
    "focus": "Bakış Açısı",
@@ -241,6 +211,32 @@
     "Plüton Kova'da 3°35'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-03",
+   "focus": "Kişisel İfade",
+   "short": "Kendi isteklerini öne çıkarmak duruşuna zarafet ve güç kazandıracak.",
+   "text": "Güne kendi ihtiyaçlarını ve beklentilerini ilk sıraya alarak başlamak seni güçlendiriyor. Yaratıcı potansiyelini dışarıya yansıtmak hem moralini yükseltecek hem de tarzını belirginleştirecek. Çevrendekilerle dengeli ama kararlı bir şekilde iletişim kurabilirsin. Kendi yolunu çizerken özgün fikirlerine güvenmeyi ihmal etme.",
+   "motivation": "Kendi çizgini zarafetle ortaya koy.",
+   "basis": "Ay 1. evinde, 5. evindeki Plüton ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 11°11'",
+    "Ay Terazi'de 6°58'",
+    "Merkür Akrep'te 25°31'",
+    "Venüs Terazi'de 29°23'",
+    "Mars Başak'ta 2°47'",
+    "Jüpiter Aslan'da 26°52'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°21' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }

@@ -1,38 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-25T22:13:16+03:00",
+ "updated": "2026-11-26T06:43:31+03:00",
  "days": [
-  {
-   "date": "2026-11-24",
-   "focus": "Zihinsel Ufuklar",
-   "short": "Uzun vadeli planlarını kariyerindeki hedeflerinle birleştirebilirsin.",
-   "text": "Yeni bilgiler öğrenmek veya uzak ufuklara açılmak bugün oldukça cazip görünebilir. Dolunay, kariyerindeki bir konunun netleşmesine yardımcı olacak. Neptün'ün destekleyici açısı, sezgilerini profesyonel hayatında kullanman için sana kapı açıyor. Detaylarda boğulmak yerine büyük resme odaklan.",
-   "motivation": "Vizyonu geniş tutmak yolu açar.",
-   "basis": "Ay 9. evden 10. eve geçiyor, Güneş ile 4. evde üçgen var.",
-   "sky_events": [
-    "Bugün Dolunay (İkizler burcunda) gerçekleşiyor.",
-    "Ay bugün İkizler'e geçiyor.",
-    "Güneş ile Neptün arasında üçgen açısı bugün tam oluyor.",
-    "Ay ile Mars arasında kare açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında kare açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 2°05'",
-    "Ay Boğa'da 28°39'",
-    "Merkür Akrep'te 13°00'",
-    "Venüs Terazi'de 24°52'",
-    "Mars Aslan'da 29°21'",
-    "Jüpiter Aslan'da 26°27'",
-    "Satürn Koç'ta 8°10' ℞",
-    "Uranüs İkizler'de 3°44' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°25'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-25",
    "focus": "Sorumluluk ve Statü",
@@ -241,6 +211,32 @@
     "Plüton Kova'da 3°35'"
    ],
    "moon_phase": "Son Dördün"
+  },
+  {
+   "date": "2026-12-03",
+   "focus": "Maddi Yapılanma",
+   "short": "Kişisel kaynaklarını organize etmek geleceğe güvenle bakmanı kolaylaştırır.",
+   "text": "Bütçeni incelemek ve harcamalarını daha verimli hale getirmek için pratik kararlar alabilirsin. Günlük çalışma disiplinin maddi konularda daha sağlam durmanı destekliyor. Öz değerine sahip çıkarak emeğinin karşılığını doğru değerlendirmeye odaklanmalısın. Elindeki imkanları akılcı biçimde planlamak sana içsel rahatlık sunacaktır.",
+   "motivation": "Planlı kaynak yönetimi güven inşa eder.",
+   "basis": "Ay 2. evinde, 6. evindeki Plüton ile üçgen açıda.",
+   "sky_events": [
+    "Ay ile Plüton arasında üçgen açısı bugün tam oluyor.",
+    "Ay ile Uranüs arasında üçgen açısı bugün tam oluyor.",
+    "Güneş ile Ay arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 11°11'",
+    "Ay Terazi'de 6°58'",
+    "Merkür Akrep'te 25°31'",
+    "Venüs Terazi'de 29°23'",
+    "Mars Başak'ta 2°47'",
+    "Jüpiter Aslan'da 26°52'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°21' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
   }
  ]
 }
