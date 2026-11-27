@@ -1,33 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "Kişisel Netlik",
-   "short": "Kendi duruşunu belirlerken sosyal çevrenden destek alman kolaylaşıyor.",
-   "text": "Bireysel hedeflerin konusunda son derece tutarlı davranabileceğin bir akış var. Duygusal anlamda kendini rahatça ifade ederken arkadaş grubunun tecrübelerine kulak verebilirsin. Kararlarını alırken aceleci tavırları kenara bırakıp uzun vadeli adımlara odaklanmak zihnini rahatlatacaktır. Bugün bekleyen kişisel işlerini sıraya koy.",
-   "motivation": "Kararlılığını kendi duruşunla belirle.",
-   "basis": "Ay 1. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "Maddi Değerler",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Çalışma Alanı Düzeni",
+   "short": "Günlük iş ortamında estetik ve sakin bir düzen oluşturma şansın var.",
+   "text": "Venüs'ün 6. evine adım atması, masanı, çalışma alanını ve günlük akışını daha keyifli hale getirmene imkan tanıyor. Birlikte çalıştığın kişilerle ilişkilerini güzelleştirmek günün verimini artırabilir. Zihninde gezinen fikir yoğunluğu arasında ani tepkiler vermekten sakınmalı, rutinlerine sadık kalmalısın. Sağlığına ve bedeninin ritmine gösterdiğin özen zihnini tazeleyecek.",
+   "motivation": "Günlük akışını zarafetle düzenlemeyi seç.",
+   "basis": "Venüs bugün 6. evine geçiyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

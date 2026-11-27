@@ -1,0 +1,111 @@
+{
+ "date": "2026-12-04",
+ "generated_at": "2026-11-27T06:54:58+03:00",
+ "model": "gemini-3.6-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 12°12'",
+   "Ay Terazi'de 19°44'",
+   "Merkür Akrep'te 27°01'",
+   "Venüs Akrep'te 0°01'",
+   "Mars Başak'ta 3°09'",
+   "Jüpiter Aslan'da 26°54'",
+   "Satürn Koç'ta 7°58' ℞",
+   "Uranüs İkizler'de 3°19' ℞",
+   "Neptün Koç'ta 1°38' ℞",
+   "Plüton Kova'da 3°37'"
+  ],
+  "events": [
+   "Venüs bugün Akrep'e geçiyor.",
+   "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+   "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Finansal Derinlik",
+   "short": "Ortak bütçe ve paylaşımlarda sezgilerine güvenerek hareket edebilirsin.",
+   "text": "Bugün Venüs'ün 8. evine geçiş yapmasıyla birlikte ortaklı kazançlar ve derin duygusal bağlar odak noktana yerleşiyor. Yakın ilişkilerinde yüzeysel konulardan ziyade tam bir güven arayışında olabilirsin. Günlük iş planlarında ani değişiklikler çıktığında sakin kalıp adımlarını aceleye getirmemen yararlı olur. Harcamalarını gözden geçirirken gerçek ihtiyacın olan şeyleri ön planda tutabilirsin.",
+   "motivation": "Sezgilerinin sesine kulak vererek adımla.",
+   "basis": "Venüs bugün Akrep burcuna geçerek 8. evinde konumlanıyor."
+  },
+  "boga": {
+   "focus": "İlişkilerde Uyum",
+   "short": "Ortaklıklarda ve ikili ilişkilerde daha yapıcı bağlar kurabilirsin.",
+   "text": "Yönetici gezegenin Venüs'ün 7. evine geçişi, birlikteliklerine ve iş ortaklıklarına taze bir soluk getiriyor. Karşındaki insanla samimi diyaloglar kurmak ve ortak bir zemin bulmak bugün daha kolaylaşacak. Ancak ailevi konularda aşırı abartılı vaatler vermekten kaçınmalısın. Partnerinin ihtiyaçlarına kulak verirken kendi sınırlarını korumayı da ihmal etme.",
+   "motivation": "Samimi diyaloglarla güvenli bağlar ör.",
+   "basis": "Venüs bugün 7. evine geçiş yapıyor."
+  },
+  "ikizler": {
+   "focus": "Çalışma Alanı Düzeni",
+   "short": "Günlük iş ortamında estetik ve sakin bir düzen oluşturma şansın var.",
+   "text": "Venüs'ün 6. evine adım atması, masanı, çalışma alanını ve günlük akışını daha keyifli hale getirmene imkan tanıyor. Birlikte çalıştığın kişilerle ilişkilerini güzelleştirmek günün verimini artırabilir. Zihninde gezinen fikir yoğunluğu arasında ani tepkiler vermekten sakınmalı, rutinlerine sadık kalmalısın. Sağlığına ve bedeninin ritmine gösterdiğin özen zihnini tazeleyecek.",
+   "motivation": "Günlük akışını zarafetle düzenlemeyi seç.",
+   "basis": "Venüs bugün 6. evine geçiyor."
+  },
+  "yengec": {
+   "focus": "Yaratıcı İlham",
+   "short": "Hobilerine ve sana keyif veren uğraşlara vakit ayırmak ruhunu canlandırır.",
+   "text": "Venüs'ün 5. evine geçişiyle aşk, tutku ve yaratıcı projeler yaşamında ön plana çıkıyor. Kendini ifade ederken daha tutkulu ve samimi bir tarz benimsediğini fark edebilirsin. Maddi konularda abartılı harcamalar yapma eğilimine karşı planlı kalmakta fayda var. Sevdiklerinle geçireceğin kaliteli zamanlar sana güç katacaktır.",
+   "motivation": "İçindeki yaratıcı ışığı samimiyetle paylaş.",
+   "basis": "Venüs bugün 5. evine giriş yapıyor."
+  },
+  "aslan": {
+   "focus": "Yuva Sığınakları",
+   "short": "Evinde huzurlu bir atmosfer yaratmak ve ailevi bağları güçlendirmek elinde.",
+   "text": "Venüs'ün 4. evinde konumlanmasıyla birlikte evinde konfor, güzellik ve huzur arayışın artıyor. Yaşam alanını renklendirecek küçük dokunuşlar yapabilir ya da ailenle sıcak sohbetler gerçekleştirebilirsin. Kendi isteklerinle kişisel hedeflerin arasında bir denge kurmak için sabırlı olmalısın. Evinin huzurunu korumak zihinsel olarak seni tazeleyecektir.",
+   "motivation": "Yuvanın sıcaklığını sakince hissetmeyi seç.",
+   "basis": "Venüs bugün 4. evine geçiyor."
+  },
+  "basak": {
+   "focus": "Sözlerin Gücü",
+   "short": "İletişim diline katacağın zarafet, yakın çevrenle olan diyalogları yumuşatır.",
+   "text": "Venüs'ün 3. evine geçmesi, kardeşlerinle, komşularınla ve yakın çevrenle diyaloglarına sıcaklık getiriyor. Düşüncelerini aktarırken daha ikna edici ve nazik bir üslup yakalayabilirsin. Ancak kişisel duruşunda aceleci kararlar almaktan ve gereksiz tartışmalara girmekten uzak durmalısın. Kısa bir yürüyüş veya okuma yapmak zihinsel yükünü hafifletebilir.",
+   "motivation": "Düşüncelerini zarafet ve netlikle aktar.",
+   "basis": "Venüs bugün 3. evine geçiyor."
+  },
+  "terazi": {
+   "focus": "Maddi Dengeler",
+   "short": "Kendi duruşunu sergilerken maddi kaynaklarını taze bir bakışla ele alabilirsin.",
+   "text": "Bedensel ve zihinsel olarak ön planda hissettiğin bir gündesin. Yönetici gezegenin Venüs'ün Akrep burcuna geçişi, odağını harcamalarına ve kendi emeğine verdiğin değere kaydırıyor. Bütçeni gözden geçirirken aşırı riskli adımlardan veya abartılı planlardan uzak durmanda fayda var. Bugün kişisel isteklerini netleştirip gelirlerini daha sağlam bir temele oturtmak için pratik bir adım atabilirsin.",
+   "motivation": "Öz emeğine güvenle sahip çık.",
+   "basis": "Venüs bugün Akrep burcuna geçerek 2. evindeki seyrine başlıyor."
+  },
+  "akrep": {
+   "focus": "Kişisel Işıltı",
+   "short": "Kendi tarzını ve çekim gücünü etrafına yansıtacağın taze bir dönem başlıyor.",
+   "text": "Venüs'ün bugün senin burcuna geçiş yapmasıyla çevrendeki çekim gücün ve etkileyiciliğin belirgin şekilde artıyor. Kendine özen göstermek, imajını tazelemek ve isteklerini net biçimde dile getirmek isteyebilirsin. Kariyer hedeflerinde büyük vaatler yerine ayakları yere basan adımlarla ilerlemen faydalı olacaktır. Kendi varlığını ön plana çıkarırken içsel dengeni koru.",
+   "motivation": "Kendi gücünü zarafetle ortaya koy.",
+   "basis": "Venüs bugün senin burcuna geçiyor."
+  },
+  "yay": {
+   "focus": "İçsel Arınma",
+   "short": "Ruhunu dinlendirmek ve zihinsel yüklerden arınmak sana huzur getirecek.",
+   "text": "Venüs'ün 12. evine geçmesiyle birlikte biraz yalnız kalmak, iç dünyana dönmek ve sana ağırlık veren duyguları serbest bırakmak isteyebilirsin. Sanatsal uğraşlar veya meditasyon gibi aktiviteler ruhunu besleyecektir. Büyük fikirlerini paylaşırken abartıdan uzak durmalı, adımlarını gerçekçi temellere oturtmalısın. Kendine zaman ayırmak zihnini berraklaştıracaktır.",
+   "motivation": "Sessizliğin şifasını içtenlikle kucakla.",
+   "basis": "Venüs bugün 12. evine geçiyor."
+  },
+  "oglak": {
+   "focus": "Dostluk Bağları",
+   "short": "Gelecek hayallerini paylaşmak ve sosyal gruplarda uyum yakalamak kolaylaşıyor.",
+   "text": "Venüs'ün 11. evine adım atmasıyla sosyal çevren ve dahil olduğun gruplar içinde daha sıcak bağlar kuruyorsun. Ortak hayaller kurabileceğin dostlarınla vakit geçirmek enerjini tazeleyecektir. Ortaklaşa kararlarda veya bütçe konularında aşırı iyimser tutumlara karşı dikkatli olmalısın. Sosyal alanlarda kendini ifade ederken doğal ve samimi kalmaya özen göster.",
+   "motivation": "Dostlukların getirdiği samimi neşeye açıl.",
+   "basis": "Venüs bugün 11. evine geçiyor."
+  },
+  "kova": {
+   "focus": "Kariyerde Zarafet",
+   "short": "Toplumsal imajını güçlendirmek ve hedeflerine uyumla yürümek mümkündür.",
+   "text": "Venüs'ün 10. evine geçiş yapması, mesleki duruşunu ve toplum önündeki görünürlüğünü daha cazip hale getiriyor. Üstlerinle ve otorite figürleriyle kuracağın yapıcı diyaloglar kapıları kolaylıkla açabilir. İlişkilerinde veya iş ortaklıklarında beklentilerini abartmamaya özen göstermelisin. Saygınlığını korumak adına atacağın ölçülü adımlar sana uzun vadede fayda sağlar.",
+   "motivation": "Hedeflerine zarafet ve güvenle ilerle.",
+   "basis": "Venüs bugün 10. evine geçiş yapıyor."
+  },
+  "balik": {
+   "focus": "Genişleyen Ufuklar",
+   "short": "Yeni bakış açıları keşfetmek ve hayatın anlamını sorgulamak seni besler.",
+   "text": "Venüs'ün 9. evine geçmesiyle birlikte farklı kültürler, öğrenme süreçleri ve yeni felsefeler ilgini çekmeye başlıyor. Zihnini zenginleştirecek okumalar yapmak veya yeni yerler keşfetmek ufkunu genişletecektir. Günlük rutinlerindeki beklenmedik aksamalar karşısında esnek kalmayı başarmalısın. Hayatın getirdiği yeni deneyimlere açık olmak sana tazelik katacaktır.",
+   "motivation": "Keşfetme arzunu cesurca hayata geçir.",
+   "basis": "Venüs bugün 9. evine geçiyor."
+  }
+ }
+}

@@ -1,33 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "İş Düzeni",
-   "short": "Günlük işlerini planlarken ev hayatındaki sorumlulukları da gözetebilirsin.",
-   "text": "Çalışma alanındaki ayrıntıları toparlamak ve sağlık rutinlerini gözden geçirmek adına oldukça elverişli bir zamandasın. Evdeki düzeninle iş yaşamındaki görevlerin arasında pratik bir denge kurabilirsin. Biriken küçük işleri sırayla tamamlayarak zihinsel rahatlama yakalaman mümkün. Masanı ve yapılacaklar listeni güncelle.",
-   "motivation": "Özenli adımlarla düzenini pekiştir.",
-   "basis": "Ay 6. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "İkili İlişkiler",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Dostluk Bağları",
+   "short": "Gelecek hayallerini paylaşmak ve sosyal gruplarda uyum yakalamak kolaylaşıyor.",
+   "text": "Venüs'ün 11. evine adım atmasıyla sosyal çevren ve dahil olduğun gruplar içinde daha sıcak bağlar kuruyorsun. Ortak hayaller kurabileceğin dostlarınla vakit geçirmek enerjini tazeleyecektir. Ortaklaşa kararlarda veya bütçe konularında aşırı iyimser tutumlara karşı dikkatli olmalısın. Sosyal alanlarda kendini ifade ederken doğal ve samimi kalmaya özen göster.",
+   "motivation": "Dostlukların getirdiği samimi neşeye açıl.",
+   "basis": "Venüs bugün 11. evine geçiyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

@@ -1,33 +1,8 @@
 {
  "sign": "kova",
  "name": "Kova",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "Yaratıcı Yetenekler",
-   "short": "İlgilendiğin hobilerde veya sanatsal işlerde ciddiyetle yol alabilirsin.",
-   "text": "Keyif aldığın konulara ve yaratıcı projelere daha disiplinli yaklaşma imkanı yakalıyorsun. İletişim yeteneğini becerilerinle harmanlayarak somut çıktılar elde edebilirsin. Çocuklarla veya sevdiklerinle olan paylaşımlarında dinleyici ve yapıcı tarafın öne çıkabilir. Yarım kalan bir hobine bugün vakit ayırarak ilerleme kaydet.",
-   "motivation": "Üretimini kararlı bir hevesle büyüt.",
-   "basis": "Ay 5. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "Günlük Düzen",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Kariyerde Zarafet",
+   "short": "Toplumsal imajını güçlendirmek ve hedeflerine uyumla yürümek mümkündür.",
+   "text": "Venüs'ün 10. evine geçiş yapması, mesleki duruşunu ve toplum önündeki görünürlüğünü daha cazip hale getiriyor. Üstlerinle ve otorite figürleriyle kuracağın yapıcı diyaloglar kapıları kolaylıkla açabilir. İlişkilerinde veya iş ortaklıklarında beklentilerini abartmamaya özen göstermelisin. Saygınlığını korumak adına atacağın ölçülü adımlar sana uzun vadede fayda sağlar.",
+   "motivation": "Hedeflerine zarafet ve güvenle ilerle.",
+   "basis": "Venüs bugün 10. evine geçiş yapıyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

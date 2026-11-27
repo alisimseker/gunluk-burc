@@ -1,33 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "Derin Paylaşımlar",
-   "short": "Ortak bütçe ve borç detaylarında gerçekçi çözümler üretebilirsin.",
-   "text": "Maddi veya manevi ortaklıklarında gözden kaçan detayları net bir şekilde düzenleme fırsatı buluyorsun. Günlük düzenini aksatmadan alacak ve borç dengesini kontrol altına alabilirsin. Karşılıklı güvene dayalı meselelerde soğukkanlı tavrın düğümleri çözmeni kolaylaştırır. Hesaplarını detaylıca inceleyerek planlama yap.",
-   "motivation": "Gerçeklerle yüzleşip hafiflemeyi seç.",
-   "basis": "Ay 8. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "Ufuklar ve İnançlar",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Kişisel Işıltı",
+   "short": "Kendi tarzını ve çekim gücünü etrafına yansıtacağın taze bir dönem başlıyor.",
+   "text": "Venüs'ün bugün senin burcuna geçiş yapmasıyla çevrendeki çekim gücün ve etkileyiciliğin belirgin şekilde artıyor. Kendine özen göstermek, imajını tazelemek ve isteklerini net biçimde dile getirmek isteyebilirsin. Kariyer hedeflerinde büyük vaatler yerine ayakları yere basan adımlarla ilerlemen faydalı olacaktır. Kendi varlığını ön plana çıkarırken içsel dengeni koru.",
+   "motivation": "Kendi gücünü zarafetle ortaya koy.",
+   "basis": "Venüs bugün senin burcuna geçiyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

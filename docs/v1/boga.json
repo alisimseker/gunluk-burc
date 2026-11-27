@@ -1,33 +1,8 @@
 {
  "sign": "boga",
  "name": "Boğa",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "Bütçe ve Kaynaklar",
-   "short": "Maddi konuları toparlarken geçmiş birikimlerin yol gösterici olabilir.",
-   "text": "Gelir ve giderlerini ele alırken gerçekçi bir bakış açısıyla hareket etmen mümkün. Parasal planlamalarında harcamaları dengeye oturtmak adına kalıcı adımlar atabilirsin. Sahip olduğun birikimleri koruma ve harcama alışkanlıklarını gözden geçirme konusunda zihninde net kararlar şekillenebilir. Alışveriş yapmadan önce ihtiyaç listeni tekrar gözden geçir.",
-   "motivation": "Kendi kaynağına akılla yön ver.",
-   "basis": "Ay 2. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "İletişim Trafiği",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "İlişkilerde Uyum",
+   "short": "Ortaklıklarda ve ikili ilişkilerde daha yapıcı bağlar kurabilirsin.",
+   "text": "Yönetici gezegenin Venüs'ün 7. evine geçişi, birlikteliklerine ve iş ortaklıklarına taze bir soluk getiriyor. Karşındaki insanla samimi diyaloglar kurmak ve ortak bir zemin bulmak bugün daha kolaylaşacak. Ancak ailevi konularda aşırı abartılı vaatler vermekten kaçınmalısın. Partnerinin ihtiyaçlarına kulak verirken kendi sınırlarını korumayı da ihmal etme.",
+   "motivation": "Samimi diyaloglarla güvenli bağlar ör.",
+   "basis": "Venüs bugün 7. evine geçiş yapıyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

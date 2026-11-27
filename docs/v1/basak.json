@@ -1,33 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "Sorumluluk ve Statü",
-   "short": "İş hayatındaki hedeflerinde net ve disiplinli duruşun öne çıkıyor.",
-   "text": "Toplumsal hedeflerin ve mesleki duruşun üzerine odaklandığın bir zamandasın. Üstlendiğin görevleri titizlikle tamamlamak saygınlığını pekiştirme imkanı tanıyor. İçsel gücünü çalışkanlığınla birleştirerek bekleyen evrak veya projeleri sonlandırabilirsin. Bugün tamamlanması gereken işlerde erteleme yapmadan ilerlemeyi seç.",
-   "motivation": "Disiplinini kararlı sonuçlara dönüştür.",
-   "basis": "Ay 10. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "Sosyal Çevre",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Sözlerin Gücü",
+   "short": "İletişim diline katacağın zarafet, yakın çevrenle olan diyalogları yumuşatır.",
+   "text": "Venüs'ün 3. evine geçmesi, kardeşlerinle, komşularınla ve yakın çevrenle diyaloglarına sıcaklık getiriyor. Düşüncelerini aktarırken daha ikna edici ve nazik bir üslup yakalayabilirsin. Ancak kişisel duruşunda aceleci kararlar almaktan ve gereksiz tartışmalara girmekten uzak durmalısın. Kısa bir yürüyüş veya okuma yapmak zihinsel yükünü hafifletebilir.",
+   "motivation": "Düşüncelerini zarafet ve netlikle aktar.",
+   "basis": "Venüs bugün 3. evine geçiyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

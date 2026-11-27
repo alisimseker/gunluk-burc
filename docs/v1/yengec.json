@@ -1,33 +1,8 @@
 {
  "sign": "yengec",
  "name": "Yengeç",
- "updated": "2026-11-26T21:58:37+03:00",
+ "updated": "2026-11-27T06:54:58+03:00",
  "days": [
-  {
-   "date": "2026-11-25",
-   "focus": "İçsel Sükunet",
-   "short": "Zihnini toparlamak için kendi alanına çekilip düzenlemeler yapabilirsin.",
-   "text": "Kendi iç dünyanda arka planda kalan meseleleri olgun bir kabulle ele alıyorsun. Görünürde olan sorumluluklarını aksatmadan, yalnız kaldığın anlarda zihinsel bir toparlanma süreci yaşayabilirsin. Kariyerine dair sorumluluklarınla içsel huzurun arasında sağlam bir denge kurman mümkün. Akşam saatlerini sakin tamamlamak seni rahatlatır.",
-   "motivation": "Sakinliğinde güç toplayarak ilerle.",
-   "basis": "Ay 12. evinde, Satürn ile altmışlık açıda.",
-   "sky_events": [
-    "Güneş ile Plüton arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Satürn arasında altmışlık (sekstil) açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 3°05'",
-    "Ay İkizler'de 13°43'",
-    "Merkür Akrep'te 14°16'",
-    "Venüs Terazi'de 25°16'",
-    "Mars Aslan'da 29°45'",
-    "Jüpiter Aslan'da 26°31'",
-    "Satürn Koç'ta 8°08' ℞",
-    "Uranüs İkizler'de 3°41' ℞",
-    "Neptün Koç'ta 1°42' ℞",
-    "Plüton Kova'da 3°26'"
-   ],
-   "moon_phase": "Dolunay"
-  },
   {
    "date": "2026-11-26",
    "focus": "Kişisel Yenilenme",
@@ -235,6 +210,32 @@
     "Uranüs İkizler'de 3°21' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°36'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-04",
+   "focus": "Yaratıcı İlham",
+   "short": "Hobilerine ve sana keyif veren uğraşlara vakit ayırmak ruhunu canlandırır.",
+   "text": "Venüs'ün 5. evine geçişiyle aşk, tutku ve yaratıcı projeler yaşamında ön plana çıkıyor. Kendini ifade ederken daha tutkulu ve samimi bir tarz benimsediğini fark edebilirsin. Maddi konularda abartılı harcamalar yapma eğilimine karşı planlı kalmakta fayda var. Sevdiklerinle geçireceğin kaliteli zamanlar sana güç katacaktır.",
+   "motivation": "İçindeki yaratıcı ışığı samimiyetle paylaş.",
+   "basis": "Venüs bugün 5. evine giriş yapıyor.",
+   "sky_events": [
+    "Venüs bugün Akrep'e geçiyor.",
+    "Merkür ile Jüpiter arasında kare açısı bugün tam oluyor.",
+    "Mars ile Uranüs arasında kare açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 12°12'",
+    "Ay Terazi'de 19°44'",
+    "Merkür Akrep'te 27°01'",
+    "Venüs Akrep'te 0°01'",
+    "Mars Başak'ta 3°09'",
+    "Jüpiter Aslan'da 26°54'",
+    "Satürn Koç'ta 7°58' ℞",
+    "Uranüs İkizler'de 3°19' ℞",
+    "Neptün Koç'ta 1°38' ℞",
+    "Plüton Kova'da 3°37'"
    ],
    "moon_phase": "Küçülen Hilal"
   }
