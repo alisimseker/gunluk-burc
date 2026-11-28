@@ -1,37 +1,8 @@
 {
  "sign": "yay",
  "name": "Yay",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "Ortak Kaynaklar",
-   "short": "Finansal paylaşımlar ve derin dönüşümler günün ana teması.",
-   "text": "Ortak kazançlar, borçlar veya yatırımlar konusunda atılması gereken adımlar gündeminde yer alıyor. Kariyer alanında göstereceğin disiplinli yaklaşım, uzun vadeli başarılar için sağlam bir zemin hazırlayacak. Sosyal ilişkilerde keyifli paylaşımlar öne çıkarken, harcamalarında ölçülü olmaya özen göstermelisin. İçindeki coşkuyu gerçekçi planlarla destekleyerek ilerle.",
-   "motivation": "Maddi konularda tedbirli adımlar at.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "İçsel Dönüşüm",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "Geri Plandaki Güç",
+   "short": "Gürültüden uzaklaşmak zihnine berraklık kazandırır.",
+   "text": "Kendi başına çalışmak ve mesleki sorumluluklarını perde arkasından toparlamak bugün çok daha iyi sonuç verebilir. Kariyerinde titizlikle yürüttüğün hazırlıklar, sessiz sedasız sağlam temellere oturuyor. Yakın çevrenden gelebilecek eleştirilere takılmadan kendi doğrularınla ilerlemeyi seç. Yoğun temponun arasında derin bir nefes alıp zihnini dinlendirecek beş dakika ayır.",
+   "motivation": "Sükunette büyüyen planlar güçlenir.",
+   "basis": "On ikinci evindeki Ay, onuncu evindeki Mars ile sekstil açıda.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

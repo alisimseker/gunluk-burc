@@ -1,37 +1,8 @@
 {
  "sign": "akrep",
  "name": "Akrep",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "Ufuklar ve İnançlar",
-   "short": "Yeni eğitimler, uzak planlar ve hayat felsefen odak noktan oluyor.",
-   "text": "Bakış açını genişletecek konulara yönelmek, zihnen tazeleyici bir etki yaratacak. Sosyal bağlarını güçlendiren gruplar içinde aktif rol alabilir, geleceğe yönelik heyecan verici planlar yapabilirsin. Günlük rutinlerin getirdiği küçük karmaşaları esnek bir zihinle çözmek işini kolaylaştıracak. Bildiklerini paylaşarak çevrendekilere ilham vermekten çekinme.",
-   "motivation": "Merakını taze tutarak ilerle.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "Yeni Perspektifler",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "Bireysel İnisiyatif",
+   "short": "Kararlı duruşun çevrende güven veren bir etki yaratıyor.",
+   "text": "Kendini daha dinamik ve isteklerini bilir vaziyette hissedebilirsin. Arkadaş gruplarınla ortaklaşa yapacağın planlarda yönlendirici rol üstlenmek sana gayet doğal gelecektir. Ailevi konularda aniden yükselen duygusal baskılara sakin kalarak karşılık vermek en doğrusu. Bedenini tazelemek için bol su içmeyi ve kişisel bakımına zaman ayırmayı ihmal etme.",
+   "motivation": "Kararlılık kendi yolunu aydınlatır.",
+   "basis": "Burcundaki Ay, on birinci evindeki Mars ile altmışlık açı yapıyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

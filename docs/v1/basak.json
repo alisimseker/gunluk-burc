@@ -1,37 +1,8 @@
 {
  "sign": "basak",
  "name": "Başak",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "Sosyal Çevre",
-   "short": "Gelecek hedeflerin ve arkadaşlık ilişkilerin hareket kazanıyor.",
-   "text": "Kişisel enerjinin ve motivasyonunun yükseldiği, kendini çok daha doğrudan ifade edebileceğin bir sürece giriyorsun. İş ortamındaki sorumluluklarını geride bırakıp sosyal gruplarla bir araya gelmek ve ortak umutlar üzerine konuşmak sana iyi gelecek. Gün içinde karşına çıkabilecek belirsizlikleri mantıklı süzgecinden geçirerek rahatlıkla aşabilirsin. Hedeflerin doğrultusunda çevrenle uyumlu bir diyalog kur.",
-   "motivation": "Becerilerini sosyal projelerle buluştur.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Mars altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "Dostluk ve Fikirler",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "Zihinsel Atiklik",
+   "short": "Doğru seçilmiş kelimeler hedeflerini hızla görünür kılar.",
+   "text": "Kendi isteklerini ifade ederken son derece kararlı ve dikkatli davranıyorsun. Kardeşler, komşular veya yakın dostlarla yapacağın görüşmelerde yapıcı çözümler üreterek işlerini kolaylaştırabilirsin. Günlük koşuşturmanın getirdiği yorgunluk hissi seni zorlamasın; önceliklerini net belirlediğinde her şeye yetişebilirsin. Yanıt bekleyen önemli bir mesajı ertelemeden hemen cevaplamak seni rahatlatır.",
+   "motivation": "Net adımlar sonuca ulaştırır.",
+   "basis": "Üçüncü evindeki Ay, burcundaki Mars ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

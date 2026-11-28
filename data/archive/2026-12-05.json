@@ -1,0 +1,112 @@
+{
+ "date": "2026-12-05",
+ "generated_at": "2026-11-28T06:21:18+03:00",
+ "model": "gemini-3.8-flash",
+ "sky": {
+  "summary": [
+   "Güneş Yay'da 13°13'",
+   "Ay Akrep'te 2°17'",
+   "Merkür Akrep'te 28°31'",
+   "Venüs Akrep'te 0°40'",
+   "Mars Başak'ta 3°29'",
+   "Jüpiter Aslan'da 26°55'",
+   "Satürn Koç'ta 7°57' ℞",
+   "Uranüs İkizler'de 3°16' ℞",
+   "Neptün Koç'ta 1°37' ℞",
+   "Plüton Kova'da 3°39'"
+  ],
+  "events": [
+   "Ay bugün Akrep'e geçiyor.",
+   "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+   "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+   "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+  ],
+  "moon_phase": "Küçülen Hilal"
+ },
+ "signs": {
+  "koc": {
+   "focus": "Detaylı İnceleme",
+   "short": "İş düzenindeki somut adımlar, paylaşılan yükleri hafifletiyor.",
+   "text": "Bütçe ve ortaklaşa paylaşımlar alanında sezgilerin keskinleşirken, iş listendeki ayrıntıları düzenlemek sana ferahlık sağlayabilir. Günlük rutinlerini toparlamak için kolları sıvadığında karmaşık görünen hesapların hızla çözüldüğünü görebilirsin. Çevrenle finansal konularda konuşurken baskıcı tavırlar yerine somut verilere odaklan. Gün içinde masandaki dağınık evrakları ve bekleyen ödemeleri sıraya koyman zihnini rahatlatacaktır.",
+   "motivation": "Ayrıntılardaki netlik yükünü hafifletir.",
+   "basis": "Sekizinci evindeki Ay, altıncı evindeki Mars ile altmışlık açıda."
+  },
+  "boga": {
+   "focus": "Birlikte Üretmek",
+   "short": "İlişkilerinde açık tavırlar sergilemek işbirliğini kolaylaştırır.",
+   "text": "Karşındaki insanlarla kurduğun temasta samimiyet ve özen arayışın artıyor. Birlikte emek verdiğin projelerde yaratıcı dokunuşlar yaparak ortak bir ritim tutturabilirsin. Toplumsal sorumlulukların getirdiği gerginliği ikili ilişkilere taşımamak için açık bir diyalog yürütmekte fayda var. Partnerinle veya bir çalışma arkadaşınla fikirlerini paylaşırken pratik öneriler sunmayı dene.",
+   "motivation": "Ortak çaba bağı derinleştirir.",
+   "basis": "Yedinci evindeki Ay, beşinci evindeki Mars ile altmışlık açıda."
+  },
+  "ikizler": {
+   "focus": "İçsel Düzen",
+   "short": "Çalışma ortamındaki küçük dokunuşlar motivasyonunu yükseltir.",
+   "text": "Rutinlerini toparlamak ve bedenine iyi bakmak isteyeceğin saatlerdesin. Yaşam alanında yapacağın pratik bir düzenleme, gün boyunca işlerini çok daha akıcı şekilde halletmene yardımcı olabilir. Uzak planlar ya da inançlar konusunda zihnini zorlayan saplantılardan uzak durarak elindeki somut işe odaklan. Akşam saatlerine kalmadan çalışma masanı temizleyip gereksiz notları ayıklayabilirsin.",
+   "motivation": "Yalın ortam zihne ferahlıktır.",
+   "basis": "Altıncı evindeki Ay, dördüncü evindeki Mars ile sekstil açı kuruyor."
+  },
+  "yengec": {
+   "focus": "Kendine Alan Açmak",
+   "short": "Sevdiğin uğraşlara odaklanmak enerjini tazeleyebilir.",
+   "text": "Hislerini kelimelere dökerken son derece yapıcı ve üretken olabilirsin. Merak ettiğin bir konuyu araştırmak ya da el becerisi gerektiren bir hobiyle uğraşmak sana oldukça iyi gelecektir. Ortaklaşa harcamalar veya paylaşımlar zihnini yorsa da kendini keyif aldığın konulara bırakmaktan çekinme. Kısa bir not defteri tutarak aklına gelen özgün fikirleri sıcağı sıcağına yazabilirsin.",
+   "motivation": "Üretmek kalbe canlılık katar.",
+   "basis": "Beşinci evindeki Ay, üçüncü evindeki Mars ile altmışlık açı yapıyor."
+  },
+  "aslan": {
+   "focus": "Kişisel Sınırlar",
+   "short": "Ailenle kuracağın sıcak bağlar iç dünyana dinginlik katar.",
+   "text": "Ev ortamında huzuru bulmak ve geçmişten gelen konuları sakince çözmek adına verimli bir akış var. Maddi kaynaklarını doğru yöneterek hane ihtiyaçlarını pratik biçimde karşılayabilirsin. İkili ilişkilerde gelişebilecek güç çekişmelerine kapılmadan kendi sığındığın güvenli alana sahip çık. Evinde dinlenebileceğin sade bir köşe hazırlayıp biraz kendi kabuğuna çekilebilirsin.",
+   "motivation": "Huzur kendi alanını korumaktır.",
+   "basis": "Dördüncü evindeki Ay, ikinci evindeki Mars ile sekstil açıda."
+  },
+  "basak": {
+   "focus": "Zihinsel Atiklik",
+   "short": "Doğru seçilmiş kelimeler hedeflerini hızla görünür kılar.",
+   "text": "Kendi isteklerini ifade ederken son derece kararlı ve dikkatli davranıyorsun. Kardeşler, komşular veya yakın dostlarla yapacağın görüşmelerde yapıcı çözümler üreterek işlerini kolaylaştırabilirsin. Günlük koşuşturmanın getirdiği yorgunluk hissi seni zorlamasın; önceliklerini net belirlediğinde her şeye yetişebilirsin. Yanıt bekleyen önemli bir mesajı ertelemeden hemen cevaplamak seni rahatlatır.",
+   "motivation": "Net adımlar sonuca ulaştırır.",
+   "basis": "Üçüncü evindeki Ay, burcundaki Mars ile altmışlık açı kuruyor."
+  },
+  "terazi": {
+   "focus": "Sessiz Hazırlık",
+   "short": "Maddi konularda ölçülü kalmak iç huzurunu korur.",
+   "text": "Kendi kazancına ve bütçene odaklanırken geri planda yürüttüğün planları dikkatle gözden geçirebilirsin. Harcamalarını gözden geçirip gereksiz masrafları elemeye niyetlenmek güvende hissettirecektir. Eğlence veya hobiler için bütçeni aşma dürtüsünü kontrol altında tutarak gerçekçi kalmalısın. Harcama dökümünü çıkarıp önümüzdeki günlerin zorunlu ihtiyaçlarını şimdiden belirleyebilirsin.",
+   "motivation": "Tutumluluk yarınlara güven taşır.",
+   "basis": "İkinci evindeki Ay, on ikinci evindeki Mars ile sekstil açıda."
+  },
+  "akrep": {
+   "focus": "Bireysel İnisiyatif",
+   "short": "Kararlı duruşun çevrende güven veren bir etki yaratıyor.",
+   "text": "Kendini daha dinamik ve isteklerini bilir vaziyette hissedebilirsin. Arkadaş gruplarınla ortaklaşa yapacağın planlarda yönlendirici rol üstlenmek sana gayet doğal gelecektir. Ailevi konularda aniden yükselen duygusal baskılara sakin kalarak karşılık vermek en doğrusu. Bedenini tazelemek için bol su içmeyi ve kişisel bakımına zaman ayırmayı ihmal etme.",
+   "motivation": "Kararlılık kendi yolunu aydınlatır.",
+   "basis": "Burcundaki Ay, on birinci evindeki Mars ile altmışlık açı yapıyor."
+  },
+  "yay": {
+   "focus": "Geri Plandaki Güç",
+   "short": "Gürültüden uzaklaşmak zihnine berraklık kazandırır.",
+   "text": "Kendi başına çalışmak ve mesleki sorumluluklarını perde arkasından toparlamak bugün çok daha iyi sonuç verebilir. Kariyerinde titizlikle yürüttüğün hazırlıklar, sessiz sedasız sağlam temellere oturuyor. Yakın çevrenden gelebilecek eleştirilere takılmadan kendi doğrularınla ilerlemeyi seç. Yoğun temponun arasında derin bir nefes alıp zihnini dinlendirecek beş dakika ayır.",
+   "motivation": "Sükunette büyüyen planlar güçlenir.",
+   "basis": "On ikinci evindeki Ay, onuncu evindeki Mars ile sekstil açıda."
+  },
+  "oglak": {
+   "focus": "Ortak Vizyon",
+   "short": "Dostlarınla kurduğun yapıcı diyaloglar yeni kapılar açar.",
+   "text": "Geleceğe dair tasarılarını hayata geçirmek için sosyal çevrenden destek görebilirsin. Eğitime, seyahatlere ya da hayat felsefene dair ayrıntıları güven duyduğun insanlarla konuşmak seni motive edecektir. Maddi güvence arayışının getirdiği tedirginlikleri bir kenara bırakıp işbirliğine şans vermelisin. Uzun zamandır görüşmediğin bir arkadaşını arayarak fikir alışverişi yapabilirsin.",
+   "motivation": "İnanç birliktelikle katlanarak büyür.",
+   "basis": "On birinci evindeki Ay, dokuzuncu evindeki Mars ile altmışlık açı kuruyor."
+  },
+  "kova": {
+   "focus": "Sorumluluk Bilinci",
+   "short": "Mesleki adımlarında serinkanlı duruşun fark yaratır.",
+   "text": "Kariyerinde üstlendiğin görevlerde derinleşme ve kontrolü ele alma arzusu duyabilirsin. Ortaklaşa işlerdeki maddi ya da manevi pürüzleri çözerken gösterdiğin titizlik takdir toplayacaktır. Kendi otoriteni kanıtlama hırsıyla fevri çıkışlar yapmaktan kaçınarak profesyonel çizgini koru. Masanda bekleyen kritik bir raporu ya da görevi ertelemeden tamamla.",
+   "motivation": "Olgunluk zorlukları kolaylığa çevirir.",
+   "basis": "Onuncu evindeki Ay, birinci evindeki Plüton ile kare açı yapıyor."
+  },
+  "balik": {
+   "focus": "Anlayış Geliştirmek",
+   "short": "Bakış açını esnetmek ilişkilerindeki uyumu tazeler.",
+   "text": "Farklı düşüncelere kulak vermek ve karşındaki insanlarla yapıcı diyaloglar geliştirmek sana kazandıracaktır. Ortaklıklarda ya da ikili ilişkilerde pratik detayları çözerken gösterdiğin sabır güven bağını pekiştirir. İçsel kaygıların zihnini bulandırmasına izin vermeden olayları olduğu gibi kabullenmeyi dene. Seni zihnen tazeleyecek eğitici bir makale okumak gününe hoş bir derinlik katabilir.",
+   "motivation": "Anlayış kapıları sevgiyle aralar.",
+   "basis": "Dokuzuncu evindeki Ay, yedinci evindeki Mars ile altmışlık açıda."
+  }
+ }
+}

@@ -1,37 +1,8 @@
 {
  "sign": "ikizler",
  "name": "İkizler",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "Maddi Değerler",
-   "short": "Kazançlarını artırma yolları ve öz değer konuları gündeminde.",
-   "text": "Günün ilk yarısındaki kişisel yoğunluğun ardından, maddi kaynaklarını ve bütçeni yapılandırmak üzere harekete geçiyorsun. Ev ve aile hayatında atacağın pratik adımlar, içsel olarak güvende hissetmeni sağlayacak. Duygusal dalgalanmalar yaşayabileceğin anlarda sezgilerine güvenebilir, harcamalarını daha dengeli bir gözle inceleyebilirsin. Elindeki imkanları akıllıca yönetmek için küçük bir plan yap.",
-   "motivation": "Kaynaklarını bilinçli tercihlerle yönet.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Jüpiter altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "Çalışma ve Kazanç",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "İçsel Düzen",
+   "short": "Çalışma ortamındaki küçük dokunuşlar motivasyonunu yükseltir.",
+   "text": "Rutinlerini toparlamak ve bedenine iyi bakmak isteyeceğin saatlerdesin. Yaşam alanında yapacağın pratik bir düzenleme, gün boyunca işlerini çok daha akıcı şekilde halletmene yardımcı olabilir. Uzak planlar ya da inançlar konusunda zihnini zorlayan saplantılardan uzak durarak elindeki somut işe odaklan. Akşam saatlerine kalmadan çalışma masanı temizleyip gereksiz notları ayıklayabilirsin.",
+   "motivation": "Yalın ortam zihne ferahlıktır.",
+   "basis": "Altıncı evindeki Ay, dördüncü evindeki Mars ile sekstil açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

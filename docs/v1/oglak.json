@@ -1,37 +1,8 @@
 {
  "sign": "oglak",
  "name": "Oğlak",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "İkili İlişkiler",
-   "short": "Ortaklıklar, evlilik ve birebir anlaşmalar ön plana çıkıyor.",
-   "text": "Gün boyunca karşılıklı diyaloglar, iş birlikleri ve yakın ilişkiler hayatının merkezinde yer alacak. Uzak seyahatler, eğitimler veya felsefi konularla ilgili yeni kararlar almak için uygun bir zaman dilimindesin. Mesleki alanda elde ettiğin başarılar moralini yükseltirken, sosyal ilişkilerinde de dengeyi koruyabilirsin. Karşılıklı anlayışı elden bırakmadan hareket et.",
-   "motivation": "Uyumlu ilişkilerle gücünü artır.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Venüs üçgen açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "Ortak Hedefler",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "Ortak Vizyon",
+   "short": "Dostlarınla kurduğun yapıcı diyaloglar yeni kapılar açar.",
+   "text": "Geleceğe dair tasarılarını hayata geçirmek için sosyal çevrenden destek görebilirsin. Eğitime, seyahatlere ya da hayat felsefene dair ayrıntıları güven duyduğun insanlarla konuşmak seni motive edecektir. Maddi güvence arayışının getirdiği tedirginlikleri bir kenara bırakıp işbirliğine şans vermelisin. Uzun zamandır görüşmediğin bir arkadaşını arayarak fikir alışverişi yapabilirsin.",
+   "motivation": "İnanç birliktelikle katlanarak büyür.",
+   "basis": "On birinci evindeki Ay, dokuzuncu evindeki Mars ile altmışlık açı kuruyor.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }

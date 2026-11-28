@@ -1,37 +1,8 @@
 {
  "sign": "terazi",
  "name": "Terazi",
- "updated": "2026-11-27T21:55:12+03:00",
+ "updated": "2026-11-28T06:21:18+03:00",
  "days": [
-  {
-   "date": "2026-11-26",
-   "focus": "Kariyer Hedefleri",
-   "short": "İş yaşamında ve toplumsal statüde görünürlüğün artıyor.",
-   "text": "Üstlendiğin görevleri başarıyla tamamlarken, günün ilerleyen saatlerinde kariyerine dair somut adımlar atmak önceliğin haline geliyor. Sosyal çevrenden alacağın destekler sayesinde uzun vadeli planlarını yeniden gözden geçirebilirsin. İçsel dünyanda yaşayabileceğin ufak aksilikleri veya kafa karışıklıklarını sevdiklerinle paylaşarak hafifleyebilirsin. Profesyonel duruşunu nazik bir tutumla harmanla.",
-   "motivation": "Vakarla çalış, hedefine odaklan.",
-   "basis": "Ay İkizler'den Yengeç'e geçiyor, Ay ile Jüpiter altmışlık açı yapıyor.",
-   "sky_events": [
-    "Ay bugün Yengeç'e geçiyor.",
-    "Mars bugün Başak'a geçiyor.",
-    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor.",
-    "Ay ile Neptün arasında kare açısı bugün tam oluyor.",
-    "Ay ile Venüs arasında üçgen açısı bugün tam oluyor."
-   ],
-   "sky_summary": [
-    "Güneş Yay'da 4°06'",
-    "Ay İkizler'de 28°50'",
-    "Merkür Akrep'te 15°35'",
-    "Venüs Terazi'de 25°41'",
-    "Mars Başak'ta 0°09'",
-    "Jüpiter Aslan'da 26°34'",
-    "Satürn Koç'ta 8°07' ℞",
-    "Uranüs İkizler'de 3°39' ℞",
-    "Neptün Koç'ta 1°41' ℞",
-    "Plüton Kova'da 3°28'"
-   ],
-   "moon_phase": "Küçülen Ay"
-  },
   {
    "date": "2026-11-27",
    "focus": "Mesleki Değerler",
@@ -236,6 +207,33 @@
     "Uranüs İkizler'de 3°19' ℞",
     "Neptün Koç'ta 1°38' ℞",
     "Plüton Kova'da 3°37'"
+   ],
+   "moon_phase": "Küçülen Hilal"
+  },
+  {
+   "date": "2026-12-05",
+   "focus": "Sessiz Hazırlık",
+   "short": "Maddi konularda ölçülü kalmak iç huzurunu korur.",
+   "text": "Kendi kazancına ve bütçene odaklanırken geri planda yürüttüğün planları dikkatle gözden geçirebilirsin. Harcamalarını gözden geçirip gereksiz masrafları elemeye niyetlenmek güvende hissettirecektir. Eğlence veya hobiler için bütçeni aşma dürtüsünü kontrol altında tutarak gerçekçi kalmalısın. Harcama dökümünü çıkarıp önümüzdeki günlerin zorunlu ihtiyaçlarını şimdiden belirleyebilirsin.",
+   "motivation": "Tutumluluk yarınlara güven taşır.",
+   "basis": "İkinci evindeki Ay, on ikinci evindeki Mars ile sekstil açıda.",
+   "sky_events": [
+    "Ay bugün Akrep'e geçiyor.",
+    "Ay ile Mars arasında altmışlık (sekstil) açısı bugün tam oluyor.",
+    "Ay ile Plüton arasında kare açısı bugün tam oluyor.",
+    "Ay ile Jüpiter arasında altmışlık (sekstil) açısı bugün tam oluyor."
+   ],
+   "sky_summary": [
+    "Güneş Yay'da 13°13'",
+    "Ay Akrep'te 2°17'",
+    "Merkür Akrep'te 28°31'",
+    "Venüs Akrep'te 0°40'",
+    "Mars Başak'ta 3°29'",
+    "Jüpiter Aslan'da 26°55'",
+    "Satürn Koç'ta 7°57' ℞",
+    "Uranüs İkizler'de 3°16' ℞",
+    "Neptün Koç'ta 1°37' ℞",
+    "Plüton Kova'da 3°39'"
    ],
    "moon_phase": "Küçülen Hilal"
   }
